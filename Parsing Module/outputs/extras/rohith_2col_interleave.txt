@@ -1,0 +1,132 @@
+ROHITH KATTA
+Data Scientist
+\ faAt : rohith_katta@yahoo.com
+\ faPhone : +91-984095093434
+\ faMapMarker : Bangalore, India
+\ faLinkedin : https://www.linkedin.com/in/rohith-katta/
+SKILLS
+EXPERIENCE
+Deep Learning
+Machine Learning
+IoT
+Senior Software AI Engineer, R&D
+R
+Python
+Computer Vision
+NLP
+Gupshup
+z May 2022 – Ongoing
+* Bangalore, India
+Product Management
+Problem Solving
+• Worked with product managers, developers, quality assurance, and cus- tomers across different verticals to resolve technical issues related to
+Agile Management
+Chatbots deployed
+HONORS & AWARDS
+• Trained and mentored 6 junior developers and engineers, teaching skills in NLP and working to improve overall team performance
+• Researched and resolved issues regarding the integrity of data flow into
+⋆ Star Award, Fractal Analytics
+databases which decreased the failedevent rate by 25% per quarter
+Appreciation for Code Optimization
+• Research and Development in the field of Chatbots based on require-
+and Migrating code to latest versions
+ments of 12 different clients across domains which in turn increased
+of Python
+$4M Gross sales
+ Spot Award, Mu Sigma
+• Worked on Integrating Modules like Customized Small talk, and FAQs to
+Appreciation for Handling multiple
+CPG, Retail, Banking, Insurance, and Airlines Clients
+threads simultaneously, showing an ex-
+• Reporting to Director of AI & Analytics, Curating Success stories, Was
+treme level of accountability, and going
+Successful in bringing new Airlines Customer to use our products
+that extra mile to ensure the smooth
+functioning of the team
+Data Science Consultant, CPG Client
+¢ Spot Award, Mu Sigma
+Appreciation for doing research on an-
+Fractal Analytics
+swering the questions across verticals
+z Nov 2020 – Apr 2022
+* Bangalore, India
+and enhancing the answer from the
+• Managed a team of 6 to build a Recommendation Engine for one of the
+SME and has achieved a milestone
+leading CPG Companies. Setup pipelines for Data Ontology, a Model
+of 90% accepted answers during his
+building that includes collaborative filtering and ensemble techniques, a
+router stint
+dashboard showing the probability of sales and recommendations
+Impact Award, Mu Sigma
+♂
+• This solution helped the sales representatives to reduce manual ordering
+Appreciation for the never say never
+the effort by 25% and generated 3% YOY growth
+attitude and being a consistent con-
+• Set the code quality and review standards across all versions of the so-
+tributor on all threads - to be the go-to
+lution, and working to repackage the solution/accelerator as a product
+person on all things critical in Deep
+Learning
+ Spot Award, Mu Sigma
+Decision Scientist, R&D
+Appreciation for being a standout per-
+former in the team and rising to the
+Mu Sigma
+occasion on multiple instances main-
+z Dec 2018 – Nov 2020
+* Bangalore, India
+taining the accountability and rigor
+• Managed team of 4 to solve time series Predictive Maintenance of Tur-
+levels
+bines for extremely rare events using Classical and Deep Learning ap-
+ Spot Award, Mu Sigma
+proaches for one of the biggest energy-based companies and achieved
+Appreciation for handling multiple
+78% accuracy
+threads simultaneously and perform-
+• Designed and developed Human Motion Tracking, Facial Recognition
+ing exceedingly well in each of them.
+at a Distance using Deep Learning Techniques for one of the biggest
+Also, for being a vital cog in the ABM
+airlines company in the United States
+thread and going out of the way multi-
+• Developed an internal Chatbot using RASA NLU, RASA Core for Intent
+ple times to get the job done
+Entity Extraction with ReactJS front-end
+ Spot Award, Mu Sigma
+• Built a Natural Language Querying dashboard which uses Python dash
+Appreciation for setting up Asset
+for front-end and SQLova, a neural semantic parser for the back-end
+Readiness Pipeline using Python and
+• Developed a facialdetection - Augmented Reality application on the
+BPMN tools, developing Facial Detec-
+Microsoft HoloLens
+tion App on HoloLens. Also, ramping
+• Worked on building IoT-based prototypes for the lab to showcase Mu
+up quickly on the new technologies
+Sigma’s Analytical muscle and Big data capabilities
+and questioning the status quo to ar-
+rive at the best solution
+
+Trainee Decision Scientist, Pharmaceutical Client
+¢ Spot Award, Mu Sigma
+Work Appreciation award for optimiz-
+Mu Sigma
+ing 8 regular reports to R Shiny Appli-
+z Jun 2017 – Nov 2018
+* Bangalore, India
+cations which reduced weekly efforts
+by 95%. This involved process opti-
+• Developed automated KPI trackers, weekly and monthly dashboard- based reporting platforms, performance against Forecast and competi- tor’s drug in the market
+mization, change of technology, and
+reduction in manual interventions
+• Designing and transitioning 8 monthly and weekly reports from Excel to R which reduce run time from 26 hours to 2 hours
+EDUCATION
+• Provided marketing analysis for recently launched drug and provided weekly and monthly reports and adoption criteria for a market worth $25M
+B.Tech. in Computer Science
+SRM University
+• Evaluated consumption of drugs in the market. Findings from performance- orientated analysis led to the development of strategic post-launch mar- keting increasing efficiency by 30%
+z Jun 2013 – May 2017
+• Created behavioral and attitudinal segments of customers to enable efficient targeting and increase promotional penetration of drugs in a particular segment

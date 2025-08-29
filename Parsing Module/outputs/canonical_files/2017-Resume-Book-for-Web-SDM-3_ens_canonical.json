@@ -1,0 +1,134 @@
+{
+  "candidate": {
+    "full_name": "Taylor H. Andrews",
+    "emails": [],
+    "phones": [],
+    "location": {
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null
+    },
+    "resume_text_hash": "sha256:3d252946dbbe3ed205269c0f3f4fc50888073dca2c13c70d9bfa841519984cd9",
+    "source_file_id": "2017-Resume-Book-for-Web-SDM-3.pdf",
+    "parsed_at": "2025-08-18T08:27:41Z",
+    "parser_version": "v0.3.0"
+  },
+  "experience": [
+    {
+      "company_raw": "M",
+      "company_norm": "M",
+      "title_raw": "MQP Intern",
+      "title_norm": "intern",
+      "seniority": null,
+      "employment_type": "internship",
+      "location": null,
+      "start_date": null,
+      "end_date": null,
+      "is_current": false,
+      "extraction_confidence": 1.0,
+      "source_page": null,
+      "bullets": [
+        {
+          "bullet_text": "Selected for WPI’s first capstone project collaboration with Microsoft Member of three-person team that created prototype JS/HTML5 webapp (under NDA) VMware Core Hypervisor / Virtual Machine Monitor group Intern Designed and implemented k-means clustering algorithm based guest operating system performance analysis tool Worcester Polytechnic Institute Computer Science Department Undergraduate TA CS lab/conference TA for Operating Systems, Software Engineering, and Scheme classes Stratus Technologies Windows ftServer (fault tolerant hardware) group Co-op / Part-time Software Engineer Member of four-person team that successfully designed and prototyped PCI-e non-transparent bridge FPGA implementation for tripling memory copy speeds in Stratus ftServer Rewrote some WinDBG extensions for reverse x86 page walks",
+          "metrics": {},
+          "skills_mentioned": [
+            "html"
+          ],
+          "source_page": null
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree_raw": null,
+      "degree_level": null,
+      "field_raw": null,
+      "institution_raw": "E",
+      "start_date": null,
+      "end_date": null,
+      "gpa": null,
+      "extraction_confidence": 0.6,
+      "source_page": null
+    }
+  ],
+  "skills": [],
+  "projects": [
+    {
+      "name": "Douglas High School Class of 2008 Valedictorian",
+      "summary": null,
+      "role": null,
+      "tech_stack": [],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    }
+  ],
+  "certifications": [],
+  "publications": [],
+  "achievements": [
+    "Lead contributor to virtual x86 performance counter hardware platform",
+    "Active contributor to hardware virtualization drivers and virtualization hardware virtualization (nested VM support)",
+    "Led bring your kids to work day’s server disassembly / reassembly event",
+    "Microsoft",
+    "App-V (Application Virtualization) group",
+    "Awards for individual contributions as well as team leadership in undergraduate Software Engineering classes"
+  ],
+  "languages": [],
+  "sectioned_text": [
+    {
+      "section_type": "education",
+      "text": "EDUCATION\nMassachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nM.S., System Design and Management\nWorcester Polytechnic Institute\nSchool of Engineering\nB.S., Computer Science, Minor in Music\nGraduated with Highest Distinction, Upsilon Pi Epsilon (Computer Science Honor Society) Vice President\nEXPERIENCE\nVMware\nCore Hypervisor / Virtual Machine Monitor group\nSystem Software Engineer II\nImplemented virtual x86 Graphics Address Remapping Table (GART) hardware",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "responsibility",
+      "text": "Lead contributor to virtual x86 performance counter hardware platform\nActive contributor to hardware virtualization drivers and virtualization hardware virtualization (nested VM support)\nLed bring your kids to work day’s server disassembly / reassembly event\nMicrosoft\nApp-V (Application Virtualization) group",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "internships",
+      "text": "MQP Intern\nSelected for WPI’s first capstone project collaboration with Microsoft\nMember of three-person team that created prototype JS/HTML5 webapp (under NDA)\nVMware\nCore Hypervisor / Virtual Machine Monitor group\nIntern\nDesigned and implemented k-means clustering algorithm based guest operating system performance analysis tool\nWorcester Polytechnic Institute\nComputer Science Department\nUndergraduate TA\nCS lab/conference TA for Operating Systems, Software Engineering, and Scheme classes\nStratus Technologies\nWindows ftServer (fault tolerant hardware) group\nCo-op / Part-time Software Engineer\nMember of four-person team that successfully designed and prototyped PCI-e non-transparent bridge FPGA\nimplementation for tripling memory copy speeds in Stratus ftServer\nRewrote some WinDBG extensions for reverse x86 page walks",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "Douglas High School Class of 2008 Valedictorian",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "achievements",
+      "text": "Awards for individual contributions as well as team leadership in undergraduate Software Engineering classes",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "other",
+      "text": "Java-like language undergraduate compiler – member of one of two teams to receive full score\nRecycled Arcade Machine – full-size, backlit arcade machine with full case art, built from 100% salvaged materials\nAlgorithmic Music Composition and Large-Scale Sound Installation Design – wrote software to compose music\nfrom real-time data (such as stock market values) and constructed full-scale psychoacoustic art installation (WPI)\nDouglas High School 3D Walkthrough – High school senior project; a customizable, first person, 3D virtual model\nFranken-VM - A 36-hour VMware hackathon featured project: “Distributed Memory Hypervisor”\nHOBBIES____________________________________________________________________________________\nTechnology, home automation, guitar, ukulele, darts, cards, table tennis, fishing, hiking\nCambridge, MA\nSeptember 2016 - Present\nWorcester, MA\nSeptember 2008 – May 2012\nCambridge, MA\nMay 2012 - Present\nCambridge, MA\nSeptember 2011 – December 2011\nPalo Alto, CA\nMay 2011 – August 2011\nWorcester, MA\nSeptember 2010 – May 2012\nMaynard, MA\nMay 2010 – February 2011",
+      "page_range": [
+        1,
+        1
+      ]
+    }
+  ]
+}

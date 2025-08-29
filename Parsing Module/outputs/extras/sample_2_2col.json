@@ -1,0 +1,1888 @@
+{
+  "meta": {
+    "source_path": "data/resume_single/four_two_column_resumes.pdf",
+    "pages": 4,
+    "strategy": "two_column_first",
+    "interleave": false
+  },
+  "lines": [
+    {
+      "page": 1,
+      "text": "Alice Smith",
+      "bbox": [
+        36.0,
+        35.29999923706055,
+        90.45999908447266,
+        49.06999969482422
+      ],
+      "left_indent": 36.0,
+      "width": 54.459999084472656,
+      "is_bold": true,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Profile",
+      "bbox": [
+        57.63779830932617,
+        74.15997314453125,
+        94.98179626464844,
+        90.68396759033203
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 37.343997955322266,
+      "is_bold": true,
+      "font_size": 12.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Detailoriented",
+      "bbox": [
+        57.63779830932617,
+        94.24996948242188,
+        281.0577697753906,
+        119.9899673461914
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 196.73999404907227,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Data Scientist with 4 years of experience in NLP, recommendation systems, and",
+      "bbox": [
+        57.63779830932617,
+        94.24996948242188,
+        281.0577697753906,
+        119.9899673461914
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 196.73999404907227,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "product analytics.",
+      "bbox": [
+        57.63779830932617,
+        118.24996948242188,
+        135.4477996826172,
+        131.98997497558594
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 77.81000137329102,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Skills",
+      "bbox": [
+        57.63779830932617,
+        138.15997314453125,
+        88.9937973022461,
+        154.68397521972656
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 31.355998992919922,
+      "is_bold": true,
+      "font_size": 12.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "- Python",
+      "bbox": [
+        57.63779830932617,
+        158.24996948242188,
+        94.87779998779297,
+        171.98997497558594
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 37.2400016784668,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "- SQL",
+      "bbox": [
+        57.63779830932617,
+        170.24996948242188,
+        83.75779724121094,
+        183.98997497558594
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 26.119998931884766,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "- TensorFlow",
+      "bbox": [
+        57.63779830932617,
+        182.24996948242188,
+        115.9778060913086,
+        195.98997497558594
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 58.34000778198242,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "- PyTorch",
+      "bbox": [
+        57.63779830932617,
+        194.24996948242188,
+        100.97779846191406,
+        207.98997497558594
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 43.34000015258789,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "- Tableau",
+      "bbox": [
+        57.63779830932617,
+        206.24996948242188,
+        99.87779998779297,
+        219.98997497558594
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 42.2400016784668,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "- Data Wrangling",
+      "bbox": [
+        57.63779830932617,
+        218.24996948242188,
+        132.65780639648438,
+        231.98997497558594
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 75.0200080871582,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "- A/B Testing",
+      "bbox": [
+        57.63779830932617,
+        230.24996948242188,
+        115.43780517578125,
+        243.98997497558594
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 57.80000686645508,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Education",
+      "bbox": [
+        57.63779830932617,
+        250.15997314453125,
+        115.64579772949219,
+        266.6839599609375
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 58.007999420166016,
+      "is_bold": true,
+      "font_size": 12.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "M.Sc,",
+      "bbox": [
+        57.63779830932617,
+        270.2499694824219,
+        201.58779907226562,
+        295.9899597167969
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 87.81000137329102,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Data Science Stanford University (2021–2023)",
+      "bbox": [
+        57.63779830932617,
+        270.2499694824219,
+        201.58779907226562,
+        295.9899597167969
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 87.81000137329102,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "B.Sc,",
+      "bbox": [
+        57.63779830932617,
+        298.2499694824219,
+        166.5677947998047,
+        323.9899597167969
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 108.92999649047852,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Computer Science UCLA (2017–2021)",
+      "bbox": [
+        57.63779830932617,
+        298.2499694824219,
+        166.5677947998047,
+        323.9899597167969
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 108.92999649047852,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "I San Francisco, USA | I alice.smith@email.com | I +15552223333 | I linkedin.com/in/alicesmith",
+      "bbox": [
+        36.0,
+        47.25,
+        485.35986328125,
+        60.9900016784668
+      ],
+      "left_indent": 36.0,
+      "width": 449.35986328125,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Experience",
+      "bbox": [
+        307.6377868652344,
+        74.15997314453125,
+        371.6697998046875,
+        90.68396759033203
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 64.03201293945312,
+      "is_bold": true,
+      "font_size": 12.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Data Scientist – Netflix",
+      "bbox": [
+        307.6377868652344,
+        94.29997253417969,
+        415.4477844238281,
+        108.0699691772461
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 107.80999755859375,
+      "is_bold": true,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "2023–Present",
+      "bbox": [
+        307.6377868652344,
+        106.29997253417969,
+        369.8977966308594,
+        119.8399658203125
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 62.260009765625,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "- Built recommendation pipelines improving watchtime by 12%.",
+      "bbox": [
+        307.6377868652344,
+        118.24996948242188,
+        498.8077392578125,
+        143.98997497558594
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 191.16995239257812,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "- Deployed",
+      "bbox": [
+        307.6377868652344,
+        142.24996948242188,
+        519.9378051757812,
+        167.98997497558594
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 212.30001831054688,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "NLP models for personalized search results.",
+      "bbox": [
+        307.6377868652344,
+        142.24996948242188,
+        519.9378051757812,
+        167.98997497558594
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 212.30001831054688,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "ML Intern – Google",
+      "bbox": [
+        307.6377868652344,
+        172.2999725341797,
+        398.2077941894531,
+        186.06997680664062
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 90.57000732421875,
+      "is_bold": true,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "2021–2022",
+      "bbox": [
+        307.6377868652344,
+        184.2999725341797,
+        357.67779541015625,
+        197.8399658203125
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 50.040008544921875,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "- Developed classification models with 89% accuracy.",
+      "bbox": [
+        307.6377868652344,
+        196.24996948242188,
+        499.3677978515625,
+        221.98997497558594
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 191.73001098632812,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "- Optimized data preprocessing pipelines, reducing runtime by 25%.",
+      "bbox": [
+        307.6377868652344,
+        220.24996948242188,
+        532.7277221679688,
+        245.98997497558594
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 225.08993530273438,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Projects",
+      "bbox": [
+        307.6377868652344,
+        250.15997314453125,
+        354.9897766113281,
+        266.6839599609375
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 47.35198974609375,
+      "is_bold": true,
+      "font_size": 12.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "- Movie Recommendation Engine: Collaborative + contentbased hybrid model.",
+      "bbox": [
+        307.6377868652344,
+        270.2499694824219,
+        527.997802734375,
+        295.9899597167969
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 220.36001586914062,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "- NLP Chatbot: Built intentbased chatbot using Rasa framework.",
+      "bbox": [
+        307.6377868652344,
+        294.2499694824219,
+        516.0777587890625,
+        319.9899597167969
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 208.43997192382812,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 2,
+      "text": "Rahul Verma",
+      "bbox": [
+        36.0,
+        35.29999923706055,
+        97.1300048828125,
+        49.06999969482422
+      ],
+      "left_indent": 36.0,
+      "width": 61.1300048828125,
+      "is_bold": true,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 2,
+      "text": "Profile",
+      "bbox": [
+        57.63779830932617,
+        74.16000366210938,
+        94.98179626464844,
+        90.68399810791016
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 37.343997955322266,
+      "is_bold": true,
+      "font_size": 12.0,
+      "column": 1
+    },
+    {
+      "page": 2,
+      "text": "Product Manager with 5+ years of experience in SaaS product lifecycle management and",
+      "bbox": [
+        57.63779830932617,
+        94.25,
+        269.6777648925781,
+        119.98999786376953
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 212.03996658325195,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 2,
+      "text": "crossfunctional leadership.",
+      "bbox": [
+        57.63779830932617,
+        118.25,
+        179.34779357910156,
+        131.99000549316406
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 121.70999526977539,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 2,
+      "text": "Skills",
+      "bbox": [
+        57.63779830932617,
+        138.16000366210938,
+        88.9937973022461,
+        154.6840057373047
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 31.355998992919922,
+      "is_bold": true,
+      "font_size": 12.0,
+      "column": 1
+    },
+    {
+      "page": 2,
+      "text": "- Product Strategy",
+      "bbox": [
+        57.63779830932617,
+        158.25,
+        138.22779846191406,
+        171.99000549316406
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 80.59000015258789,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 2,
+      "text": "- Agile",
+      "bbox": [
+        57.63779830932617,
+        170.25,
+        85.97779846191406,
+        183.99000549316406
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 28.34000015258789,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 2,
+      "text": "- JIRA",
+      "bbox": [
+        57.63779830932617,
+        182.25,
+        85.41780090332031,
+        195.99000549316406
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 27.78000259399414,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 2,
+      "text": "- SQL",
+      "bbox": [
+        57.63779830932617,
+        194.25,
+        83.75779724121094,
+        207.99000549316406
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 26.119998931884766,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 2,
+      "text": "- Wireframing",
+      "bbox": [
+        57.63779830932617,
+        206.25,
+        117.63780212402344,
+        219.99000549316406
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 60.000003814697266,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 2,
+      "text": "- Stakeholder Management",
+      "bbox": [
+        57.63779830932617,
+        218.25,
+        178.24778747558594,
+        231.99000549316406
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 120.60998916625977,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 2,
+      "text": "Education",
+      "bbox": [
+        57.63779830932617,
+        238.16000366210938,
+        115.64579772949219,
+        254.6840057373047
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 58.007999420166016,
+      "is_bold": true,
+      "font_size": 12.0,
+      "column": 1
+    },
+    {
+      "page": 2,
+      "text": "MBA, IIM Bangalore (2019–2021)",
+      "bbox": [
+        57.63779830932617,
+        258.25,
+        206.59779357910156,
+        271.989990234375
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 148.9599952697754,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 2,
+      "text": "B.Tech, Information Technology NIT Trichy (2013–2017)",
+      "bbox": [
+        57.63779830932617,
+        274.25,
+        199.36778259277344,
+        299.989990234375
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 141.72998428344727,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 2,
+      "text": "I Bengaluru, India | I rahul.verma@email.com | I +919876543210 | I linkedin.com/in/rahulverma",
+      "bbox": [
+        36.0,
+        47.25,
+        478.1698913574219,
+        60.9900016784668
+      ],
+      "left_indent": 36.0,
+      "width": 442.1698913574219,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 2,
+      "text": "Experience",
+      "bbox": [
+        307.6377868652344,
+        74.16000366210938,
+        371.6697998046875,
+        90.68399810791016
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 64.03201293945312,
+      "is_bold": true,
+      "font_size": 12.0,
+      "column": 2
+    },
+    {
+      "page": 2,
+      "text": "Product Manager – Freshworks",
+      "bbox": [
+        307.6377868652344,
+        94.30000305175781,
+        456.5677795410156,
+        108.06999969482422
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 148.92999267578125,
+      "is_bold": true,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 2,
+      "text": "2021–Present",
+      "bbox": [
+        307.6377868652344,
+        106.30000305175781,
+        369.8977966308594,
+        119.83999633789062
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 62.260009765625,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 2,
+      "text": "- Led SaaS CRM product roadmap, boosting adoption by 30%.",
+      "bbox": [
+        307.6377868652344,
+        118.25,
+        504.94775390625,
+        143.99000549316406
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 197.30996704101562,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 2,
+      "text": "- Launched integrations with thirdparty apps (Slack, Jira).",
+      "bbox": [
+        307.6377868652344,
+        142.25,
+        537.6378173828125,
+        167.99000549316406
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 230.00003051757812,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 2,
+      "text": "Business",
+      "bbox": [
+        307.6377868652344,
+        172.3000030517578,
+        437.1277770996094,
+        186.07000732421875
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 129.489990234375,
+      "is_bold": true,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 2,
+      "text": "Analyst – Infosys",
+      "bbox": [
+        307.6377868652344,
+        172.3000030517578,
+        437.1277770996094,
+        186.07000732421875
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 129.489990234375,
+      "is_bold": true,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 2,
+      "text": "2017–2019",
+      "bbox": [
+        307.6377868652344,
+        184.3000030517578,
+        357.67779541015625,
+        197.83999633789062
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 50.040008544921875,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 2,
+      "text": "- Created SQL dashboards for enterprise clients.",
+      "bbox": [
+        307.6377868652344,
+        196.25,
+        522.727783203125,
+        209.99000549316406
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 215.08999633789062,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 2,
+      "text": "- Worked with UX teams to streamline user onboarding flows.",
+      "bbox": [
+        307.6377868652344,
+        208.25,
+        497.6877746582031,
+        233.99000549316406
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 190.04998779296875,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 2,
+      "text": "Projects",
+      "bbox": [
+        307.6377868652344,
+        238.16000366210938,
+        354.9897766113281,
+        254.6840057373047
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 47.35198974609375,
+      "is_bold": true,
+      "font_size": 12.0,
+      "column": 2
+    },
+    {
+      "page": 2,
+      "text": "- Customer Churn Prediction: Built",
+      "bbox": [
+        307.6377868652344,
+        258.25,
+        524.3777465820312,
+        283.989990234375
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 216.73995971679688,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 2,
+      "text": "ML pipeline to predict churn.",
+      "bbox": [
+        307.6377868652344,
+        258.25,
+        524.3777465820312,
+        283.989990234375
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 216.73995971679688,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 2,
+      "text": "- Workflow Automation Tool: Reduced manual reporting by 40%.",
+      "bbox": [
+        307.6377868652344,
+        282.25,
+        511.5977478027344,
+        307.989990234375
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 203.9599609375,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 3,
+      "text": "Sophia Lee",
+      "bbox": [
+        36.0,
+        35.29999923706055,
+        89.35000610351562,
+        49.06999969482422
+      ],
+      "left_indent": 36.0,
+      "width": 53.350006103515625,
+      "is_bold": true,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 3,
+      "text": "Profile",
+      "bbox": [
+        57.63779830932617,
+        74.16000366210938,
+        94.98179626464844,
+        90.68399810791016
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 37.343997955322266,
+      "is_bold": true,
+      "font_size": 12.0,
+      "column": 1
+    },
+    {
+      "page": 3,
+      "text": "UX Designer with 6 years of experience crafting",
+      "bbox": [
+        57.63779830932617,
+        94.25,
+        268.8277587890625,
+        107.98999786376953
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 211.18996047973633,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 3,
+      "text": "intuitive interfacesfor fintech and ecommerce",
+      "bbox": [
+        57.63779830932617,
+        106.25,
+        262.15777587890625,
+        119.98999786376953
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 204.51997756958008,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 3,
+      "text": "applications.",
+      "bbox": [
+        57.63779830932617,
+        118.25,
+        113.21780395507812,
+        131.99000549316406
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 55.58000564575195,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 3,
+      "text": "Skills",
+      "bbox": [
+        57.63779830932617,
+        138.16000366210938,
+        88.9937973022461,
+        154.6840057373047
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 31.355998992919922,
+      "is_bold": true,
+      "font_size": 12.0,
+      "column": 1
+    },
+    {
+      "page": 3,
+      "text": "- Figma",
+      "bbox": [
+        57.63779830932617,
+        158.25,
+        91.52780151367188,
+        171.99000549316406
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 33.8900032043457,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 3,
+      "text": "- Sketch",
+      "bbox": [
+        57.63779830932617,
+        170.25,
+        94.31779479980469,
+        183.99000549316406
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 36.679996490478516,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 3,
+      "text": "- Adobe XD",
+      "bbox": [
+        57.63779830932617,
+        182.25,
+        109.32780456542969,
+        195.99000549316406
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 51.690006256103516,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 3,
+      "text": "- User",
+      "bbox": [
+        57.63779830932617,
+        194.25,
+        130.4278106689453,
+        207.99000549316406
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 72.79001235961914,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 3,
+      "text": "Research",
+      "bbox": [
+        57.63779830932617,
+        194.25,
+        130.4278106689453,
+        207.99000549316406
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 72.79001235961914,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 3,
+      "text": "- Prototyping",
+      "bbox": [
+        57.63779830932617,
+        206.25,
+        114.32780456542969,
+        219.99000549316406
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 56.690006256103516,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 3,
+      "text": "- Usability Testing",
+      "bbox": [
+        57.63779830932617,
+        218.25,
+        137.09780883789062,
+        231.99000549316406
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 79.46001052856445,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 3,
+      "text": "Education",
+      "bbox": [
+        57.63779830932617,
+        238.16000366210938,
+        115.64579772949219,
+        254.6840057373047
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 58.007999420166016,
+      "is_bold": true,
+      "font_size": 12.0,
+      "column": 1
+    },
+    {
+      "page": 3,
+      "text": "M.Des, Human-",
+      "bbox": [
+        57.63779830932617,
+        258.25,
+        221.01779174804688,
+        271.989990234375
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 163.3799934387207,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 3,
+      "text": "Computer Interaction",
+      "bbox": [
+        57.63779830932617,
+        258.25,
+        221.01779174804688,
+        271.989990234375
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 163.3799934387207,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 3,
+      "text": "University of Toronto (2016–2018)",
+      "bbox": [
+        57.63779830932617,
+        270.25,
+        209.36778259277344,
+        283.989990234375
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 151.72998428344727,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 3,
+      "text": "B.Des, Communication Design",
+      "bbox": [
+        57.63779830932617,
+        286.25,
+        193.7877960205078,
+        299.989990234375
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 136.14999771118164,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 3,
+      "text": "OCAD University (2012–2016)",
+      "bbox": [
+        57.63779830932617,
+        298.25,
+        192.67779541015625,
+        311.989990234375
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 135.03999710083008,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 3,
+      "text": "I Toronto, Canada | I sophia.lee@email.com | I +15557779999 | I linkedin.com/in/sophialee",
+      "bbox": [
+        36.0,
+        47.25,
+        467.0699157714844,
+        60.9900016784668
+      ],
+      "left_indent": 36.0,
+      "width": 431.0699157714844,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 3,
+      "text": "Experience",
+      "bbox": [
+        307.6377868652344,
+        74.16000366210938,
+        371.6697998046875,
+        90.68399810791016
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 64.03201293945312,
+      "is_bold": true,
+      "font_size": 12.0,
+      "column": 2
+    },
+    {
+      "page": 3,
+      "text": "Senior UX Designer – Shopify",
+      "bbox": [
+        307.6377868652344,
+        94.30000305175781,
+        448.78778076171875,
+        108.06999969482422
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 141.14999389648438,
+      "is_bold": true,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 3,
+      "text": "2019–Present",
+      "bbox": [
+        307.6377868652344,
+        106.30000305175781,
+        369.8977966308594,
+        119.83999633789062
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 62.260009765625,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 3,
+      "text": "- Redesigned checkout flow increasing conversion rate by 18%.",
+      "bbox": [
+        307.6377868652344,
+        118.25,
+        529.94775390625,
+        143.99000549316406
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 222.30996704101562,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 3,
+      "text": "- Conducted usability studies across international markets.",
+      "bbox": [
+        307.6377868652344,
+        142.25,
+        524.94775390625,
+        167.99000549316406
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 217.30996704101562,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 3,
+      "text": "UX Designer – PayPal",
+      "bbox": [
+        307.6377868652344,
+        172.3000030517578,
+        411.0177917480469,
+        186.07000732421875
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 103.3800048828125,
+      "is_bold": true,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 3,
+      "text": "2016–2019",
+      "bbox": [
+        307.6377868652344,
+        184.3000030517578,
+        357.67779541015625,
+        197.83999633789062
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 50.040008544921875,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 3,
+      "text": "- Designed responsive dashboards for merchant tools.",
+      "bbox": [
+        307.6377868652344,
+        196.25,
+        521.0578002929688,
+        221.99000549316406
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 213.42001342773438,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 3,
+      "text": "- Collaborated with product managers for roadmap alignment.",
+      "bbox": [
+        307.6377868652344,
+        220.25,
+        531.0577392578125,
+        245.99000549316406
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 223.41995239257812,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 3,
+      "text": "Projects",
+      "bbox": [
+        307.6377868652344,
+        250.16000366210938,
+        354.9897766113281,
+        266.6839904785156
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 47.35198974609375,
+      "is_bold": true,
+      "font_size": 12.0,
+      "column": 2
+    },
+    {
+      "page": 3,
+      "text": "- Ecommerce Mobile App Redesign: Boosted engagement by 20%.",
+      "bbox": [
+        307.6377868652344,
+        270.25,
+        510.4877624511719,
+        295.989990234375
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 202.8499755859375,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 3,
+      "text": "- Fintech Dashboard UI: Simplified complex workflows.",
+      "bbox": [
+        307.6377868652344,
+        294.25,
+        499.91778564453125,
+        319.989990234375
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 192.27999877929688,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 4,
+      "text": "David Kim",
+      "bbox": [
+        36.0,
+        35.29999923706055,
+        84.9000015258789,
+        49.06999969482422
+      ],
+      "left_indent": 36.0,
+      "width": 48.900001525878906,
+      "is_bold": true,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 4,
+      "text": "Profile",
+      "bbox": [
+        57.63779830932617,
+        74.15997314453125,
+        94.98179626464844,
+        90.68396759033203
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 37.343997955322266,
+      "is_bold": true,
+      "font_size": 12.0,
+      "column": 1
+    },
+    {
+      "page": 4,
+      "text": "FullStack Developer with 7 years of experience in cloudnative applications, microservices, and",
+      "bbox": [
+        57.63779830932617,
+        94.24996948242188,
+        279.937744140625,
+        119.9899673461914
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 222.29994583129883,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 4,
+      "text": "DevOps.",
+      "bbox": [
+        57.63779830932617,
+        118.24996948242188,
+        96.53779602050781,
+        131.98997497558594
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 38.89999771118164,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 4,
+      "text": "Skills",
+      "bbox": [
+        57.63779830932617,
+        138.15997314453125,
+        88.9937973022461,
+        154.68397521972656
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 31.355998992919922,
+      "is_bold": true,
+      "font_size": 12.0,
+      "column": 1
+    },
+    {
+      "page": 4,
+      "text": "- JavaScript",
+      "bbox": [
+        57.63779830932617,
+        158.24996948242188,
+        110.42780303955078,
+        171.98997497558594
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 52.79000473022461,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 4,
+      "text": "- React",
+      "bbox": [
+        57.63779830932617,
+        170.24996948242188,
+        89.8677978515625,
+        183.98997497558594
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 32.22999954223633,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 4,
+      "text": "- Node.js",
+      "bbox": [
+        57.63779830932617,
+        182.24996948242188,
+        97.64779663085938,
+        195.98997497558594
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 40.0099983215332,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 4,
+      "text": "- Docker",
+      "bbox": [
+        57.63779830932617,
+        194.24996948242188,
+        95.41780090332031,
+        207.98997497558594
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 37.78000259399414,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 4,
+      "text": "- Kubernetes",
+      "bbox": [
+        57.63779830932617,
+        206.24996948242188,
+        114.88780212402344,
+        219.98997497558594
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 57.250003814697266,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 4,
+      "text": "- AWS",
+      "bbox": [
+        57.63779830932617,
+        218.24996948242188,
+        86.52780151367188,
+        231.98997497558594
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 28.890003204345703,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 4,
+      "text": "- CI/CD",
+      "bbox": [
+        57.63779830932617,
+        230.24996948242188,
+        90.96780395507812,
+        243.98997497558594
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 33.33000564575195,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 4,
+      "text": "Education",
+      "bbox": [
+        57.63779830932617,
+        250.15997314453125,
+        115.64579772949219,
+        266.6839599609375
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 58.007999420166016,
+      "is_bold": true,
+      "font_size": 12.0,
+      "column": 1
+    },
+    {
+      "page": 4,
+      "text": "M.Sc,",
+      "bbox": [
+        57.63779830932617,
+        270.2499694824219,
+        181.57778930664062,
+        295.9899597167969
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 123.93999099731445,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 4,
+      "text": "Software Engineering KAIST (2016–2018)",
+      "bbox": [
+        57.63779830932617,
+        270.2499694824219,
+        181.57778930664062,
+        295.9899597167969
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 123.93999099731445,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 4,
+      "text": "B.Sc,",
+      "bbox": [
+        57.63779830932617,
+        298.2499694824219,
+        194.3577880859375,
+        323.9899597167969
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 126.71998977661133,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 4,
+      "text": "Computer Engineering Yonsei University (2012–2016)",
+      "bbox": [
+        57.63779830932617,
+        298.2499694824219,
+        194.3577880859375,
+        323.9899597167969
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 126.71998977661133,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 4,
+      "text": "I Seoul, South Korea | I david.kim@email.com | I +821012345678 | I linkedin.com/in/davidkim",
+      "bbox": [
+        36.0,
+        47.25,
+        477.60992431640625,
+        60.9900016784668
+      ],
+      "left_indent": 36.0,
+      "width": 441.60992431640625,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 4,
+      "text": "Experience",
+      "bbox": [
+        307.6377868652344,
+        74.15997314453125,
+        371.6697998046875,
+        90.68396759033203
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 64.03201293945312,
+      "is_bold": true,
+      "font_size": 12.0,
+      "column": 2
+    },
+    {
+      "page": 4,
+      "text": "Senior FullStack Developer – Samsung",
+      "bbox": [
+        307.6377868652344,
+        94.29997253417969,
+        496.5877685546875,
+        108.0699691772461
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 188.94998168945312,
+      "is_bold": true,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 4,
+      "text": "2018–Present",
+      "bbox": [
+        307.6377868652344,
+        106.29997253417969,
+        369.8977966308594,
+        119.8399658203125
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 62.260009765625,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 4,
+      "text": "- Built scalable microservices with Node.js and Kubernetes.",
+      "bbox": [
+        307.6377868652344,
+        118.24996948242188,
+        513.247802734375,
+        143.98997497558594
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 205.61001586914062,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 4,
+      "text": "- Migrated legacy systems to AWS cloud, reducing costs by 20%.",
+      "bbox": [
+        307.6377868652344,
+        142.24996948242188,
+        531.0477905273438,
+        167.98997497558594
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 223.41000366210938,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 4,
+      "text": "Software Engineer – LG Electronics",
+      "bbox": [
+        307.6377868652344,
+        172.2999725341797,
+        477.13775634765625,
+        186.06997680664062
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 169.49996948242188,
+      "is_bold": true,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 4,
+      "text": "2016–2018",
+      "bbox": [
+        307.6377868652344,
+        184.2999725341797,
+        357.67779541015625,
+        197.8399658203125
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 50.040008544921875,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 4,
+      "text": "- Developed internal APIs and automation tools.",
+      "bbox": [
+        307.6377868652344,
+        196.24996948242188,
+        519.4077758789062,
+        209.98997497558594
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 211.76998901367188,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 4,
+      "text": "- Implemented CI/CD pipelines to accelerate releases.",
+      "bbox": [
+        307.6377868652344,
+        208.24996948242188,
+        503.8177795410156,
+        233.98997497558594
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 196.17999267578125,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 4,
+      "text": "Projects",
+      "bbox": [
+        307.6377868652344,
+        238.15997314453125,
+        354.9897766113281,
+        254.68397521972656
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 47.35198974609375,
+      "is_bold": true,
+      "font_size": 12.0,
+      "column": 2
+    },
+    {
+      "page": 4,
+      "text": "- IoT Device Management Platform: Integrated 100k+ devices.",
+      "bbox": [
+        307.6377868652344,
+        258.2499694824219,
+        513.2777709960938,
+        283.9899597167969
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 205.63998413085938,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 4,
+      "text": "- Cloud Migration Project: Modernized enterprise applications.",
+      "bbox": [
+        307.6377868652344,
+        282.2499694824219,
+        522.707763671875,
+        307.9899597167969
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 215.06997680664062,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    }
+  ],
+  "text_per_page": [
+    "Alice Smith\nProfile\nDetailoriented\nData Scientist with 4 years of experience in NLP, recommendation systems, and\nproduct analytics.\nSkills\n- Python\n- SQL\n- TensorFlow\n- PyTorch\n- Tableau\n- Data Wrangling\n- A/B Testing\nEducation\nM.Sc,\nData Science Stanford University (2021–2023)\nB.Sc,\nComputer Science UCLA (2017–2021)\nI San Francisco, USA | I alice.smith@email.com | I +15552223333 | I linkedin.com/in/alicesmith\nExperience\nData Scientist – Netflix\n2023–Present\n- Built recommendation pipelines improving watchtime by 12%.\n- Deployed\nNLP models for personalized search results.\nML Intern – Google\n2021–2022\n- Developed classification models with 89% accuracy.\n- Optimized data preprocessing pipelines, reducing runtime by 25%.\nProjects\n- Movie Recommendation Engine: Collaborative + contentbased hybrid model.\n- NLP Chatbot: Built intentbased chatbot using Rasa framework.",
+    "Rahul Verma\nProfile\nProduct Manager with 5+ years of experience in SaaS product lifecycle management and\ncrossfunctional leadership.\nSkills\n- Product Strategy\n- Agile\n- JIRA\n- SQL\n- Wireframing\n- Stakeholder Management\nEducation\nMBA, IIM Bangalore (2019–2021)\nB.Tech, Information Technology NIT Trichy (2013–2017)\nI Bengaluru, India | I rahul.verma@email.com | I +919876543210 | I linkedin.com/in/rahulverma\nExperience\nProduct Manager – Freshworks\n2021–Present\n- Led SaaS CRM product roadmap, boosting adoption by 30%.\n- Launched integrations with thirdparty apps (Slack, Jira).\nBusiness\nAnalyst – Infosys\n2017–2019\n- Created SQL dashboards for enterprise clients.\n- Worked with UX teams to streamline user onboarding flows.\nProjects\n- Customer Churn Prediction: Built\nML pipeline to predict churn.\n- Workflow Automation Tool: Reduced manual reporting by 40%.",
+    "Sophia Lee\nProfile\nUX Designer with 6 years of experience crafting\nintuitive interfacesfor fintech and ecommerce\napplications.\nSkills\n- Figma\n- Sketch\n- Adobe XD\n- User\nResearch\n- Prototyping\n- Usability Testing\nEducation\nM.Des, Human-\nComputer Interaction\nUniversity of Toronto (2016–2018)\nB.Des, Communication Design\nOCAD University (2012–2016)\nI Toronto, Canada | I sophia.lee@email.com | I +15557779999 | I linkedin.com/in/sophialee\nExperience\nSenior UX Designer – Shopify\n2019–Present\n- Redesigned checkout flow increasing conversion rate by 18%.\n- Conducted usability studies across international markets.\nUX Designer – PayPal\n2016–2019\n- Designed responsive dashboards for merchant tools.\n- Collaborated with product managers for roadmap alignment.\nProjects\n- Ecommerce Mobile App Redesign: Boosted engagement by 20%.\n- Fintech Dashboard UI: Simplified complex workflows.",
+    "David Kim\nProfile\nFullStack Developer with 7 years of experience in cloudnative applications, microservices, and\nDevOps.\nSkills\n- JavaScript\n- React\n- Node.js\n- Docker\n- Kubernetes\n- AWS\n- CI/CD\nEducation\nM.Sc,\nSoftware Engineering KAIST (2016–2018)\nB.Sc,\nComputer Engineering Yonsei University (2012–2016)\nI Seoul, South Korea | I david.kim@email.com | I +821012345678 | I linkedin.com/in/davidkim\nExperience\nSenior FullStack Developer – Samsung\n2018–Present\n- Built scalable microservices with Node.js and Kubernetes.\n- Migrated legacy systems to AWS cloud, reducing costs by 20%.\nSoftware Engineer – LG Electronics\n2016–2018\n- Developed internal APIs and automation tools.\n- Implemented CI/CD pipelines to accelerate releases.\nProjects\n- IoT Device Management Platform: Integrated 100k+ devices.\n- Cloud Migration Project: Modernized enterprise applications."
+  ],
+  "text_all": "Alice Smith\nProfile\nDetailoriented\nData Scientist with 4 years of experience in NLP, recommendation systems, and\nproduct analytics.\nSkills\n- Python\n- SQL\n- TensorFlow\n- PyTorch\n- Tableau\n- Data Wrangling\n- A/B Testing Education\nM.Sc,\nData Science Stanford University (2021–2023)\nB.Sc,\nComputer Science UCLA (2017–2021)\nI San Francisco, USA | I alice.smith@email.com | I +15552223333 | I linkedin.com/in/alicesmith\nExperience\nData Scientist – Netflix\n2023–Present\n- Built recommendation pipelines improving watchtime by 12%.\n- Deployed NLP models for personalized search results.\nML Intern – Google\n2021–2022\n- Developed classification models with 89% accuracy.\n- Optimized data preprocessing pipelines, reducing runtime by 25%. Projects\n- Movie Recommendation Engine: Collaborative + contentbased hybrid model.\n- NLP Chatbot: Built intentbased chatbot using Rasa framework.\n\nRahul Verma\nProfile\nProduct Manager with 5+ years of experience in SaaS product lifecycle management and\ncrossfunctional leadership.\nSkills\n- Product Strategy\n- Agile\n- JIRA\n- SQL\n- Wireframing\n- Stakeholder Management Education\nMBA, IIM Bangalore (2019–2021)\nB.Tech, Information Technology NIT Trichy (2013–2017)\nI Bengaluru, India | I rahul.verma@email.com | I +919876543210 | I linkedin.com/in/rahulverma\nExperience\nProduct Manager – Freshworks\n2021–Present\n- Led SaaS CRM product roadmap, boosting adoption by 30%.\n- Launched integrations with thirdparty apps (Slack, Jira). Business\nAnalyst – Infosys\n2017–2019\n- Created SQL dashboards for enterprise clients.\n- Worked with UX teams to streamline user onboarding flows. Projects\n- Customer Churn Prediction: Built ML pipeline to predict churn.\n- Workflow Automation Tool: Reduced manual reporting by 40%.\n\nSophia Lee\nProfile\nUX Designer with 6 years of experience crafting\nintuitive interfacesfor fintech and ecommerce\napplications.\nSkills\n- Figma\n- Sketch\n- Adobe XD\n- User Research\n- Prototyping\n- Usability Testing Education\nM.Des, Human-\nComputer Interaction\nUniversity of Toronto (2016–2018)\nB.Des, Communication Design\nOCAD University (2012–2016)\nI Toronto, Canada | I sophia.lee@email.com | I +15557779999 | I linkedin.com/in/sophialee\nExperience\nSenior UX Designer – Shopify\n2019–Present\n- Redesigned checkout flow increasing conversion rate by 18%.\n- Conducted usability studies across international markets. UX Designer – PayPal\n2016–2019\n- Designed responsive dashboards for merchant tools.\n- Collaborated with product managers for roadmap alignment. Projects\n- Ecommerce Mobile App Redesign: Boosted engagement by 20%.\n- Fintech Dashboard UI: Simplified complex workflows.\n\nDavid Kim\nProfile\nFullStack Developer with 7 years of experience in cloudnative applications, microservices, and\nDevOps.\nSkills\n- JavaScript\n- React\n- Node.js\n- Docker\n- Kubernetes\n- AWS\n- CI/CD Education\nM.Sc,\nSoftware Engineering KAIST (2016–2018)\nB.Sc,\nComputer Engineering Yonsei University (2012–2016)\nI Seoul, South Korea | I david.kim@email.com | I +821012345678 | I linkedin.com/in/davidkim\nExperience\nSenior FullStack Developer – Samsung\n2018–Present\n- Built scalable microservices with Node.js and Kubernetes.\n- Migrated legacy systems to AWS cloud, reducing costs by 20%. Software Engineer – LG Electronics\n2016–2018\n- Developed internal APIs and automation tools.\n- Implemented CI/CD pipelines to accelerate releases. Projects\n- IoT Device Management Platform: Integrated 100k+ devices.\n- Cloud Migration Project: Modernized enterprise applications.",
+  "_debug": {
+    "per_page_cuts": {
+      "1": 228.6145568395916,
+      "2": 231.8491238951683,
+      "3": 230.51055202543182,
+      "4": 229.40752437379626
+    },
+    "per_page_counts": {
+      "1": {
+        "left": 18,
+        "right": 19
+      },
+      "2": {
+        "left": 16,
+        "right": 18
+      },
+      "3": {
+        "left": 17,
+        "right": 19
+      },
+      "4": {
+        "left": 18,
+        "right": 18
+      }
+    }
+  }
+}

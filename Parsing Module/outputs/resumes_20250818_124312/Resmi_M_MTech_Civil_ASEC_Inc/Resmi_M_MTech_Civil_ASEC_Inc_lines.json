@@ -1,0 +1,2757 @@
+{
+  "meta": {
+    "source_path": "data/resumes/Resmi_M_MTech_Civil_ASEC_Inc.pdf",
+    "pages": 2
+  },
+  "lines": [
+    {
+      "page": 1,
+      "text": "Resmi M",
+      "bbox": [
+        150.0,
+        39.55999755859375,
+        188.60000610351562,
+        53.40999984741211
+      ],
+      "left_indent": 150.0,
+      "width": 38.600006103515625,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "193040021",
+      "bbox": [
+        400.0,
+        39.55999755859375,
+        445.0,
+        53.40999984741211
+      ],
+      "left_indent": 400.0,
+      "width": 45.0,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Civil Engineering",
+      "bbox": [
+        150.0,
+        54.55999755859375,
+        225.2899932861328,
+        68.41000366210938
+      ],
+      "left_indent": 150.0,
+      "width": 75.28999328613281,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "M.Tech.",
+      "bbox": [
+        400.0,
+        54.55999755859375,
+        435.5500183105469,
+        68.41000366210938
+      ],
+      "left_indent": 400.0,
+      "width": 35.550018310546875,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Indian Institute of Technology, Bombay",
+      "bbox": [
+        150.0,
+        69.55999755859375,
+        320.29998779296875,
+        83.41000366210938
+      ],
+      "left_indent": 150.0,
+      "width": 170.29998779296875,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Gender: Female",
+      "bbox": [
+        400.0,
+        69.55999755859375,
+        469.14996337890625,
+        83.41000366210938
+      ],
+      "left_indent": 400.0,
+      "width": 69.14996337890625,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Specialization: Geotechnical Engineering",
+      "bbox": [
+        150.0,
+        84.55999755859375,
+        325.5600280761719,
+        98.41000366210938
+      ],
+      "left_indent": 150.0,
+      "width": 175.56002807617188,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "DOB: 19-04-1996",
+      "bbox": [
+        400.0,
+        84.55999755859375,
+        476.65997314453125,
+        98.41000366210938
+      ],
+      "left_indent": 400.0,
+      "width": 76.65997314453125,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Examination",
+      "bbox": [
+        50.0,
+        110.55999755859375,
+        105.00999450683594,
+        124.41000366210938
+      ],
+      "left_indent": 50.0,
+      "width": 55.00999450683594,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "University",
+      "bbox": [
+        150.0,
+        110.55999755859375,
+        194.44000244140625,
+        124.41000366210938
+      ],
+      "left_indent": 150.0,
+      "width": 44.44000244140625,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Institute",
+      "bbox": [
+        300.0,
+        110.55999755859375,
+        336.1099853515625,
+        124.41000366210938
+      ],
+      "left_indent": 300.0,
+      "width": 36.1099853515625,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Year",
+      "bbox": [
+        475.0,
+        110.55999755859375,
+        496.1000061035156,
+        124.41000366210938
+      ],
+      "left_indent": 475.0,
+      "width": 21.100006103515625,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "CPI / %",
+      "bbox": [
+        510.0,
+        110.55999755859375,
+        545.0,
+        124.41000366210938
+      ],
+      "left_indent": 510.0,
+      "width": 35.0,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Post Graduation",
+      "bbox": [
+        50.0,
+        127.47000122070312,
+        114.72000885009766,
+        140.80999755859375
+      ],
+      "left_indent": 50.0,
+      "width": 64.72000885009766,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "IIT Bombay",
+      "bbox": [
+        150.0,
+        127.47000122070312,
+        199.16000366210938,
+        140.80999755859375
+      ],
+      "left_indent": 150.0,
+      "width": 49.160003662109375,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "IIT Bombay",
+      "bbox": [
+        300.0,
+        127.47000122070312,
+        349.15997314453125,
+        140.80999755859375
+      ],
+      "left_indent": 300.0,
+      "width": 49.15997314453125,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "2021",
+      "bbox": [
+        475.0,
+        127.47000122070312,
+        495.0,
+        140.80999755859375
+      ],
+      "left_indent": 475.0,
+      "width": 20.0,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "9.29",
+      "bbox": [
+        510.0,
+        127.47000122070312,
+        527.5,
+        140.80999755859375
+      ],
+      "left_indent": 510.0,
+      "width": 17.5,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Graduation",
+      "bbox": [
+        50.0,
+        140.47000122070312,
+        94.99000549316406,
+        153.80999755859375
+      ],
+      "left_indent": 50.0,
+      "width": 44.99000549316406,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "University of Kerala",
+      "bbox": [
+        150.0,
+        140.47000122070312,
+        232.20001220703125,
+        153.80999755859375
+      ],
+      "left_indent": 150.0,
+      "width": 82.20001220703125,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "College of Engineering Trivandrum",
+      "bbox": [
+        300.0,
+        140.47000122070312,
+        443.5899353027344,
+        153.80999755859375
+      ],
+      "left_indent": 300.0,
+      "width": 143.58993530273438,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "2018",
+      "bbox": [
+        475.0,
+        140.47000122070312,
+        495.0,
+        153.80999755859375
+      ],
+      "left_indent": 475.0,
+      "width": 20.0,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "8.84",
+      "bbox": [
+        510.0,
+        140.47000122070312,
+        527.5,
+        153.80999755859375
+      ],
+      "left_indent": 510.0,
+      "width": 17.5,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Graduation Specialization: Civil Engineering",
+      "bbox": [
+        50.0,
+        153.47000122070312,
+        230.82000732421875,
+        166.80999755859375
+      ],
+      "left_indent": 50.0,
+      "width": 180.82000732421875,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Intermediate",
+      "bbox": [
+        50.0,
+        166.47000122070312,
+        100.54000854492188,
+        179.80999755859375
+      ],
+      "left_indent": 50.0,
+      "width": 50.540008544921875,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Board of Higher Secondary",
+      "bbox": [
+        150.0,
+        166.47000122070312,
+        262.75,
+        179.80999755859375
+      ],
+      "left_indent": 150.0,
+      "width": 112.75,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Holy Angels' Convent HSS",
+      "bbox": [
+        300.0,
+        166.47000122070312,
+        409.8600158691406,
+        179.80999755859375
+      ],
+      "left_indent": 300.0,
+      "width": 109.86001586914062,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "2014",
+      "bbox": [
+        475.0,
+        166.47000122070312,
+        495.0,
+        179.80999755859375
+      ],
+      "left_indent": 475.0,
+      "width": 20.0,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "98.00%",
+      "bbox": [
+        510.0,
+        166.47000122070312,
+        540.8300170898438,
+        179.80999755859375
+      ],
+      "left_indent": 510.0,
+      "width": 30.83001708984375,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Examination",
+      "bbox": [
+        150.0,
+        179.47000122070312,
+        201.11000061035156,
+        192.80999755859375
+      ],
+      "left_indent": 150.0,
+      "width": 51.11000061035156,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Matriculation",
+      "bbox": [
+        50.0,
+        192.47000122070312,
+        104.44000244140625,
+        205.80999755859375
+      ],
+      "left_indent": 50.0,
+      "width": 54.44000244140625,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Kerala Board of Public",
+      "bbox": [
+        150.0,
+        192.47000122070312,
+        244.98001098632812,
+        205.80999755859375
+      ],
+      "left_indent": 150.0,
+      "width": 94.98001098632812,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Holy Angels' Convent HSS",
+      "bbox": [
+        300.0,
+        192.47000122070312,
+        409.8600158691406,
+        205.80999755859375
+      ],
+      "left_indent": 300.0,
+      "width": 109.86001586914062,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "2012",
+      "bbox": [
+        475.0,
+        192.47000122070312,
+        495.0,
+        205.80999755859375
+      ],
+      "left_indent": 475.0,
+      "width": 20.0,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "90.00%",
+      "bbox": [
+        510.0,
+        192.47000122070312,
+        540.8300170898438,
+        205.80999755859375
+      ],
+      "left_indent": 510.0,
+      "width": 30.83001708984375,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Examinations",
+      "bbox": [
+        150.0,
+        205.47000122070312,
+        205.0,
+        218.80999755859375
+      ],
+      "left_indent": 150.0,
+      "width": 55.0,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "SCHOLASTIC ACHIEVEMENTS",
+      "bbox": [
+        48.0,
+        232.42254638671875,
+        203.0525665283203,
+        247.55838012695312
+      ],
+      "left_indent": 48.0,
+      "width": 155.0525665283203,
+      "is_bold": true,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "Scored 99.17 percentile in the Graduate Aptitude Test in Engineering (2019), out of 1,45,064 students",
+      "bbox": [
+        66.02400207519531,
+        247.58140563964844,
+        520.15869140625,
+        261.236572265625
+      ],
+      "left_indent": 66.02400207519531,
+      "width": 454.1346893310547,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        48.0,
+        247.886474609375,
+        52.58121109008789,
+        260.08843994140625
+      ],
+      "left_indent": 48.0,
+      "width": 4.581211090087891,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "KEY PROJECTS AND SEMINARS",
+      "bbox": [
+        48.0,
+        274.93255615234375,
+        207.97256469726562,
+        290.0683898925781
+      ],
+      "left_indent": 48.0,
+      "width": 159.97256469726562,
+      "is_bold": true,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "M.Tech Dissertation | Guide: Prof. Satyanarayana Murty Dasaka, IIT Bombay",
+      "bbox": [
+        48.0,
+        290.05255126953125,
+        453.25250244140625,
+        305.1883850097656
+      ],
+      "left_indent": 48.0,
+      "width": 405.25250244140625,
+      "is_bold": true,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "[July ’20-ongoing]",
+      "bbox": [
+        467.0199890136719,
+        290.05255126953125,
+        557.5781860351562,
+        305.1883850097656
+      ],
+      "left_indent": 467.0199890136719,
+      "width": 90.55819702148438,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "Understanding the Behaviour of an Anchored Rigid Retaining Wall by Back Analysis",
+      "bbox": [
+        48.0,
+        305.1260070800781,
+        398.3559875488281,
+        317.46502685546875
+      ],
+      "left_indent": 48.0,
+      "width": 350.3559875488281,
+      "is_bold": true,
+      "font_size": 9.0
+    },
+    {
+      "page": 1,
+      "text": "Analyse the forces acting on a cantilever retaining wall with counterforts and obtain the movement of the",
+      "bbox": [
+        66.02400207519531,
+        317.4513854980469,
+        542.9871826171875,
+        331.1065673828125
+      ],
+      "left_indent": 66.02400207519531,
+      "width": 476.9631805419922,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        48.0,
+        319.686767578125,
+        51.69808578491211,
+        329.53656005859375
+      ],
+      "left_indent": 48.0,
+      "width": 3.6980857849121094,
+      "is_bold": false,
+      "font_size": 8.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "wall required to attain the active earth pressure condition, under varying site conditions and soil types.",
+      "bbox": [
+        66.02400207519531,
+        331.25140380859375,
+        529.460693359375,
+        344.9065856933594
+      ],
+      "left_indent": 66.02400207519531,
+      "width": 463.4366912841797,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Analyse retaining wall with anchors and find the required spacing between anchors",
+      "bbox": [
+        66.02400207519531,
+        344.931396484375,
+        445.8206787109375,
+        358.5865783691406
+      ],
+      "left_indent": 66.02400207519531,
+      "width": 379.7966766357422,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        48.0,
+        347.1667785644531,
+        51.69808578491211,
+        357.0165710449219
+      ],
+      "left_indent": 48.0,
+      "width": 3.6980857849121094,
+      "is_bold": false,
+      "font_size": 8.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "Numerically model the load-deformation behaviour of anchors using PLAXIS .",
+      "bbox": [
+        66.02400207519531,
+        358.6114196777344,
+        418.9106750488281,
+        372.2666015625
+      ],
+      "left_indent": 66.02400207519531,
+      "width": 352.8866729736328,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        48.0,
+        360.8468017578125,
+        51.69808578491211,
+        370.69659423828125
+      ],
+      "left_indent": 48.0,
+      "width": 3.6980857849121094,
+      "is_bold": false,
+      "font_size": 8.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "Understand the short-term and long-term behaviour of retaining walls.",
+      "bbox": [
+        66.02400207519531,
+        372.2914123535156,
+        389.39068603515625,
+        385.94659423828125
+      ],
+      "left_indent": 66.02400207519531,
+      "width": 323.36668395996094,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        48.0,
+        374.52679443359375,
+        51.69808578491211,
+        384.3765869140625
+      ],
+      "left_indent": 48.0,
+      "width": 3.6980857849121094,
+      "is_bold": false,
+      "font_size": 8.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "Identify the causes of failure of retaining wall, and develop guidelines on preventing such failures in future.",
+      "bbox": [
+        66.02400207519531,
+        386.0914001464844,
+        551.2709350585938,
+        399.74658203125
+      ],
+      "left_indent": 66.02400207519531,
+      "width": 485.24693298339844,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        48.0,
+        388.3267822265625,
+        51.69808578491211,
+        398.17657470703125
+      ],
+      "left_indent": 48.0,
+      "width": 3.6980857849121094,
+      "is_bold": false,
+      "font_size": 8.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "M.Tech Credit Seminar | Guide: Prof. Satyanarayana Murty Dasaka, IIT Bombay [Jan ’20 – June ‘20]",
+      "bbox": [
+        48.0,
+        399.7325439453125,
+        557.599365234375,
+        414.8683776855469
+      ],
+      "left_indent": 48.0,
+      "width": 509.599365234375,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "Application of Geosynthetics in Pavements on Expansive Soils",
+      "bbox": [
+        48.0,
+        414.89141845703125,
+        332.80145263671875,
+        428.5466003417969
+      ],
+      "left_indent": 48.0,
+      "width": 284.80145263671875,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Reviewed literature on the field and laboratory studies on expansive soils and studied the effectiveness and",
+      "bbox": [
+        66.02400207519531,
+        428.5714111328125,
+        549.7233276367188,
+        442.2265930175781
+      ],
+      "left_indent": 66.02400207519531,
+      "width": 483.69932556152344,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        48.0,
+        429.738525390625,
+        52.271484375,
+        441.738525390625
+      ],
+      "left_indent": 48.0,
+      "width": 4.271484375,
+      "is_bold": false,
+      "font_size": 12.0
+    },
+    {
+      "page": 1,
+      "text": "suitability of using geosynthetics in remediating the problems related to pavements on expansive soils.",
+      "bbox": [
+        66.02400207519531,
+        442.27142333984375,
+        531.8992309570312,
+        455.9266052246094
+      ],
+      "left_indent": 66.02400207519531,
+      "width": 465.87522888183594,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Understood the cause and types of pavement distresses on expansive subgrades",
+      "bbox": [
+        66.02400207519531,
+        455.951416015625,
+        424.49102783203125,
+        469.6065979003906
+      ],
+      "left_indent": 66.02400207519531,
+      "width": 358.46702575683594,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        48.0,
+        457.1185302734375,
+        52.271484375,
+        469.1185302734375
+      ],
+      "left_indent": 48.0,
+      "width": 4.271484375,
+      "is_bold": false,
+      "font_size": 12.0
+    },
+    {
+      "page": 1,
+      "text": "Understood the mechanisms of geosynthetic reinforcement and assessed the future scope of works required",
+      "bbox": [
+        66.02400207519531,
+        469.75140380859375,
+        553.7737426757812,
+        483.4065856933594
+      ],
+      "left_indent": 66.02400207519531,
+      "width": 487.74974060058594,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        48.0,
+        470.91851806640625,
+        52.271484375,
+        482.91851806640625
+      ],
+      "left_indent": 48.0,
+      "width": 4.271484375,
+      "is_bold": false,
+      "font_size": 12.0
+    },
+    {
+      "page": 1,
+      "text": "B.Tech Project | Guide: Prof. Ajitha A. R., College of Engineering Trivandrum",
+      "bbox": [
+        48.0,
+        498.3925476074219,
+        405.5614013671875,
+        513.5283813476562
+      ],
+      "left_indent": 48.0,
+      "width": 357.5614013671875,
+      "is_bold": true,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "[2018]",
+      "bbox": [
+        527.8599853515625,
+        498.3925476074219,
+        557.6080322265625,
+        513.5283813476562
+      ],
+      "left_indent": 527.8599853515625,
+      "width": 29.748046875,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "Design and Analysis of Reinforced Earth Retaining Wall",
+      "bbox": [
+        48.0,
+        513.5514526367188,
+        306.2614440917969,
+        527.2066040039062
+      ],
+      "left_indent": 48.0,
+      "width": 258.2614440917969,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Designed and compared the cost of construction of a Reinforced Earth retaining wall ( RE wall ) and a",
+      "bbox": [
+        66.02400207519531,
+        527.2314453125,
+        518.6203002929688,
+        540.8865966796875
+      ],
+      "left_indent": 66.02400207519531,
+      "width": 452.59629821777344,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        48.0,
+        528.3985595703125,
+        52.271484375,
+        540.3985595703125
+      ],
+      "left_indent": 48.0,
+      "width": 4.271484375,
+      "is_bold": false,
+      "font_size": 12.0
+    },
+    {
+      "page": 1,
+      "text": "Reinforced Cement Concrete ( RCC ) retaining wall for same soil conditions and height",
+      "bbox": [
+        66.02400207519531,
+        541.0314331054688,
+        448.2206726074219,
+        554.6865844726562
+      ],
+      "left_indent": 66.02400207519531,
+      "width": 382.19667053222656,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "About 47% cost savings in using an RE wall in the place of an RCC wall",
+      "bbox": [
+        66.02400207519531,
+        554.71142578125,
+        379.993896484375,
+        568.3665771484375
+      ],
+      "left_indent": 66.02400207519531,
+      "width": 313.9698944091797,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        48.0,
+        555.8785400390625,
+        52.271484375,
+        567.8785400390625
+      ],
+      "left_indent": 48.0,
+      "width": 4.271484375,
+      "is_bold": false,
+      "font_size": 12.0
+    },
+    {
+      "page": 1,
+      "text": "B.Tech Seminar | Guide: Prof. Ajitha A. R., College of Engineering Trivandrum",
+      "bbox": [
+        48.0,
+        568.3525390625,
+        512.0765380859375,
+        583.4884033203125
+      ],
+      "left_indent": 48.0,
+      "width": 464.0765380859375,
+      "is_bold": true,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "[2017]",
+      "bbox": [
+        527.8599853515625,
+        568.3525390625,
+        557.6016845703125,
+        583.4884033203125
+      ],
+      "left_indent": 527.8599853515625,
+      "width": 29.74169921875,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "Sustainable Design Criteria for Earthquake Region",
+      "bbox": [
+        48.0,
+        583.5114135742188,
+        282.2614440917969,
+        597.1665649414062
+      ],
+      "left_indent": 48.0,
+      "width": 234.26144409179688,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Reviewed literature on approaches that enable post-event functionality in earthquake -prone regions,",
+      "bbox": [
+        66.02400207519531,
+        597.1914672851562,
+        522.439697265625,
+        610.8466186523438
+      ],
+      "left_indent": 66.02400207519531,
+      "width": 456.4156951904297,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        48.0,
+        598.3585815429688,
+        52.271484375,
+        610.3585815429688
+      ],
+      "left_indent": 48.0,
+      "width": 4.271484375,
+      "is_bold": false,
+      "font_size": 12.0
+    },
+    {
+      "page": 1,
+      "text": "resulting in more sustainable structural systems.",
+      "bbox": [
+        66.02400207519531,
+        610.8714599609375,
+        285.1323547363281,
+        624.526611328125
+      ],
+      "left_indent": 66.02400207519531,
+      "width": 219.1083526611328,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Survey Camp | As a part of the Undergraduate curriculum",
+      "bbox": [
+        48.0,
+        624.5425415039062,
+        514.977783203125,
+        639.6784057617188
+      ],
+      "left_indent": 48.0,
+      "width": 466.977783203125,
+      "is_bold": true,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "[2017]",
+      "bbox": [
+        527.8599853515625,
+        624.5425415039062,
+        557.6016845703125,
+        639.6784057617188
+      ],
+      "left_indent": 527.8599853515625,
+      "width": 29.74169921875,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "Conducted survey of a portion of the College of Engineering Trivandrum campus, using Total Station .",
+      "bbox": [
+        66.02400207519531,
+        639.7014770507812,
+        524.0079956054688,
+        653.3566284179688
+      ],
+      "left_indent": 66.02400207519531,
+      "width": 457.98399353027344,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        48.0,
+        640.8685913085938,
+        52.271484375,
+        652.8685913085938
+      ],
+      "left_indent": 48.0,
+      "width": 4.271484375,
+      "is_bold": false,
+      "font_size": 12.0
+    },
+    {
+      "page": 1,
+      "text": "Developed a topographic map with contour lines using LisCAD and AutoCAD .",
+      "bbox": [
+        66.02400207519531,
+        653.5014038085938,
+        417.2980041503906,
+        667.1565551757812
+      ],
+      "left_indent": 66.02400207519531,
+      "width": 351.2740020751953,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        48.0,
+        654.6685180664062,
+        52.271484375,
+        666.6685180664062
+      ],
+      "left_indent": 48.0,
+      "width": 4.271484375,
+      "is_bold": false,
+      "font_size": 12.0
+    },
+    {
+      "page": 1,
+      "text": "Course Project | Guide: Prof. Ashish Juneja, IIT Bombay [November 2019]",
+      "bbox": [
+        48.0,
+        680.8225708007812,
+        557.5916748046875,
+        695.9584350585938
+      ],
+      "left_indent": 48.0,
+      "width": 509.5916748046875,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "Finite Element Analysis Using PLAXIS 2D | (Course: Geotechnical Constitutive Modelling)",
+      "bbox": [
+        48.0,
+        695.9814453125,
+        435.5897216796875,
+        709.6365966796875
+      ],
+      "left_indent": 48.0,
+      "width": 387.5897216796875,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        48.0,
+        709.5955200195312,
+        53.51953125,
+        724.2966918945312
+      ],
+      "left_indent": 48.0,
+      "width": 5.51953125,
+      "is_bold": false,
+      "font_size": 12.0
+    },
+    {
+      "page": 1,
+      "text": "Modelled a raft foundation to a circular water tank resting on a soft clay deposit using PLAXIS 2D to analyse",
+      "bbox": [
+        66.02400207519531,
+        711.3414306640625,
+        552.2205810546875,
+        724.99658203125
+      ],
+      "left_indent": 66.02400207519531,
+      "width": 486.1965789794922,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "the consolidation behaviour before and after cement stabilisation of soft clay.",
+      "bbox": [
+        66.02400207519531,
+        725.0214233398438,
+        419.75067138671875,
+        738.6765747070312
+      ],
+      "left_indent": 66.02400207519531,
+      "width": 353.72666931152344,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        48.0,
+        738.7515258789062,
+        53.51953125,
+        753.4526977539062
+      ],
+      "left_indent": 48.0,
+      "width": 5.51953125,
+      "is_bold": false,
+      "font_size": 12.0
+    },
+    {
+      "page": 1,
+      "text": "The analysis showed that the factor of safety increased by around 4.7 times, the time required for 95 %",
+      "bbox": [
+        66.02400207519531,
+        740.4974365234375,
+        526.8408813476562,
+        754.152587890625
+      ],
+      "left_indent": 66.02400207519531,
+      "width": 460.81687927246094,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "consolidation has reduced and the settlement was brought below the allowable limit post stabilisation.",
+      "bbox": [
+        66.02400207519531,
+        754.1774291992188,
+        528.1441040039062,
+        767.8325805664062
+      ],
+      "left_indent": 66.02400207519531,
+      "width": 462.12010192871094,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Course Seminar | Guide: . B.V.S. Viswanadham , IIT Bombay",
+      "bbox": [
+        45.36000061035156,
+        56.6025390625,
+        335.4673767089844,
+        71.7383804321289
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 290.1073760986328,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 2,
+      "text": "[May 2020]",
+      "bbox": [
+        524.3800048828125,
+        56.64139938354492,
+        575.2106323242188,
+        70.29656219482422
+      ],
+      "left_indent": 524.3800048828125,
+      "width": 50.83062744140625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Centrifuge Study on the Effect of Pile Bending Stiffness on the Slope Stabilised by Piles",
+      "bbox": [
+        45.36000061035156,
+        73.32139587402344,
+        443.3514404296875,
+        86.97655487060547
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 397.99143981933594,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "(Course: Geotechnical Centrifuge Modelling)",
+      "bbox": [
+        45.36000061035156,
+        87.14140319824219,
+        231.5806427001953,
+        100.79656219482422
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 186.22064208984375,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Reviewed literature on Centrifuge Modelling of pile reinforced slopes",
+      "bbox": [
+        63.38399887084961,
+        100.82139587402344,
+        377.0814514160156,
+        114.47655487060547
+      ],
+      "left_indent": 63.38399887084961,
+      "width": 313.697452545166,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "•",
+      "bbox": [
+        45.36000061035156,
+        101.12645721435547,
+        49.94121170043945,
+        113.32843017578125
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 4.581211090087891,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "SITE VISITS AND INTERNSHIPS",
+      "bbox": [
+        45.36000061035156,
+        128.14251708984375,
+        206.21937561035156,
+        143.27835083007812
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 160.859375,
+      "is_bold": true,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 2,
+      "text": "Site visits:",
+      "bbox": [
+        45.36000061035156,
+        143.3014373779297,
+        87.19200897216797,
+        156.9565887451172
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 41.832008361816406,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Thane West, Mumbai, on 3/3/2020 to witness a pile load testing carried out as part of the Metro Line-5 project",
+      "bbox": [
+        63.38399887084961,
+        156.98143005371094,
+        552.0534057617188,
+        170.63658142089844
+      ],
+      "left_indent": 63.38399887084961,
+      "width": 488.66940689086914,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "•",
+      "bbox": [
+        45.36000061035156,
+        158.14854431152344,
+        49.63148498535156,
+        170.14854431152344
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 4.271484375,
+      "is_bold": false,
+      "font_size": 12.0
+    },
+    {
+      "page": 2,
+      "text": "Industrial visit to Poabs M-sand manufacturing unit in October 2015 , organised by ICI CET Student’s Chapter",
+      "bbox": [
+        63.38399887084961,
+        170.6614227294922,
+        542.1626586914062,
+        184.3165740966797
+      ],
+      "left_indent": 63.38399887084961,
+      "width": 478.77865982055664,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "•",
+      "bbox": [
+        45.36000061035156,
+        173.38427734375,
+        48.90533447265625,
+        183.3442840576172
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 3.5453338623046875,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Visit to Aruvikkara dam and water treatment plant in October 2015 , organised by ICI CET Student’s Chapter",
+      "bbox": [
+        63.38399887084961,
+        184.46141052246094,
+        541.3226928710938,
+        198.11656188964844
+      ],
+      "left_indent": 63.38399887084961,
+      "width": 477.93869400024414,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "•",
+      "bbox": [
+        45.36000061035156,
+        187.18426513671875,
+        48.90533447265625,
+        197.14427185058594
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 3.5453338623046875,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Internship training: | Under the Kerala Public Works Department (Roads and Bridges Section)",
+      "bbox": [
+        45.36000061035156,
+        198.1414031982422,
+        462.1336669921875,
+        211.7965545654297
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 416.77366638183594,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "During the period of 24 th to 30 th of May, 2017, study visits were conducted to BM & BC plant at",
+      "bbox": [
+        63.38399887084961,
+        211.82139587402344,
+        478.3269958496094,
+        225.47654724121094
+      ],
+      "left_indent": 63.38399887084961,
+      "width": 414.94299697875977,
+      "is_bold": false,
+      "font_size": 8.828571455819267
+    },
+    {
+      "page": 2,
+      "text": "•",
+      "bbox": [
+        45.36000061035156,
+        212.12646484375,
+        49.94121170043945,
+        224.32843017578125
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 4.581211090087891,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Karakkamandapam, Chellengi Bridge site and Peyad Road improvement project .",
+      "bbox": [
+        63.38399887084961,
+        225.50144958496094,
+        426.5379943847656,
+        239.15660095214844
+      ],
+      "left_indent": 63.38399887084961,
+      "width": 363.153995513916,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "CO-CURRICULAR ACTIVITIES",
+      "bbox": [
+        45.36000061035156,
+        252.94256591796875,
+        196.13426208496094,
+        268.0783996582031
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 150.77426147460938,
+      "is_bold": true,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 2,
+      "text": "Attended international webinar on “ Recent Advances in Geotechnical Engineering Research",
+      "bbox": [
+        68.78399658203125,
+        268.1314392089844,
+        490.68017578125,
+        281.78662109375
+      ],
+      "left_indent": 68.78399658203125,
+      "width": 421.89617919921875,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "[ July 1-10,",
+      "bbox": [
+        522.9400024414062,
+        268.1314392089844,
+        569.1906127929688,
+        281.78662109375
+      ],
+      "left_indent": 522.9400024414062,
+      "width": 46.2506103515625,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "•",
+      "bbox": [
+        50.7599983215332,
+        270.85430908203125,
+        54.30533218383789,
+        280.8143005371094
+      ],
+      "left_indent": 50.7599983215332,
+      "width": 3.5453338623046875,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "& Practice ”, organised by the Department of Civil and Environmental Engineering, IIT Patna",
+      "bbox": [
+        68.78399658203125,
+        281.8114318847656,
+        483.14068603515625,
+        295.46661376953125
+      ],
+      "left_indent": 68.78399658203125,
+      "width": 414.356689453125,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "2020]",
+      "bbox": [
+        543.219970703125,
+        281.8114318847656,
+        569.2106323242188,
+        295.46661376953125
+      ],
+      "left_indent": 543.219970703125,
+      "width": 25.99066162109375,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Attended DFI-India Webinar Series on Steel Retaining Structures and Foundations",
+      "bbox": [
+        68.78399658203125,
+        295.4914245605469,
+        443.264892578125,
+        309.1466064453125
+      ],
+      "left_indent": 68.78399658203125,
+      "width": 374.48089599609375,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "[July 29, 2020]",
+      "bbox": [
+        505.29998779296875,
+        295.4914245605469,
+        569.2106323242188,
+        309.1466064453125
+      ],
+      "left_indent": 505.29998779296875,
+      "width": 63.91064453125,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "•",
+      "bbox": [
+        50.7599983215332,
+        298.21429443359375,
+        54.30533218383789,
+        308.1742858886719
+      ],
+      "left_indent": 50.7599983215332,
+      "width": 3.5453338623046875,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "[Aug 12,2020]",
+      "bbox": [
+        507.5799865722656,
+        309.1714172363281,
+        569.2106323242188,
+        322.82659912109375
+      ],
+      "left_indent": 507.5799865722656,
+      "width": 61.630645751953125,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Attended a webinar on “ Necessity of Seismic Response Assessment for Geotechnical Site ”",
+      "bbox": [
+        68.78399658203125,
+        322.9714050292969,
+        477.1406555175781,
+        336.6265869140625
+      ],
+      "left_indent": 68.78399658203125,
+      "width": 408.3566589355469,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "[June 14, 2020]",
+      "bbox": [
+        502.8999938964844,
+        322.9714050292969,
+        569.2106323242188,
+        336.6265869140625
+      ],
+      "left_indent": 502.8999938964844,
+      "width": 66.31063842773438,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "•",
+      "bbox": [
+        50.7599983215332,
+        325.69427490234375,
+        54.30533218383789,
+        335.6542663574219
+      ],
+      "left_indent": 50.7599983215332,
+      "width": 3.5453338623046875,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "conducted by Indian Geotechnical Society Silchar Student Chapter",
+      "bbox": [
+        68.78399658203125,
+        336.6513977050781,
+        367.9106750488281,
+        350.30657958984375
+      ],
+      "left_indent": 68.78399658203125,
+      "width": 299.1266784667969,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Member of the Indian Concrete Institute , CET chapter",
+      "bbox": [
+        68.78399658203125,
+        350.3314208984375,
+        318.8306884765625,
+        363.9866027832031
+      ],
+      "left_indent": 68.78399658203125,
+      "width": 250.04669189453125,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "[2015-’16, 2016-’17]",
+      "bbox": [
+        482.3800048828125,
+        350.3314208984375,
+        569.2106323242188,
+        363.9866027832031
+      ],
+      "left_indent": 482.3800048828125,
+      "width": 86.83062744140625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "•",
+      "bbox": [
+        50.7599983215332,
+        353.0542907714844,
+        54.30533218383789,
+        363.0142822265625
+      ],
+      "left_indent": 50.7599983215332,
+      "width": 3.5453338623046875,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Participated in Model Making as a part of Pantheon organised by the ICI CET Student’s Chapter",
+      "bbox": [
+        68.78399658203125,
+        364.01141357421875,
+        490.5274658203125,
+        377.6665954589844
+      ],
+      "left_indent": 68.78399658203125,
+      "width": 421.74346923828125,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "[March, 2016]",
+      "bbox": [
+        507.2200012207031,
+        364.01141357421875,
+        569.2106323242188,
+        377.6665954589844
+      ],
+      "left_indent": 507.2200012207031,
+      "width": 61.990631103515625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "•",
+      "bbox": [
+        50.7599983215332,
+        366.7342834472656,
+        54.30533218383789,
+        376.69427490234375
+      ],
+      "left_indent": 50.7599983215332,
+      "width": 3.5453338623046875,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Participated in the Technical Exhibition and Open House CETEX held in connection with the",
+      "bbox": [
+        68.78399658203125,
+        377.8114013671875,
+        481.9884033203125,
+        391.4665832519531
+      ],
+      "left_indent": 68.78399658203125,
+      "width": 413.20440673828125,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "[Jan, 2015]",
+      "bbox": [
+        519.7000122070312,
+        377.8114013671875,
+        569.2106323242188,
+        391.4665832519531
+      ],
+      "left_indent": 519.7000122070312,
+      "width": 49.5106201171875,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "•",
+      "bbox": [
+        50.7599983215332,
+        380.5342712402344,
+        54.30533218383789,
+        390.4942626953125
+      ],
+      "left_indent": 50.7599983215332,
+      "width": 3.5453338623046875,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Platinum Jubilee celebrations of College of Engineering Trivandrum",
+      "bbox": [
+        68.78399658203125,
+        391.4914245605469,
+        378.1106872558594,
+        405.1466064453125
+      ],
+      "left_indent": 68.78399658203125,
+      "width": 309.3266906738281,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "EXTRA CURRICULAR ACTIVITIES",
+      "bbox": [
+        45.36000061035156,
+        418.8514099121094,
+        202.34144592285156,
+        432.506591796875
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 156.9814453125,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Secured 3 rd price in Rangoli making competition of PG Cult , IIT Bombay",
+      "bbox": [
+        63.38399887084961,
+        432.6513977050781,
+        386.408447265625,
+        446.30657958984375
+      ],
+      "left_indent": 63.38399887084961,
+      "width": 323.0244483947754,
+      "is_bold": true,
+      "font_size": 9.300000031789144
+    },
+    {
+      "page": 2,
+      "text": "[Sept, 2019]",
+      "bbox": [
+        523.4199829101562,
+        432.6513977050781,
+        575.2106323242188,
+        446.30657958984375
+      ],
+      "left_indent": 523.4199829101562,
+      "width": 51.7906494140625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "•",
+      "bbox": [
+        45.36000061035156,
+        432.95648193359375,
+        49.94121170043945,
+        445.158447265625
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 4.581211090087891,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "POSITION OF RESPONSIBILITIES",
+      "bbox": [
+        45.36000061035156,
+        459.9925537109375,
+        213.31153869628906,
+        475.1283874511719
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 167.9515380859375,
+      "is_bold": true,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 2,
+      "text": "Teaching Assistant | Department of Civil Engineering | IIT Bombay",
+      "bbox": [
+        45.36000061035156,
+        475.1513977050781,
+        339.90374755859375,
+        488.80657958984375
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 294.5437469482422,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "CE 329: Geotechnical Engineering Lab I",
+      "bbox": [
+        45.36000061035156,
+        488.8314208984375,
+        223.82144165039062,
+        502.4866027832031
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 178.46144104003906,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "CE 336: Geotechnical Engineering Lab II",
+      "bbox": [
+        261.6499938964844,
+        488.8314208984375,
+        446.3514404296875,
+        502.4866027832031
+      ],
+      "left_indent": 261.6499938964844,
+      "width": 184.70144653320312,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "[July, 2019- June, 2020]",
+      "bbox": [
+        473.739990234375,
+        488.8314208984375,
+        572.6768798828125,
+        502.4866027832031
+      ],
+      "left_indent": 473.739990234375,
+      "width": 98.9368896484375,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Guided UG students to learn basic experimental skills in Geotechnical Engineering.",
+      "bbox": [
+        63.38399887084961,
+        502.5113830566406,
+        439.5674133300781,
+        516.1665649414062
+      ],
+      "left_indent": 63.38399887084961,
+      "width": 376.1834144592285,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "•",
+      "bbox": [
+        45.36000061035156,
+        505.2342529296875,
+        48.90533447265625,
+        515.1942749023438
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 3.5453338623046875,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Evaluated the performance of the students by correcting their lab files and exam papers.",
+      "bbox": [
+        63.38399887084961,
+        516.3114624023438,
+        461.88348388671875,
+        529.9666137695312
+      ],
+      "left_indent": 63.38399887084961,
+      "width": 398.49948501586914,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "•",
+      "bbox": [
+        45.36000061035156,
+        519.0343017578125,
+        48.90533447265625,
+        528.9943237304688
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 3.5453338623046875,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "TECHNICAL SKILLS:",
+      "bbox": [
+        45.36000061035156,
+        543.6325073242188,
+        149.32371520996094,
+        558.7683715820312
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 103.96371459960938,
+      "is_bold": true,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 2,
+      "text": "Software proficiencies :",
+      "bbox": [
+        45.36000061035156,
+        558.7914428710938,
+        157.50067138671875,
+        572.4465942382812
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 112.14067077636719,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "AutoCAD",
+      "bbox": [
+        68.78399658203125,
+        572.471435546875,
+        112.02067565917969,
+        586.1265869140625
+      ],
+      "left_indent": 68.78399658203125,
+      "width": 43.23667907714844,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Revit Architecture",
+      "bbox": [
+        236.80999755859375,
+        572.471435546875,
+        320.27069091796875,
+        586.1265869140625
+      ],
+      "left_indent": 236.80999755859375,
+      "width": 83.460693359375,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "STAAD Pro",
+      "bbox": [
+        404.8299865722656,
+        572.471435546875,
+        455.6606750488281,
+        586.1265869140625
+      ],
+      "left_indent": 404.8299865722656,
+      "width": 50.8306884765625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "•",
+      "bbox": [
+        50.7599983215332,
+        572.7764892578125,
+        55.341209411621094,
+        584.9784545898438
+      ],
+      "left_indent": 50.7599983215332,
+      "width": 4.581211090087891,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "•",
+      "bbox": [
+        218.80999755859375,
+        572.7764892578125,
+        223.39120483398438,
+        584.9784545898438
+      ],
+      "left_indent": 218.80999755859375,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "•",
+      "bbox": [
+        386.8299865722656,
+        572.7764892578125,
+        391.41119384765625,
+        584.9784545898438
+      ],
+      "left_indent": 386.8299865722656,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "PLAXIS",
+      "bbox": [
+        68.78399658203125,
+        586.1514282226562,
+        104.8206787109375,
+        599.8065795898438
+      ],
+      "left_indent": 68.78399658203125,
+      "width": 36.03668212890625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "MATLAB",
+      "bbox": [
+        236.80999755859375,
+        586.1514282226562,
+        278.9706726074219,
+        599.8065795898438
+      ],
+      "left_indent": 236.80999755859375,
+      "width": 42.160675048828125,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "MS Office",
+      "bbox": [
+        404.8299865722656,
+        586.1514282226562,
+        451.1006774902344,
+        599.8065795898438
+      ],
+      "left_indent": 404.8299865722656,
+      "width": 46.27069091796875,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "•",
+      "bbox": [
+        50.7599983215332,
+        586.4564819335938,
+        55.341209411621094,
+        598.658447265625
+      ],
+      "left_indent": 50.7599983215332,
+      "width": 4.581211090087891,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "•",
+      "bbox": [
+        218.80999755859375,
+        586.4564819335938,
+        223.39120483398438,
+        598.658447265625
+      ],
+      "left_indent": 218.80999755859375,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "•",
+      "bbox": [
+        386.8299865722656,
+        586.4564819335938,
+        391.41119384765625,
+        598.658447265625
+      ],
+      "left_indent": 386.8299865722656,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "COURSES AND CERTIFICATIONS",
+      "bbox": [
+        45.36000061035156,
+        605.7925415039062,
+        211.83218383789062,
+        620.9284057617188
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 166.47218322753906,
+      "is_bold": true,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 2,
+      "text": "Autodesk Authorised training centre course BIM for structures , from Intercad Systems (PVT)",
+      "bbox": [
+        63.38399887084961,
+        620.9814453125,
+        480.7406921386719,
+        634.6365966796875
+      ],
+      "left_indent": 63.38399887084961,
+      "width": 417.35669326782227,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "[July, 2019]",
+      "bbox": [
+        524.02001953125,
+        620.9814453125,
+        575.0906372070312,
+        634.6365966796875
+      ],
+      "left_indent": 524.02001953125,
+      "width": 51.07061767578125,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "•",
+      "bbox": [
+        45.36000061035156,
+        622.1485595703125,
+        49.63148498535156,
+        634.1485595703125
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 4.271484375,
+      "is_bold": false,
+      "font_size": 12.0
+    },
+    {
+      "page": 2,
+      "text": "Completed Introduction to Data Analysis Using Excel by RICE University, from Coursera",
+      "bbox": [
+        63.38399887084961,
+        634.6614379882812,
+        465.38067626953125,
+        648.3165893554688
+      ],
+      "left_indent": 63.38399887084961,
+      "width": 401.99667739868164,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "[Aug, 2020]",
+      "bbox": [
+        523.6599731445312,
+        634.6614379882812,
+        575.0906372070312,
+        648.3165893554688
+      ],
+      "left_indent": 523.6599731445312,
+      "width": 51.4306640625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "•",
+      "bbox": [
+        45.36000061035156,
+        637.38427734375,
+        48.90533447265625,
+        647.3442993164062
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 3.5453338623046875,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "RELEVANT COURSES ATTENDED",
+      "bbox": [
+        45.36000061035156,
+        660.3025512695312,
+        213.27842712402344,
+        675.4384155273438
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 167.91842651367188,
+      "is_bold": true,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 2,
+      "text": "Advanced Foundation Engineering",
+      "bbox": [
+        68.78399658203125,
+        675.46142578125,
+        222.90505981445312,
+        689.1165771484375
+      ],
+      "left_indent": 68.78399658203125,
+      "width": 154.12106323242188,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Foundation of Offshore Structures",
+      "bbox": [
+        345.30999755859375,
+        675.46142578125,
+        497.13031005859375,
+        689.1165771484375
+      ],
+      "left_indent": 345.30999755859375,
+      "width": 151.8203125,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "•",
+      "bbox": [
+        50.7599983215332,
+        677.69677734375,
+        54.45808410644531,
+        687.5465698242188
+      ],
+      "left_indent": 50.7599983215332,
+      "width": 3.6980857849121094,
+      "is_bold": false,
+      "font_size": 8.039999961853027
+    },
+    {
+      "page": 2,
+      "text": "•",
+      "bbox": [
+        327.30999755859375,
+        677.69677734375,
+        331.0080871582031,
+        687.5465698242188
+      ],
+      "left_indent": 327.30999755859375,
+      "width": 3.698089599609375,
+      "is_bold": false,
+      "font_size": 8.039999961853027
+    },
+    {
+      "page": 2,
+      "text": "Design and Testing of Pile Foundations",
+      "bbox": [
+        68.78399658203125,
+        689.2614135742188,
+        241.1916046142578,
+        702.9165649414062
+      ],
+      "left_indent": 68.78399658203125,
+      "width": 172.40760803222656,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Computing in Civil Engineering",
+      "bbox": [
+        345.30999755859375,
+        689.2614135742188,
+        488.5406799316406,
+        702.9165649414062
+      ],
+      "left_indent": 345.30999755859375,
+      "width": 143.23068237304688,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "•",
+      "bbox": [
+        50.7599983215332,
+        691.4967651367188,
+        54.45808410644531,
+        701.3465576171875
+      ],
+      "left_indent": 50.7599983215332,
+      "width": 3.6980857849121094,
+      "is_bold": false,
+      "font_size": 8.039999961853027
+    },
+    {
+      "page": 2,
+      "text": "•",
+      "bbox": [
+        327.30999755859375,
+        691.4967651367188,
+        331.0080871582031,
+        701.3465576171875
+      ],
+      "left_indent": 327.30999755859375,
+      "width": 3.698089599609375,
+      "is_bold": false,
+      "font_size": 8.039999961853027
+    },
+    {
+      "page": 2,
+      "text": "Prestressed Concrete",
+      "bbox": [
+        68.78399658203125,
+        702.9414672851562,
+        165.06068420410156,
+        716.5966186523438
+      ],
+      "left_indent": 68.78399658203125,
+      "width": 96.27668762207031,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Advanced Soil Mechanics",
+      "bbox": [
+        345.30999755859375,
+        702.9414672851562,
+        460.5806884765625,
+        716.5966186523438
+      ],
+      "left_indent": 345.30999755859375,
+      "width": 115.27069091796875,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "•",
+      "bbox": [
+        50.7599983215332,
+        705.1768188476562,
+        54.45808410644531,
+        715.026611328125
+      ],
+      "left_indent": 50.7599983215332,
+      "width": 3.6980857849121094,
+      "is_bold": false,
+      "font_size": 8.039999961853027
+    },
+    {
+      "page": 2,
+      "text": "•",
+      "bbox": [
+        327.30999755859375,
+        705.1768188476562,
+        331.0080871582031,
+        715.026611328125
+      ],
+      "left_indent": 327.30999755859375,
+      "width": 3.698089599609375,
+      "is_bold": false,
+      "font_size": 8.039999961853027
+    },
+    {
+      "page": 2,
+      "text": "Advanced Design of Reinforced Concrete Structures",
+      "bbox": [
+        68.78399658203125,
+        716.6214599609375,
+        298.91973876953125,
+        730.276611328125
+      ],
+      "left_indent": 68.78399658203125,
+      "width": 230.1357421875,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Earthquake Resistant Design of Structures",
+      "bbox": [
+        345.30999755859375,
+        716.6214599609375,
+        534.8606567382812,
+        730.276611328125
+      ],
+      "left_indent": 345.30999755859375,
+      "width": 189.5506591796875,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "•",
+      "bbox": [
+        50.7599983215332,
+        718.8568115234375,
+        54.45808410644531,
+        728.7066040039062
+      ],
+      "left_indent": 50.7599983215332,
+      "width": 3.6980857849121094,
+      "is_bold": false,
+      "font_size": 8.039999961853027
+    },
+    {
+      "page": 2,
+      "text": "•",
+      "bbox": [
+        327.30999755859375,
+        718.8568115234375,
+        331.0080871582031,
+        728.7066040039062
+      ],
+      "left_indent": 327.30999755859375,
+      "width": 3.698089599609375,
+      "is_bold": false,
+      "font_size": 8.039999961853027
+    },
+    {
+      "page": 2,
+      "text": "Quantity Surveying and Valuation",
+      "bbox": [
+        68.78399658203125,
+        730.3014526367188,
+        220.05067443847656,
+        743.9566040039062
+      ],
+      "left_indent": 68.78399658203125,
+      "width": 151.2666778564453,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Construction Management",
+      "bbox": [
+        345.30999755859375,
+        730.3014526367188,
+        466.5806884765625,
+        743.9566040039062
+      ],
+      "left_indent": 345.30999755859375,
+      "width": 121.27069091796875,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "•",
+      "bbox": [
+        50.7599983215332,
+        732.5368041992188,
+        54.45808410644531,
+        742.3865966796875
+      ],
+      "left_indent": 50.7599983215332,
+      "width": 3.6980857849121094,
+      "is_bold": false,
+      "font_size": 8.039999961853027
+    },
+    {
+      "page": 2,
+      "text": "•",
+      "bbox": [
+        327.30999755859375,
+        732.5368041992188,
+        331.0080871582031,
+        742.3865966796875
+      ],
+      "left_indent": 327.30999755859375,
+      "width": 3.698089599609375,
+      "is_bold": false,
+      "font_size": 8.039999961853027
+    },
+    {
+      "page": 2,
+      "text": "HOBBIES AND INTERESTS",
+      "bbox": [
+        45.36000061035156,
+        757.738525390625,
+        179.18690490722656,
+        772.8743896484375
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 133.826904296875,
+      "is_bold": true,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 2,
+      "text": "Listening to songs",
+      "bbox": [
+        68.78399658203125,
+        772.8974609375,
+        151.8606719970703,
+        786.5526123046875
+      ],
+      "left_indent": 68.78399658203125,
+      "width": 83.07667541503906,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Dancing",
+      "bbox": [
+        255.0500030517578,
+        772.8974609375,
+        294.690673828125,
+        786.5526123046875
+      ],
+      "left_indent": 255.0500030517578,
+      "width": 39.64067077636719,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Playing carroms",
+      "bbox": [
+        410.95001220703125,
+        772.8974609375,
+        483.3691711425781,
+        786.5526123046875
+      ],
+      "left_indent": 410.95001220703125,
+      "width": 72.41915893554688,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "•",
+      "bbox": [
+        50.7599983215332,
+        773.2025146484375,
+        55.341209411621094,
+        785.4044799804688
+      ],
+      "left_indent": 50.7599983215332,
+      "width": 4.581211090087891,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "•",
+      "bbox": [
+        237.0500030517578,
+        773.2025146484375,
+        241.63121032714844,
+        785.4044799804688
+      ],
+      "left_indent": 237.0500030517578,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "•",
+      "bbox": [
+        392.95001220703125,
+        773.2025146484375,
+        397.5312194824219,
+        785.4044799804688
+      ],
+      "left_indent": 392.95001220703125,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Scholastic achievements and extracurricular activities are not verified by the Placement Cell",
+      "bbox": [
+        130.6739959716797,
+        824.3609619140625,
+        465.8793029785156,
+        835.3499755859375
+      ],
+      "left_indent": 130.6739959716797,
+      "width": 335.20530700683594,
+      "is_bold": false,
+      "font_size": 9.0
+    }
+  ],
+  "text_per_page": [
+    "Resmi M\n193040021\nCivil Engineering\nM.Tech.\nIndian Institute of Technology, Bombay\nGender: Female\nSpecialization: Geotechnical Engineering\nDOB: 19-04-1996\nExamination\nUniversity\nInstitute\nYear\nCPI / %\nPost Graduation\nIIT Bombay\nIIT Bombay\n2021\n9.29\nGraduation\nUniversity of Kerala\nCollege of Engineering Trivandrum\n2018\n8.84\nGraduation Specialization: Civil Engineering\nIntermediate\nBoard of Higher Secondary\nHoly Angels' Convent HSS\n2014\n98.00%\nExamination\nMatriculation\nKerala Board of Public\nHoly Angels' Convent HSS\n2012\n90.00%\nExaminations\nSCHOLASTIC ACHIEVEMENTS\nScored 99.17 percentile in the Graduate Aptitude Test in Engineering (2019), out of 1,45,064 students\n•\nKEY PROJECTS AND SEMINARS\nM.Tech Dissertation | Guide: Prof. Satyanarayana Murty Dasaka, IIT Bombay\n[July ’20-ongoing]\nUnderstanding the Behaviour of an Anchored Rigid Retaining Wall by Back Analysis\nAnalyse the forces acting on a cantilever retaining wall with counterforts and obtain the movement of the\n•\nwall required to attain the active earth pressure condition, under varying site conditions and soil types.\nAnalyse retaining wall with anchors and find the required spacing between anchors\n•\nNumerically model the load-deformation behaviour of anchors using PLAXIS .\n•\nUnderstand the short-term and long-term behaviour of retaining walls.\n•\nIdentify the causes of failure of retaining wall, and develop guidelines on preventing such failures in future.\n•\nM.Tech Credit Seminar | Guide: Prof. Satyanarayana Murty Dasaka, IIT Bombay [Jan ’20 – June ‘20]\nApplication of Geosynthetics in Pavements on Expansive Soils\nReviewed literature on the field and laboratory studies on expansive soils and studied the effectiveness and\n•\nsuitability of using geosynthetics in remediating the problems related to pavements on expansive soils.\nUnderstood the cause and types of pavement distresses on expansive subgrades\n•\nUnderstood the mechanisms of geosynthetic reinforcement and assessed the future scope of works required\n•\nB.Tech Project | Guide: Prof. Ajitha A. R., College of Engineering Trivandrum\n[2018]\nDesign and Analysis of Reinforced Earth Retaining Wall\nDesigned and compared the cost of construction of a Reinforced Earth retaining wall ( RE wall ) and a\n•\nReinforced Cement Concrete ( RCC ) retaining wall for same soil conditions and height\nAbout 47% cost savings in using an RE wall in the place of an RCC wall\n•\nB.Tech Seminar | Guide: Prof. Ajitha A. R., College of Engineering Trivandrum\n[2017]\nSustainable Design Criteria for Earthquake Region\nReviewed literature on approaches that enable post-event functionality in earthquake -prone regions,\n•\nresulting in more sustainable structural systems.\nSurvey Camp | As a part of the Undergraduate curriculum\n[2017]\nConducted survey of a portion of the College of Engineering Trivandrum campus, using Total Station .\n•\nDeveloped a topographic map with contour lines using LisCAD and AutoCAD .\n•\nCourse Project | Guide: Prof. Ashish Juneja, IIT Bombay [November 2019]\nFinite Element Analysis Using PLAXIS 2D | (Course: Geotechnical Constitutive Modelling)\n•\nModelled a raft foundation to a circular water tank resting on a soft clay deposit using PLAXIS 2D to analyse\nthe consolidation behaviour before and after cement stabilisation of soft clay.\n•\nThe analysis showed that the factor of safety increased by around 4.7 times, the time required for 95 %\nconsolidation has reduced and the settlement was brought below the allowable limit post stabilisation.",
+    "Course Seminar | Guide: . B.V.S. Viswanadham , IIT Bombay\n[May 2020]\nCentrifuge Study on the Effect of Pile Bending Stiffness on the Slope Stabilised by Piles\n(Course: Geotechnical Centrifuge Modelling)\nReviewed literature on Centrifuge Modelling of pile reinforced slopes\n•\nSITE VISITS AND INTERNSHIPS\nSite visits:\nThane West, Mumbai, on 3/3/2020 to witness a pile load testing carried out as part of the Metro Line-5 project\n•\nIndustrial visit to Poabs M-sand manufacturing unit in October 2015 , organised by ICI CET Student’s Chapter\n•\nVisit to Aruvikkara dam and water treatment plant in October 2015 , organised by ICI CET Student’s Chapter\n•\nInternship training: | Under the Kerala Public Works Department (Roads and Bridges Section)\nDuring the period of 24 th to 30 th of May, 2017, study visits were conducted to BM & BC plant at\n•\nKarakkamandapam, Chellengi Bridge site and Peyad Road improvement project .\nCO-CURRICULAR ACTIVITIES\nAttended international webinar on “ Recent Advances in Geotechnical Engineering Research\n[ July 1-10,\n•\n& Practice ”, organised by the Department of Civil and Environmental Engineering, IIT Patna\n2020]\nAttended DFI-India Webinar Series on Steel Retaining Structures and Foundations\n[July 29, 2020]\n•\n[Aug 12,2020]\nAttended a webinar on “ Necessity of Seismic Response Assessment for Geotechnical Site ”\n[June 14, 2020]\n•\nconducted by Indian Geotechnical Society Silchar Student Chapter\nMember of the Indian Concrete Institute , CET chapter\n[2015-’16, 2016-’17]\n•\nParticipated in Model Making as a part of Pantheon organised by the ICI CET Student’s Chapter\n[March, 2016]\n•\nParticipated in the Technical Exhibition and Open House CETEX held in connection with the\n[Jan, 2015]\n•\nPlatinum Jubilee celebrations of College of Engineering Trivandrum\nEXTRA CURRICULAR ACTIVITIES\nSecured 3 rd price in Rangoli making competition of PG Cult , IIT Bombay\n[Sept, 2019]\n•\nPOSITION OF RESPONSIBILITIES\nTeaching Assistant | Department of Civil Engineering | IIT Bombay\nCE 329: Geotechnical Engineering Lab I\nCE 336: Geotechnical Engineering Lab II\n[July, 2019- June, 2020]\nGuided UG students to learn basic experimental skills in Geotechnical Engineering.\n•\nEvaluated the performance of the students by correcting their lab files and exam papers.\n•\nTECHNICAL SKILLS:\nSoftware proficiencies :\nAutoCAD\nRevit Architecture\nSTAAD Pro\n•\n•\n•\nPLAXIS\nMATLAB\nMS Office\n•\n•\n•\nCOURSES AND CERTIFICATIONS\nAutodesk Authorised training centre course BIM for structures , from Intercad Systems (PVT)\n[July, 2019]\n•\nCompleted Introduction to Data Analysis Using Excel by RICE University, from Coursera\n[Aug, 2020]\n•\nRELEVANT COURSES ATTENDED\nAdvanced Foundation Engineering\nFoundation of Offshore Structures\n•\n•\nDesign and Testing of Pile Foundations\nComputing in Civil Engineering\n•\n•\nPrestressed Concrete\nAdvanced Soil Mechanics\n•\n•\nAdvanced Design of Reinforced Concrete Structures\nEarthquake Resistant Design of Structures\n•\n•\nQuantity Surveying and Valuation\nConstruction Management\n•\n•\nHOBBIES AND INTERESTS\nListening to songs\nDancing\nPlaying carroms\n•\n•\n•\nScholastic achievements and extracurricular activities are not verified by the Placement Cell"
+  ],
+  "text_all": "Resmi M\n193040021\nCivil Engineering\nM.Tech.\nIndian Institute of Technology, Bombay\nGender: Female\nSpecialization: Geotechnical Engineering\nDOB: 19-04-1996\nExamination\nUniversity\nInstitute\nYear\nCPI / %\nPost Graduation\nIIT Bombay\nIIT Bombay\n2021\n9.29\nGraduation\nUniversity of Kerala\nCollege of Engineering Trivandrum\n2018\n8.84\nGraduation Specialization: Civil Engineering\nIntermediate\nBoard of Higher Secondary\nHoly Angels' Convent HSS\n2014\n98.00%\nExamination\nMatriculation\nKerala Board of Public\nHoly Angels' Convent HSS\n2012\n90.00%\nExaminations\nSCHOLASTIC ACHIEVEMENTS\nScored 99.17 percentile in the Graduate Aptitude Test in Engineering (2019), out of 1,45,064 students\n•\nKEY PROJECTS AND SEMINARS\nM.Tech Dissertation | Guide: Prof. Satyanarayana Murty Dasaka, IIT Bombay\n[July ’20-ongoing]\nUnderstanding the Behaviour of an Anchored Rigid Retaining Wall by Back Analysis\nAnalyse the forces acting on a cantilever retaining wall with counterforts and obtain the movement of the\n•\nwall required to attain the active earth pressure condition, under varying site conditions and soil types.\nAnalyse retaining wall with anchors and find the required spacing between anchors\n•\nNumerically model the load-deformation behaviour of anchors using PLAXIS .\n•\nUnderstand the short-term and long-term behaviour of retaining walls.\n•\nIdentify the causes of failure of retaining wall, and develop guidelines on preventing such failures in future.\n•\nM.Tech Credit Seminar | Guide: Prof. Satyanarayana Murty Dasaka, IIT Bombay [Jan ’20 – June ‘20]\nApplication of Geosynthetics in Pavements on Expansive Soils\nReviewed literature on the field and laboratory studies on expansive soils and studied the effectiveness and\n•\nsuitability of using geosynthetics in remediating the problems related to pavements on expansive soils.\nUnderstood the cause and types of pavement distresses on expansive subgrades\n•\nUnderstood the mechanisms of geosynthetic reinforcement and assessed the future scope of works required\n•\nB.Tech Project | Guide: Prof. Ajitha A. R., College of Engineering Trivandrum\n[2018]\nDesign and Analysis of Reinforced Earth Retaining Wall\nDesigned and compared the cost of construction of a Reinforced Earth retaining wall ( RE wall ) and a\n•\nReinforced Cement Concrete ( RCC ) retaining wall for same soil conditions and height\nAbout 47% cost savings in using an RE wall in the place of an RCC wall\n•\nB.Tech Seminar | Guide: Prof. Ajitha A. R., College of Engineering Trivandrum\n[2017]\nSustainable Design Criteria for Earthquake Region\nReviewed literature on approaches that enable post-event functionality in earthquake -prone regions,\n•\nresulting in more sustainable structural systems.\nSurvey Camp | As a part of the Undergraduate curriculum\n[2017]\nConducted survey of a portion of the College of Engineering Trivandrum campus, using Total Station .\n•\nDeveloped a topographic map with contour lines using LisCAD and AutoCAD .\n•\nCourse Project | Guide: Prof. Ashish Juneja, IIT Bombay [November 2019]\nFinite Element Analysis Using PLAXIS 2D | (Course: Geotechnical Constitutive Modelling)\n•\nModelled a raft foundation to a circular water tank resting on a soft clay deposit using PLAXIS 2D to analyse\nthe consolidation behaviour before and after cement stabilisation of soft clay.\n•\nThe analysis showed that the factor of safety increased by around 4.7 times, the time required for 95 %\nconsolidation has reduced and the settlement was brought below the allowable limit post stabilisation.\n\nCourse Seminar | Guide: . B.V.S. Viswanadham , IIT Bombay\n[May 2020]\nCentrifuge Study on the Effect of Pile Bending Stiffness on the Slope Stabilised by Piles\n(Course: Geotechnical Centrifuge Modelling)\nReviewed literature on Centrifuge Modelling of pile reinforced slopes\n•\nSITE VISITS AND INTERNSHIPS\nSite visits:\nThane West, Mumbai, on 3/3/2020 to witness a pile load testing carried out as part of the Metro Line-5 project\n•\nIndustrial visit to Poabs M-sand manufacturing unit in October 2015 , organised by ICI CET Student’s Chapter\n•\nVisit to Aruvikkara dam and water treatment plant in October 2015 , organised by ICI CET Student’s Chapter\n•\nInternship training: | Under the Kerala Public Works Department (Roads and Bridges Section)\nDuring the period of 24 th to 30 th of May, 2017, study visits were conducted to BM & BC plant at\n•\nKarakkamandapam, Chellengi Bridge site and Peyad Road improvement project .\nCO-CURRICULAR ACTIVITIES\nAttended international webinar on “ Recent Advances in Geotechnical Engineering Research\n[ July 1-10,\n•\n& Practice ”, organised by the Department of Civil and Environmental Engineering, IIT Patna\n2020]\nAttended DFI-India Webinar Series on Steel Retaining Structures and Foundations\n[July 29, 2020]\n•\n[Aug 12,2020]\nAttended a webinar on “ Necessity of Seismic Response Assessment for Geotechnical Site ”\n[June 14, 2020]\n•\nconducted by Indian Geotechnical Society Silchar Student Chapter\nMember of the Indian Concrete Institute , CET chapter\n[2015-’16, 2016-’17]\n•\nParticipated in Model Making as a part of Pantheon organised by the ICI CET Student’s Chapter\n[March, 2016]\n•\nParticipated in the Technical Exhibition and Open House CETEX held in connection with the\n[Jan, 2015]\n•\nPlatinum Jubilee celebrations of College of Engineering Trivandrum\nEXTRA CURRICULAR ACTIVITIES\nSecured 3 rd price in Rangoli making competition of PG Cult , IIT Bombay\n[Sept, 2019]\n•\nPOSITION OF RESPONSIBILITIES\nTeaching Assistant | Department of Civil Engineering | IIT Bombay\nCE 329: Geotechnical Engineering Lab I\nCE 336: Geotechnical Engineering Lab II\n[July, 2019- June, 2020]\nGuided UG students to learn basic experimental skills in Geotechnical Engineering.\n•\nEvaluated the performance of the students by correcting their lab files and exam papers.\n•\nTECHNICAL SKILLS:\nSoftware proficiencies :\nAutoCAD\nRevit Architecture\nSTAAD Pro\n•\n•\n•\nPLAXIS\nMATLAB\nMS Office\n•\n•\n•\nCOURSES AND CERTIFICATIONS\nAutodesk Authorised training centre course BIM for structures , from Intercad Systems (PVT)\n[July, 2019]\n•\nCompleted Introduction to Data Analysis Using Excel by RICE University, from Coursera\n[Aug, 2020]\n•\nRELEVANT COURSES ATTENDED\nAdvanced Foundation Engineering\nFoundation of Offshore Structures\n•\n•\nDesign and Testing of Pile Foundations\nComputing in Civil Engineering\n•\n•\nPrestressed Concrete\nAdvanced Soil Mechanics\n•\n•\nAdvanced Design of Reinforced Concrete Structures\nEarthquake Resistant Design of Structures\n•\n•\nQuantity Surveying and Valuation\nConstruction Management\n•\n•\nHOBBIES AND INTERESTS\nListening to songs\nDancing\nPlaying carroms\n•\n•\n•\nScholastic achievements and extracurricular activities are not verified by the Placement Cell"
+}

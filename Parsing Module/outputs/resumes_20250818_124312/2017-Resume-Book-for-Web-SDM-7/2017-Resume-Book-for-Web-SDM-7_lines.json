@@ -1,0 +1,1174 @@
+{
+  "meta": {
+    "source_path": "data/resumes/2017-Resume-Book-for-Web-SDM-7.pdf",
+    "pages": 1
+  },
+  "lines": [
+    {
+      "page": 1,
+      "text": "SUBHANKAR DAS",
+      "bbox": [
+        244.0789031982422,
+        44.92474365234375,
+        386.2810974121094,
+        62.466304779052734
+      ],
+      "left_indent": 244.0789031982422,
+      "width": 142.2021942138672,
+      "is_bold": true,
+      "font_size": 15.839999198913574
+    },
+    {
+      "page": 1,
+      "text": "s_das@mit.edu | (617)-909-4828 | #705, Building W85, 540 Memorial Drive, Cambridge, MA-02139",
+      "bbox": [
+        99.49833679199219,
+        60.88372802734375,
+        526.8114013671875,
+        72.31232452392578
+      ],
+      "left_indent": 99.49833679199219,
+      "width": 427.3130645751953,
+      "is_bold": false,
+      "font_size": 10.319999694824219
+    },
+    {
+      "page": 1,
+      "text": "SUMMARY",
+      "bbox": [
+        43.20000076293945,
+        83.62664794921875,
+        110.19020080566406,
+        96.91571044921875
+      ],
+      "left_indent": 43.20000076293945,
+      "width": 66.99020004272461,
+      "is_bold": true,
+      "font_size": 12.0
+    },
+    {
+      "page": 1,
+      "text": "Engineering and management professional with 12 years of experience in the Hi-Tech industry, leading several",
+      "bbox": [
+        43.20000076293945,
+        98.3759765625,
+        538.2842407226562,
+        110.33613586425781
+      ],
+      "left_indent": 43.20000076293945,
+      "width": 495.0842399597168,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "teams in successfully developing and shipping innovative products, both in the corporate and start-up environments.",
+      "bbox": [
+        43.20000076293945,
+        109.17596435546875,
+        560.0372314453125,
+        121.13612365722656
+      ],
+      "left_indent": 43.20000076293945,
+      "width": 516.837230682373,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "EDUCATION",
+      "bbox": [
+        43.20000076293945,
+        132.586669921875,
+        116.54360961914062,
+        145.875732421875
+      ],
+      "left_indent": 43.20000076293945,
+      "width": 73.34360885620117,
+      "is_bold": true,
+      "font_size": 12.0
+    },
+    {
+      "page": 1,
+      "text": "Massachusetts Institute of Technology",
+      "bbox": [
+        43.20000076293945,
+        147.095947265625,
+        222.46705627441406,
+        159.0561065673828
+      ],
+      "left_indent": 43.20000076293945,
+      "width": 179.2670555114746,
+      "is_bold": true,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Cambridge, MA",
+      "bbox": [
+        475.098388671875,
+        147.095947265625,
+        549.9000244140625,
+        159.0561065673828
+      ],
+      "left_indent": 475.098388671875,
+      "width": 74.8016357421875,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "School of Engineering & Sloan School of Management",
+      "bbox": [
+        43.20000076293945,
+        158.135986328125,
+        287.5563049316406,
+        170.0961456298828
+      ],
+      "left_indent": 43.20000076293945,
+      "width": 244.35630416870117,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "June’17",
+      "bbox": [
+        511.7723083496094,
+        158.135986328125,
+        547.0996704101562,
+        170.0961456298828
+      ],
+      "left_indent": 511.7723083496094,
+      "width": 35.327362060546875,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Masters - System Design and Management (SDM)",
+      "bbox": [
+        43.20000076293945,
+        169.17596435546875,
+        267.0763244628906,
+        181.13612365722656
+      ],
+      "left_indent": 43.20000076293945,
+      "width": 223.87632369995117,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "GPA: 4.9/5.0",
+      "bbox": [
+        475.20001220703125,
+        169.17596435546875,
+        550.0015258789062,
+        181.13612365722656
+      ],
+      "left_indent": 475.20001220703125,
+      "width": 74.801513671875,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Visvesvaraya Technological University",
+      "bbox": [
+        43.20000076293945,
+        191.2559814453125,
+        227.99620056152344,
+        203.2161407470703
+      ],
+      "left_indent": 43.20000076293945,
+      "width": 184.79619979858398,
+      "is_bold": true,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Bagalkot, KA, India",
+      "bbox": [
+        457.99688720703125,
+        191.2559814453125,
+        549.9000244140625,
+        203.2161407470703
+      ],
+      "left_indent": 457.99688720703125,
+      "width": 91.90313720703125,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Bachelor of Engineering, Electrical and Electronics",
+      "bbox": [
+        43.20000076293945,
+        202.05596923828125,
+        275.6217041015625,
+        214.01612854003906
+      ],
+      "left_indent": 43.20000076293945,
+      "width": 232.42170333862305,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "July’03",
+      "bbox": [
+        514.2161254882812,
+        202.05596923828125,
+        549.9000244140625,
+        214.01612854003906
+      ],
+      "left_indent": 514.2161254882812,
+      "width": 35.68389892578125,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "WORK EXPERIENCE",
+      "bbox": [
+        43.20000076293945,
+        225.46661376953125,
+        167.2136993408203,
+        238.75567626953125
+      ],
+      "left_indent": 43.20000076293945,
+      "width": 124.01369857788086,
+      "is_bold": true,
+      "font_size": 12.0
+    },
+    {
+      "page": 1,
+      "text": "SENSATA TECHNOLOGIES",
+      "bbox": [
+        43.20000076293945,
+        239.9759521484375,
+        189.2699737548828,
+        251.9361114501953
+      ],
+      "left_indent": 43.20000076293945,
+      "width": 146.06997299194336,
+      "is_bold": true,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Jun 2016 – Aug 2016",
+      "bbox": [
+        450.010009765625,
+        239.9759521484375,
+        549.9000244140625,
+        251.9361114501953
+      ],
+      "left_indent": 450.010009765625,
+      "width": 99.8900146484375,
+      "is_bold": true,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Leadership Development Program",
+      "bbox": [
+        43.20000076293945,
+        251.4437255859375,
+        191.5904998779297,
+        262.872314453125
+      ],
+      "left_indent": 43.20000076293945,
+      "width": 148.39049911499023,
+      "is_bold": false,
+      "font_size": 10.319999694824219
+    },
+    {
+      "page": 1,
+      "text": "Attleboro, MA & Aguascalientes, Mexico",
+      "bbox": [
+        373.99609375,
+        251.4437255859375,
+        549.780029296875,
+        262.872314453125
+      ],
+      "left_indent": 373.99609375,
+      "width": 175.783935546875,
+      "is_bold": false,
+      "font_size": 10.319999694824219
+    },
+    {
+      "page": 1,
+      "text": "Designed an analytical tool for evaluating individual parts holistically to make data-driven decisions.",
+      "bbox": [
+        61.20000076293945,
+        273.0959777832031,
+        508.3714904785156,
+        285.0561218261719
+      ],
+      "left_indent": 61.20000076293945,
+      "width": 447.1714897155762,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        43.20000076293945,
+        275.8204650878906,
+        47.726016998291016,
+        285.66046142578125
+      ],
+      "left_indent": 43.20000076293945,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Successfully deployed the tool for an entire family of products, with estimated profit of $1. 3M over next 5 years",
+      "bbox": [
+        61.20000076293945,
+        284.135986328125,
+        558.2340087890625,
+        296.09613037109375
+      ],
+      "left_indent": 61.20000076293945,
+      "width": 497.03400802612305,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Developed framework, discovered systemic process gaps, recommended and implemented long-term mitigation",
+      "bbox": [
+        61.20000076293945,
+        294.93597412109375,
+        556.2943725585938,
+        306.8961181640625
+      ],
+      "left_indent": 61.20000076293945,
+      "width": 495.0943717956543,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        43.20000076293945,
+        297.66046142578125,
+        47.726016998291016,
+        307.5004577636719
+      ],
+      "left_indent": 43.20000076293945,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "plans, for effective management of End-Of-Life and Service parts with long product life cycles of 20+ years",
+      "bbox": [
+        61.20000076293945,
+        305.9759826660156,
+        540.1763916015625,
+        317.9361267089844
+      ],
+      "left_indent": 61.20000076293945,
+      "width": 478.97639083862305,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "TEXAS INSTRUMENTS",
+      "bbox": [
+        43.20000076293945,
+        328.05596923828125,
+        163.17669677734375,
+        340.01611328125
+      ],
+      "left_indent": 43.20000076293945,
+      "width": 119.9766960144043,
+      "is_bold": true,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Aug 2011 – Aug 2015",
+      "bbox": [
+        448.7908020019531,
+        328.05596923828125,
+        549.9000244140625,
+        340.01611328125
+      ],
+      "left_indent": 448.7908020019531,
+      "width": 101.10922241210938,
+      "is_bold": true,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Team Lead, Microcontroller and Embedded Processing",
+      "bbox": [
+        43.20000076293945,
+        339.5237121582031,
+        280.24578857421875,
+        350.9523010253906
+      ],
+      "left_indent": 43.20000076293945,
+      "width": 237.0457878112793,
+      "is_bold": false,
+      "font_size": 10.319999694824219
+    },
+    {
+      "page": 1,
+      "text": "Bangalore, India",
+      "bbox": [
+        475.45849609375,
+        339.5237121582031,
+        549.780029296875,
+        350.9523010253906
+      ],
+      "left_indent": 475.45849609375,
+      "width": 74.321533203125,
+      "is_bold": false,
+      "font_size": 10.319999694824219
+    },
+    {
+      "page": 1,
+      "text": "Led a team of 8 to design and develop both ultra low-power and high speed digital standard cell libraries that",
+      "bbox": [
+        61.20000076293945,
+        360.93597412109375,
+        543.7858276367188,
+        372.8961181640625
+      ],
+      "left_indent": 61.20000076293945,
+      "width": 482.5858268737793,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        43.20000076293945,
+        363.66046142578125,
+        47.726016998291016,
+        373.5004577636719
+      ],
+      "left_indent": 43.20000076293945,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "formed the building blocks of almost all chips, across multiple technology nodes (130nm-28nm)",
+      "bbox": [
+        61.20000076293945,
+        371.9759826660156,
+        484.2507629394531,
+        383.9361267089844
+      ],
+      "left_indent": 61.20000076293945,
+      "width": 423.0507621765137,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Spearheaded efforts on building a robust QC system with buy-in from several design teams; the system reduced",
+      "bbox": [
+        61.20000076293945,
+        383.0159912109375,
+        555.68701171875,
+        394.97613525390625
+      ],
+      "left_indent": 61.20000076293945,
+      "width": 494.48701095581055,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        43.20000076293945,
+        385.740478515625,
+        47.726016998291016,
+        395.5804748535156
+      ],
+      "left_indent": 43.20000076293945,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "bugs reported in field, improved design cycle times by 10% and increased yield by 20%",
+      "bbox": [
+        61.20000076293945,
+        394.05596923828125,
+        450.9356994628906,
+        406.01611328125
+      ],
+      "left_indent": 61.20000076293945,
+      "width": 389.7356986999512,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Collaborated with global cross-functional teams across TI sites - Germany, Norway, China and USA to gather",
+      "bbox": [
+        61.20000076293945,
+        405.0959777832031,
+        548.7429809570312,
+        417.0561218261719
+      ],
+      "left_indent": 61.20000076293945,
+      "width": 487.5429801940918,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        43.20000076293945,
+        407.8204650878906,
+        47.726016998291016,
+        417.66046142578125
+      ],
+      "left_indent": 43.20000076293945,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "unique requirements of each team, to build and manage ~15 (6000 cells each) optimal, high-performance libraries",
+      "bbox": [
+        61.20000076293945,
+        416.135986328125,
+        564.9747314453125,
+        428.09613037109375
+      ],
+      "left_indent": 61.20000076293945,
+      "width": 503.77473068237305,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Awarded “Team TI-tanium award” thrice, for the most innovative project within a 300-member Business Unit",
+      "bbox": [
+        61.20000076293945,
+        426.93597412109375,
+        549.2803955078125,
+        438.8961181640625
+      ],
+      "left_indent": 61.20000076293945,
+      "width": 488.08039474487305,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        43.20000076293945,
+        429.66046142578125,
+        47.726016998291016,
+        439.5004577636719
+      ],
+      "left_indent": 43.20000076293945,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Mentored 9 interns; identified and hired competent candidates to create a very technically competent workforce",
+      "bbox": [
+        61.20000076293945,
+        437.9759826660156,
+        555.0328369140625,
+        449.9361267089844
+      ],
+      "left_indent": 61.20000076293945,
+      "width": 493.83283615112305,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        43.20000076293945,
+        440.7004699707031,
+        47.726016998291016,
+        450.54046630859375
+      ],
+      "left_indent": 43.20000076293945,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "AMD",
+      "bbox": [
+        43.20000076293945,
+        460.05596923828125,
+        69.32701110839844,
+        472.01611328125
+      ],
+      "left_indent": 43.20000076293945,
+      "width": 26.127010345458984,
+      "is_bold": true,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Jan 2011 – Aug 2011",
+      "bbox": [
+        455.01739501953125,
+        460.48370361328125,
+        549.780029296875,
+        471.91229248046875
+      ],
+      "left_indent": 455.01739501953125,
+      "width": 94.76263427734375,
+      "is_bold": true,
+      "font_size": 10.319999694824219
+    },
+    {
+      "page": 1,
+      "text": "Team Lead, Technology and Manufacturing Group",
+      "bbox": [
+        43.20000076293945,
+        471.5237121582031,
+        261.01458740234375,
+        482.9523010253906
+      ],
+      "left_indent": 43.20000076293945,
+      "width": 217.8145866394043,
+      "is_bold": false,
+      "font_size": 10.319999694824219
+    },
+    {
+      "page": 1,
+      "text": "Bangalore, India",
+      "bbox": [
+        475.45849609375,
+        471.5237121582031,
+        549.752197265625,
+        482.9523010253906
+      ],
+      "left_indent": 475.45849609375,
+      "width": 74.293701171875,
+      "is_bold": false,
+      "font_size": 10.319999694824219
+    },
+    {
+      "page": 1,
+      "text": "Designed and developed High-speed Standard Cell Libraries for 30% area savings on 40nm/28nm nodes",
+      "bbox": [
+        61.20000076293945,
+        492.93597412109375,
+        524.2565307617188,
+        504.8961181640625
+      ],
+      "left_indent": 61.20000076293945,
+      "width": 463.0565299987793,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        43.20000076293945,
+        495.66046142578125,
+        47.726016998291016,
+        505.5004577636719
+      ],
+      "left_indent": 43.20000076293945,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Recruited & mentored design team to grow from 3 to 11 members in 6 months to double the productivity",
+      "bbox": [
+        61.20000076293945,
+        503.9759521484375,
+        526.4263305664062,
+        515.9360961914062
+      ],
+      "left_indent": 61.20000076293945,
+      "width": 465.2263298034668,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        43.20000076293945,
+        506.700439453125,
+        47.726016998291016,
+        516.5404663085938
+      ],
+      "left_indent": 43.20000076293945,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "KARNATAKA MICROELECTRONICS DESIGN CENTRE",
+      "bbox": [
+        43.20000076293945,
+        526.0559692382812,
+        330.53179931640625,
+        538.01611328125
+      ],
+      "left_indent": 43.20000076293945,
+      "width": 287.3317985534668,
+      "is_bold": true,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Aug 2003 – Jan 2011",
+      "bbox": [
+        450.627685546875,
+        526.0559692382812,
+        549.9000244140625,
+        538.01611328125
+      ],
+      "left_indent": 450.627685546875,
+      "width": 99.2723388671875,
+      "is_bold": true,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Project Manager and Member of Technical Staff",
+      "bbox": [
+        43.20000076293945,
+        537.523681640625,
+        250.48899841308594,
+        548.9522705078125
+      ],
+      "left_indent": 43.20000076293945,
+      "width": 207.28899765014648,
+      "is_bold": false,
+      "font_size": 10.319999694824219
+    },
+    {
+      "page": 1,
+      "text": "Manipal, India",
+      "bbox": [
+        484.2051086425781,
+        537.523681640625,
+        547.0900268554688,
+        548.9522705078125
+      ],
+      "left_indent": 484.2051086425781,
+      "width": 62.884918212890625,
+      "is_bold": false,
+      "font_size": 10.319999694824219
+    },
+    {
+      "page": 1,
+      "text": "Managed several technical teams with sizes ranging from 6 to 40 members. Teams included peers and seniors",
+      "bbox": [
+        61.20000076293945,
+        558.9359741210938,
+        546.8312377929688,
+        570.8961181640625
+      ],
+      "left_indent": 61.20000076293945,
+      "width": 485.6312370300293,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        43.20000076293945,
+        561.6604614257812,
+        47.726016998291016,
+        571.50048828125
+      ],
+      "left_indent": 43.20000076293945,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Hired and provided on-the-job training to 70+ engineers to power growth and competency of the company",
+      "bbox": [
+        61.20000076293945,
+        569.9759521484375,
+        536.2609252929688,
+        581.9360961914062
+      ],
+      "left_indent": 61.20000076293945,
+      "width": 475.0609245300293,
+      "is_bold": true,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        43.20000076293945,
+        572.700439453125,
+        47.726016998291016,
+        582.5404663085938
+      ],
+      "left_indent": 43.20000076293945,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "from 28 members to 350 members over 7 years. Awarded 1% shares of the company for my contributions.",
+      "bbox": [
+        61.20000076293945,
+        581.0159912109375,
+        532.8071899414062,
+        592.9761352539062
+      ],
+      "left_indent": 61.20000076293945,
+      "width": 471.6071891784668,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Core designer of a unique product line of High Definition miniature projectors, at Syndiant Inc. Dallas, TX",
+      "bbox": [
+        61.20000076293945,
+        592.0559692382812,
+        535.2510986328125,
+        604.01611328125
+      ],
+      "left_indent": 61.20000076293945,
+      "width": 474.05109786987305,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        43.20000076293945,
+        594.7804565429688,
+        47.726016998291016,
+        604.6204833984375
+      ],
+      "left_indent": 43.20000076293945,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Headed a 3-member team to decide Compensation and Leave policies for the company",
+      "bbox": [
+        61.20000076293945,
+        603.095947265625,
+        446.3111267089844,
+        615.0560913085938
+      ],
+      "left_indent": 61.20000076293945,
+      "width": 385.1111259460449,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        43.20000076293945,
+        605.8204345703125,
+        47.726016998291016,
+        615.6604614257812
+      ],
+      "left_indent": 43.20000076293945,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "PATENTS & PAPERS",
+      "bbox": [
+        43.20000076293945,
+        626.2666625976562,
+        164.2136993408203,
+        639.5557250976562
+      ],
+      "left_indent": 43.20000076293945,
+      "width": 121.01369857788086,
+      "is_bold": true,
+      "font_size": 12.0
+    },
+    {
+      "page": 1,
+      "text": "Low Area Enable Flip-Flop , Co-Inventors – Soman P, USPTO – 20160191028, Status-Published",
+      "bbox": [
+        61.20000076293945,
+        640.7760009765625,
+        470.9250793457031,
+        652.7361450195312
+      ],
+      "left_indent": 61.20000076293945,
+      "width": 409.7250785827637,
+      "is_bold": true,
+      "font_size": 10.480000178019205
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        43.20000076293945,
+        643.50048828125,
+        47.726016998291016,
+        653.3405151367188
+      ],
+      "left_indent": 43.20000076293945,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "A Standard Cell Design with Reduced Cell Delay , Co-Inventors – Ramesh H, USPTO- 20160188758, Status-Published",
+      "bbox": [
+        61.20000076293945,
+        652.2437133789062,
+        559.85009765625,
+        663.6723022460938
+      ],
+      "left_indent": 61.20000076293945,
+      "width": 498.65009689331055,
+      "is_bold": true,
+      "font_size": 10.15999984741211
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        43.20000076293945,
+        654.5404663085938,
+        47.726016998291016,
+        664.3804931640625
+      ],
+      "left_indent": 43.20000076293945,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "New High Performance and High Density Libraries in 65nm tuned for MCU, TIITC, Dec-14 ( Best Paper)",
+      "bbox": [
+        61.20000076293945,
+        662.85595703125,
+        516.347412109375,
+        674.8161010742188
+      ],
+      "left_indent": 61.20000076293945,
+      "width": 455.14741134643555,
+      "is_bold": true,
+      "font_size": 10.080000162124634
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        43.20000076293945,
+        665.5804443359375,
+        47.726016998291016,
+        675.4204711914062
+      ],
+      "left_indent": 43.20000076293945,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Design techniques for PPA improvements in C28.P libraries, Texas Instruments Interconnect symposium, Feb-12",
+      "bbox": [
+        61.20000076293945,
+        673.89599609375,
+        538.7162475585938,
+        685.8561401367188
+      ],
+      "left_indent": 61.20000076293945,
+      "width": 477.5162467956543,
+      "is_bold": false,
+      "font_size": 10.320000171661377
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        43.20000076293945,
+        676.6204833984375,
+        47.726016998291016,
+        686.4605102539062
+      ],
+      "left_indent": 43.20000076293945,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "On-rail Passenger Information System, VLSI Design and Test Conference, May-04",
+      "bbox": [
+        61.20000076293945,
+        684.9359741210938,
+        407.7491149902344,
+        696.8961181640625
+      ],
+      "left_indent": 61.20000076293945,
+      "width": 346.5491142272949,
+      "is_bold": false,
+      "font_size": 10.320000171661377
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        43.20000076293945,
+        687.6604614257812,
+        47.726016998291016,
+        697.50048828125
+      ],
+      "left_indent": 43.20000076293945,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "ADDITIONAL INFORMATION",
+      "bbox": [
+        43.20000076293945,
+        708.2159423828125,
+        202.04840087890625,
+        720.1760864257812
+      ],
+      "left_indent": 43.20000076293945,
+      "width": 158.8484001159668,
+      "is_bold": true,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Teaching Assistant for Global Supply Chain Mgmt, B2B Marketing & Architecture of Complex Systems (MITx)",
+      "bbox": [
+        61.20000076293945,
+        721.4159545898438,
+        567.1124267578125,
+        733.3760986328125
+      ],
+      "left_indent": 61.20000076293945,
+      "width": 505.91242599487305,
+      "is_bold": true,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        43.20000076293945,
+        723.4673461914062,
+        48.167579650878906,
+        734.267333984375
+      ],
+      "left_indent": 43.20000076293945,
+      "width": 4.967578887939453,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Fellow, MIT Graduate Student Leadership Institute - A selected group of 30, across all schools at MIT",
+      "bbox": [
+        61.20000076293945,
+        732.4559326171875,
+        533.7955322265625,
+        744.4160766601562
+      ],
+      "left_indent": 61.20000076293945,
+      "width": 472.59553146362305,
+      "is_bold": true,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        43.20000076293945,
+        734.50732421875,
+        48.167579650878906,
+        745.3073120117188
+      ],
+      "left_indent": 43.20000076293945,
+      "width": 4.967578887939453,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Avid food enthusiast and food blogger. Fluent in 5 languages – English, Hindi, Oriya, Bengali & Kannada",
+      "bbox": [
+        61.20000076293945,
+        743.4959716796875,
+        534.6817016601562,
+        755.4561157226562
+      ],
+      "left_indent": 61.20000076293945,
+      "width": 473.4817008972168,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        43.20000076293945,
+        745.54736328125,
+        48.167579650878906,
+        756.3473510742188
+      ],
+      "left_indent": 43.20000076293945,
+      "width": 4.967578887939453,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    }
+  ],
+  "text_per_page": [
+    "SUBHANKAR DAS\ns_das@mit.edu | (617)-909-4828 | #705, Building W85, 540 Memorial Drive, Cambridge, MA-02139\nSUMMARY\nEngineering and management professional with 12 years of experience in the Hi-Tech industry, leading several\nteams in successfully developing and shipping innovative products, both in the corporate and start-up environments.\nEDUCATION\nMassachusetts Institute of Technology\nCambridge, MA\nSchool of Engineering & Sloan School of Management\nJune’17\nMasters - System Design and Management (SDM)\nGPA: 4.9/5.0\nVisvesvaraya Technological University\nBagalkot, KA, India\nBachelor of Engineering, Electrical and Electronics\nJuly’03\nWORK EXPERIENCE\nSENSATA TECHNOLOGIES\nJun 2016 – Aug 2016\nLeadership Development Program\nAttleboro, MA & Aguascalientes, Mexico\nDesigned an analytical tool for evaluating individual parts holistically to make data-driven decisions.\n•\nSuccessfully deployed the tool for an entire family of products, with estimated profit of $1. 3M over next 5 years\nDeveloped framework, discovered systemic process gaps, recommended and implemented long-term mitigation\n•\nplans, for effective management of End-Of-Life and Service parts with long product life cycles of 20+ years\nTEXAS INSTRUMENTS\nAug 2011 – Aug 2015\nTeam Lead, Microcontroller and Embedded Processing\nBangalore, India\nLed a team of 8 to design and develop both ultra low-power and high speed digital standard cell libraries that\n•\nformed the building blocks of almost all chips, across multiple technology nodes (130nm-28nm)\nSpearheaded efforts on building a robust QC system with buy-in from several design teams; the system reduced\n•\nbugs reported in field, improved design cycle times by 10% and increased yield by 20%\nCollaborated with global cross-functional teams across TI sites - Germany, Norway, China and USA to gather\n•\nunique requirements of each team, to build and manage ~15 (6000 cells each) optimal, high-performance libraries\nAwarded “Team TI-tanium award” thrice, for the most innovative project within a 300-member Business Unit\n•\nMentored 9 interns; identified and hired competent candidates to create a very technically competent workforce\n•\nAMD\nJan 2011 – Aug 2011\nTeam Lead, Technology and Manufacturing Group\nBangalore, India\nDesigned and developed High-speed Standard Cell Libraries for 30% area savings on 40nm/28nm nodes\n•\nRecruited & mentored design team to grow from 3 to 11 members in 6 months to double the productivity\n•\nKARNATAKA MICROELECTRONICS DESIGN CENTRE\nAug 2003 – Jan 2011\nProject Manager and Member of Technical Staff\nManipal, India\nManaged several technical teams with sizes ranging from 6 to 40 members. Teams included peers and seniors\n•\nHired and provided on-the-job training to 70+ engineers to power growth and competency of the company\n•\nfrom 28 members to 350 members over 7 years. Awarded 1% shares of the company for my contributions.\nCore designer of a unique product line of High Definition miniature projectors, at Syndiant Inc. Dallas, TX\n•\nHeaded a 3-member team to decide Compensation and Leave policies for the company\n•\nPATENTS & PAPERS\nLow Area Enable Flip-Flop , Co-Inventors – Soman P, USPTO – 20160191028, Status-Published\n•\nA Standard Cell Design with Reduced Cell Delay , Co-Inventors – Ramesh H, USPTO- 20160188758, Status-Published\n•\nNew High Performance and High Density Libraries in 65nm tuned for MCU, TIITC, Dec-14 ( Best Paper)\n•\nDesign techniques for PPA improvements in C28.P libraries, Texas Instruments Interconnect symposium, Feb-12\n•\nOn-rail Passenger Information System, VLSI Design and Test Conference, May-04\n•\nADDITIONAL INFORMATION\nTeaching Assistant for Global Supply Chain Mgmt, B2B Marketing & Architecture of Complex Systems (MITx)\n•\nFellow, MIT Graduate Student Leadership Institute - A selected group of 30, across all schools at MIT\n•\nAvid food enthusiast and food blogger. Fluent in 5 languages – English, Hindi, Oriya, Bengali & Kannada\n•"
+  ],
+  "text_all": "SUBHANKAR DAS\ns_das@mit.edu | (617)-909-4828 | #705, Building W85, 540 Memorial Drive, Cambridge, MA-02139\nSUMMARY\nEngineering and management professional with 12 years of experience in the Hi-Tech industry, leading several\nteams in successfully developing and shipping innovative products, both in the corporate and start-up environments.\nEDUCATION\nMassachusetts Institute of Technology\nCambridge, MA\nSchool of Engineering & Sloan School of Management\nJune’17\nMasters - System Design and Management (SDM)\nGPA: 4.9/5.0\nVisvesvaraya Technological University\nBagalkot, KA, India\nBachelor of Engineering, Electrical and Electronics\nJuly’03\nWORK EXPERIENCE\nSENSATA TECHNOLOGIES\nJun 2016 – Aug 2016\nLeadership Development Program\nAttleboro, MA & Aguascalientes, Mexico\nDesigned an analytical tool for evaluating individual parts holistically to make data-driven decisions.\n•\nSuccessfully deployed the tool for an entire family of products, with estimated profit of $1. 3M over next 5 years\nDeveloped framework, discovered systemic process gaps, recommended and implemented long-term mitigation\n•\nplans, for effective management of End-Of-Life and Service parts with long product life cycles of 20+ years\nTEXAS INSTRUMENTS\nAug 2011 – Aug 2015\nTeam Lead, Microcontroller and Embedded Processing\nBangalore, India\nLed a team of 8 to design and develop both ultra low-power and high speed digital standard cell libraries that\n•\nformed the building blocks of almost all chips, across multiple technology nodes (130nm-28nm)\nSpearheaded efforts on building a robust QC system with buy-in from several design teams; the system reduced\n•\nbugs reported in field, improved design cycle times by 10% and increased yield by 20%\nCollaborated with global cross-functional teams across TI sites - Germany, Norway, China and USA to gather\n•\nunique requirements of each team, to build and manage ~15 (6000 cells each) optimal, high-performance libraries\nAwarded “Team TI-tanium award” thrice, for the most innovative project within a 300-member Business Unit\n•\nMentored 9 interns; identified and hired competent candidates to create a very technically competent workforce\n•\nAMD\nJan 2011 – Aug 2011\nTeam Lead, Technology and Manufacturing Group\nBangalore, India\nDesigned and developed High-speed Standard Cell Libraries for 30% area savings on 40nm/28nm nodes\n•\nRecruited & mentored design team to grow from 3 to 11 members in 6 months to double the productivity\n•\nKARNATAKA MICROELECTRONICS DESIGN CENTRE\nAug 2003 – Jan 2011\nProject Manager and Member of Technical Staff\nManipal, India\nManaged several technical teams with sizes ranging from 6 to 40 members. Teams included peers and seniors\n•\nHired and provided on-the-job training to 70+ engineers to power growth and competency of the company\n•\nfrom 28 members to 350 members over 7 years. Awarded 1% shares of the company for my contributions.\nCore designer of a unique product line of High Definition miniature projectors, at Syndiant Inc. Dallas, TX\n•\nHeaded a 3-member team to decide Compensation and Leave policies for the company\n•\nPATENTS & PAPERS\nLow Area Enable Flip-Flop , Co-Inventors – Soman P, USPTO – 20160191028, Status-Published\n•\nA Standard Cell Design with Reduced Cell Delay , Co-Inventors – Ramesh H, USPTO- 20160188758, Status-Published\n•\nNew High Performance and High Density Libraries in 65nm tuned for MCU, TIITC, Dec-14 ( Best Paper)\n•\nDesign techniques for PPA improvements in C28.P libraries, Texas Instruments Interconnect symposium, Feb-12\n•\nOn-rail Passenger Information System, VLSI Design and Test Conference, May-04\n•\nADDITIONAL INFORMATION\nTeaching Assistant for Global Supply Chain Mgmt, B2B Marketing & Architecture of Complex Systems (MITx)\n•\nFellow, MIT Graduate Student Leadership Institute - A selected group of 30, across all schools at MIT\n•\nAvid food enthusiast and food blogger. Fluent in 5 languages – English, Hindi, Oriya, Bengali & Kannada\n•"
+}

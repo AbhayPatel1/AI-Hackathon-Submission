@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "full_name": null,
+    "emails": [],
+    "phones": [],
+    "location": {
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null
+    },
+    "resume_text_hash": "sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "source_file_id": "Aditya_Pahariya_BTech_NIT_Bhopal_EDG_MathWorks.pdf",
+    "parsed_at": "2025-08-18T08:57:27Z",
+    "parser_version": "v0.3.0"
+  },
+  "experience": [],
+  "education": [],
+  "skills": [],
+  "projects": [],
+  "certifications": [],
+  "publications": [],
+  "achievements": [],
+  "languages": [],
+  "sectioned_text": []
+}

@@ -1,0 +1,158 @@
+{
+  "candidate": {
+    "full_name": "Atikha Rizwan",
+    "emails": [
+      "atikha@mit.edu"
+    ],
+    "phones": [
+      "+18572539356"
+    ],
+    "location": {
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null
+    },
+    "resume_text_hash": "sha256:ed36ab188afd2a6e76b94ed722d4f65d07b60a1acf64e61aba6ca82ab2a7f1ba",
+    "source_file_id": "2017-Resume-Book-for-Web-SDM-19.pdf",
+    "parsed_at": "2025-08-18T07:36:52Z",
+    "parser_version": "v0.3.0"
+  },
+  "experience": [
+    {
+      "company_raw": "Defence Research and Development Organization",
+      "company_norm": "Defence Research and Development Organization",
+      "title_raw": "Internship at Defence Research and Development Organization (DRDO), Govt. of India – worked on a project titled",
+      "title_norm": null,
+      "seniority": null,
+      "employment_type": "internship",
+      "location": null,
+      "start_date": null,
+      "end_date": null,
+      "is_current": false,
+      "extraction_confidence": 0.8,
+      "source_page": null,
+      "bullets": [
+        {
+          "bullet_text": " “Design of degaussing electronics for ring laser gyro.” Summer 2013 Internship at State Bank of India (SBI) – in retail loan processing cell. Summer 2014",
+          "metrics": {},
+          "skills_mentioned": [],
+          "source_page": null
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree_raw": null,
+      "degree_level": null,
+      "field_raw": null,
+      "institution_raw": "Massachusetts Institute of Technology School of Engineering & Sloan School of Management",
+      "start_date": null,
+      "end_date": null,
+      "gpa": null,
+      "extraction_confidence": 0.6,
+      "source_page": null
+    },
+    {
+      "degree_raw": null,
+      "degree_level": null,
+      "field_raw": null,
+      "institution_raw": "Consolidated Education Technologies",
+      "start_date": null,
+      "end_date": null,
+      "gpa": null,
+      "extraction_confidence": 0.6,
+      "source_page": null
+    }
+  ],
+  "skills": [],
+  "projects": [
+    {
+      "name": "BMW supply chain resilience improvement - Currently working on this real-time project at MIT.",
+      "summary": null,
+      "role": null,
+      "tech_stack": [],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    }
+  ],
+  "certifications": [],
+  "publications": [],
+  "achievements": [
+    "villages. Won the Best innovator award, 2014 for this achievement."
+  ],
+  "languages": [],
+  "sectioned_text": [
+    {
+      "section_type": "other",
+      "text": "ATIKHA RIZWAN\n5F-2, Tang Residence Hall, 550 Memorial Dr\nCambridge, MA 02139\nMobile: +1 (857) 253-9356\nEmail: atikha@mit.edu",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "Massachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nM.S., System Design and Management\nAndhra University\nCollege of Engineering\nB.Sc.Eng. & M.Sc.Eng. Electronics & Communication Engineering\nEXPERIENCE\nMassachusetts Institute of Technology\nTeaching Assistant\nIntroduction to CS and programming in Python; Computational thinking and data science\n\nInfosys Limited (Post graduation)\nSystems Engineer\nRanked among top 5% in rigorous training in python programming language, database management systems and\n\nspecialized in SAP (Systems, Applications, Products) with focus on ABAP (Advanced Business Application\nprogramming).\nDeveloped a game using SQL server, and also a college and course bidding platform in SAP.\n\nGrameena Vidya (Full-Time before graduation)\nDirector\nManaging a non-profit NGO which provides digital education to rural schools to bridge the digital divide, led teams to\n\ninstall 1400 smart classrooms in village schools, providing digital education to over 600k of India’s most challenged\nstudents and training over 7000 teachers.\nPowered through huge resistance from teachers by conducting diagnostic tests and surveys. Won the Best Mentor\n\naward and Employee of the Year award in 2013.\nLed the organization towards better funds management by cutting costs per classroom through organizational strategy\n\nand logistics operations. Replaced CPUs with digi box with an android app to load and play the class specific content.\nCost of digi box being 10% of the cost of a CPU, the savings were $1.8m.\nTook the initiative to develop a mini bio-gas power plant using animal and farm waste involving local rural population\n\nin its operation. This provided a reliable, sustainable and environment-friendly source of energy for the schools and",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "achievements",
+      "text": "villages. Won the Best innovator award, 2014 for this achievement.",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "Consolidated Education Technologies (I) Pvt. Ltd. (Part-Time before graduation)\n(Provides online and offline digital teaching and learning resource for K-12)\nContent and Portal developer\n\nbetween subject experts’ team and multimedia developers’ team. The portal has over 200K subscribers.\nADDITIONAL",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "BMW supply chain resilience improvement - Currently working on this real-time project at MIT.",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "other",
+      "text": "",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "internships",
+      "text": "Internship at Defence Research and Development Organization (DRDO), Govt. of India – worked on a project titled\n\n“Design of degaussing electronics for ring laser gyro.” Summer 2013\nInternship at State Bank of India (SBI) – in retail loan processing cell. Summer 2014",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "other",
+      "text": "\nStarted a non-profit NGO – “Hum Aapko”- in college, to raise funds, collect used books and equipment for lesser\n\nprivileged students in rural areas. In addition, before the general elections 2014, ran a campaign to spread awareness\nabout the democratic electoral process among inner city and rural uneducated people. Got them registered as voters.\nVolunteered as a weekend mentor (2011-12) at SOS (Save Our Souls) - an International organization for orphans.\n\nWon Gold and Silver medals in Lawn Tennis and Table Tennis at college for all five years.\n\nCambridge, MA\nSep 2016- May 2018(expected)\nCGPA 4.6/5.0 (current)\nVisakhapatnam, India\nAug 2010 – Sep 2015\nCGPA 8.0/10.0\nCambridge, MA\n16 th Jan – 31 st May 2017 (spring term)\nMysore, India\nDecember 2015 - June 2016\nVisakhapatnam, India\nFebruary 2012 – November 2015\nVisakhapatnam, India\nJanuary 2011 – January 2012",
+      "page_range": [
+        1,
+        1
+      ]
+    }
+  ]
+}

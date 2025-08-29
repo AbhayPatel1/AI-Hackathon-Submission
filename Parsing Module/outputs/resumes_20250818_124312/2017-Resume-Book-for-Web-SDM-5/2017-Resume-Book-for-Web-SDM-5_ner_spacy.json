@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "source_path": "data/resumes/2017-Resume-Book-for-Web-SDM-5.pdf",
+    "pages": 1,
+    "model": "facebook/bart-large-mnli"
+  },
+  "candidate": {
+    "full_name": "Mina N. M. Botros",
+    "emails": [],
+    "phones": [],
+    "links": {
+      "linkedin": null,
+      "github": null
+    }
+  },
+  "experience": [],
+  "education": [
+    {
+      "degree_raw": null,
+      "degree_level": null,
+      "field_raw": null,
+      "institution_raw": "Massachusetts Institute of Technology School of Engineering & Sloan School of Management M.S.",
+      "start_date": null,
+      "end_date": null,
+      "gpa": null,
+      "extraction_confidence": 0.6,
+      "source_page": null
+    },
+    {
+      "degree_raw": null,
+      "degree_level": null,
+      "field_raw": null,
+      "institution_raw": "ACADEMIC EXPERIENCE SYSTEM DESIGN AND MANAGEMENT PROGRAM",
+      "start_date": null,
+      "end_date": null,
+      "gpa": null,
+      "extraction_confidence": 0.6,
+      "source_page": null
+    }
+  ],
+  "skills": [],
+  "projects": [
+    {
+      "name": "TECHNOLOGY STRATEGY PARTNERS",
+      "summary": "Associate, Consultant",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Strategy",
+      "summary": null,
+      "role": null,
+      "tech_stack": [],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Created models to assess the effect of product pricing points on consumer buying habits and forecasted",
+      "summary": "sales. Investigated several value creation frameworks to achieve clients’ revenue growth targets.",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Helped clients apply holistic systems models to make business decisions and to meet their strategic",
+      "summary": "visions.",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Project Engineer, Team Lead (P.Eng.)",
+      "summary": null,
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Managed several multi-million dollar concurrent oil sands projects including shared scope with Mumbai",
+      "summary": "office. Prepared engineering budgets and staffing plans, and compiled monthly-earned value reports. Reviewed, signed, and stamped all construction documents and building permit applications. Analyzed historical labor reports, and presented resource cross utilization plan to management to increase productivity. Projected savings to clients ranged from $100k to $250k depending on project scope. Evaluated various contracting strategies to save clients $150k per project by shifting scope of supply with a minor increase in schedule risk.",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Mentor five industry sponsored term projects in the areas of architecture, technology maturation and",
+      "summary": null,
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    }
+  ],
+  "certifications": [],
+  "publications": [],
+  "achievements": [],
+  "languages": [],
+  "sectioned_text": [
+    {
+      "section_type": "education",
+      "text": "EDUCATION\nMassachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nM.S., Engineering Management\nUniversity of Calgary\nSchulich School of Engineering\nB.Sc., Mechanical Engineering",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "TECHNOLOGY STRATEGY PARTNERS\nAssociate, Consultant\nStrategy\nCreated models to assess the effect of product pricing points on consumer buying habits and forecasted\nsales.\nInvestigated several value creation frameworks to achieve clients’ revenue growth targets.\nHelped clients apply holistic systems models to make business decisions and to meet their strategic\nvisions.",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "publications",
+      "text": "Operations\nConducted diagnostic interviews with key stakeholders within clients’ organizations.\nWorked with clients to identify and to analyze historical data for model creation, calibration and testing.\nConducted analyses to identify potential common product platform parts or new architectures.\nConducted financial analyses to assess the profitability of product platforms.\nJACOBS CANADA INC.",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "Project Engineer, Team Lead (P.Eng.)\nManaged several multi-million dollar concurrent oil sands projects including shared scope with Mumbai\noffice.\nPrepared engineering budgets and staffing plans, and compiled monthly-earned value reports.\nReviewed, signed, and stamped all construction documents and building permit applications.\nAnalyzed historical labor reports, and presented resource cross utilization plan to management to increase\nproductivity. Projected savings to clients ranged from $100k to $250k depending on project scope.\nEvaluated various contracting strategies to save clients $150k per project by shifting scope of supply with\na minor increase in schedule risk.",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "ACADEMIC EXPERIENCE\nSYSTEM DESIGN AND MANAGEMENT PROGRAM at MIT\nHead Teaching Assistant\nLead a team of 5 teaching assistants.\nLiaise with course instructors to build lecture and recitation schedule.\nTeach a two-hour class once per week to 107 students.\nCreate grading rubrics; handle teamwork conflicts and moderate online class forum.\nCollaborate with the program’s staff to promote it across MIT and to industry sponsors.",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "Mentor five industry sponsored term projects in the areas of architecture, technology maturation and",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "other",
+      "text": "roadmapping, process implementation and business case evaluation.\nGLOBAL TEAMWORK LAB\nResearcher\nDesign a resource allocation framework to advance project portfolio management practices.\nParticipate in designing experiment to detect correlations between participants’ mental models and project\nperformance.\nOrganize research symposia and conferences with colleagues from the University of Tokyo.\nAdvise industry research partner on strategic organizational design and its effect on innovation and\nprocess implementation.\nCambridge, MA\n2015-2017 (expected)\nCalgary, AB\n2005-2009\nCambridge, MA\n2016\nCalgary, AB\n2011 – 2016\nCambridge, MA\n2016 - Present\nCambridge, MA\n2016 – Present",
+      "page_range": [
+        1,
+        1
+      ]
+    }
+  ]
+}

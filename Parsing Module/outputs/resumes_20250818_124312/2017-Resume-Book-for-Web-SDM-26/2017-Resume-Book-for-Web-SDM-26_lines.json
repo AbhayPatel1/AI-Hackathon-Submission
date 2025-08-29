@@ -1,0 +1,1160 @@
+{
+  "meta": {
+    "source_path": "data/resumes/2017-Resume-Book-for-Web-SDM-26.pdf",
+    "pages": 1
+  },
+  "lines": [
+    {
+      "page": 1,
+      "text": "Chen Ye",
+      "bbox": [
+        292.8340148925781,
+        51.9466552734375,
+        337.1673889160156,
+        65.2357177734375
+      ],
+      "left_indent": 292.8340148925781,
+      "width": 44.3333740234375,
+      "is_bold": true,
+      "font_size": 12.0
+    },
+    {
+      "page": 1,
+      "text": "70 Pacific Street",
+      "bbox": [
+        281.9555969238281,
+        64.91143798828125,
+        350.50439453125,
+        75.8084716796875
+      ],
+      "left_indent": 281.9555969238281,
+      "width": 68.54879760742188,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Cambridge, MA 02139",
+      "bbox": [
+        268.4765930175781,
+        75.951416015625,
+        363.9833984375,
+        86.84844970703125
+      ],
+      "left_indent": 268.4765930175781,
+      "width": 95.50680541992188,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "+1 (617) 583-0581",
+      "bbox": [
+        277.1850891113281,
+        86.991455078125,
+        355.27490234375,
+        97.88848876953125
+      ],
+      "left_indent": 277.1850891113281,
+      "width": 78.08981323242188,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "chenye16@mit.edu",
+      "bbox": [
+        276.1011047363281,
+        97.79144287109375,
+        356.35888671875,
+        108.6884765625
+      ],
+      "left_indent": 276.1011047363281,
+      "width": 80.25778198242188,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "EDUCATION",
+      "bbox": [
+        72.00000762939453,
+        119.8714599609375,
+        135.5782012939453,
+        130.76849365234375
+      ],
+      "left_indent": 72.00000762939453,
+      "width": 63.57819366455078,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Massachusetts Institute of Technology",
+      "bbox": [
+        72.0000228881836,
+        141.951416015625,
+        234.92776489257812,
+        152.84844970703125
+      ],
+      "left_indent": 72.0000228881836,
+      "width": 162.92774200439453,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "School of Engineering & Sloan School of Management",
+      "bbox": [
+        72.0000228881836,
+        152.991455078125,
+        293.3176574707031,
+        163.88848876953125
+      ],
+      "left_indent": 72.0000228881836,
+      "width": 221.31763458251953,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "M.S., System Design and Management",
+      "bbox": [
+        72.0000228881836,
+        163.79144287109375,
+        228.595703125,
+        174.6884765625
+      ],
+      "left_indent": 72.0000228881836,
+      "width": 156.5956802368164,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Harbin University of Science and Technology",
+      "bbox": [
+        72.0000228881836,
+        185.8714599609375,
+        265.65130615234375,
+        196.76849365234375
+      ],
+      "left_indent": 72.0000228881836,
+      "width": 193.65128326416016,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "B.E., Measurement-Control Technology and Instrumentation",
+      "bbox": [
+        72.0000228881836,
+        196.91143798828125,
+        318.595703125,
+        207.8084716796875
+      ],
+      "left_indent": 72.0000228881836,
+      "width": 246.5956802368164,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "EXPERIENCE",
+      "bbox": [
+        72.00003051757812,
+        218.991455078125,
+        140.0264129638672,
+        229.88848876953125
+      ],
+      "left_indent": 72.00003051757812,
+      "width": 68.02638244628906,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "China ENFI Engineering Corporation (ENFI)",
+      "bbox": [
+        72.00003051757812,
+        240.8314208984375,
+        268.03265380859375,
+        251.72845458984375
+      ],
+      "left_indent": 72.00003051757812,
+      "width": 196.03262329101562,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "The leading engineering firm in China’s nonferrous metal and mining industry; subsidiary of China Metallurgical Group",
+      "bbox": [
+        72.00003814697266,
+        251.8714599609375,
+        556.7870483398438,
+        262.76849365234375
+      ],
+      "left_indent": 72.00003814697266,
+      "width": 484.7870101928711,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Corp., a Fortune Global 500 company merging into China Minmetals Corp.",
+      "bbox": [
+        72.00003814697266,
+        262.91143798828125,
+        376.9209899902344,
+        273.8084716796875
+      ],
+      "left_indent": 72.00003814697266,
+      "width": 304.9209518432617,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Head of African Marketing Department, International Business Division Jan - Aug 2016",
+      "bbox": [
+        72.00005340576172,
+        284.991455078125,
+        558.9376220703125,
+        295.88848876953125
+      ],
+      "left_indent": 72.00005340576172,
+      "width": 486.9375686645508,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Started a subsidiary at Lubumbashi, D.R. Congo as an intrapreneur in the company",
+      "bbox": [
+        90.00005340576172,
+        295.79144287109375,
+        424.88677978515625,
+        306.6884765625
+      ],
+      "left_indent": 90.00005340576172,
+      "width": 334.88672637939453,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.00005340576172,
+        297.66046142578125,
+        76.52606964111328,
+        307.5004577636719
+      ],
+      "left_indent": 72.00005340576172,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Managed market development, project tracking, and bidding for projects in Africa; won project bids of $5 million",
+      "bbox": [
+        90.00005340576172,
+        306.8314514160156,
+        547.8897094726562,
+        317.7284851074219
+      ],
+      "left_indent": 90.00005340576172,
+      "width": 457.88965606689453,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.00005340576172,
+        308.7004699707031,
+        76.52606964111328,
+        318.54046630859375
+      ],
+      "left_indent": 72.00005340576172,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Promoted rapidly from an engineering position to the head of a distinct department",
+      "bbox": [
+        90.00005340576172,
+        317.8714599609375,
+        426.5420837402344,
+        328.76849365234375
+      ],
+      "left_indent": 90.00005340576172,
+      "width": 336.54203033447266,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.00005340576172,
+        319.740478515625,
+        76.52606964111328,
+        329.5804748535156
+      ],
+      "left_indent": 72.00005340576172,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Obtained certification as a senior engineer",
+      "bbox": [
+        90.00005340576172,
+        328.91143798828125,
+        261.5517883300781,
+        339.8084716796875
+      ],
+      "left_indent": 90.00005340576172,
+      "width": 171.5517349243164,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.00005340576172,
+        330.78045654296875,
+        76.52606964111328,
+        340.6204528808594
+      ],
+      "left_indent": 72.00005340576172,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Engineer, Automation Department, Electrical & Automation Division",
+      "bbox": [
+        72.00005340576172,
+        350.991455078125,
+        361.71588134765625,
+        361.88848876953125
+      ],
+      "left_indent": 72.00005340576172,
+      "width": 289.71582794189453,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Innovated almost 30 industrial automation techniques and obtained 24 national patents ; established the standard of",
+      "bbox": [
+        90.00005340576172,
+        361.79144287109375,
+        556.2393188476562,
+        372.6884765625
+      ],
+      "left_indent": 90.00005340576172,
+      "width": 466.23926544189453,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.00005340576172,
+        363.66046142578125,
+        76.52606964111328,
+        373.5004577636719
+      ],
+      "left_indent": 72.00005340576172,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "control system in copper smelting",
+      "bbox": [
+        90.00005340576172,
+        372.8314514160156,
+        227.9923095703125,
+        383.7284851074219
+      ],
+      "left_indent": 90.00005340576172,
+      "width": 137.99225616455078,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Managed and coordinated solution design, development, implementation, data analytics and product delivery of",
+      "bbox": [
+        90.00005340576172,
+        383.8714599609375,
+        539.8296508789062,
+        394.76849365234375
+      ],
+      "left_indent": 90.00005340576172,
+      "width": 449.82959747314453,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.00005340576172,
+        385.740478515625,
+        76.52606964111328,
+        395.5804748535156
+      ],
+      "left_indent": 72.00005340576172,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "plant automation projects, frequently served in the field, and acquired extensive client service management skills",
+      "bbox": [
+        90.00005340576172,
+        394.91143798828125,
+        543.9736938476562,
+        405.8084716796875
+      ],
+      "left_indent": 90.00005340576172,
+      "width": 453.97364044189453,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Provided engineering consulting service: requirement analysis, feasibility & risk study, preliminary plan and",
+      "bbox": [
+        90.00005340576172,
+        405.9514465332031,
+        526.7435302734375,
+        416.8484802246094
+      ],
+      "left_indent": 90.00005340576172,
+      "width": 436.7434768676758,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.00005340576172,
+        407.8204650878906,
+        76.52606964111328,
+        417.66046142578125
+      ],
+      "left_indent": 72.00005340576172,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "optimum solution of plant automation in China and Africa, and helped clients maximize efficiency and profit",
+      "bbox": [
+        90.00005340576172,
+        416.991455078125,
+        529.0079345703125,
+        427.88848876953125
+      ],
+      "left_indent": 90.00005340576172,
+      "width": 439.0078811645508,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Led the Distributed Control System (DCS) design of the acid plant in Husab Uranium Mine in Namibia – the 4th",
+      "bbox": [
+        90.00005340576172,
+        427.79144287109375,
+        544.3436889648438,
+        438.6884765625
+      ],
+      "left_indent": 90.00005340576172,
+      "width": 454.34363555908203,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.00005340576172,
+        429.66046142578125,
+        76.52606964111328,
+        439.5004577636719
+      ],
+      "left_indent": 72.00005340576172,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "largest uranium mine in the world, which is expected to reshape the supply pattern of nuclear material in the world",
+      "bbox": [
+        90.00005340576172,
+        438.8314514160156,
+        551.2052001953125,
+        449.7284851074219
+      ],
+      "left_indent": 90.00005340576172,
+      "width": 461.2051467895508,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Managed DCS implementation projects in China and Zambia simultaneously",
+      "bbox": [
+        90.00005340576172,
+        449.8714599609375,
+        400.73638916015625,
+        460.76849365234375
+      ],
+      "left_indent": 90.00005340576172,
+      "width": 310.73633575439453,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.00005340576172,
+        451.740478515625,
+        76.52606964111328,
+        461.5804748535156
+      ],
+      "left_indent": 72.00005340576172,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Headed a team of 20 design experts of various fields to serve in the field, and handled internal and external",
+      "bbox": [
+        90.00005340576172,
+        460.91143798828125,
+        520.6361083984375,
+        471.8084716796875
+      ],
+      "left_indent": 90.00005340576172,
+      "width": 430.6360549926758,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.00005340576172,
+        462.78045654296875,
+        76.52606964111328,
+        472.6204528808594
+      ],
+      "left_indent": 72.00005340576172,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "relationships in Yunnan Tin Copper Branch - the company’s largest EPC project with investment of $300+ million",
+      "bbox": [
+        90.00005340576172,
+        471.9514465332031,
+        551.9083251953125,
+        482.8484802246094
+      ],
+      "left_indent": 90.00005340576172,
+      "width": 461.9082717895508,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Awarded the company’s highest individual prize in 2012, top 1%",
+      "bbox": [
+        90.00005340576172,
+        482.991455078125,
+        353.5146789550781,
+        493.88848876953125
+      ],
+      "left_indent": 90.00005340576172,
+      "width": 263.5146255493164,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.00005340576172,
+        484.8604736328125,
+        76.52606964111328,
+        494.7004699707031
+      ],
+      "left_indent": 72.00005340576172,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Rated as the company’s Top 10 Field Engineer in 2012",
+      "bbox": [
+        90.00005340576172,
+        493.79144287109375,
+        313.2461853027344,
+        504.6884765625
+      ],
+      "left_indent": 90.00005340576172,
+      "width": 223.24613189697266,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.00005340576172,
+        495.66046142578125,
+        76.52606964111328,
+        505.5004577636719
+      ],
+      "left_indent": 72.00005340576172,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Assistant Engineer, Automation Department, Design & Management Division July 2007 - Nov 2011",
+      "bbox": [
+        72.00005340576172,
+        515.8714599609375,
+        558.1221313476562,
+        526.7684936523438
+      ],
+      "left_indent": 72.00005340576172,
+      "width": 486.12207794189453,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Initiated the automation of the CCS plant in Zambia - China’s largest overseas investment in a copper smelter (over",
+      "bbox": [
+        90.00005340576172,
+        526.9114379882812,
+        555.0870971679688,
+        537.8084716796875
+      ],
+      "left_indent": 90.00005340576172,
+      "width": 465.08704376220703,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.00005340576172,
+        528.7804565429688,
+        76.52606964111328,
+        538.6204833984375
+      ],
+      "left_indent": 72.00005340576172,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "$300 million), creating 1000+ jobs and reshaping the supply pattern of copper in Africa",
+      "bbox": [
+        90.00005340576172,
+        537.951416015625,
+        443.01177978515625,
+        548.8484497070312
+      ],
+      "left_indent": 90.00005340576172,
+      "width": 353.01172637939453,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Accomplished the leading smelt furnace control system (first achieved by Chinese), which broke the technology",
+      "bbox": [
+        90.00005340576172,
+        548.991455078125,
+        541.5546875,
+        559.8884887695312
+      ],
+      "left_indent": 90.00005340576172,
+      "width": 451.5546340942383,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.00005340576172,
+        550.8604736328125,
+        76.52606964111328,
+        560.7005004882812
+      ],
+      "left_indent": 72.00005340576172,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "monopoly and price-fixing of an Australian company and save $2+ million in costs",
+      "bbox": [
+        90.00005340576172,
+        559.7914428710938,
+        425.25299072265625,
+        570.6884765625
+      ],
+      "left_indent": 90.00005340576172,
+      "width": 335.25293731689453,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Transformed the technical result into the product, guided a team to achieve better application effect, and promoted",
+      "bbox": [
+        90.00005340576172,
+        570.8314208984375,
+        550.0474853515625,
+        581.7284545898438
+      ],
+      "left_indent": 90.00005340576172,
+      "width": 460.0474319458008,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.00005340576172,
+        572.700439453125,
+        76.52606964111328,
+        582.5404663085938
+      ],
+      "left_indent": 72.00005340576172,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "adoption of innovative solutions in the Kunpeng Copper Smelter in Sichuan, after the 2008 Wenchuan Earthquake",
+      "bbox": [
+        90.00005340576172,
+        581.8714599609375,
+        550.1260986328125,
+        592.7684936523438
+      ],
+      "left_indent": 90.00005340576172,
+      "width": 460.1260452270508,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Awarded the 1st Prize of Science and Technology Award in 2010 and the 1st Prize of Engineering Design Award by",
+      "bbox": [
+        90.00005340576172,
+        592.9114379882812,
+        559.2759399414062,
+        603.8084716796875
+      ],
+      "left_indent": 90.00005340576172,
+      "width": 469.27588653564453,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.00005340576172,
+        594.7804565429688,
+        76.52606964111328,
+        604.6204833984375
+      ],
+      "left_indent": 72.00005340576172,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "China Nonferrous Metallurgical Industry Association in 2009",
+      "bbox": [
+        90.00005340576172,
+        603.951416015625,
+        339.0811767578125,
+        614.8484497070312
+      ],
+      "left_indent": 90.00005340576172,
+      "width": 249.08112335205078,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "ADDITIONAL____________________________________________________________________________________",
+      "bbox": [
+        72.00005340576172,
+        625.7914428710938,
+        559.4698486328125,
+        636.6884765625
+      ],
+      "left_indent": 72.00005340576172,
+      "width": 487.4697952270508,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Published papers (indexed by EI) in journals of manufacturing, such as International Journal of Manufacturing Tech",
+      "bbox": [
+        90.00005340576172,
+        636.8314208984375,
+        560.2327270507812,
+        647.7284545898438
+      ],
+      "left_indent": 90.00005340576172,
+      "width": 470.23267364501953,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.00005340576172,
+        638.700439453125,
+        76.52606964111328,
+        648.5404663085938
+      ],
+      "left_indent": 72.00005340576172,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "and Mgmt ; reviewed papers for conferences on system and control, such as American Control Conference",
+      "bbox": [
+        90.00005340576172,
+        647.8714599609375,
+        513.9186401367188,
+        658.7684936523438
+      ],
+      "left_indent": 90.00005340576172,
+      "width": 423.91858673095703,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Organized donation of food and clothes to Zambian employees in the CCS plant, trained them in engineering;",
+      "bbox": [
+        90.00005340576172,
+        658.9114379882812,
+        531.5177001953125,
+        669.8084716796875
+      ],
+      "left_indent": 90.00005340576172,
+      "width": 441.5176467895508,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.00005340576172,
+        660.7804565429688,
+        76.52606964111328,
+        670.6204833984375
+      ],
+      "left_indent": 72.00005340576172,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "improved the friendship between Zambian residents and Chinese employees",
+      "bbox": [
+        90.00005340576172,
+        669.951416015625,
+        397.3721923828125,
+        680.8484497070312
+      ],
+      "left_indent": 90.00005340576172,
+      "width": 307.3721389770508,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Enthusiastic about astronomy for 19 years; built the College Amateur Astronomer Club as the 1st President;",
+      "bbox": [
+        90.00005340576172,
+        680.991455078125,
+        524.8552856445312,
+        691.8884887695312
+      ],
+      "left_indent": 90.00005340576172,
+      "width": 434.85523223876953,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.00005340576172,
+        682.8604736328125,
+        76.52606964111328,
+        692.7005004882812
+      ],
+      "left_indent": 72.00005340576172,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "organized events: outdoor observation, planetarium visits, tutoring school children in astronomy as volunteers, etc;",
+      "bbox": [
+        90.00005340576172,
+        691.7914428710938,
+        551.8009033203125,
+        702.6884765625
+      ],
+      "left_indent": 90.00005340576172,
+      "width": 461.8008499145508,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "granted Distinguished Amateur Astronomer Award by Harbin Amateur Astronomer Society in 2006",
+      "bbox": [
+        90.00005340576172,
+        702.8314208984375,
+        493.7637023925781,
+        713.7284545898438
+      ],
+      "left_indent": 90.00005340576172,
+      "width": 403.7636489868164,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Led the China Red Arrows Rescue; took training: running, climbing, and diving; fulfilled emergency rescue tasks",
+      "bbox": [
+        90.00005340576172,
+        713.8713989257812,
+        547.0743408203125,
+        724.7684326171875
+      ],
+      "left_indent": 90.00005340576172,
+      "width": 457.0742874145508,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.00005340576172,
+        715.7404174804688,
+        76.52606964111328,
+        725.5804443359375
+      ],
+      "left_indent": 72.00005340576172,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Took leadership role in the Haiyan English Salon; volunteered to be an English tutor in the Do-See Language Camp",
+      "bbox": [
+        90.00005340576172,
+        724.9114379882812,
+        556.7911376953125,
+        735.8084716796875
+      ],
+      "left_indent": 90.00005340576172,
+      "width": 466.7910842895508,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.00005340576172,
+        726.7804565429688,
+        76.52606964111328,
+        736.6204833984375
+      ],
+      "left_indent": 72.00005340576172,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Lived in Africa for over a year, and backpacked in 17 countries in Europe, Africa, Asia and North America",
+      "bbox": [
+        90.00005340576172,
+        735.951416015625,
+        521.4542236328125,
+        746.8484497070312
+      ],
+      "left_indent": 90.00005340576172,
+      "width": 431.4541702270508,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.00005340576172,
+        737.8204345703125,
+        76.52606964111328,
+        747.6604614257812
+      ],
+      "left_indent": 72.00005340576172,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Cambridge, MA",
+      "bbox": [
+        492.45318603515625,
+        141.951416015625,
+        560.4600219726562,
+        152.84844970703125
+      ],
+      "left_indent": 492.45318603515625,
+      "width": 68.0068359375,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Aug 2016 - June 2018",
+      "bbox": [
+        469.1181945800781,
+        152.991455078125,
+        560.4600219726562,
+        163.88848876953125
+      ],
+      "left_indent": 469.1181945800781,
+      "width": 91.34182739257812,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Harbin, China",
+      "bbox": [
+        501.34478759765625,
+        185.8714599609375,
+        560.4600219726562,
+        196.76849365234375
+      ],
+      "left_indent": 501.34478759765625,
+      "width": 59.115234375,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Sept 2003 - July 2007",
+      "bbox": [
+        470.2217102050781,
+        196.91143798828125,
+        560.4600219726562,
+        207.8084716796875
+      ],
+      "left_indent": 470.2217102050781,
+      "width": 90.23831176757812,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Beijing, China",
+      "bbox": [
+        499.6700134277344,
+        240.8314208984375,
+        560.4600219726562,
+        251.72845458984375
+      ],
+      "left_indent": 499.6700134277344,
+      "width": 60.790008544921875,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Dec 2011 - Jan 2016",
+      "bbox": [
+        475.2412109375,
+        350.991455078125,
+        560.4601440429688,
+        361.88848876953125
+      ],
+      "left_indent": 475.2412109375,
+      "width": 85.21893310546875,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    }
+  ],
+  "text_per_page": [
+    "Chen Ye\n70 Pacific Street\nCambridge, MA 02139\n+1 (617) 583-0581\nchenye16@mit.edu\nEDUCATION\nMassachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nM.S., System Design and Management\nHarbin University of Science and Technology\nB.E., Measurement-Control Technology and Instrumentation\nEXPERIENCE\nChina ENFI Engineering Corporation (ENFI)\nThe leading engineering firm in China’s nonferrous metal and mining industry; subsidiary of China Metallurgical Group\nCorp., a Fortune Global 500 company merging into China Minmetals Corp.\nHead of African Marketing Department, International Business Division Jan - Aug 2016\nStarted a subsidiary at Lubumbashi, D.R. Congo as an intrapreneur in the company\n•\nManaged market development, project tracking, and bidding for projects in Africa; won project bids of $5 million\n•\nPromoted rapidly from an engineering position to the head of a distinct department\n•\nObtained certification as a senior engineer\n•\nEngineer, Automation Department, Electrical & Automation Division\nInnovated almost 30 industrial automation techniques and obtained 24 national patents ; established the standard of\n•\ncontrol system in copper smelting\nManaged and coordinated solution design, development, implementation, data analytics and product delivery of\n•\nplant automation projects, frequently served in the field, and acquired extensive client service management skills\nProvided engineering consulting service: requirement analysis, feasibility & risk study, preliminary plan and\n•\noptimum solution of plant automation in China and Africa, and helped clients maximize efficiency and profit\nLed the Distributed Control System (DCS) design of the acid plant in Husab Uranium Mine in Namibia – the 4th\n•\nlargest uranium mine in the world, which is expected to reshape the supply pattern of nuclear material in the world\nManaged DCS implementation projects in China and Zambia simultaneously\n•\nHeaded a team of 20 design experts of various fields to serve in the field, and handled internal and external\n•\nrelationships in Yunnan Tin Copper Branch - the company’s largest EPC project with investment of $300+ million\nAwarded the company’s highest individual prize in 2012, top 1%\n•\nRated as the company’s Top 10 Field Engineer in 2012\n•\nAssistant Engineer, Automation Department, Design & Management Division July 2007 - Nov 2011\nInitiated the automation of the CCS plant in Zambia - China’s largest overseas investment in a copper smelter (over\n•\n$300 million), creating 1000+ jobs and reshaping the supply pattern of copper in Africa\nAccomplished the leading smelt furnace control system (first achieved by Chinese), which broke the technology\n•\nmonopoly and price-fixing of an Australian company and save $2+ million in costs\nTransformed the technical result into the product, guided a team to achieve better application effect, and promoted\n•\nadoption of innovative solutions in the Kunpeng Copper Smelter in Sichuan, after the 2008 Wenchuan Earthquake\nAwarded the 1st Prize of Science and Technology Award in 2010 and the 1st Prize of Engineering Design Award by\n•\nChina Nonferrous Metallurgical Industry Association in 2009\nADDITIONAL____________________________________________________________________________________\nPublished papers (indexed by EI) in journals of manufacturing, such as International Journal of Manufacturing Tech\n•\nand Mgmt ; reviewed papers for conferences on system and control, such as American Control Conference\nOrganized donation of food and clothes to Zambian employees in the CCS plant, trained them in engineering;\n•\nimproved the friendship between Zambian residents and Chinese employees\nEnthusiastic about astronomy for 19 years; built the College Amateur Astronomer Club as the 1st President;\n•\norganized events: outdoor observation, planetarium visits, tutoring school children in astronomy as volunteers, etc;\ngranted Distinguished Amateur Astronomer Award by Harbin Amateur Astronomer Society in 2006\nLed the China Red Arrows Rescue; took training: running, climbing, and diving; fulfilled emergency rescue tasks\n•\nTook leadership role in the Haiyan English Salon; volunteered to be an English tutor in the Do-See Language Camp\n•\nLived in Africa for over a year, and backpacked in 17 countries in Europe, Africa, Asia and North America\n•\nCambridge, MA\nAug 2016 - June 2018\nHarbin, China\nSept 2003 - July 2007\nBeijing, China\nDec 2011 - Jan 2016"
+  ],
+  "text_all": "Chen Ye\n70 Pacific Street\nCambridge, MA 02139\n+1 (617) 583-0581\nchenye16@mit.edu\nEDUCATION\nMassachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nM.S., System Design and Management\nHarbin University of Science and Technology\nB.E., Measurement-Control Technology and Instrumentation\nEXPERIENCE\nChina ENFI Engineering Corporation (ENFI)\nThe leading engineering firm in China’s nonferrous metal and mining industry; subsidiary of China Metallurgical Group\nCorp., a Fortune Global 500 company merging into China Minmetals Corp.\nHead of African Marketing Department, International Business Division Jan - Aug 2016\nStarted a subsidiary at Lubumbashi, D.R. Congo as an intrapreneur in the company\n•\nManaged market development, project tracking, and bidding for projects in Africa; won project bids of $5 million\n•\nPromoted rapidly from an engineering position to the head of a distinct department\n•\nObtained certification as a senior engineer\n•\nEngineer, Automation Department, Electrical & Automation Division\nInnovated almost 30 industrial automation techniques and obtained 24 national patents ; established the standard of\n•\ncontrol system in copper smelting\nManaged and coordinated solution design, development, implementation, data analytics and product delivery of\n•\nplant automation projects, frequently served in the field, and acquired extensive client service management skills\nProvided engineering consulting service: requirement analysis, feasibility & risk study, preliminary plan and\n•\noptimum solution of plant automation in China and Africa, and helped clients maximize efficiency and profit\nLed the Distributed Control System (DCS) design of the acid plant in Husab Uranium Mine in Namibia – the 4th\n•\nlargest uranium mine in the world, which is expected to reshape the supply pattern of nuclear material in the world\nManaged DCS implementation projects in China and Zambia simultaneously\n•\nHeaded a team of 20 design experts of various fields to serve in the field, and handled internal and external\n•\nrelationships in Yunnan Tin Copper Branch - the company’s largest EPC project with investment of $300+ million\nAwarded the company’s highest individual prize in 2012, top 1%\n•\nRated as the company’s Top 10 Field Engineer in 2012\n•\nAssistant Engineer, Automation Department, Design & Management Division July 2007 - Nov 2011\nInitiated the automation of the CCS plant in Zambia - China’s largest overseas investment in a copper smelter (over\n•\n$300 million), creating 1000+ jobs and reshaping the supply pattern of copper in Africa\nAccomplished the leading smelt furnace control system (first achieved by Chinese), which broke the technology\n•\nmonopoly and price-fixing of an Australian company and save $2+ million in costs\nTransformed the technical result into the product, guided a team to achieve better application effect, and promoted\n•\nadoption of innovative solutions in the Kunpeng Copper Smelter in Sichuan, after the 2008 Wenchuan Earthquake\nAwarded the 1st Prize of Science and Technology Award in 2010 and the 1st Prize of Engineering Design Award by\n•\nChina Nonferrous Metallurgical Industry Association in 2009\nADDITIONAL____________________________________________________________________________________\nPublished papers (indexed by EI) in journals of manufacturing, such as International Journal of Manufacturing Tech\n•\nand Mgmt ; reviewed papers for conferences on system and control, such as American Control Conference\nOrganized donation of food and clothes to Zambian employees in the CCS plant, trained them in engineering;\n•\nimproved the friendship between Zambian residents and Chinese employees\nEnthusiastic about astronomy for 19 years; built the College Amateur Astronomer Club as the 1st President;\n•\norganized events: outdoor observation, planetarium visits, tutoring school children in astronomy as volunteers, etc;\ngranted Distinguished Amateur Astronomer Award by Harbin Amateur Astronomer Society in 2006\nLed the China Red Arrows Rescue; took training: running, climbing, and diving; fulfilled emergency rescue tasks\n•\nTook leadership role in the Haiyan English Salon; volunteered to be an English tutor in the Do-See Language Camp\n•\nLived in Africa for over a year, and backpacked in 17 countries in Europe, Africa, Asia and North America\n•\nCambridge, MA\nAug 2016 - June 2018\nHarbin, China\nSept 2003 - July 2007\nBeijing, China\nDec 2011 - Jan 2016"
+}

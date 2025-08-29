@@ -1,0 +1,200 @@
+{
+  "candidate": {
+    "full_name": "Suranjan Daw",
+    "emails": [
+      "cs21mtech12008@iith.ac.in",
+      "suranjandaw@gmail.com"
+    ],
+    "phones": [
+      "+919180174172"
+    ],
+    "location": {
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": "linkedin.com/in/suranjan-daw",
+      "github": "github.com/SuranjanDaw"
+    },
+    "resume_text_hash": "sha256:ea5823d90a82fdb8f2f9b550e6454400ee72b6e079a94bd0860d7f027883c7a0",
+    "source_file_id": "Suranjan_Resume.pdf",
+    "parsed_at": "2025-08-18T09:56:51Z",
+    "parser_version": "v0.3.0"
+  },
+  "experience": [
+    {
+      "company_raw": null,
+      "company_norm": null,
+      "title_raw": "Internships",
+      "title_norm": null,
+      "seniority": null,
+      "employment_type": "internship",
+      "location": null,
+      "start_date": null,
+      "end_date": null,
+      "is_current": false,
+      "extraction_confidence": 0.4,
+      "source_page": null,
+      "bullets": [
+        {
+          "bullet_text": "MinD Webs. Position: Technical Head. Technologies: Android, Computer vision, PHP. Designed and developed a Ticket Collection and verification System using Android. Designed an API using PHP.",
+          "metrics": {},
+          "skills_mentioned": [
+            "c"
+          ],
+          "source_page": null
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree_raw": null,
+      "degree_level": null,
+      "field_raw": null,
+      "institution_raw": "Indian Institute of Technology",
+      "start_date": null,
+      "end_date": null,
+      "gpa": null,
+      "extraction_confidence": 0.6,
+      "source_page": null
+    },
+    {
+      "degree_raw": null,
+      "degree_level": null,
+      "field_raw": null,
+      "institution_raw": "Coursera",
+      "start_date": "2021-08-01",
+      "end_date": null,
+      "gpa": null,
+      "extraction_confidence": 0.6,
+      "source_page": null
+    }
+  ],
+  "skills": [],
+  "projects": [
+    {
+      "name": "Project Experiences",
+      "summary": "Face Recognition: Built face detection and recognition software by implementing transfer learning on VGG16, InceptionV3, and MobileNetV2 using imagenet dataset weights. | Technology: Tensorflow, Keras, MobileNetV2, VGG16, InceptionV3, Python. Customer Churn Predictor: Build a Customer Churn Prediction model using Scikit-learn library. | Technology: Machine Learning, Python, Scikit-learn. Handwritten Digit Recognition Software: Recognize handwritten digits built using Neural Networks | Technology: MATLAB. Product Recommendation Engine: Displays similar products. Tested on real Amazon product data. | Technology: Python, Tensorflow, Scikit learn. Sentiment Analyser: Built a Sentiment Analysis Application that takes sentences and tells classifies them into positive or negative sentences. | Technology: Machine Learning, Python, Scikit Learn, NLTK. Canteen Management System: A system of Mobile Applications and Web applications which manages the listing and selling of food items through coupons and is integrated with an offline payment system. | Play HIT CRUNCH: An aggregator for notices, notes, and Question paper provided by college | Technology: Android, Firebase,Node.js. Play Store: Bluetooth Chat: A chat application that communicates using Bluetooth. | Technology: Android.",
+      "role": null,
+      "tech_stack": [
+        "c",
+        "git",
+        "matlab",
+        "python",
+        "scikit-learn",
+        "tensorflow"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    }
+  ],
+  "certifications": [],
+  "publications": [],
+  "achievements": [
+    "Honors and Activities"
+  ],
+  "languages": [],
+  "sectioned_text": [
+    {
+      "section_type": "other",
+      "text": "Kolkata, India\n(+91) 8017417238\nSuranjan Daw\nsuranjandaw@gmail.com\ncs21mtech12008@iith.ac.in",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "courses",
+      "text": "Coursework & Technical Skills",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "other",
+      "text": "Languages: C, C++ Python, Java",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "interests",
+      "text": "Areas of Interest: Computer Networks, Networked Wireless Systems, Machine Learning.",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "Education\nIndian Institute of Technology, Hyderabad\nComputer Science and Engineering, M. Tech.\nHeritage Institute of Technology, Kolkata\nComputer Science and Engineering, B. Tech.:\nCGPA:9.32\nOrient Day School, Kolkata (CISCE)\nIndian School Certificate. Percentage: 95.25%\nIndian Certificate of Secondary Education. Percentage: 93.4%",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "certifications",
+      "text": "Certifications\nUdacity – Google India Challenge Scholarship: Android\nHewlett Packard (HP) Summer Training – PHP with WordPress",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "courses",
+      "text": "AppliedAiCourse - Machine Learning\nCoursera – Google Cloud Platform Big Data and Machine Learning\nFundamentals",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "Coursera – Google Cloud Platform Fundamentals: Core Infrastructure\nCoursera – Getting started with AWS Machine Learning\nCoursera – Neural Networks and Deep Learning\nInternshala – Machine Learning\nCoursera – The Bits and Bytes of Computer Networking\nAugust 2021-Present\nAugust 2021\nMarch 2017\nMarch 2015\nFebruary 2018\nJune 2018\nMarch 2019\nMarch 2019\nJune 2019\nMay 2020\nMay 2020\nJune 2020\nJune 2020",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "internships",
+      "text": "Internships\nMinD Webs. Position: Technical Head.\nTechnologies: Android, Computer vision, PHP.\nDesigned and developed a Ticket Collection and verification System using Android.\nDesigned an API using PHP.",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "Project Experiences\nFace Recognition: Built face detection and recognition software by implementing transfer learning on\nVGG16, InceptionV3, and MobileNetV2 using imagenet dataset weights. | Technology: Tensorflow, Keras,\nMobileNetV2, VGG16, InceptionV3, Python.\nCustomer Churn Predictor: Build a Customer Churn Prediction model using Scikit-learn library. |\nTechnology: Machine Learning, Python, Scikit-learn.\nHandwritten Digit Recognition Software: Recognize handwritten digits built using Neural Networks |\nTechnology: MATLAB.\nProduct Recommendation Engine: Displays similar products. Tested on real Amazon product data. |\nTechnology: Python, Tensorflow, Scikit learn.\nSentiment Analyser: Built a Sentiment Analysis Application that takes sentences and tells classifies them\ninto positive or negative sentences. | Technology: Machine Learning, Python, Scikit Learn, NLTK.\nCanteen Management System: A system of Mobile Applications and Web applications which manages the\nlisting and selling of food items through coupons and is integrated with an offline payment system. | Play\nHIT CRUNCH: An aggregator for notices, notes, and Question paper provided by college | Technology:\nAndroid, Firebase,Node.js. Play Store:\nBluetooth Chat: A chat application that communicates using Bluetooth. | Technology: Android.",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "achievements",
+      "text": "Honors and Activities",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "other",
+      "text": "Secured 98.46 Percentile in GATE 2021.\nCodevita Season 9 India Round 1: Secured the rank of 3245.\nWinners at IEM International Space Apps Challenge 2018 : Acquired 5th Position. Organized by IEM\nTeaching Assistant at Developers Student Club, HIT in the field of Android and Firebase .\nOrganized a technical Extravaganza: Techchtronista2k19 at MinDWebs.\nSpeaker at Google Cloud Study Jam, 2019 at Heritage Institute of Technology.\nCloud Facilitator at Developers Student Club, HIT\nGCP Quest Leader: Received the title of GCP Quest Leader from Google Cloud Developers for completing 12+ labs on\nQwiklabs.\nJanuary 2019 –July 2019",
+      "page_range": [
+        2,
+        2
+      ]
+    }
+  ]
+}

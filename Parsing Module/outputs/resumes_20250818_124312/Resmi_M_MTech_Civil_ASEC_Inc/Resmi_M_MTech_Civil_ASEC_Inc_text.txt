@@ -1,0 +1,197 @@
+Resmi M
+193040021
+Civil Engineering
+M.Tech.
+Indian Institute of Technology, Bombay
+Gender: Female
+Specialization: Geotechnical Engineering
+DOB: 19-04-1996
+Examination
+University
+Institute
+Year
+CPI / %
+Post Graduation
+IIT Bombay
+IIT Bombay
+2021
+9.29
+Graduation
+University of Kerala
+College of Engineering Trivandrum
+2018
+8.84
+Graduation Specialization: Civil Engineering
+Intermediate
+Board of Higher Secondary
+Holy Angels' Convent HSS
+2014
+98.00%
+Examination
+Matriculation
+Kerala Board of Public
+Holy Angels' Convent HSS
+2012
+90.00%
+Examinations
+SCHOLASTIC ACHIEVEMENTS
+Scored 99.17 percentile in the Graduate Aptitude Test in Engineering (2019), out of 1,45,064 students
+•
+KEY PROJECTS AND SEMINARS
+M.Tech Dissertation | Guide: Prof. Satyanarayana Murty Dasaka, IIT Bombay
+[July ’20-ongoing]
+Understanding the Behaviour of an Anchored Rigid Retaining Wall by Back Analysis
+Analyse the forces acting on a cantilever retaining wall with counterforts and obtain the movement of the
+•
+wall required to attain the active earth pressure condition, under varying site conditions and soil types.
+Analyse retaining wall with anchors and find the required spacing between anchors
+•
+Numerically model the load-deformation behaviour of anchors using PLAXIS .
+•
+Understand the short-term and long-term behaviour of retaining walls.
+•
+Identify the causes of failure of retaining wall, and develop guidelines on preventing such failures in future.
+•
+M.Tech Credit Seminar | Guide: Prof. Satyanarayana Murty Dasaka, IIT Bombay [Jan ’20 – June ‘20]
+Application of Geosynthetics in Pavements on Expansive Soils
+Reviewed literature on the field and laboratory studies on expansive soils and studied the effectiveness and
+•
+suitability of using geosynthetics in remediating the problems related to pavements on expansive soils.
+Understood the cause and types of pavement distresses on expansive subgrades
+•
+Understood the mechanisms of geosynthetic reinforcement and assessed the future scope of works required
+•
+B.Tech Project | Guide: Prof. Ajitha A. R., College of Engineering Trivandrum
+[2018]
+Design and Analysis of Reinforced Earth Retaining Wall
+Designed and compared the cost of construction of a Reinforced Earth retaining wall ( RE wall ) and a
+•
+Reinforced Cement Concrete ( RCC ) retaining wall for same soil conditions and height
+About 47% cost savings in using an RE wall in the place of an RCC wall
+•
+B.Tech Seminar | Guide: Prof. Ajitha A. R., College of Engineering Trivandrum
+[2017]
+Sustainable Design Criteria for Earthquake Region
+Reviewed literature on approaches that enable post-event functionality in earthquake -prone regions,
+•
+resulting in more sustainable structural systems.
+Survey Camp | As a part of the Undergraduate curriculum
+[2017]
+Conducted survey of a portion of the College of Engineering Trivandrum campus, using Total Station .
+•
+Developed a topographic map with contour lines using LisCAD and AutoCAD .
+•
+Course Project | Guide: Prof. Ashish Juneja, IIT Bombay [November 2019]
+Finite Element Analysis Using PLAXIS 2D | (Course: Geotechnical Constitutive Modelling)
+•
+Modelled a raft foundation to a circular water tank resting on a soft clay deposit using PLAXIS 2D to analyse
+the consolidation behaviour before and after cement stabilisation of soft clay.
+•
+The analysis showed that the factor of safety increased by around 4.7 times, the time required for 95 %
+consolidation has reduced and the settlement was brought below the allowable limit post stabilisation.
+
+Course Seminar | Guide: . B.V.S. Viswanadham , IIT Bombay
+[May 2020]
+Centrifuge Study on the Effect of Pile Bending Stiffness on the Slope Stabilised by Piles
+(Course: Geotechnical Centrifuge Modelling)
+Reviewed literature on Centrifuge Modelling of pile reinforced slopes
+•
+SITE VISITS AND INTERNSHIPS
+Site visits:
+Thane West, Mumbai, on 3/3/2020 to witness a pile load testing carried out as part of the Metro Line-5 project
+•
+Industrial visit to Poabs M-sand manufacturing unit in October 2015 , organised by ICI CET Student’s Chapter
+•
+Visit to Aruvikkara dam and water treatment plant in October 2015 , organised by ICI CET Student’s Chapter
+•
+Internship training: | Under the Kerala Public Works Department (Roads and Bridges Section)
+During the period of 24 th to 30 th of May, 2017, study visits were conducted to BM & BC plant at
+•
+Karakkamandapam, Chellengi Bridge site and Peyad Road improvement project .
+CO-CURRICULAR ACTIVITIES
+Attended international webinar on “ Recent Advances in Geotechnical Engineering Research
+[ July 1-10,
+•
+& Practice ”, organised by the Department of Civil and Environmental Engineering, IIT Patna
+2020]
+Attended DFI-India Webinar Series on Steel Retaining Structures and Foundations
+[July 29, 2020]
+•
+[Aug 12,2020]
+Attended a webinar on “ Necessity of Seismic Response Assessment for Geotechnical Site ”
+[June 14, 2020]
+•
+conducted by Indian Geotechnical Society Silchar Student Chapter
+Member of the Indian Concrete Institute , CET chapter
+[2015-’16, 2016-’17]
+•
+Participated in Model Making as a part of Pantheon organised by the ICI CET Student’s Chapter
+[March, 2016]
+•
+Participated in the Technical Exhibition and Open House CETEX held in connection with the
+[Jan, 2015]
+•
+Platinum Jubilee celebrations of College of Engineering Trivandrum
+EXTRA CURRICULAR ACTIVITIES
+Secured 3 rd price in Rangoli making competition of PG Cult , IIT Bombay
+[Sept, 2019]
+•
+POSITION OF RESPONSIBILITIES
+Teaching Assistant | Department of Civil Engineering | IIT Bombay
+CE 329: Geotechnical Engineering Lab I
+CE 336: Geotechnical Engineering Lab II
+[July, 2019- June, 2020]
+Guided UG students to learn basic experimental skills in Geotechnical Engineering.
+•
+Evaluated the performance of the students by correcting their lab files and exam papers.
+•
+TECHNICAL SKILLS:
+Software proficiencies :
+AutoCAD
+Revit Architecture
+STAAD Pro
+•
+•
+•
+PLAXIS
+MATLAB
+MS Office
+•
+•
+•
+COURSES AND CERTIFICATIONS
+Autodesk Authorised training centre course BIM for structures , from Intercad Systems (PVT)
+[July, 2019]
+•
+Completed Introduction to Data Analysis Using Excel by RICE University, from Coursera
+[Aug, 2020]
+•
+RELEVANT COURSES ATTENDED
+Advanced Foundation Engineering
+Foundation of Offshore Structures
+•
+•
+Design and Testing of Pile Foundations
+Computing in Civil Engineering
+•
+•
+Prestressed Concrete
+Advanced Soil Mechanics
+•
+•
+Advanced Design of Reinforced Concrete Structures
+Earthquake Resistant Design of Structures
+•
+•
+Quantity Surveying and Valuation
+Construction Management
+•
+•
+HOBBIES AND INTERESTS
+Listening to songs
+Dancing
+Playing carroms
+•
+•
+•
+Scholastic achievements and extracurricular activities are not verified by the Placement Cell

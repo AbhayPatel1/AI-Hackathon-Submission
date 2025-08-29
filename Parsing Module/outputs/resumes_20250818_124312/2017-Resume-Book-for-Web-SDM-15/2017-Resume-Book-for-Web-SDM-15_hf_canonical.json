@@ -1,0 +1,173 @@
+{
+  "candidate": {
+    "full_name": "Adrien MOREAU",
+    "emails": [
+      "amoreau@mit.edu"
+    ],
+    "phones": [
+      "+17815471484"
+    ],
+    "location": {
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null
+    },
+    "resume_text_hash": "sha256:113ed1eb92a1cbca9e8644acbaf8d56e839542a5e2e4d44cd40ba723ff52225e",
+    "source_file_id": "2017-Resume-Book-for-Web-SDM-15.pdf",
+    "parsed_at": "2025-08-18T07:31:10Z",
+    "parser_version": "v0.3.0"
+  },
+  "experience": [],
+  "education": [
+    {
+      "degree_raw": null,
+      "degree_level": null,
+      "field_raw": null,
+      "institution_raw": "Massachusetts Institute of Technology School of Engineering & Sloan School of Management",
+      "start_date": null,
+      "end_date": null,
+      "gpa": null,
+      "extraction_confidence": 0.6,
+      "source_page": null
+    }
+  ],
+  "skills": [
+    {
+      "name": "c",
+      "category": null
+    }
+  ],
+  "projects": [
+    {
+      "name": "30+ projects assessed and validated (150M$+ worth value)",
+      "summary": null,
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Project leader – membrane bioreactor (MBR) portfolio",
+      "summary": null,
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Provide project leadership and operational management on projects related to the integration of membrane processes",
+      "summary": "in wastewater treatment line (4 technicians, 2 engineers, 3.4M€ over 3 years)",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Successfully developed an MBR package plant for the Middle-East Market",
+      "summary": null,
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Successfully brought an airless MBR concept to industrialization",
+      "summary": null,
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    }
+  ],
+  "certifications": [],
+  "publications": [],
+  "achievements": [],
+  "languages": [],
+  "sectioned_text": [
+    {
+      "section_type": "other",
+      "text": "Adrien MOREAU\n+1 781 547 1484\namoreau@mit.edu",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "Massachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nM.S., System Design and Management\nDelft University of Technology\nCivil Engineering Department\nPhD., Water Management and Sanitary Engineering\nConducted research within the framework of the European Union Marie Curie program focusing on the membrane\nbioreactor (MBR) process.\nThesis: MBR Filterability Assessment at European Scale",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "publications",
+      "text": "Full publication list available on request\nNational Institute of Applied Science (INSA)\nChemical & Process Engineering Department\nM.S., Process Engineering\nSpecialization in water treatment\nEXPERIENCE\nVeolia Water Technologies\nGlobal Support Engineer - Technology\nDevelop, lead and coordinate technical risk management and support through hydraulics and modeling for Veolia\nactivities (model difficult cases & different options with regards to tank geometry, mixing capacity and water\ndistribution, validate final designs)\nDevelop and lead piloting coordination and strategy at corporate level with a specific focus on branding and safety\nLead and promote Research & Innovation projects with external partners (Department of Energy funded projects)\nProduce strategy notes and roadmaps on behalf of Executive Management (Digitalization, Internet of Things)\nHydraulics Expert\nDevelop, lead and coordinate technical risk management and support through Hydraulics and CFD modeling for\nVeolia activities (modeled difficult cases & different options with regards to tank geometry, mixing capacity and\nwater distribution, validated final designs)\nLead product development (early phase & industrialization of a grit removal process and a pretreatment for\nindustrial water treatment plants)",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "30+ projects assessed and validated (150M$+ worth value)",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "other",
+      "text": "Veolia Environnement Research & Innovation",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "Project leader – membrane bioreactor (MBR) portfolio\nProvide project leadership and operational management on projects related to the integration of membrane processes\nin wastewater treatment line (4 technicians, 2 engineers, 3.4M€ over 3 years)\nSuccessfully developed an MBR package plant for the Middle-East Market\nSuccessfully brought an airless MBR concept to industrialization",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "skills",
+      "text": "Fluent in French & English\nKey areas of expertise: membrane processes, biological treatment, operational management\nWater & Sanitation Engineer for the Non-Governmental Organization “Premières Urgences”\nActive member of the Veolia Force (missions for the UNHCR in Ethiopia, 2012)\nRock climbing, mountaineering\nCambridge, MA\n2016- expected 2018\nDelft, The Netherlands\n2006-2010\nToulouse, France\n2003-2006\nBoston, MA\n2016 - Present\n2013-2016\nParis, France\n2010-2013",
+      "page_range": [
+        1,
+        1
+      ]
+    }
+  ]
+}

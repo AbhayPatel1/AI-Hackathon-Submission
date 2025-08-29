@@ -1,0 +1,1132 @@
+{
+  "meta": {
+    "source_path": "data/resumes/2017-Resume-Book-for-Web-SDM-3.pdf",
+    "pages": 1
+  },
+  "lines": [
+    {
+      "page": 1,
+      "text": "TAYLOR H. ANDREWS",
+      "bbox": [
+        249.4893035888672,
+        51.9466552734375,
+        383.5107116699219,
+        65.2357177734375
+      ],
+      "left_indent": 249.4893035888672,
+      "width": 134.0214080810547,
+      "is_bold": true,
+      "font_size": 12.0
+    },
+    {
+      "page": 1,
+      "text": "EDUCATION",
+      "bbox": [
+        72.0,
+        97.79144287109375,
+        135.5782012939453,
+        108.6884765625
+      ],
+      "left_indent": 72.0,
+      "width": 63.57820129394531,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Massachusetts Institute of Technology",
+      "bbox": [
+        72.0,
+        119.8714599609375,
+        234.92774963378906,
+        130.76849365234375
+      ],
+      "left_indent": 72.0,
+      "width": 162.92774963378906,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "School of Engineering & Sloan School of Management",
+      "bbox": [
+        72.0,
+        130.91143798828125,
+        294.15240478515625,
+        141.8084716796875
+      ],
+      "left_indent": 72.0,
+      "width": 222.15240478515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "M.S., System Design and Management",
+      "bbox": [
+        72.0,
+        141.951416015625,
+        230.8321075439453,
+        152.84844970703125
+      ],
+      "left_indent": 72.0,
+      "width": 158.8321075439453,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Worcester Polytechnic Institute",
+      "bbox": [
+        72.0,
+        163.79144287109375,
+        209.4136199951172,
+        174.6884765625
+      ],
+      "left_indent": 72.0,
+      "width": 137.4136199951172,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "School of Engineering",
+      "bbox": [
+        72.0,
+        174.8314208984375,
+        166.38870239257812,
+        185.72845458984375
+      ],
+      "left_indent": 72.0,
+      "width": 94.38870239257812,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "B.S., Computer Science, Minor in Music",
+      "bbox": [
+        72.0,
+        185.8714599609375,
+        235.46653747558594,
+        196.76849365234375
+      ],
+      "left_indent": 72.0,
+      "width": 163.46653747558594,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Graduated with Highest Distinction, Upsilon Pi Epsilon (Computer Science Honor Society) Vice President",
+      "bbox": [
+        90.0,
+        196.91143798828125,
+        522.3916015625,
+        207.8084716796875
+      ],
+      "left_indent": 90.0,
+      "width": 432.3916015625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        198.78045654296875,
+        76.52601623535156,
+        208.62046813964844
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "EXPERIENCE",
+      "bbox": [
+        72.0,
+        218.991455078125,
+        140.0264129638672,
+        229.88848876953125
+      ],
+      "left_indent": 72.0,
+      "width": 68.02641296386719,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "VMware",
+      "bbox": [
+        72.0,
+        240.8314208984375,
+        109.70538330078125,
+        251.72845458984375
+      ],
+      "left_indent": 72.0,
+      "width": 37.70538330078125,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Core Hypervisor / Virtual Machine Monitor group",
+      "bbox": [
+        72.0,
+        251.8714599609375,
+        276.08599853515625,
+        262.76849365234375
+      ],
+      "left_indent": 72.0,
+      "width": 204.08599853515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "System Software Engineer II",
+      "bbox": [
+        72.0,
+        262.91143798828125,
+        196.13970947265625,
+        273.8084716796875
+      ],
+      "left_indent": 72.0,
+      "width": 124.13970947265625,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Implemented virtual x86 Graphics Address Remapping Table (GART) hardware",
+      "bbox": [
+        90.0,
+        273.9514465332031,
+        412.6854553222656,
+        284.8484802246094
+      ],
+      "left_indent": 90.0,
+      "width": 322.6854553222656,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        275.8204650878906,
+        76.52601623535156,
+        285.66046142578125
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Lead contributor to virtual x86 performance counter hardware platform",
+      "bbox": [
+        90.0,
+        284.991455078125,
+        377.9091796875,
+        295.88848876953125
+      ],
+      "left_indent": 90.0,
+      "width": 287.9091796875,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        286.8604736328125,
+        76.52601623535156,
+        296.7004699707031
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Active contributor to hardware virtualization drivers and virtualization hardware virtualization (nested VM support)",
+      "bbox": [
+        90.0,
+        295.79144287109375,
+        556.1954345703125,
+        306.6884765625
+      ],
+      "left_indent": 90.0,
+      "width": 466.1954345703125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        297.66046142578125,
+        76.52601623535156,
+        307.5004577636719
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Led bring your kids to work day’s server disassembly / reassembly event",
+      "bbox": [
+        90.0,
+        306.8314514160156,
+        384.33990478515625,
+        317.7284851074219
+      ],
+      "left_indent": 90.0,
+      "width": 294.33990478515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        308.7004699707031,
+        76.52601623535156,
+        318.54046630859375
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Microsoft",
+      "bbox": [
+        72.0,
+        328.91143798828125,
+        116.10090637207031,
+        339.8084716796875
+      ],
+      "left_indent": 72.0,
+      "width": 44.10090637207031,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "App-V (Application Virtualization) group",
+      "bbox": [
+        72.0,
+        339.9514465332031,
+        242.4727020263672,
+        350.8484802246094
+      ],
+      "left_indent": 72.0,
+      "width": 170.4727020263672,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "MQP Intern",
+      "bbox": [
+        72.0,
+        350.991455078125,
+        125.30470275878906,
+        361.88848876953125
+      ],
+      "left_indent": 72.0,
+      "width": 53.30470275878906,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Selected for WPI’s first capstone project collaboration with Microsoft",
+      "bbox": [
+        90.0,
+        361.79144287109375,
+        372.396484375,
+        372.6884765625
+      ],
+      "left_indent": 90.0,
+      "width": 282.396484375,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        363.66046142578125,
+        76.52601623535156,
+        373.5004577636719
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Member of three-person team that created prototype JS/HTML5 webapp (under NDA)",
+      "bbox": [
+        90.0,
+        372.8314514160156,
+        439.017578125,
+        383.7284851074219
+      ],
+      "left_indent": 90.0,
+      "width": 349.017578125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        374.7004699707031,
+        76.52601623535156,
+        384.54046630859375
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "VMware",
+      "bbox": [
+        72.0,
+        394.91143798828125,
+        109.70538330078125,
+        405.8084716796875
+      ],
+      "left_indent": 72.0,
+      "width": 37.70538330078125,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Core Hypervisor / Virtual Machine Monitor group",
+      "bbox": [
+        72.0,
+        405.9514465332031,
+        276.08599853515625,
+        416.8484802246094
+      ],
+      "left_indent": 72.0,
+      "width": 204.08599853515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Intern",
+      "bbox": [
+        72.0,
+        416.991455078125,
+        100.58303833007812,
+        427.88848876953125
+      ],
+      "left_indent": 72.0,
+      "width": 28.583038330078125,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Designed and implemented k-means clustering algorithm based guest operating system performance analysis tool",
+      "bbox": [
+        90.0,
+        427.79144287109375,
+        546.7861328125,
+        438.6884765625
+      ],
+      "left_indent": 90.0,
+      "width": 456.7861328125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        429.66046142578125,
+        76.52601623535156,
+        439.5004577636719
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Worcester Polytechnic Institute",
+      "bbox": [
+        72.0,
+        449.8714599609375,
+        209.4136199951172,
+        460.76849365234375
+      ],
+      "left_indent": 72.0,
+      "width": 137.4136199951172,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Computer Science Department",
+      "bbox": [
+        72.0,
+        460.91143798828125,
+        197.75100708007812,
+        471.8084716796875
+      ],
+      "left_indent": 72.0,
+      "width": 125.75100708007812,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Undergraduate TA",
+      "bbox": [
+        72.0,
+        471.9514465332031,
+        152.52149963378906,
+        482.8484802246094
+      ],
+      "left_indent": 72.0,
+      "width": 80.52149963378906,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "CS lab/conference TA for Operating Systems, Software Engineering, and Scheme classes",
+      "bbox": [
+        90.0,
+        482.991455078125,
+        450.7021789550781,
+        493.88848876953125
+      ],
+      "left_indent": 90.0,
+      "width": 360.7021789550781,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        484.8604736328125,
+        76.52601623535156,
+        494.7004699707031
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Stratus Technologies",
+      "bbox": [
+        72.0,
+        504.8314208984375,
+        161.1106719970703,
+        515.7284545898438
+      ],
+      "left_indent": 72.0,
+      "width": 89.11067199707031,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Windows ftServer (fault tolerant hardware) group",
+      "bbox": [
+        72.0,
+        515.8714599609375,
+        273.56158447265625,
+        526.7684936523438
+      ],
+      "left_indent": 72.0,
+      "width": 201.56158447265625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Co-op / Part-time Software Engineer",
+      "bbox": [
+        72.0,
+        526.9114379882812,
+        226.12991333007812,
+        537.8084716796875
+      ],
+      "left_indent": 72.0,
+      "width": 154.12991333007812,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Member of four-person team that successfully designed and prototyped PCI-e non-transparent bridge FPGA",
+      "bbox": [
+        90.0,
+        537.951416015625,
+        525.1722412109375,
+        548.8484497070312
+      ],
+      "left_indent": 90.0,
+      "width": 435.1722412109375,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        539.8204345703125,
+        76.52601623535156,
+        549.6604614257812
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "implementation for tripling memory copy speeds in Stratus ftServer",
+      "bbox": [
+        90.0,
+        548.991455078125,
+        363.5243835449219,
+        559.8884887695312
+      ],
+      "left_indent": 90.0,
+      "width": 273.5243835449219,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Rewrote some WinDBG extensions for reverse x86 page walks",
+      "bbox": [
+        90.0,
+        559.7914428710938,
+        345.73150634765625,
+        570.6884765625
+      ],
+      "left_indent": 90.0,
+      "width": 255.73150634765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        561.6604614257812,
+        76.52601623535156,
+        571.50048828125
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "NOTABLE PROJECTS AND ACCOMPLISHMENTS",
+      "bbox": [
+        72.0,
+        581.8714599609375,
+        309.21087646484375,
+        592.7684936523438
+      ],
+      "left_indent": 72.0,
+      "width": 237.21087646484375,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Douglas High School Class of 2008 Valedictorian",
+      "bbox": [
+        90.0,
+        592.9114379882812,
+        295.4921875,
+        603.8084716796875
+      ],
+      "left_indent": 90.0,
+      "width": 205.4921875,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        594.7804565429688,
+        76.52601623535156,
+        604.6204833984375
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Awards for individual contributions as well as team leadership in undergraduate Software Engineering classes",
+      "bbox": [
+        90.0,
+        603.951416015625,
+        533.1729125976562,
+        614.8484497070312
+      ],
+      "left_indent": 90.0,
+      "width": 443.17291259765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        605.8204345703125,
+        76.52601623535156,
+        615.6604614257812
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Java-like language undergraduate compiler – member of one of two teams to receive full score",
+      "bbox": [
+        90.0,
+        614.991455078125,
+        471.2099914550781,
+        625.8884887695312
+      ],
+      "left_indent": 90.0,
+      "width": 381.2099914550781,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        616.8604736328125,
+        76.52601623535156,
+        626.7005004882812
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Recycled Arcade Machine – full-size, backlit arcade machine with full case art, built from 100% salvaged materials",
+      "bbox": [
+        90.0,
+        625.7914428710938,
+        555.619140625,
+        636.6884765625
+      ],
+      "left_indent": 90.0,
+      "width": 465.619140625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        627.6604614257812,
+        76.52601623535156,
+        637.50048828125
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Algorithmic Music Composition and Large-Scale Sound Installation Design – wrote software to compose music",
+      "bbox": [
+        90.0,
+        636.8314208984375,
+        541.5511474609375,
+        647.7284545898438
+      ],
+      "left_indent": 90.0,
+      "width": 451.5511474609375,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        638.700439453125,
+        76.52601623535156,
+        648.5404663085938
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "from real-time data (such as stock market values) and constructed full-scale psychoacoustic art installation (WPI)",
+      "bbox": [
+        90.0,
+        647.8714599609375,
+        546.1954345703125,
+        658.7684936523438
+      ],
+      "left_indent": 90.0,
+      "width": 456.1954345703125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Douglas High School 3D Walkthrough – High school senior project; a customizable, first person, 3D virtual model",
+      "bbox": [
+        90.0,
+        658.9114379882812,
+        552.9456176757812,
+        669.8084716796875
+      ],
+      "left_indent": 90.0,
+      "width": 462.94561767578125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        660.7804565429688,
+        76.52601623535156,
+        670.6204833984375
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "of the high school http://tinyurl.com/q7xrnxz",
+      "bbox": [
+        90.0,
+        669.951416015625,
+        270.1530456542969,
+        680.8484497070312
+      ],
+      "left_indent": 90.0,
+      "width": 180.15304565429688,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Franken-VM - A 36-hour VMware hackathon featured project: “Distributed Memory Hypervisor”",
+      "bbox": [
+        90.0,
+        680.991455078125,
+        485.1308898925781,
+        691.8884887695312
+      ],
+      "left_indent": 90.0,
+      "width": 395.1308898925781,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        682.8604736328125,
+        76.52601623535156,
+        692.7005004882812
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "HOBBIES____________________________________________________________________________________",
+      "bbox": [
+        72.0,
+        713.8713989257812,
+        539.4794921875,
+        724.7684326171875
+      ],
+      "left_indent": 72.0,
+      "width": 467.4794921875,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Technology, home automation, guitar, ukulele, darts, cards, table tennis, fishing, hiking",
+      "bbox": [
+        72.0,
+        724.9114379882812,
+        424.38677978515625,
+        735.8084716796875
+      ],
+      "left_indent": 72.0,
+      "width": 352.38677978515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Cambridge, MA",
+      "bbox": [
+        492.4530944824219,
+        119.8714599609375,
+        560.4600219726562,
+        130.76849365234375
+      ],
+      "left_indent": 492.4530944824219,
+      "width": 68.00692749023438,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "September 2016 - Present",
+      "bbox": [
+        454.9678039550781,
+        130.91143798828125,
+        560.4600219726562,
+        141.8084716796875
+      ],
+      "left_indent": 454.9678039550781,
+      "width": 105.49221801757812,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Worcester, MA",
+      "bbox": [
+        495.8027038574219,
+        163.79144287109375,
+        560.4600219726562,
+        174.6884765625
+      ],
+      "left_indent": 495.8027038574219,
+      "width": 64.65731811523438,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "September 2008 – May 2012",
+      "bbox": [
+        441.90618896484375,
+        174.8314208984375,
+        560.4600219726562,
+        185.72845458984375
+      ],
+      "left_indent": 441.90618896484375,
+      "width": 118.5538330078125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Cambridge, MA",
+      "bbox": [
+        492.4530944824219,
+        240.8314208984375,
+        560.4600219726562,
+        251.72845458984375
+      ],
+      "left_indent": 492.4530944824219,
+      "width": 68.00692749023438,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "May 2012 - Present",
+      "bbox": [
+        479.4013977050781,
+        251.8714599609375,
+        560.4600219726562,
+        262.76849365234375
+      ],
+      "left_indent": 479.4013977050781,
+      "width": 81.05862426757812,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Cambridge, MA",
+      "bbox": [
+        492.4530944824219,
+        328.91143798828125,
+        560.4600219726562,
+        339.8084716796875
+      ],
+      "left_indent": 492.4530944824219,
+      "width": 68.00692749023438,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "September 2011 – December 2011",
+      "bbox": [
+        419.1523132324219,
+        339.9514465332031,
+        560.4600219726562,
+        350.8484802246094
+      ],
+      "left_indent": 419.1523132324219,
+      "width": 141.30770874023438,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Palo Alto, CA",
+      "bbox": [
+        501.0517883300781,
+        394.91143798828125,
+        560.4600219726562,
+        405.8084716796875
+      ],
+      "left_indent": 501.0517883300781,
+      "width": 59.408233642578125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "May 2011 – August 2011",
+      "bbox": [
+        455.7782897949219,
+        405.9514465332031,
+        560.4600219726562,
+        416.8484802246094
+      ],
+      "left_indent": 455.7782897949219,
+      "width": 104.68173217773438,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Worcester, MA",
+      "bbox": [
+        495.8027038574219,
+        449.8714599609375,
+        560.4600219726562,
+        460.76849365234375
+      ],
+      "left_indent": 495.8027038574219,
+      "width": 64.65731811523438,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "September 2010 – May 2012",
+      "bbox": [
+        441.90618896484375,
+        460.91143798828125,
+        560.4600219726562,
+        471.8084716796875
+      ],
+      "left_indent": 441.90618896484375,
+      "width": 118.5538330078125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Maynard, MA",
+      "bbox": [
+        500.7880859375,
+        504.8314208984375,
+        560.4600219726562,
+        515.7284545898438
+      ],
+      "left_indent": 500.7880859375,
+      "width": 59.67193603515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "May 2010 – February 2011",
+      "bbox": [
+        448.5712890625,
+        515.8714599609375,
+        560.4600219726562,
+        526.7684936523438
+      ],
+      "left_indent": 448.5712890625,
+      "width": 111.88873291015625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    }
+  ],
+  "text_per_page": [
+    "TAYLOR H. ANDREWS\nEDUCATION\nMassachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nM.S., System Design and Management\nWorcester Polytechnic Institute\nSchool of Engineering\nB.S., Computer Science, Minor in Music\nGraduated with Highest Distinction, Upsilon Pi Epsilon (Computer Science Honor Society) Vice President\n•\nEXPERIENCE\nVMware\nCore Hypervisor / Virtual Machine Monitor group\nSystem Software Engineer II\nImplemented virtual x86 Graphics Address Remapping Table (GART) hardware\n•\nLead contributor to virtual x86 performance counter hardware platform\n•\nActive contributor to hardware virtualization drivers and virtualization hardware virtualization (nested VM support)\n•\nLed bring your kids to work day’s server disassembly / reassembly event\n•\nMicrosoft\nApp-V (Application Virtualization) group\nMQP Intern\nSelected for WPI’s first capstone project collaboration with Microsoft\n•\nMember of three-person team that created prototype JS/HTML5 webapp (under NDA)\n•\nVMware\nCore Hypervisor / Virtual Machine Monitor group\nIntern\nDesigned and implemented k-means clustering algorithm based guest operating system performance analysis tool\n•\nWorcester Polytechnic Institute\nComputer Science Department\nUndergraduate TA\nCS lab/conference TA for Operating Systems, Software Engineering, and Scheme classes\n•\nStratus Technologies\nWindows ftServer (fault tolerant hardware) group\nCo-op / Part-time Software Engineer\nMember of four-person team that successfully designed and prototyped PCI-e non-transparent bridge FPGA\n•\nimplementation for tripling memory copy speeds in Stratus ftServer\nRewrote some WinDBG extensions for reverse x86 page walks\n•\nNOTABLE PROJECTS AND ACCOMPLISHMENTS\nDouglas High School Class of 2008 Valedictorian\n•\nAwards for individual contributions as well as team leadership in undergraduate Software Engineering classes\n•\nJava-like language undergraduate compiler – member of one of two teams to receive full score\n•\nRecycled Arcade Machine – full-size, backlit arcade machine with full case art, built from 100% salvaged materials\n•\nAlgorithmic Music Composition and Large-Scale Sound Installation Design – wrote software to compose music\n•\nfrom real-time data (such as stock market values) and constructed full-scale psychoacoustic art installation (WPI)\nDouglas High School 3D Walkthrough – High school senior project; a customizable, first person, 3D virtual model\n•\nof the high school http://tinyurl.com/q7xrnxz\nFranken-VM - A 36-hour VMware hackathon featured project: “Distributed Memory Hypervisor”\n•\nHOBBIES____________________________________________________________________________________\nTechnology, home automation, guitar, ukulele, darts, cards, table tennis, fishing, hiking\nCambridge, MA\nSeptember 2016 - Present\nWorcester, MA\nSeptember 2008 – May 2012\nCambridge, MA\nMay 2012 - Present\nCambridge, MA\nSeptember 2011 – December 2011\nPalo Alto, CA\nMay 2011 – August 2011\nWorcester, MA\nSeptember 2010 – May 2012\nMaynard, MA\nMay 2010 – February 2011"
+  ],
+  "text_all": "TAYLOR H. ANDREWS\nEDUCATION\nMassachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nM.S., System Design and Management\nWorcester Polytechnic Institute\nSchool of Engineering\nB.S., Computer Science, Minor in Music\nGraduated with Highest Distinction, Upsilon Pi Epsilon (Computer Science Honor Society) Vice President\n•\nEXPERIENCE\nVMware\nCore Hypervisor / Virtual Machine Monitor group\nSystem Software Engineer II\nImplemented virtual x86 Graphics Address Remapping Table (GART) hardware\n•\nLead contributor to virtual x86 performance counter hardware platform\n•\nActive contributor to hardware virtualization drivers and virtualization hardware virtualization (nested VM support)\n•\nLed bring your kids to work day’s server disassembly / reassembly event\n•\nMicrosoft\nApp-V (Application Virtualization) group\nMQP Intern\nSelected for WPI’s first capstone project collaboration with Microsoft\n•\nMember of three-person team that created prototype JS/HTML5 webapp (under NDA)\n•\nVMware\nCore Hypervisor / Virtual Machine Monitor group\nIntern\nDesigned and implemented k-means clustering algorithm based guest operating system performance analysis tool\n•\nWorcester Polytechnic Institute\nComputer Science Department\nUndergraduate TA\nCS lab/conference TA for Operating Systems, Software Engineering, and Scheme classes\n•\nStratus Technologies\nWindows ftServer (fault tolerant hardware) group\nCo-op / Part-time Software Engineer\nMember of four-person team that successfully designed and prototyped PCI-e non-transparent bridge FPGA\n•\nimplementation for tripling memory copy speeds in Stratus ftServer\nRewrote some WinDBG extensions for reverse x86 page walks\n•\nNOTABLE PROJECTS AND ACCOMPLISHMENTS\nDouglas High School Class of 2008 Valedictorian\n•\nAwards for individual contributions as well as team leadership in undergraduate Software Engineering classes\n•\nJava-like language undergraduate compiler – member of one of two teams to receive full score\n•\nRecycled Arcade Machine – full-size, backlit arcade machine with full case art, built from 100% salvaged materials\n•\nAlgorithmic Music Composition and Large-Scale Sound Installation Design – wrote software to compose music\n•\nfrom real-time data (such as stock market values) and constructed full-scale psychoacoustic art installation (WPI)\nDouglas High School 3D Walkthrough – High school senior project; a customizable, first person, 3D virtual model\n•\nof the high school http://tinyurl.com/q7xrnxz\nFranken-VM - A 36-hour VMware hackathon featured project: “Distributed Memory Hypervisor”\n•\nHOBBIES____________________________________________________________________________________\nTechnology, home automation, guitar, ukulele, darts, cards, table tennis, fishing, hiking\nCambridge, MA\nSeptember 2016 - Present\nWorcester, MA\nSeptember 2008 – May 2012\nCambridge, MA\nMay 2012 - Present\nCambridge, MA\nSeptember 2011 – December 2011\nPalo Alto, CA\nMay 2011 – August 2011\nWorcester, MA\nSeptember 2010 – May 2012\nMaynard, MA\nMay 2010 – February 2011"
+}

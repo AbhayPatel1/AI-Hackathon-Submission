@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "source_path": "data/resumes/2017-Resume-Book-for-Web-SDM-25.pdf",
+    "pages": 1,
+    "model": "facebook/bart-large-mnli"
+  },
+  "candidate": {
+    "full_name": "Xiaoliang (Jack) Yao",
+    "emails": [
+      "JACKYAO@MIT.EDU"
+    ],
+    "phones": [
+      "+915089040998"
+    ],
+    "links": {
+      "linkedin": null,
+      "github": null
+    }
+  },
+  "experience": [
+    {
+      "company_raw": null,
+      "company_norm": null,
+      "title_raw": "Pathways Operations Internship",
+      "title_norm": null,
+      "seniority": null,
+      "employment_type": "internship",
+      "location": null,
+      "start_date": null,
+      "end_date": null,
+      "is_current": false,
+      "extraction_confidence": 0.2,
+      "source_page": null,
+      "bullets": []
+    }
+  ],
+  "education": [
+    {
+      "degree_raw": null,
+      "degree_level": null,
+      "field_raw": null,
+      "institution_raw": "Massachusetts Institute of Technology School of Engineering & Sloan School of Management M.S.",
+      "start_date": null,
+      "end_date": null,
+      "gpa": "3.63/4",
+      "extraction_confidence": 0.6,
+      "source_page": null
+    }
+  ],
+  "skills": [],
+  "projects": [],
+  "certifications": [],
+  "publications": [],
+  "achievements": [],
+  "languages": [],
+  "sectioned_text": [
+    {
+      "section_type": "other",
+      "text": "Xiaoliang (Jack) Yao\n262C Winn ST.\nBurlington MA, 01803\n5089040998\nJACKYAO@MIT.EDU",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "Massachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nM.S., Engineering and Management\n4.53/5.00 GPA\nColumbia University\nFu Foundation School of Engineering and Applied Sciences\nM.S., Operations Research\n3.63/4.00 GPA\nUniversity of Massachusetts Amherst\nB.S., Industrial Engineering 3.5/4.00 GPA\nB.S., Applied Mathematics 3.9/4.00 GPA\nB.B.A., Operations Management 3.9/4.00 GPA\nB.A., Economics 3.8/4.00 GPA\nB.A., Chinese Language and Linguistics 3.2/4.00 GPA\nCumulative 3.68/4.00 GPA\nEXPERIENCE\nAmazon.com",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "internships",
+      "text": "Pathways Operations Internship",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "other",
+      "text": "Reduced labor cost by $150k annually by leveling loading daily inbound volume\nIncreased inbound productivity by 40% by designing and implementing new inbound process\nDecreased inventory shrinkage due to expiration by 4.3% by introducing new promotion strategy\nGeneral Electric Aviation\nBusiness Leader\nDrove cost out from 1.2 MM to 5.4MM in 2014\nEliminated customer impact by decreasing work stoppages from 34 in 2013 to 0 YTD\nDecreased average inventory balance from 4.7MM/Wk to 3.2 MM/Wk by implementing lean manufacturing\nmethods.\nGeneral Electric Aviation\n1 st Shift Production Supervisor\nDecreased aged WIP from $1.7MM to under $1MM\nDecreased backlog from over $2.2MM to under $1.5MM\nIncreased shop productivity from 3% to over 8%.\nGeneral Electric Aviation\nOperations Management Leadership Program Associate\n4 th Assignment – FINS/Frames Production Supervisor\nDecreased backlog from $1.1MM to $0\no\nDecreased overtime labor by 20% from 25% to 20%\no\no\nDecreased aged WIP from $900K to under $500K\n3 rd Assignment – Shipping Dock Supervisor\nIncreased On Time Delivery of all shipments from 76% to 92%\no\no\nDecreased overtime labor and decreased foam use by 50% through new package design\n2 nd Assignment – Manufacturing Quality Engineer\nReduced open non-conformances by 60% through process changes\no\nIncreased Florissant Penetrant Inspection yield from 7% to 92% by leading weekly teaming sessions\no\no\nDecreased instances of physical damage to hardware from 10% to 0%\n1 st Assignment – Lean Manufacturing Engineer\nIncreased the output of the Process Village Cell by over 100% by implementing lean process changes\no\nSupported lean manufacturing by designing equipment and facilities layouts that induce part flow\no\no\nReduced the cycle time of process village by 25% from over 12 min to under the TAKT time of 10 min\nLanguages____________________________________________________________________________________\nSpoken and Written Mandarin Chinese\nCambridge, MA\nMay, 2017\nNew York, NY\nMay, 2013\nAmherst, MA\nMay, 2011\nSeattle, WA\nMay 2016 – August 2016\nLynn, MA\nJanuary 2015 – December 2015\nLynn, MA\nJuly – December 2014\nClass of 2013\nCincinnati, OH\nLynn, MA\nLynn, MA\nRutland, MA",
+      "page_range": [
+        1,
+        1
+      ]
+    }
+  ]
+}

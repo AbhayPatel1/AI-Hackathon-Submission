@@ -1,0 +1,65 @@
+ABHAY PRATAP S INGH PATEL
+LinkedIn |
++91 9695213908 |
+20me02040@iitbbs.ac.in |
+GitHub
+Work Experience __________________________________________________________________________________
+Technical Product Manager Intern | AdrenL
+Aug, 2023 - March, 2024
+• Led the end-to-end development of a SaaS platform from concept to beta launch within 4 months, collaborating with the founder in Jordan and the
+marketing team in Singapore, ensuring alignment with international business objectives.
+• Drove key feature development , including chat, review system, and secure payment integration with PhonePe, enhancing product offerings and effectively
+managing partnerships with stakeholders like PhonePe and Digio .
+• Conducted market analysis by interviewing over 25 adventure service providers in Uttarakhand to identify market gaps and enhance platform offerings.
+• Implemented data-driven decision-making by integrating the Google Trends API to optimize homepage sorting, resulting in improved customer
+engagement and a reduced bounce rate.
+• Designed Figma mockups, site maps , and layouts for better user retention, including SEO and Google Analytics integration. Implemented user-centric
+policies like cancellation policy, enhancing satisfaction, and supporting profitability.
+Research Consultant | Worldquant Brain
+• Developed and implemented advanced trading strategies by formulating alpha models using a simulation-based platform and statistical analysis for
+out-of-sample testing.
+Projects __________________________________________________________________________________________
+Cold Email Generator
+• Developed a cold email generator tool using Groq, Langchain, and Streamlit to automate outreach by extracting job listings from company careers pages and
+generating personalized emails.
+• Integrated portfolio link sourcing from a vector database to align email content with job descriptions, improving relevance and personalization.
+• Deployed a user-friendly Streamlit app that assists business development teams in reaching out to potential clients, providing value propositions for
+dedicated software engineering services.
+Ride Demand Surge Price Prediction
+Collab
+• Developed a predictive model to forecast surge pricing types, improving cab-to-customer matching efficiency.
+• Conducted exploratory data analysis (EDA), handled missing values, and encoded categorical variables to prepare the dataset for machine learning.
+• Built and tuned models, achieving 73% accuracy through feature selection and hyperparameter tuning.
+• Improved service efficiency during peak demand times by enabling proactive surge pricing predictions using Python, Pandas, and Scikit-learn
+Human Activity Recognition
+• Built machine learning models (Random Forest, LSTM) for classifying human activities from smartphone sensor data, achieving 90%+ accuracy.
+• Performed time-series preprocessing and feature extraction to enhance model performance.
+• Optimized deep learning models using TensorFlow for real-time activity recognition.
+Education ________________________________________________________________________________________
+Dual Degree (B.Tech + M.Tech)
+Indian Institute of Technology (IIT)
+Bhubaneswar, Odisha
+2020 - 2025
+• Major in Mechanical Engineering
+Positions of Responsibility _________________________________________________________________________
+88 Inter IIT Vice Captain | Medichain
+Github
+• Originated the idea for a decentralized application to securely store patient medical histories, leading the team in a tech entrepreneurship competition at
+the Inter IIT Tech Meet among 22 IITs to present this innovative concept.
+• Developed comprehensive Figma mockups to visualize the user interface and experience, and built a functional prototype using Solidity, leveraging crypto
+for decentralization
+Governor | Finance Society of IIT Bhubaneswar
+• Founded and led FEBS into a top finance society with 100+ members. Hosted events with 300+ attendees, featuring speakers like Zerodha Founder and
+Anil Bhasan. Partnered with WorldQuant, ISB, and managed a Product Development Club. Conducted workshops in finance, math, statistics, and quant.
+WebND Coordinator | Sports Fest IIT BBS
+Github
+• Managed a 30+ member team to create a multifunctional website for registrations and event publicity, while overseeing sponsorship acquisition, organizing
+offline events, and coordinating logistics, contributing to a successful fest with over 1,000 attendees across three days.
+\
+Achievements _______________________________________________________________________________________
+• Codeforces : Pupil on CodeForces (Max rating: 1334).
+• CodeRelay - Secured rank 1 out of 1600 participants on unstop in a 3-day software development hackathon
+• Secured a rank within the top 4% in JEE Advanced (2020) among more than 10 lakh students.
+Skills ________________________________________________________________________________
+• Python, SQL, DBMS, C, C++, DataStructures and Algorithms, Tableau, Project Management, Excel, Google Analytics, Figma, Premier Pro, Mixpanel, Root
+cause analysis, Problem-solving

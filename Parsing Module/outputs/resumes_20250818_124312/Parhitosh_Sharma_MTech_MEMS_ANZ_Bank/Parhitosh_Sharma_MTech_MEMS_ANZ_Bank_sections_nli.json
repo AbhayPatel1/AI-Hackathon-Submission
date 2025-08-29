@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "source_path": "data/resumes/Parhitosh_Sharma_MTech_MEMS_ANZ_Bank.pdf",
+    "pages": 1,
+    "model": "facebook/bart-large-mnli"
+  },
+  "candidate": {
+    "full_name": "Parhitosh Sharma",
+    "emails": [],
+    "phones": [],
+    "links": {
+      "linkedin": null,
+      "github": null
+    }
+  },
+  "sectioned_text": [
+    {
+      "section_type": "other",
+      "text": "Parhitosh Sharma\n193110057\nMetallurgical Engineering and Materials Science\nM.Tech.\nIndian Institute of Technology, Bombay\nGender: Male\nSpecialization: Corrosion Science and Engineering\nDOB: 13-05-1996\nExamination\nUniversity\nInstitute\nYear\nCPI / %\nPost Graduation\nIIT Bombay\nIIT Bombay\n2021\n9\nGraduation",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "Dayalbagh Educational Institute,\nFaculty of Engineering, Dayalbagh\n2019\n7.88\nAgra\nEducational Institute, Agra",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "other",
+      "text": "Graduation Specialization: Mechanical Engineering",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "summary",
+      "text": "Modeling Higher Order Strain Gradient Plasticity in Metallic Systems[June 2020-present]\nGuide: Prof. Anirban Patra, Dept. of MEMS, IIT Bombay\nDeveloped a higher order plasticity constitutive model to account for Geometrically Necessary Dislocations\n(GNDs) and their effect on back stresses in the material.\nImplemented the model in the open source finite element code, MOOSE using C++ & FORTRAN followed by\nmodel validation using known test cases",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "internships",
+      "text": "Terminal Ballistics Research Laboratory-DRDO, Chandigarh [April 18- August 18] [5 months]",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "Project: “Impact of Thin-Walled Projectiles with Concrete Targets.”\nAnalyzed radial buckling in Thin-Walled Projectiles on concrete targets using Solidworks and Ansys Autodyn.\nNeel Metal Products Pvt. Ltd., JBM Group, Haridwar [May 17- June 17] [30 days]\nSoftTact Technologies, Mumbai [June 16- June 16] [7 days]\nSpecialization: Applied Data Science with Python[2020]\nUniversity of Michigan hosted by Coursera",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "courses",
+      "text": "Courses Involved: Introduction to Data Science in Python, Applied Plotting, Charting & Data Representation in\nPython, Applied Machine Learning in Python, Applied Text Mining in Python, Applied Social Network Analysis\nin Python.\nCourse: Data Analytics[2020]",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "Learners’ Space conducted by Analytics Club, UGAC, IIT Bombay\nLearned to Import Datasets, Cleaning and Preparing the Data, Summarizing the DataFrame, Model\nDevelopment (Linear regression, multi-linear regression, and ridge regression) and Model Evaluation .\nIntroduced to pandas ,, and use it to load, manipulate, analyze, and visualize cool datasets, then introduced to scikit-\nlearn, and used some of its machine learning algorithms to build smart models and make cool predictions.",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "courses",
+      "text": "Course: Finance Bootcamp[2020]",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "other",
+      "text": "Learners’ Space conducted by Finance Club, UGAC, IIT Bombay",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "Self Project: Object-detection[2020]\nDeployed a convolutional neural network (CNN) for object recognition.\nImported datasets from Keras , used one-hot vectors for categorical labels and added layers to Keras model.\nLoaded pre-trained weights and made predictions using a trained Keras model\nTECHNICAL STRENGTHS\nProgramming Language: C| C++ | Python | Java | SQL | Matlab\nPython Packages/Tools: NumPy, Pandas, Scikit-Learn, Seaborn, Matplotlib, TensorFlow, Keras, NLTK, Jupyter Notebook",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "skills",
+      "text": "Other Skills: Solidworks | Cubit | Ansys Autodyn | MOOSE | Origin Lab",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "interests",
+      "text": "Data Science | Statistical Analysis | Deep Learning | Machine Learning | Natural Language Processing | Computer Vision",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "achievements",
+      "text": "POSITION OF RESPONSIBILITY & ACHIEVEMENTS\nCompany Coordinator , Institute Placement Team, IIT Bombay(June2020 - present)\nTeaching Assistant for Computation Lab(MM 220), assisted batch 100+ B.Tech students with in-class assignments\nfor MATLAB & Python and involved in evaluation of assignments(Spring 2019-20)\nTeam Leader for Inspiration Awardee team CKC_TECHNOHOLIX in Smart India Hackathon 2017.",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "other",
+      "text": "1 st Prize in Chain Reaction Event at IIT Roorkee(2017)\nYoung Systems Scientist Awardee for Best paper Presentation in PARITANTRA, Tenth Indian Students\nSystems Conference (2016).\n3rd Prize for Hackathon in Sampravah, Annual Fest of Dayalbagh Educational Institute, Agra(2016)\nScholastic achievements and extracurricular activities are not verified by the Placement Cell",
+      "page_range": [
+        1,
+        1
+      ]
+    }
+  ],
+  "stats": {
+    "sections": 15,
+    "contacts_found": {
+      "name": true,
+      "email": false,
+      "phone": false
+    }
+  }
+}

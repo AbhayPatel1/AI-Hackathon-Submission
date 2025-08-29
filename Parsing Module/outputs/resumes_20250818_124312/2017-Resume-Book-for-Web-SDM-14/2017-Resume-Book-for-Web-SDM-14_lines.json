@@ -1,0 +1,1006 @@
+{
+  "meta": {
+    "source_path": "data/resumes/2017-Resume-Book-for-Web-SDM-14.pdf",
+    "pages": 1
+  },
+  "lines": [
+    {
+      "page": 1,
+      "text": "ASWINI NARAYANA PRASAD",
+      "bbox": [
+        237.41000366210938,
+        52.674251556396484,
+        392.5773010253906,
+        67.96465301513672
+      ],
+      "left_indent": 237.41000366210938,
+      "width": 155.16729736328125,
+      "is_bold": true,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "Apt. #14-B2, 550 Memorial Drive, Cambridge • 8579995118 • aswinin@mit.edu",
+      "bbox": [
+        135.25999450683594,
+        65.6549072265625,
+        494.7901306152344,
+        80.38227081298828
+      ],
+      "left_indent": 135.25999450683594,
+      "width": 359.53013610839844,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "EDUCATION",
+      "bbox": [
+        72.02400207519531,
+        88.98176574707031,
+        135.5900115966797,
+        102.7763671875
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 63.566009521484375,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Cambridge, MA",
+      "bbox": [
+        492.5799865722656,
+        99.8121109008789,
+        560.5899658203125,
+        113.09874725341797
+      ],
+      "left_indent": 492.5799865722656,
+      "width": 68.00997924804688,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Massachusetts Institute of Technology",
+      "bbox": [
+        72.02400207519531,
+        99.90174865722656,
+        234.87802124023438,
+        113.69635009765625
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 162.85401916503906,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Sep ’16- (Expected completion: Jan ‘18)",
+      "bbox": [
+        395.1099853515625,
+        110.8521499633789,
+        558.1024780273438,
+        124.13878631591797
+      ],
+      "left_indent": 395.1099853515625,
+      "width": 162.99249267578125,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "School of Engineering & Sloan School of Management",
+      "bbox": [
+        72.02400207519531,
+        111.8680648803711,
+        294.2599792480469,
+        124.02922821044922
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 222.23597717285156,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "M.S., Engineering Management",
+      "bbox": [
+        72.02400207519531,
+        121.89212799072266,
+        202.5800018310547,
+        135.17877197265625
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 130.55599975585938,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Specialization: Manufacturing and Supply chain, systems thinking, technology management",
+      "bbox": [
+        90.02400207519531,
+        133.77212524414062,
+        461.4700012207031,
+        147.05877685546875
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 371.4459991455078,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02400207519531,
+        134.24652099609375,
+        76.60520935058594,
+        146.448486328125
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Thesis: Risk analysis & Mitigation solutions for Electric vehicle Li-ion batteries",
+      "bbox": [
+        90.02400207519531,
+        145.05209350585938,
+        410.93304443359375,
+        158.3387451171875
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 320.90904235839844,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02400207519531,
+        145.5264892578125,
+        76.60520935058594,
+        157.72845458984375
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Action Projects under progress:",
+      "bbox": [
+        90.02400207519531,
+        157.17208862304688,
+        221.4199981689453,
+        170.458740234375
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 131.39599609375,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02400207519531,
+        157.646484375,
+        76.60520935058594,
+        169.84844970703125
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Competitive benchmarking & market strategy for ISEE, a Boston startup for Autonomous driving s/w solution",
+      "bbox": [
+        108.0199966430664,
+        170.37210083007812,
+        555.6699829101562,
+        183.65875244140625
+      ],
+      "left_indent": 108.0199966430664,
+      "width": 447.64998626708984,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "o",
+      "bbox": [
+        90.02400207519531,
+        172.56808471679688,
+        96.0009765625,
+        183.8509063720703
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 5.9769744873046875,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Trade space analysis and operational strategy for autonomous charging stations for GM",
+      "bbox": [
+        108.0199966430664,
+        183.57211303710938,
+        460.8699951171875,
+        196.8587646484375
+      ],
+      "left_indent": 108.0199966430664,
+      "width": 352.8499984741211,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "o",
+      "bbox": [
+        90.02400207519531,
+        185.76809692382812,
+        96.0009765625,
+        197.05091857910156
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 5.9769744873046875,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "New Delhi, India",
+      "bbox": [
+        488.9800109863281,
+        207.45211791992188,
+        560.5899658203125,
+        220.73876953125
+      ],
+      "left_indent": 488.9800109863281,
+      "width": 71.60995483398438,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Indian Institute of Technology Delhi",
+      "bbox": [
+        72.02400207519531,
+        207.54176330566406,
+        226.91197204589844,
+        221.33636474609375
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 154.88796997070312,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "M.Tech. Design Engineering",
+      "bbox": [
+        72.02400207519531,
+        218.85214233398438,
+        187.90858459472656,
+        232.1387939453125
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 115.88458251953125,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Jun ’ 09 – July ’1l",
+      "bbox": [
+        485.6199951171875,
+        218.85214233398438,
+        560.5899658203125,
+        232.1387939453125
+      ],
+      "left_indent": 485.6199951171875,
+      "width": 74.969970703125,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Thesis: Computationally Efficient Structural Analysis of Composite Fuselages (Won DAAD scholarship to",
+      "bbox": [
+        90.02400207519531,
+        232.77212524414062,
+        521.4485473632812,
+        246.05877685546875
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 431.42454528808594,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02400207519531,
+        233.24652099609375,
+        76.60520935058594,
+        245.448486328125
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "undertake thesis work at RWTH Aachen University, Germany for 9 months)",
+      "bbox": [
+        90.02400207519531,
+        245.97213745117188,
+        398.79998779296875,
+        259.2587890625
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 308.77598571777344,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "3 international publications in Computational Design and Analysis",
+      "bbox": [
+        90.02400207519531,
+        258.8421325683594,
+        359.0338134765625,
+        272.1287841796875
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 269.0098114013672,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02400207519531,
+        260.28167724609375,
+        76.16365051269531,
+        271.30755615234375
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 4.1396484375,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 1,
+      "text": "Chennai, India",
+      "bbox": [
+        499.17999267578125,
+        281.2821044921875,
+        557.9140014648438,
+        294.5687561035156
+      ],
+      "left_indent": 499.17999267578125,
+      "width": 58.7340087890625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "College of Engineering Guindy, Anna University",
+      "bbox": [
+        72.02400207519531,
+        281.3717346191406,
+        279.0220947265625,
+        295.1663513183594
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 206.9980926513672,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "B.E. Manufacturing",
+      "bbox": [
+        72.02400207519531,
+        294.48211669921875,
+        156.7100067138672,
+        307.7687683105469
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 84.68600463867188,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Jun ’ 05 – May ‘09",
+      "bbox": [
+        484.17999267578125,
+        294.48211669921875,
+        560.5899658203125,
+        307.7687683105469
+      ],
+      "left_indent": 484.17999267578125,
+      "width": 76.40997314453125,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "EXPERIENCE",
+      "bbox": [
+        72.02400207519531,
+        318.4517517089844,
+        140.02999877929688,
+        332.2463684082031
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 68.00599670410156,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Research Assistant | MIT, Cambridge | Aug ’16 – Present",
+      "bbox": [
+        72.02400207519531,
+        330.6888732910156,
+        308.10565185546875,
+        343.5970458984375
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 236.08164978027344,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Program Manager for Industrial Consortium at MIT for modeling of Electric Vehicle Li-Ion batteries",
+      "bbox": [
+        108.0199966430664,
+        343.5621032714844,
+        515.22998046875,
+        356.8487548828125
+      ],
+      "left_indent": 108.0199966430664,
+      "width": 407.2099838256836,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        90.02400207519531,
+        344.0364990234375,
+        94.60520935058594,
+        356.23846435546875
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Engineering Team Lead, Vehicle Electrical Business | Eaton India Innovation Center | Mar ‘14– July‘16",
+      "bbox": [
+        72.02400207519531,
+        363.8117370605469,
+        507.66998291015625,
+        377.6063537597656
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 435.64598083496094,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Lead & Program Manager for development of power distribution and power conversion products for heavy duty",
+      "bbox": [
+        108.0199966430664,
+        377.4021301269531,
+        559.935546875,
+        390.68878173828125
+      ],
+      "left_indent": 108.0199966430664,
+      "width": 451.9155502319336,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        90.02400207519531,
+        377.87652587890625,
+        94.60520935058594,
+        390.0784912109375
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "vehicles – demonstrated timely product launches by close collaboration with manufacturing and supply chain",
+      "bbox": [
+        108.0199966430664,
+        390.60211181640625,
+        560.57275390625,
+        403.8887634277344
+      ],
+      "left_indent": 108.0199966430664,
+      "width": 452.5527572631836,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "teams – Toll gate and agile program management",
+      "bbox": [
+        108.0199966430664,
+        403.8021240234375,
+        308.53997802734375,
+        417.0887756347656
+      ],
+      "left_indent": 108.0199966430664,
+      "width": 200.51998138427734,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Led VAVE projects for cost out & part consolidation across global manufacturing plants - demonstrated cost",
+      "bbox": [
+        108.0199966430664,
+        419.6421203613281,
+        560.5146484375,
+        432.92877197265625
+      ],
+      "left_indent": 108.0199966430664,
+      "width": 452.4946517944336,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        90.02400207519531,
+        420.11651611328125,
+        94.60520935058594,
+        432.3184814453125
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "savings over $30K per year per product line",
+      "bbox": [
+        108.0199966430664,
+        432.98211669921875,
+        286.3399963378906,
+        446.2687683105469
+      ],
+      "left_indent": 108.0199966430664,
+      "width": 178.31999969482422,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Reduced product testing cost >20% by replacing physical tests by FEA and analytical modeling",
+      "bbox": [
+        108.0199966430664,
+        448.8221130371094,
+        498.66998291015625,
+        462.1087646484375
+      ],
+      "left_indent": 108.0199966430664,
+      "width": 390.64998626708984,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        90.02400207519531,
+        449.2965087890625,
+        94.60520935058594,
+        461.49847412109375
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Senior Engineer, Vehicle Powertrain Business | Eaton India Innovation Center | Aug’13-Feb’14",
+      "bbox": [
+        72.02400207519531,
+        472.6717529296875,
+        469.91229248046875,
+        486.46636962890625
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 397.88829040527344,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Designed the exhaust energy recovery system for heavy duty diesel vehicles – demonstrated nearly 8%",
+      "bbox": [
+        108.0199966430664,
+        486.3821105957031,
+        560.4984130859375,
+        499.66876220703125
+      ],
+      "left_indent": 108.0199966430664,
+      "width": 452.4784164428711,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        90.02400207519531,
+        486.85650634765625,
+        94.60520935058594,
+        499.0584716796875
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "reduction in fuel consumption",
+      "bbox": [
+        108.0199966430664,
+        499.4621276855469,
+        233.3000030517578,
+        512.748779296875
+      ],
+      "left_indent": 108.0199966430664,
+      "width": 125.2800064086914,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Design and optimization of conventional and electric boosting solutions (superchargers) for light duty engines",
+      "bbox": [
+        108.0199966430664,
+        514.5821533203125,
+        560.4473266601562,
+        527.8687744140625
+      ],
+      "left_indent": 108.0199966430664,
+      "width": 452.42733001708984,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        90.02400207519531,
+        515.0565185546875,
+        94.60520935058594,
+        527.2584838867188
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "using GT-Suite software",
+      "bbox": [
+        108.0199966430664,
+        527.6621704101562,
+        211.3400115966797,
+        540.9487915039062
+      ],
+      "left_indent": 108.0199966430664,
+      "width": 103.32001495361328,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Engineer, Technology Advancement Team | Eaton India Innovation Center | Aug ’11-Aug ’13",
+      "bbox": [
+        72.02400207519531,
+        550.7888793945312,
+        462.66998291015625,
+        563.697021484375
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 390.64598083496094,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Part of Eaton’s Engineering Technology Leadership Program (ETLP) - 2 years rotational program – recognized",
+      "bbox": [
+        108.0199966430664,
+        563.6621704101562,
+        560.5432739257812,
+        576.9487915039062
+      ],
+      "left_indent": 108.0199966430664,
+      "width": 452.52327728271484,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        90.02400207519531,
+        564.1365356445312,
+        94.60520935058594,
+        576.3385009765625
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "as one among top 5% candidates at Eaton India.",
+      "bbox": [
+        108.0199966430664,
+        576.7421264648438,
+        304.94000244140625,
+        590.0287475585938
+      ],
+      "left_indent": 108.0199966430664,
+      "width": 196.92000579833984,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Established in-house computational modeling and testing capabilities for composite materials by working",
+      "bbox": [
+        108.0199966430664,
+        591.8621215820312,
+        560.154052734375,
+        605.1487426757812
+      ],
+      "left_indent": 108.0199966430664,
+      "width": 452.1340560913086,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        90.02400207519531,
+        592.3364868164062,
+        94.60520935058594,
+        604.5384521484375
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "closely with supply chain and purchase teams to establish vendors and external test lab partnership.",
+      "bbox": [
+        108.0199966430664,
+        604.97216796875,
+        507.9100036621094,
+        618.2587890625
+      ],
+      "left_indent": 108.0199966430664,
+      "width": 399.89000701904297,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Pioneered Fuel Economy simulation for light duty and heavy duty vehicles using GT-Suite software",
+      "bbox": [
+        108.0199966430664,
+        619.97216796875,
+        513.9100341796875,
+        633.2587890625
+      ],
+      "left_indent": 108.0199966430664,
+      "width": 405.8900375366211,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        90.02400207519531,
+        620.446533203125,
+        94.60520935058594,
+        632.6484985351562
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "OTHER ORGANISATIONAL INVOLVEMENTS",
+      "bbox": [
+        72.02400207519531,
+        641.78173828125,
+        291.2599792480469,
+        655.5763549804688
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 219.23597717285156,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Co-led strategic initiative at Eaton “Building an Integrated Innovation Framework” – Won Eaton APAC award",
+      "bbox": [
+        90.02400207519531,
+        653.8121337890625,
+        560.462890625,
+        667.0987548828125
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 470.4388885498047,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02400207519531,
+        654.2864990234375,
+        76.60520935058594,
+        666.4884643554688
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "(2012) for Continuous Improvement",
+      "bbox": [
+        90.02400207519531,
+        667.0121459960938,
+        238.4600067138672,
+        680.2987670898438
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 148.43600463867188,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Core organizer of annual global technical event of Eaton India with 200+ global participants – first of its kind to",
+      "bbox": [
+        90.02400207519531,
+        680.93212890625,
+        560.4754028320312,
+        694.21875
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 470.45140075683594,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02400207519531,
+        681.406494140625,
+        76.60520935058594,
+        693.6084594726562
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "bring engineering, manufacturing and marketing leaders and experts together to focus on regional innovation (2013)",
+      "bbox": [
+        90.02400207519531,
+        694.1281127929688,
+        557.4345703125,
+        707.4147338867188
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 467.4105682373047,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Green Belt certified in Design for Six Sigma – Also organization wide mentor, reviewer and trainer for Design for",
+      "bbox": [
+        90.02400207519531,
+        708.0481567382812,
+        560.2008666992188,
+        721.3347778320312
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 470.17686462402344,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02400207519531,
+        708.5225219726562,
+        76.60520935058594,
+        720.7244873046875
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Six Sigma",
+      "bbox": [
+        90.02400207519531,
+        721.3681640625,
+        133.91000366210938,
+        734.65478515625
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 43.88600158691406,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    }
+  ],
+  "text_per_page": [
+    "ASWINI NARAYANA PRASAD\nApt. #14-B2, 550 Memorial Drive, Cambridge • 8579995118 • aswinin@mit.edu\nEDUCATION\nCambridge, MA\nMassachusetts Institute of Technology\nSep ’16- (Expected completion: Jan ‘18)\nSchool of Engineering & Sloan School of Management\nM.S., Engineering Management\nSpecialization: Manufacturing and Supply chain, systems thinking, technology management\n\nThesis: Risk analysis & Mitigation solutions for Electric vehicle Li-ion batteries\n\nAction Projects under progress:\n\nCompetitive benchmarking & market strategy for ISEE, a Boston startup for Autonomous driving s/w solution\no\nTrade space analysis and operational strategy for autonomous charging stations for GM\no\nNew Delhi, India\nIndian Institute of Technology Delhi\nM.Tech. Design Engineering\nJun ’ 09 – July ’1l\nThesis: Computationally Efficient Structural Analysis of Composite Fuselages (Won DAAD scholarship to\n\nundertake thesis work at RWTH Aachen University, Germany for 9 months)\n3 international publications in Computational Design and Analysis\n\nChennai, India\nCollege of Engineering Guindy, Anna University\nB.E. Manufacturing\nJun ’ 05 – May ‘09\nEXPERIENCE\nResearch Assistant | MIT, Cambridge | Aug ’16 – Present\nProgram Manager for Industrial Consortium at MIT for modeling of Electric Vehicle Li-Ion batteries\n\nEngineering Team Lead, Vehicle Electrical Business | Eaton India Innovation Center | Mar ‘14– July‘16\nLead & Program Manager for development of power distribution and power conversion products for heavy duty\n\nvehicles – demonstrated timely product launches by close collaboration with manufacturing and supply chain\nteams – Toll gate and agile program management\nLed VAVE projects for cost out & part consolidation across global manufacturing plants - demonstrated cost\n\nsavings over $30K per year per product line\nReduced product testing cost >20% by replacing physical tests by FEA and analytical modeling\n\nSenior Engineer, Vehicle Powertrain Business | Eaton India Innovation Center | Aug’13-Feb’14\nDesigned the exhaust energy recovery system for heavy duty diesel vehicles – demonstrated nearly 8%\n\nreduction in fuel consumption\nDesign and optimization of conventional and electric boosting solutions (superchargers) for light duty engines\n\nusing GT-Suite software\nEngineer, Technology Advancement Team | Eaton India Innovation Center | Aug ’11-Aug ’13\nPart of Eaton’s Engineering Technology Leadership Program (ETLP) - 2 years rotational program – recognized\n\nas one among top 5% candidates at Eaton India.\nEstablished in-house computational modeling and testing capabilities for composite materials by working\n\nclosely with supply chain and purchase teams to establish vendors and external test lab partnership.\nPioneered Fuel Economy simulation for light duty and heavy duty vehicles using GT-Suite software\n\nOTHER ORGANISATIONAL INVOLVEMENTS\nCo-led strategic initiative at Eaton “Building an Integrated Innovation Framework” – Won Eaton APAC award\n\n(2012) for Continuous Improvement\nCore organizer of annual global technical event of Eaton India with 200+ global participants – first of its kind to\n\nbring engineering, manufacturing and marketing leaders and experts together to focus on regional innovation (2013)\nGreen Belt certified in Design for Six Sigma – Also organization wide mentor, reviewer and trainer for Design for\n\nSix Sigma"
+  ],
+  "text_all": "ASWINI NARAYANA PRASAD\nApt. #14-B2, 550 Memorial Drive, Cambridge • 8579995118 • aswinin@mit.edu\nEDUCATION\nCambridge, MA\nMassachusetts Institute of Technology\nSep ’16- (Expected completion: Jan ‘18)\nSchool of Engineering & Sloan School of Management\nM.S., Engineering Management\nSpecialization: Manufacturing and Supply chain, systems thinking, technology management\n\nThesis: Risk analysis & Mitigation solutions for Electric vehicle Li-ion batteries\n\nAction Projects under progress:\n\nCompetitive benchmarking & market strategy for ISEE, a Boston startup for Autonomous driving s/w solution\no\nTrade space analysis and operational strategy for autonomous charging stations for GM\no\nNew Delhi, India\nIndian Institute of Technology Delhi\nM.Tech. Design Engineering\nJun ’ 09 – July ’1l\nThesis: Computationally Efficient Structural Analysis of Composite Fuselages (Won DAAD scholarship to\n\nundertake thesis work at RWTH Aachen University, Germany for 9 months)\n3 international publications in Computational Design and Analysis\n\nChennai, India\nCollege of Engineering Guindy, Anna University\nB.E. Manufacturing\nJun ’ 05 – May ‘09\nEXPERIENCE\nResearch Assistant | MIT, Cambridge | Aug ’16 – Present\nProgram Manager for Industrial Consortium at MIT for modeling of Electric Vehicle Li-Ion batteries\n\nEngineering Team Lead, Vehicle Electrical Business | Eaton India Innovation Center | Mar ‘14– July‘16\nLead & Program Manager for development of power distribution and power conversion products for heavy duty\n\nvehicles – demonstrated timely product launches by close collaboration with manufacturing and supply chain\nteams – Toll gate and agile program management\nLed VAVE projects for cost out & part consolidation across global manufacturing plants - demonstrated cost\n\nsavings over $30K per year per product line\nReduced product testing cost >20% by replacing physical tests by FEA and analytical modeling\n\nSenior Engineer, Vehicle Powertrain Business | Eaton India Innovation Center | Aug’13-Feb’14\nDesigned the exhaust energy recovery system for heavy duty diesel vehicles – demonstrated nearly 8%\n\nreduction in fuel consumption\nDesign and optimization of conventional and electric boosting solutions (superchargers) for light duty engines\n\nusing GT-Suite software\nEngineer, Technology Advancement Team | Eaton India Innovation Center | Aug ’11-Aug ’13\nPart of Eaton’s Engineering Technology Leadership Program (ETLP) - 2 years rotational program – recognized\n\nas one among top 5% candidates at Eaton India.\nEstablished in-house computational modeling and testing capabilities for composite materials by working\n\nclosely with supply chain and purchase teams to establish vendors and external test lab partnership.\nPioneered Fuel Economy simulation for light duty and heavy duty vehicles using GT-Suite software\n\nOTHER ORGANISATIONAL INVOLVEMENTS\nCo-led strategic initiative at Eaton “Building an Integrated Innovation Framework” – Won Eaton APAC award\n\n(2012) for Continuous Improvement\nCore organizer of annual global technical event of Eaton India with 200+ global participants – first of its kind to\n\nbring engineering, manufacturing and marketing leaders and experts together to focus on regional innovation (2013)\nGreen Belt certified in Design for Six Sigma – Also organization wide mentor, reviewer and trainer for Design for\n\nSix Sigma"
+}

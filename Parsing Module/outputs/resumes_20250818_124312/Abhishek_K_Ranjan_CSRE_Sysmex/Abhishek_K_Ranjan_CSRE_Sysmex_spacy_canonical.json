@@ -1,0 +1,239 @@
+{
+  "candidate": {
+    "full_name": "Abhishek Kumar Ranjan",
+    "emails": [],
+    "phones": [],
+    "location": {
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null
+    },
+    "resume_text_hash": "sha256:2033aff2a47f5fbae68e2c18c13013e71ef6fd32c5a2e0a96bfb04365fe63021",
+    "source_file_id": "Abhishek_K_Ranjan_CSRE_Sysmex.pdf",
+    "parsed_at": "2025-08-18T08:57:13Z",
+    "parser_version": "v0.3.0"
+  },
+  "experience": [],
+  "education": [
+    {
+      "degree_raw": null,
+      "degree_level": null,
+      "field_raw": null,
+      "institution_raw": "K.V. NO-1 A.F.S. Tambaram",
+      "start_date": null,
+      "end_date": null,
+      "gpa": null,
+      "extraction_confidence": 0.6,
+      "source_page": null
+    },
+    {
+      "degree_raw": null,
+      "degree_level": null,
+      "field_raw": null,
+      "institution_raw": null,
+      "start_date": null,
+      "end_date": null,
+      "gpa": null,
+      "extraction_confidence": 0.3,
+      "source_page": null
+    },
+    {
+      "degree_raw": null,
+      "degree_level": null,
+      "field_raw": null,
+      "institution_raw": "Compiled & Developed",
+      "start_date": null,
+      "end_date": null,
+      "gpa": null,
+      "extraction_confidence": 0.6,
+      "source_page": null
+    }
+  ],
+  "skills": [
+    {
+      "name": "c",
+      "category": null
+    },
+    {
+      "name": "c++",
+      "category": null
+    },
+    {
+      "name": "git",
+      "category": null
+    },
+    {
+      "name": "python",
+      "category": null
+    },
+    {
+      "name": "pytorch",
+      "category": null
+    },
+    {
+      "name": "scikit-learn",
+      "category": null
+    },
+    {
+      "name": "sql",
+      "category": null
+    },
+    {
+      "name": "tensorflow",
+      "category": null
+    }
+  ],
+  "projects": [
+    {
+      "name": "MAJOR PROJECTS",
+      "summary": "• M.Tech Project: Incremental learning for land use-land cover classiﬁcation [July’20-Present] Guide: Prof. Biplab Banerjee o Performed semantic segmentation on UCMerced and AID datasets using U-net Architecture o Developing an improved model using attention U-net for End to End Incremental learning to add new classes o Implementing GAN based Generative Feature Replay with Feature distillation to avoid Catastrophic forgetting • Real-Time Hand Gesture Tracking Using Deep Learning [April’20-June’20]",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Summer of Science 2020",
+      "summary": "o Designed a model using OpenCV to detect hand gestures using basic mathematical and geometrical concepts o Developed a CNN model with TensorFlow using leapGestRecog dataset and achieved an accuracy of 95% o Fine-tuned VGG-16 model using Transfer Learning concept to achieve 99% detection accuracy • Show, Attend and Tell for Image to speech [Aug’20-Present] Guide: Prof. Biplab Banerjee o Implemented Show, Attend and tell approach using InceptionV3 + Encoder-Decoder architecture o Output the generated caption in speech form to give the context of the scene using Google text to speech engine o Developing a Visual question answering System using the input image for Attention-based querying • M.Tech Seminar: Context-aware CNN for Object Detection [Feb’20-June’20] Guide: Guide- Prof. B. K. Mohan o Performed extensive literature study on diﬀerent Object detection algorithms for satellite images o Achieved improved performance in Context-aware CNN over RCNN, Fast-RCNN and Faster-RCNN o Utilized Context ROI Mining Layer over Faster R-CNN Architecture to achieve enhanced detection accuracy • B.Tech Project: Accessibility Analysis of Primary Schools Using Geo-spatial Techniques Guide: Prof. Nisha Radhakrishnan [Jan’18-May’18] o Conducted an extensive ﬁeld survey from students of 144 government primary schools across Trichy district o Calculated Spatial Accessibility Index using ArcGIS & Three-step ﬂoating catchment area model",
+      "role": null,
+      "tech_stack": [
+        "c",
+        "tensorflow"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    }
+  ],
+  "certifications": [],
+  "publications": [],
+  "achievements": [
+    "Achieved 98.81 percentile in GATE Civil Engineering among 0.15 million+ candidates",
+    "[2018]",
+    "Secured 98.9 percentile in JEE Main among 1.3 million+ candidates",
+    "[2014]",
+    "Received an honorable acknowledgement for contribution in research about “the application of remote sensing in",
+    "water security and agriculture for food security” supported by The National Science Foundation, USA [2020]",
+    "Honoured with appreciation letter from former MHRD minister Smriti Irani & Awardee of CSSS (Central",
+    "Sector Scholarship Scheme) worth 50k rupees for being among top 0.1 percent in CBSE Board exam [2014]",
+    "Centum holder in subject MATHEMATICS in CBSE Board Examination 2014",
+    "[2020]",
+    "Awarded 3k cash prize for securing AIR 28 & 3rd in Chennai region in Junior Mathematics Olympiad [2012]",
+    "Achieved 100% scholarship worth 1.6 Lakh rupees in ANTHE Exam conducted by AAKASH Institute [2012]",
+    "Teaching Assistant-CSRE, IIT Bombay",
+    "o Assisting in instructing a niche group of 113+ students by holding tutorials and helping with project realization",
+    "Department Coordinator CSRE ISCP 2020-21",
+    "o Worked in a team of 177 people and coordinated the e-orientation at the department level for 30 new entrants",
+    "o Interviewed candidates to select a team of SCs & leading them to mentor 31 students throughout the year"
+  ],
+  "languages": [],
+  "sectioned_text": [
+    {
+      "section_type": "other",
+      "text": "Abhishek Kumar Ranjan\n193310005\nGeoinformatics and Natural Resources Engineering\nM.Tech.\nIndian Institute of Technology, Bombay\nGender: Male\nDOB: 18-07-1996\nExamination\nUniversity\nInstitute\nYear\nCPI / %\nPost Graduation\nIIT Bombay\nIIT Bombay\n2021\n9.5\nGraduation\nNIT Trichy\nNIT Trichy\n2018\n8.18\nGraduation Specialization: Civil Engineering\nIntermediate",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "K.V. NO-1 A.F.S. Tambaram\n2014\n95.40%\nMatriculation\nK.V. NO-1 A.F.S. Tambaram\n2012\n9.8",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "interests",
+      "text": "o Deep Learning\no Machine Learning\no Image Processing\no Computer Vision\no Statistical Data Analysis\no GIS",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "achievements",
+      "text": "• Achieved 98.81 percentile in GATE Civil Engineering among 0.15 million+ candidates\n[2018]\n• Secured 98.9 percentile in JEE Main among 1.3 million+ candidates\n[2014]\n• Received an honorable acknowledgement for contribution in research about “the application of remote sensing in\nwater security and agriculture for food security” supported by The National Science Foundation, USA [2020]\n• Honoured with appreciation letter from former MHRD minister Smriti Irani & Awardee of CSSS (Central\nSector Scholarship Scheme) worth 50k rupees for being among top 0.1 percent in CBSE Board exam [2014]\n• Centum holder in subject MATHEMATICS in CBSE Board Examination 2014\n[2020]\n• Awarded 3k cash prize for securing AIR 28 & 3rd in Chennai region in Junior Mathematics Olympiad [2012]\n• Achieved 100% scholarship worth 1.6 Lakh rupees in ANTHE Exam conducted by AAKASH Institute [2012]",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "MAJOR PROJECTS\n• M.Tech Project: Incremental learning for land use-land cover classiﬁcation\n[July’20-Present]\nGuide: Prof. Biplab Banerjee\no Performed semantic segmentation on UCMerced and AID datasets using U-net Architecture\no Developing an improved model using attention U-net for End to End Incremental learning to add new classes\no Implementing GAN based Generative Feature Replay with Feature distillation to avoid Catastrophic forgetting\n• Real-Time Hand Gesture Tracking Using Deep Learning\n[April’20-June’20]\nSummer of Science 2020\no Designed a model using OpenCV to detect hand gestures using basic mathematical and geometrical concepts\no Developed a CNN model with TensorFlow using leapGestRecog dataset and achieved an accuracy of 95%\no Fine-tuned VGG-16 model using Transfer Learning concept to achieve 99% detection accuracy\n• Show, Attend and Tell for Image to speech\n[Aug’20-Present]\nGuide: Prof. Biplab Banerjee\no Implemented Show, Attend and tell approach using InceptionV3 + Encoder-Decoder architecture\no Output the generated caption in speech form to give the context of the scene using Google text to speech engine\no Developing a Visual question answering System using the input image for Attention-based querying\n• M.Tech Seminar: Context-aware CNN for Object Detection\n[Feb’20-June’20]\nGuide: Guide- Prof. B. K. Mohan\no Performed extensive literature study on diﬀerent Object detection algorithms for satellite images\no Achieved improved performance in Context-aware CNN over RCNN, Fast-RCNN and Faster-RCNN\no Utilized Context ROI Mining Layer over Faster R-CNN Architecture to achieve enhanced detection accuracy\n• B.Tech Project: Accessibility Analysis of Primary Schools Using Geo-spatial Techniques\nGuide: Prof. Nisha Radhakrishnan\n[Jan’18-May’18]\no Conducted an extensive ﬁeld survey from students of 144 government primary schools across Trichy district\no Calculated Spatial Accessibility Index using ArcGIS & Three-step ﬂoating catchment area model",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "o Generated SPAI Thematic map of schools to identify the areas deprived of primary educational facilities",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "courses",
+      "text": "• One-shot learning for Human face mask detection for COVID-19\no Simpliﬁed the problem statement as a Binary Classiﬁcation problem and identiﬁed anchor pairs\no Reduced training time signiﬁcantly by deploying Siamese Network & achieved accuracy of 77% with triplet loss\n• Gold Prospectivity using fuzzy logic and Artiﬁcial Neural network\no Generated prospectively maps of gold reserve of Arunta region from its geochemical properties in ArcMap\no Predicted optimum location of gold deposits with an accuracy of 75% using Artiﬁcial Neural Network\no Generated gold prospectivity map using Fuzzy Inference System in ArcGIS & obtained accuracy of 80%\n• DNA sequence classiﬁer using machine learning\no Developed Multinomial Naive Bayes classiﬁer from scratch using Bag-of-words language model\no Achieved genome accuracy of 98.4% on human, 99.35% on chimpanzee and 92.56% on dog datasets\n• Flight Delay Prediction on Bureau of Transportation Statistics Data using Julia\no Analyzed underlying trends in Flight delay based on visualization & EDA (Exploratory Data Analysis)\no Increased overall accuracy by 2.16 % by performing feature engineering to 90.68 % using Logistic Regression\n• Statistical analysis of CWC streamﬂow Time series data over Ganga Basin\no Preprocessed and formatted Time series data of over 45+ years and 20+ gauge stations in desired structure\no Utilized MATLAB & Numpy, Pandas, Matplotlib libraries of python for analysis, visualization of data\n• House pricing prediction using Linear/Non-linear and Regularized Regression\no Implemented Linear , Polynomial , Ridge and LASSO Regression model and compared their performance\no Achieved maximum R-square score of 0.5392 and minimum RMSE with LASSO regression in Julia\n• Detection of Line features in images using Hough Transform\no Implemented feature extraction technique of Hough Transform from scratch using Matlab over Sobel detected edge\no Achieved comparable result with inbuilt function and developed a Graphics User Interface for this operation\n• Edge Detection package for Satellite images\no Implemented Canny Edge Detector from scratch in MATLAB and achieved similar result as inbuilt function",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "certifications",
+      "text": "o Registered improvement over Sobel operator using NMS, Double threshold, Edge Tracking by Hysteresis\n• Deploying Solar Panel in IIT Bombay using GIS techniques\no Interpolated Irradiance surface using IDW of IITB campus using Solar DATA from PVGIS Database\no Conducted cost-beneﬁt analysis of solar data in diﬀerent PV Systems to achieve optimum PV system\no Developed 3-D model in AUTOCAD of IITB campus, simulating the deployment of SOLAR grid",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "responsibility",
+      "text": "• Teaching Assistant-CSRE, IIT Bombay\no Assisting in instructing a niche group of 113+ students by holding tutorials and helping with project realization\n• Department Coordinator CSRE ISCP 2020-21\no Worked in a team of 177 people and coordinated the e-orientation at the department level for 30 new entrants\no Interviewed candidates to select a team of SCs & leading them to mentor 31 students throughout the year",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "o Compiled & Developed department’s Handbook with SCs that serves as informative manual to PG freshmen\no Mentoring 8 students throughout the year helping them on academic as well as non-academic fronts\n• Volunteer for helping students from TEQIP-III institutions prepare for GATE Exam [Aug’20-Present]\no To help the UG students from TEQIP-III Institutions in Bihar, learn fundamental concepts & prepare for GATE\no To encourage students to appear for GATE and make them aware of diﬀerent opportunities after GATE qualiﬁcation",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "courses",
+      "text": "• Machine Learning for Remote Sensing II (Transfer learning,R-CNN family,YOLO ) *\n• Machine Learning for Remote Sensing I (Linear Regression,Decision Trees,KNN,SVM )\n• Advanced Methods in Satellite Image Processing (Image classiﬁcation, change detection, ﬁlters)\n• Principles of Geographic Information System (GIS applications,Spatial data ,Interpolation)\n• Geo-spatial Predictive Modelling ( Neuro-fuzzy inference system,SVM,Neural Nets, CNN,SVM) *",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "skills",
+      "text": "• Programming Languages : Python, R, SQL, MATLAB, C++, C, Julia\n• Libraries/Frameworks : Keras, Scikit-Learn, PyTorch, TensorFlow,\n• Software : ESRI ArcGIS Desktop, QGIS, ERDAS Imagine, ENVI, LATEX, Git\nScholastic achievements and extracurricular activities are not verified by the Placement Cell\n[July’20-Aug’20]\n[Feb’20-May’20]\n[Feb’20-May’20]\n[Mar’20-Apr’20]\n[July’19-Apr’20]\n[Jan’20–Feb’20]\n[Aug’19-Nov’19]\n[Feb’20-May’20]\n[Aug’19-Nov’19]\n[July’20-Present]\n[May’20-Present]\n*audit",
+      "page_range": [
+        2,
+        2
+      ]
+    }
+  ]
+}

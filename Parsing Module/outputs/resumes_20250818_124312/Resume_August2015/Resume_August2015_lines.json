@@ -1,0 +1,2156 @@
+{
+  "meta": {
+    "source_path": "data/resumes/Resume_August2015.pdf",
+    "pages": 3
+  },
+  "lines": [
+    {
+      "page": 1,
+      "text": "RESUME",
+      "bbox": [
+        208.3699951171875,
+        24.02281951904297,
+        308.5549011230469,
+        54.261741638183594
+      ],
+      "left_indent": 208.3699951171875,
+      "width": 100.18490600585938,
+      "is_bold": true,
+      "font_size": 21.959999084472656
+    },
+    {
+      "page": 1,
+      "text": " Ajay Goyal",
+      "bbox": [
+        49.560001373291016,
+        64.38721466064453,
+        127.52912139892578,
+        79.58929443359375
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 77.96912002563477,
+      "is_bold": true,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": " +91-9815459175,9927020157",
+      "bbox": [
+        49.560001373291016,
+        77.07200622558594,
+        218.3991241455078,
+        92.24095916748047
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 168.8391227722168,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": " ajay.goyal2411@gmail.com",
+      "bbox": [
+        49.560001373291016,
+        89.79197692871094,
+        205.91912841796875,
+        104.96092987060547
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 156.35912704467773,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": " CAREEER OBJECTIVE",
+      "bbox": [
+        49.560001373291016,
+        114.92719268798828,
+        192.9291229248047,
+        130.1292724609375
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 143.36912155151367,
+      "is_bold": true,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "Intend to carry out research work in an academic environment with young and dedicated brains where ideas",
+      "bbox": [
+        49.560001373291016,
+        127.71202087402344,
+        583.3441162109375,
+        142.8809814453125
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 533.7841148376465,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "can be gathered and communicated.",
+      "bbox": [
+        49.560001373291016,
+        140.31199645996094,
+        231.23912048339844,
+        155.48095703125
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 181.67911911010742,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": " TECHNICAL SKILLS",
+      "bbox": [
+        49.560001373291016,
+        166.04718017578125,
+        179.48912048339844,
+        181.249267578125
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 129.92911911010742,
+      "is_bold": true,
+      "font_size": 11.519999980926514
+    },
+    {
+      "page": 1,
+      "text": "Metal Cutting modeling, Fourier series and transformation, Bone mechanotransduction, Strength of",
+      "bbox": [
+        49.560001373291016,
+        188.79197692871094,
+        583.3662719726562,
+        203.9609375
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 533.8062705993652,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "Materials, Mechanics, optimization methods, fatigue failure, regression methods, neural networks",
+      "bbox": [
+        49.560001373291016,
+        201.3920135498047,
+        527.80908203125,
+        216.56097412109375
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 478.249080657959,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": " WORKING EXPERIENCE",
+      "bbox": [
+        49.560001373291016,
+        227.127197265625,
+        199.07911682128906,
+        242.32928466796875
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 149.51911544799805,
+      "is_bold": true,
+      "font_size": 11.519999980926514
+    },
+    {
+      "page": 1,
+      "text": " GLA University, Mathura (15 th July 2014 to 30 th December 2014)",
+      "bbox": [
+        49.560001373291016,
+        241.6219940185547,
+        386.42633056640625,
+        256.8792724609375
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 336.86632919311523,
+      "is_bold": false,
+      "font_size": 9.874285697937012
+    },
+    {
+      "page": 1,
+      "text": "Working as Assistant Professor in Mechanical Engineering Department",
+      "bbox": [
+        67.58399963378906,
+        254.34202575683594,
+        412.9704284667969,
+        269.510986328125
+      ],
+      "left_indent": 67.58399963378906,
+      "width": 345.3864288330078,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": " Mangalayatan University, Aligarh (from 15 th July 2013 to 10 th July 2014)",
+      "bbox": [
+        49.560001373291016,
+        266.9419860839844,
+        427.9463195800781,
+        282.19927978515625
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 378.3863182067871,
+      "is_bold": false,
+      "font_size": 9.874285697937012
+    },
+    {
+      "page": 1,
+      "text": "Worked as Assistant Professor in Mechanical Engineering Department",
+      "bbox": [
+        67.58399963378906,
+        279.6619873046875,
+        410.6302795410156,
+        294.8309631347656
+      ],
+      "left_indent": 67.58399963378906,
+      "width": 343.04627990722656,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "Courses taught: Machine Design 1 and 2, Heat and Mass Transfer",
+      "bbox": [
+        67.58399963378906,
+        292.3819885253906,
+        390.9346923828125,
+        307.55096435546875
+      ],
+      "left_indent": 67.58399963378906,
+      "width": 323.35069274902344,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": " Gateforum (GATE coaching classes), Aligarh.",
+      "bbox": [
+        49.560001373291016,
+        304.9172058105469,
+        311.6391296386719,
+        320.1192932128906
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 262.07912826538086,
+      "is_bold": true,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "Subjects taught: Strength of Materials",
+      "bbox": [
+        67.58399963378906,
+        317.5820007324219,
+        250.87014770507812,
+        332.7509765625
+      ],
+      "left_indent": 67.58399963378906,
+      "width": 183.28614807128906,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": " Sachdeva Institute of Technology, Mathura (from 22 th July 2010 to 22 th July 2011)",
+      "bbox": [
+        49.560001373291016,
+        330.1819763183594,
+        475.976318359375,
+        345.43927001953125
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 426.416316986084,
+      "is_bold": false,
+      "font_size": 9.874285697937012
+    },
+    {
+      "page": 1,
+      "text": "Worked as Lecturer in Mechanical department",
+      "bbox": [
+        67.58399963378906,
+        342.9019775390625,
+        295.79913330078125,
+        358.0709533691406
+      ],
+      "left_indent": 67.58399963378906,
+      "width": 228.2151336669922,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "Courses taught: Manufacturing science II, Mechanics, Strength of Materials, and Mechanical Workshop",
+      "bbox": [
+        67.58399963378906,
+        355.6219787597656,
+        572.6890869140625,
+        370.79095458984375
+      ],
+      "left_indent": 67.58399963378906,
+      "width": 505.10508728027344,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": " Starion India Pvt. Ltd., NOIDA (from 26 th September 2009 to 21 st June 2010)",
+      "bbox": [
+        49.560001373291016,
+        368.10198974609375,
+        450.6191101074219,
+        383.3592834472656
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 401.05910873413086,
+      "is_bold": false,
+      "font_size": 9.874285697937012
+    },
+    {
+      "page": 1,
+      "text": "Worked as Production Engineer, deployed in washing machine department where semi-automatic",
+      "bbox": [
+        67.58399963378906,
+        380.9419860839844,
+        545.7737426757812,
+        396.1109619140625
+      ],
+      "left_indent": 67.58399963378906,
+      "width": 478.1897430419922,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "machines are manufactured",
+      "bbox": [
+        67.58399963378906,
+        393.5419921875,
+        206.99911499023438,
+        408.7109680175781
+      ],
+      "left_indent": 67.58399963378906,
+      "width": 139.4151153564453,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": " PUBLICATIONS",
+      "bbox": [
+        49.560001373291016,
+        419.29718017578125,
+        153.20912170410156,
+        434.499267578125
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 103.64912033081055,
+      "is_bold": true,
+      "font_size": 11.519999980926514
+    },
+    {
+      "page": 1,
+      "text": " A.Goyal, R.K. Sharma,” Simplified Mathematical Modeling of Temperature Rise inTurning Operation",
+      "bbox": [
+        49.560001373291016,
+        445.7619934082031,
+        583.3378295898438,
+        460.93096923828125
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 533.7778282165527,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "Using MATLAB”, Jordan Journal of Mechanical and Industrial Engineering, vol. 9(2), pp 103-111, 2015",
+      "bbox": [
+        67.58399963378906,
+        458.36199951171875,
+        568.4890747070312,
+        473.5309753417969
+      ],
+      "left_indent": 67.58399963378906,
+      "width": 500.9050750732422,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": " A. Goyal, “Generation of Temperature Rise Distribution at Chip of EN31 Steel Due to Primary",
+      "bbox": [
+        49.560001373291016,
+        471.0820007324219,
+        583.28271484375,
+        486.2509765625
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 533.722713470459,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "Deformation Zone during Turning Using MATLAB® and to Study its Machinability Behavior with CVD",
+      "bbox": [
+        67.58399963378906,
+        483.6819763183594,
+        583.6936645507812,
+        498.8509521484375
+      ],
+      "left_indent": 67.58399963378906,
+      "width": 516.1096649169922,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "Carbide Insert”, International Journal of Engineering Trends and Technology, vol. 15, pp. 145-152, 2014",
+      "bbox": [
+        67.58399963378906,
+        496.4019775390625,
+        575.80908203125,
+        511.5709533691406
+      ],
+      "left_indent": 67.58399963378906,
+      "width": 508.22508239746094,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": " A. Goyal , S. Kumar , S. Dhiman , R.K. Sharma,“Studying methods of estimating Heat Generation at",
+      "bbox": [
+        49.560001373291016,
+        509.0019836425781,
+        583.5703735351562,
+        524.1709594726562
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 534.0103721618652,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "Three Different Zones in Metal cutting: A review of Analytical models’, International Journal of",
+      "bbox": [
+        67.58399963378906,
+        521.7219848632812,
+        583.6682739257812,
+        536.8909301757812
+      ],
+      "left_indent": 67.58399963378906,
+      "width": 516.0842742919922,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "Engineering Trends and Technology, vol. 8 pp 532 – 545, 2014",
+      "bbox": [
+        67.58399963378906,
+        534.322021484375,
+        378.3791198730469,
+        549.490966796875
+      ],
+      "left_indent": 67.58399963378906,
+      "width": 310.7951202392578,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": " A. Singh, A. Goyal, S. Dhiman, R.K. Sharma, S. Kumar, “Machinability Behavior of Medium Carbon Steel",
+      "bbox": [
+        49.560001373291016,
+        546.9219970703125,
+        583.5680541992188,
+        562.0909423828125
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 534.0080528259277,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "(EN38) using PCBN inserts during turning process”, International Conference on Smart Technologies for",
+      "bbox": [
+        67.58399963378906,
+        559.6420288085938,
+        583.5216064453125,
+        574.8109741210938
+      ],
+      "left_indent": 67.58399963378906,
+      "width": 515.9376068115234,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "Mechanical Engineering , Delhi College of Engineering’, ISBN 978-93-83083-35-0 , pp 1253 – 1257,",
+      "bbox": [
+        67.58399963378906,
+        572.2720336914062,
+        583.7372436523438,
+        587.4409790039062
+      ],
+      "left_indent": 67.58399963378906,
+      "width": 516.1532440185547,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "June 2013",
+      "bbox": [
+        67.58399963378906,
+        584.9920043945312,
+        122.00912475585938,
+        600.1609497070312
+      ],
+      "left_indent": 67.58399963378906,
+      "width": 54.42512512207031,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": " A. Goyal, S. Kumar, S. Dhiman, R.K. Sharma, “A study of temperature measuring experimental",
+      "bbox": [
+        49.560001373291016,
+        597.592041015625,
+        583.50048828125,
+        612.760986328125
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 533.940486907959,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "techniques used in metal cutting”, Jordan Journal of Mechanical and Industrial Engineering, vol. 8, pp 82-",
+      "bbox": [
+        67.58399963378906,
+        610.1920166015625,
+        580.6163330078125,
+        625.3609619140625
+      ],
+      "left_indent": 67.58399963378906,
+      "width": 513.0323333740234,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "93, 2014",
+      "bbox": [
+        67.58399963378906,
+        622.9120483398438,
+        113.48912048339844,
+        638.0809936523438
+      ],
+      "left_indent": 67.58399963378906,
+      "width": 45.905120849609375,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": " A. Goyal, S. Kumar, S. Dhiman, R.K. Sharma, “A Study of Analytical Models of Heat Generation at Three",
+      "bbox": [
+        49.560001373291016,
+        635.5120239257812,
+        583.5109252929688,
+        650.6809692382812
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 533.9509239196777,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "Different Zones in Metal Cutting”, 3 rd International Conference of National Institute of Technology,",
+      "bbox": [
+        67.58399963378906,
+        648.2319946289062,
+        583.4837036132812,
+        663.4009399414062
+      ],
+      "left_indent": 67.58399963378906,
+      "width": 515.8997039794922,
+      "is_bold": false,
+      "font_size": 9.679999987284342
+    },
+    {
+      "page": 1,
+      "text": "Jalandhar, Department of Industrial and Production engineering’ pp 882 – 894, March 2013",
+      "bbox": [
+        67.58399963378906,
+        660.83203125,
+        514.1290893554688,
+        676.0009765625
+      ],
+      "left_indent": 67.58399963378906,
+      "width": 446.5450897216797,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": " WORKSHOPS",
+      "bbox": [
+        49.560001373291016,
+        673.8472290039062,
+        143.9691162109375,
+        689.04931640625
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 94.40911483764648,
+      "is_bold": true,
+      "font_size": 11.519999980926514
+    },
+    {
+      "page": 1,
+      "text": " 3 day workshop at GLA University on Faculty Development Program in July 14.",
+      "bbox": [
+        49.560001373291016,
+        686.6279907226562,
+        455.8091125488281,
+        701.7969360351562
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 406.2491111755371,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": " REVIEWER",
+      "bbox": [
+        49.560001373291016,
+        701.5631713867188,
+        129.32911682128906,
+        716.7652587890625
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 79.76911544799805,
+      "is_bold": true,
+      "font_size": 11.519999980926514
+    },
+    {
+      "page": 1,
+      "text": " Premier Publication Journals since August 2014.",
+      "bbox": [
+        49.560001373291016,
+        714.22802734375,
+        307.3191223144531,
+        729.39697265625
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 257.7591209411621,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": " Jordan Journal of Mechanical and Industrial Engineering since October 2014.",
+      "bbox": [
+        49.560001373291016,
+        728.748046875,
+        446.65911865234375,
+        743.9169921875
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 397.09911727905273,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": " SOFTWARE SKILLS",
+      "bbox": [
+        49.560001373291016,
+        743.34716796875,
+        175.7691192626953,
+        758.5492553710938
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 126.2091178894043,
+      "is_bold": true,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 2,
+      "text": "MATLAB9 (Image Processing, Neural Networks), Pro Engineer, MS Office Suite, Rstudio, ImageJ, ABACUS",
+      "bbox": [
+        49.560001373291016,
+        25.332012176513672,
+        578.6890869140625,
+        40.500972747802734
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 529.1290855407715,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 2,
+      "text": " EDUCATIONAL QUALIFICATION",
+      "bbox": [
+        49.560001373291016,
+        87.08722686767578,
+        239.99911499023438,
+        102.289306640625
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 190.43911361694336,
+      "is_bold": true,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 2,
+      "text": "Examination",
+      "bbox": [
+        71.90399932861328,
+        109.90998077392578,
+        123.96199798583984,
+        122.09597778320312
+      ],
+      "left_indent": 71.90399932861328,
+      "width": 52.05799865722656,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "Discipline/Board",
+      "bbox": [
+        174.5,
+        109.90998077392578,
+        242.07200622558594,
+        122.09597778320312
+      ],
+      "left_indent": 174.5,
+      "width": 67.57200622558594,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "Institution",
+      "bbox": [
+        298.010009765625,
+        109.90998077392578,
+        339.052001953125,
+        122.09597778320312
+      ],
+      "left_indent": 298.010009765625,
+      "width": 41.0419921875,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "Duration of course",
+      "bbox": [
+        388.3900146484375,
+        109.90998077392578,
+        464.4820251464844,
+        122.09597778320312
+      ],
+      "left_indent": 388.3900146484375,
+      "width": 76.09201049804688,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "Percentage",
+      "bbox": [
+        501.2200012207031,
+        109.90998077392578,
+        549.802001953125,
+        122.09597778320312
+      ],
+      "left_indent": 501.2200012207031,
+      "width": 48.582000732421875,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "Indian Institute of",
+      "bbox": [
+        282.8900146484375,
+        126.42497253417969,
+        353.9451599121094,
+        138.7909698486328
+      ],
+      "left_indent": 282.8900146484375,
+      "width": 71.05514526367188,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "Doctor of Philosophy",
+      "bbox": [
+        45.84000015258789,
+        130.98497009277344,
+        131.40199279785156,
+        143.35096740722656
+      ],
+      "left_indent": 45.84000015258789,
+      "width": 85.56199264526367,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "BioMechanics",
+      "bbox": [
+        178.94000244140625,
+        138.4249725341797,
+        237.51199340820312,
+        150.7909698486328
+      ],
+      "left_indent": 178.94000244140625,
+      "width": 58.571990966796875,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "Technology, Ropar,",
+      "bbox": [
+        277.9700012207031,
+        138.4249725341797,
+        358.98809814453125,
+        150.7909698486328
+      ],
+      "left_indent": 277.9700012207031,
+      "width": 81.01809692382812,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "Since January 2015",
+      "bbox": [
+        385.3900146484375,
+        138.4249725341797,
+        467.4820251464844,
+        150.7909698486328
+      ],
+      "left_indent": 385.3900146484375,
+      "width": 82.09201049804688,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "(Ph.D.)",
+      "bbox": [
+        82.34400177001953,
+        145.98497009277344,
+        113.4020004272461,
+        158.35096740722656
+      ],
+      "left_indent": 82.34400177001953,
+      "width": 31.057998657226562,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "Punjab",
+      "bbox": [
+        303.1700134277344,
+        150.4249725341797,
+        333.7720031738281,
+        162.7909698486328
+      ],
+      "left_indent": 303.1700134277344,
+      "width": 30.60198974609375,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "CAD CAM",
+      "bbox": [
+        186.25999450683594,
+        166.98497009277344,
+        230.31199645996094,
+        179.35096740722656
+      ],
+      "left_indent": 186.25999450683594,
+      "width": 44.052001953125,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "Masters of Technology",
+      "bbox": [
+        51.119998931884766,
+        178.98497009277344,
+        144.7220001220703,
+        191.35096740722656
+      ],
+      "left_indent": 51.119998931884766,
+      "width": 93.60200119018555,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "NIT Hamirpur (Himachal",
+      "bbox": [
+        268.7300109863281,
+        180.4249725341797,
+        368.2340393066406,
+        192.7909698486328
+      ],
+      "left_indent": 268.7300109863281,
+      "width": 99.5040283203125,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "(Mechanical",
+      "bbox": [
+        182.66000366210938,
+        181.98497009277344,
+        233.70794677734375,
+        194.35096740722656
+      ],
+      "left_indent": 182.66000366210938,
+      "width": 51.047943115234375,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "2011-2013",
+      "bbox": [
+        403.6300048828125,
+        186.4249725341797,
+        449.2120056152344,
+        198.7909698486328
+      ],
+      "left_indent": 403.6300048828125,
+      "width": 45.582000732421875,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "8.79/10 (absolute)",
+      "bbox": [
+        488.0199890136719,
+        186.4249725341797,
+        565.5220336914062,
+        198.7909698486328
+      ],
+      "left_indent": 488.0199890136719,
+      "width": 77.50204467773438,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "Pradesh)",
+      "bbox": [
+        298.9700012207031,
+        192.4249725341797,
+        337.9720153808594,
+        204.7909698486328
+      ],
+      "left_indent": 298.9700012207031,
+      "width": 39.00201416015625,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "(M.Tech.)",
+      "bbox": [
+        77.42400360107422,
+        193.98497009277344,
+        118.44200134277344,
+        206.35096740722656
+      ],
+      "left_indent": 77.42400360107422,
+      "width": 41.01799774169922,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "Engineering",
+      "bbox": [
+        182.89999389648438,
+        193.98497009277344,
+        233.470947265625,
+        206.35096740722656
+      ],
+      "left_indent": 182.89999389648438,
+      "width": 50.570953369140625,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "Department)",
+      "bbox": [
+        181.94000244140625,
+        205.98497009277344,
+        234.51199340820312,
+        218.35096740722656
+      ],
+      "left_indent": 181.94000244140625,
+      "width": 52.571990966796875,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "BharatiVidyapeeth",
+      "bbox": [
+        280.3699951171875,
+        222.4249725341797,
+        356.4650573730469,
+        234.7909698486328
+      ],
+      "left_indent": 280.3699951171875,
+      "width": 76.09506225585938,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "Bachelor of Engineering",
+      "bbox": [
+        48.599998474121094,
+        226.98497009277344,
+        147.24200439453125,
+        239.35096740722656
+      ],
+      "left_indent": 48.599998474121094,
+      "width": 98.64200592041016,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "Production",
+      "bbox": [
+        185.4199981689453,
+        234.4249725341797,
+        231.03199768066406,
+        246.7909698486328
+      ],
+      "left_indent": 185.4199981689453,
+      "width": 45.61199951171875,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "(B.V.P.) University, Pune",
+      "bbox": [
+        267.4100036621094,
+        234.4249725341797,
+        369.4521179199219,
+        246.7909698486328
+      ],
+      "left_indent": 267.4100036621094,
+      "width": 102.0421142578125,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "2005-2009",
+      "bbox": [
+        403.6300048828125,
+        234.4249725341797,
+        449.2120056152344,
+        246.7909698486328
+      ],
+      "left_indent": 403.6300048828125,
+      "width": 45.582000732421875,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "64.30%",
+      "bbox": [
+        509.0199890136719,
+        234.4249725341797,
+        542.0020141601562,
+        246.7909698486328
+      ],
+      "left_indent": 509.0199890136719,
+      "width": 32.982025146484375,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "(B.E.)",
+      "bbox": [
+        85.10399627685547,
+        242.01499938964844,
+        110.64199829101562,
+        254.38099670410156
+      ],
+      "left_indent": 85.10399627685547,
+      "width": 25.538002014160156,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "(Maharashtra)",
+      "bbox": [
+        289.010009765625,
+        246.4550018310547,
+        348.052001953125,
+        258.8210144042969
+      ],
+      "left_indent": 289.010009765625,
+      "width": 59.0419921875,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "Modi Public School",
+      "bbox": [
+        278.92999267578125,
+        265.7750244140625,
+        358.02203369140625,
+        278.1410217285156
+      ],
+      "left_indent": 278.92999267578125,
+      "width": 79.092041015625,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "XII",
+      "bbox": [
+        91.10399627685547,
+        271.7750244140625,
+        104.64199829101562,
+        284.1410217285156
+      ],
+      "left_indent": 91.10399627685547,
+      "width": 13.538002014160156,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "C.B.S.E.",
+      "bbox": [
+        189.74000549316406,
+        271.7750244140625,
+        226.83200073242188,
+        284.1410217285156
+      ],
+      "left_indent": 189.74000549316406,
+      "width": 37.09199523925781,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "2003-2004",
+      "bbox": [
+        403.6300048828125,
+        271.7750244140625,
+        449.2120056152344,
+        284.1410217285156
+      ],
+      "left_indent": 403.6300048828125,
+      "width": 45.582000732421875,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "65.20%",
+      "bbox": [
+        509.0199890136719,
+        271.7750244140625,
+        542.0020141601562,
+        284.1410217285156
+      ],
+      "left_indent": 509.0199890136719,
+      "width": 32.982025146484375,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "(Rajasthan)",
+      "bbox": [
+        293.92999267578125,
+        277.7750244140625,
+        343.01202392578125,
+        290.1410217285156
+      ],
+      "left_indent": 293.92999267578125,
+      "width": 49.08203125,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "Sacred Heart Convent",
+      "bbox": [
+        272.69000244140625,
+        295.4150085449219,
+        364.256103515625,
+        307.781005859375
+      ],
+      "left_indent": 272.69000244140625,
+      "width": 91.56610107421875,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "X",
+      "bbox": [
+        93.6240005493164,
+        305.7350158691406,
+        102.1259994506836,
+        318.10101318359375
+      ],
+      "left_indent": 93.6240005493164,
+      "width": 8.501998901367188,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "I.C.S.E.",
+      "bbox": [
+        191.57000732421875,
+        305.7350158691406,
+        225.03199768066406,
+        318.10101318359375
+      ],
+      "left_indent": 191.57000732421875,
+      "width": 33.46199035644531,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "Higher Sec. School,",
+      "bbox": [
+        277.3699951171875,
+        305.7350158691406,
+        359.468017578125,
+        318.10101318359375
+      ],
+      "left_indent": 277.3699951171875,
+      "width": 82.0980224609375,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "2001-2002",
+      "bbox": [
+        403.6300048828125,
+        305.7350158691406,
+        449.2120056152344,
+        318.10101318359375
+      ],
+      "left_indent": 403.6300048828125,
+      "width": 45.582000732421875,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "80.66%",
+      "bbox": [
+        509.0199890136719,
+        305.7350158691406,
+        542.0020141601562,
+        318.10101318359375
+      ],
+      "left_indent": 509.0199890136719,
+      "width": 32.982025146484375,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "Mathura (Uttar Pradesh)",
+      "bbox": [
+        268.7300109863281,
+        316.0550231933594,
+        368.3320007324219,
+        328.4210205078125
+      ],
+      "left_indent": 268.7300109863281,
+      "width": 99.60198974609375,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": " PROJECTS UNDERTAKEN AT COLLEGE LEVEL",
+      "bbox": [
+        49.560001373291016,
+        352.79718017578125,
+        322.5591125488281,
+        367.999267578125
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 272.9991111755371,
+      "is_bold": true,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 2,
+      "text": "Project Title",
+      "bbox": [
+        94.10399627685547,
+        379.4630126953125,
+        149.6688690185547,
+        393.1480407714844
+      ],
+      "left_indent": 94.10399627685547,
+      "width": 55.56487274169922,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Mathematical Computation of Thermal Modeling of EN31 Steel machined with",
+      "bbox": [
+        206.08999633789062,
+        379.4630126953125,
+        568.564453125,
+        393.1480407714844
+      ],
+      "left_indent": 206.08999633789062,
+      "width": 362.4744567871094,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "(Masters of Technology)",
+      "bbox": [
+        66.6240005493164,
+        390.9128112792969,
+        177.2688751220703,
+        404.3986511230469
+      ],
+      "left_indent": 66.6240005493164,
+      "width": 110.6448745727539,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "CVD coated carbide insert for turning process using MATLAB programming",
+      "bbox": [
+        206.08999633789062,
+        390.9830017089844,
+        542.3888549804688,
+        404.66802978515625
+      ],
+      "left_indent": 206.08999633789062,
+      "width": 336.2988586425781,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Analytical models capable of determining temperature rise distribution at work piece and chip due to combined effect",
+      "bbox": [
+        45.84000015258789,
+        410.8030090332031,
+        568.6047973632812,
+        424.488037109375
+      ],
+      "left_indent": 45.84000015258789,
+      "width": 522.7647972106934,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "of deformation zones during machining are simplified in a step by step manner along with relating them with basic",
+      "bbox": [
+        45.84000015258789,
+        422.322998046875,
+        568.4099731445312,
+        436.0080261230469
+      ],
+      "left_indent": 45.84000015258789,
+      "width": 522.5699729919434,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "machining parameters with the help of MATLAB programming. The coding is validated with already developed results",
+      "bbox": [
+        45.84000015258789,
+        433.8429870605469,
+        568.7266235351562,
+        447.52801513671875
+      ],
+      "left_indent": 45.84000015258789,
+      "width": 522.8866233825684,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "of scientists for various machining parameters. The coding serves as generalized algorithm to generate temperature",
+      "bbox": [
+        45.84000015258789,
+        445.3630065917969,
+        568.2719116210938,
+        459.04803466796875
+      ],
+      "left_indent": 45.84000015258789,
+      "width": 522.4319114685059,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "rise contour graphs with respect to various coordinates of work piece and chip for any set of machining parameters in",
+      "bbox": [
+        45.84000015258789,
+        456.88299560546875,
+        568.8910522460938,
+        470.5680236816406
+      ],
+      "left_indent": 45.84000015258789,
+      "width": 523.0510520935059,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "few seconds.",
+      "bbox": [
+        45.84000015258789,
+        468.4029846191406,
+        109.8288803100586,
+        482.0880126953125
+      ],
+      "left_indent": 45.84000015258789,
+      "width": 63.9888801574707,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "The developed coding is used to determine temperature rise distribution at work piece and chip of EN31 Steel when",
+      "bbox": [
+        45.84000015258789,
+        479.8030090332031,
+        568.212158203125,
+        493.488037109375
+      ],
+      "left_indent": 45.84000015258789,
+      "width": 522.3721580505371,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "machined with MTCVD coated carbide insert. Total 27 experiments were performed with various combinations of",
+      "bbox": [
+        45.84000015258789,
+        491.322998046875,
+        568.3716430664062,
+        505.0080261230469
+      ],
+      "left_indent": 45.84000015258789,
+      "width": 522.5316429138184,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "cutting parameters to obtain input parameters like cutting forces (dynamometer), chip thickness (Vernier) etc. These",
+      "bbox": [
+        45.84000015258789,
+        502.8429870605469,
+        568.3275756835938,
+        516.5280151367188
+      ],
+      "left_indent": 45.84000015258789,
+      "width": 522.4875755310059,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "input parameters are used to calculate other input parameters like shear angle, friction angle, other developed forces,",
+      "bbox": [
+        45.84000015258789,
+        514.363037109375,
+        568.2719116210938,
+        528.0480346679688
+      ],
+      "left_indent": 45.84000015258789,
+      "width": 522.4319114685059,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "tool-chip contact length etc. Contour graphs are developed using obtained input parameters and tabulated to",
+      "bbox": [
+        45.84000015258789,
+        525.8829345703125,
+        568.48876953125,
+        539.5679931640625
+      ],
+      "left_indent": 45.84000015258789,
+      "width": 522.6487693786621,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "compare variation of temperature rise and cutting forces with respect to cutting parameters.",
+      "bbox": [
+        45.84000015258789,
+        537.282958984375,
+        449.0508117675781,
+        550.968017578125
+      ],
+      "left_indent": 45.84000015258789,
+      "width": 403.21081161499023,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Project Title",
+      "bbox": [
+        94.10399627685547,
+        550.4830322265625,
+        149.6688690185547,
+        564.1680297851562
+      ],
+      "left_indent": 94.10399627685547,
+      "width": 55.56487274169922,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Development of CNC programming software",
+      "bbox": [
+        206.08999633789062,
+        550.4830322265625,
+        405.67889404296875,
+        564.1680297851562
+      ],
+      "left_indent": 206.08999633789062,
+      "width": 199.58889770507812,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "( Bachelor of Engineering )",
+      "bbox": [
+        63.86399841308594,
+        561.8829345703125,
+        177.0966796875,
+        575.5679931640625
+      ],
+      "left_indent": 63.86399841308594,
+      "width": 113.23268127441406,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Developing software in Visual Basic which has the capability to generate CNC Programming just by pressing buttons",
+      "bbox": [
+        45.84000015258789,
+        575.2330322265625,
+        563.3019409179688,
+        588.9180297851562
+      ],
+      "left_indent": 45.84000015258789,
+      "width": 517.4619407653809,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "visible on window of software",
+      "bbox": [
+        45.84000015258789,
+        588.4329833984375,
+        178.10887145996094,
+        602.1180419921875
+      ],
+      "left_indent": 45.84000015258789,
+      "width": 132.26887130737305,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": " PhD Research Title",
+      "bbox": [
+        49.560001373291016,
+        625.3671875,
+        170.9691162109375,
+        640.5692749023438
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 121.40911483764648,
+      "is_bold": true,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 2,
+      "text": "Invertible Computer Model for Bone Adaptation to Mechanical Environment",
+      "bbox": [
+        67.58399963378906,
+        638.1520385742188,
+        435.7391357421875,
+        653.3209838867188
+      ],
+      "left_indent": 67.58399963378906,
+      "width": 368.15513610839844,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 2,
+      "text": " INDUSTRIAL TRAINING",
+      "bbox": [
+        49.560001373291016,
+        663.4071655273438,
+        193.43911743164062,
+        678.6092529296875
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 143.8791160583496,
+      "is_bold": true,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 2,
+      "text": " Janta Engineers & Company (Iron), Faridabad ( from 13 th June 2009 to 10 th September 2009 )",
+      "bbox": [
+        49.560001373291016,
+        675.9520263671875,
+        541.6090698242188,
+        691.2092895507812
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 492.04906845092773,
+      "is_bold": false,
+      "font_size": 9.874285697937012
+    },
+    {
+      "page": 2,
+      "text": "I was the part of a team which handles all the work related to bidding (excluding estimating cost of",
+      "bbox": [
+        67.58399963378906,
+        688.7880249023438,
+        549.5291137695312,
+        703.9569702148438
+      ],
+      "left_indent": 67.58399963378906,
+      "width": 481.9451141357422,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 2,
+      "text": "project). I have also learned to execute on-line bidding.",
+      "bbox": [
+        67.58399963378906,
+        701.3880004882812,
+        337.9391174316406,
+        716.5569458007812
+      ],
+      "left_indent": 67.58399963378906,
+      "width": 270.35511779785156,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 2,
+      "text": " Indian Oil Corporation Ltd., Mathura Refinery (from 08 th June 2007 to 07 th July 2007)",
+      "bbox": [
+        49.560001373291016,
+        713.8680419921875,
+        497.4491271972656,
+        729.1253051757812
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 447.8891258239746,
+      "is_bold": false,
+      "font_size": 9.874285697937012
+    },
+    {
+      "page": 2,
+      "text": "I was engaged in machine shop where I have learned to perform various operations on lathe machine",
+      "bbox": [
+        67.58399963378906,
+        726.7080078125,
+        564.2890625,
+        741.876953125
+      ],
+      "left_indent": 67.58399963378906,
+      "width": 496.70506286621094,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 3,
+      "text": " ACHIEVEMENTS",
+      "bbox": [
+        49.560001373291016,
+        25.267215728759766,
+        158.00912475585938,
+        40.469295501708984
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 108.44912338256836,
+      "is_bold": true,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 3,
+      "text": " Overall topper of CAD-CAM branch.",
+      "bbox": [
+        49.560001373291016,
+        37.93198776245117,
+        246.11912536621094,
+        53.100948333740234
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 196.55912399291992,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 3,
+      "text": " GATE 2011 qualified in Mechanical stream with 425 score",
+      "bbox": [
+        49.560001373291016,
+        50.65201950073242,
+        353.1791076660156,
+        65.82097625732422
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 303.6191062927246,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 3,
+      "text": " Project of generating software for CNC programming was accessed as the best B.E. project of the year",
+      "bbox": [
+        49.560001373291016,
+        63.25199508666992,
+        583.6734619140625,
+        78.42095184326172
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 534.1134605407715,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 3,
+      "text": "2009 by Tata Consultancy Services (TCS)",
+      "bbox": [
+        67.58399963378906,
+        75.99198913574219,
+        276.1191101074219,
+        91.16094207763672
+      ],
+      "left_indent": 67.58399963378906,
+      "width": 208.5351104736328,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 3,
+      "text": " Won 100% attendance award during my tenure of B.E.",
+      "bbox": [
+        49.560001373291016,
+        88.59202575683594,
+        336.7391357421875,
+        103.76097869873047
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 287.1791343688965,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 3,
+      "text": "EXTRA CURRICULAR ACTIVITIES",
+      "bbox": [
+        67.58399963378906,
+        113.84717559814453,
+        247.91912841796875,
+        129.04925537109375
+      ],
+      "left_indent": 67.58399963378906,
+      "width": 180.3351287841797,
+      "is_bold": true,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 3,
+      "text": " Training & Placement Representative (TPR)ofM.Tech.students at NIT Hamirpur 2012-13.",
+      "bbox": [
+        49.560001373291016,
+        126.51200866699219,
+        503.6891174316406,
+        141.68096923828125
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 454.1291160583496,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 3,
+      "text": " Participated in various group discussion and paper presentation competitions at various colleges during",
+      "bbox": [
+        49.560001373291016,
+        139.2319793701172,
+        583.667236328125,
+        154.40093994140625
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 534.107234954834,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 3,
+      "text": "B.E. duration",
+      "bbox": [
+        67.58399963378906,
+        151.83201599121094,
+        134.24911499023438,
+        167.0009765625
+      ],
+      "left_indent": 67.58399963378906,
+      "width": 66.66511535644531,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 3,
+      "text": " Participated in blood donation camp held every year at B.V.P. University.",
+      "bbox": [
+        49.560001373291016,
+        164.43199157714844,
+        424.6991271972656,
+        179.6009521484375
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 375.1391258239746,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 3,
+      "text": " HOBBIES",
+      "bbox": [
+        49.560001373291016,
+        189.68719482421875,
+        120.80912017822266,
+        204.8892822265625
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 71.24911880493164,
+      "is_bold": true,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 3,
+      "text": "Delivering knowledge, Hindi Poetry and Dancing",
+      "bbox": [
+        49.560001373291016,
+        202.47203063964844,
+        288.1191101074219,
+        217.6409912109375
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 238.55910873413086,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 3,
+      "text": " STRENGTH",
+      "bbox": [
+        49.560001373291016,
+        229.1990966796875,
+        131.12911987304688,
+        245.20928955078125
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 81.56911849975586,
+      "is_bold": true,
+      "font_size": 12.539999961853027
+    },
+    {
+      "page": 3,
+      "text": " Quick Learner",
+      "bbox": [
+        49.560001373291016,
+        242.70201110839844,
+        139.7691192626953,
+        257.8709716796875
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 90.2091178894043,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 3,
+      "text": " Team player with pragmatic approach",
+      "bbox": [
+        49.560001373291016,
+        255.30198669433594,
+        254.63912963867188,
+        270.470947265625
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 205.07912826538086,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 3,
+      "text": " Workaholic",
+      "bbox": [
+        49.560001373291016,
+        268.0220031738281,
+        125.00912475585938,
+        283.19097900390625
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 75.44912338256836,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 3,
+      "text": " PERSONAL PROFILE",
+      "bbox": [
+        49.560001373291016,
+        293.1571960449219,
+        182.48912048339844,
+        308.3592834472656
+      ],
+      "left_indent": 49.560001373291016,
+      "width": 132.92911911010742,
+      "is_bold": true,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 3,
+      "text": "Father’s Name",
+      "bbox": [
+        54.84000015258789,
+        306.4219970703125,
+        130.0491180419922,
+        321.5909729003906
+      ],
+      "left_indent": 54.84000015258789,
+      "width": 75.2091178894043,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 3,
+      "text": "Sh. Dinesh Chand Goyal",
+      "bbox": [
+        306.8900146484375,
+        306.4219970703125,
+        431.0591125488281,
+        321.5909729003906
+      ],
+      "left_indent": 306.8900146484375,
+      "width": 124.16909790039062,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 3,
+      "text": "Date of birth",
+      "bbox": [
+        54.84000015258789,
+        319.6219787597656,
+        117.80912017822266,
+        334.79095458984375
+      ],
+      "left_indent": 54.84000015258789,
+      "width": 62.969120025634766,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 3,
+      "text": "24 th November, 1985",
+      "bbox": [
+        306.8900146484375,
+        319.6219787597656,
+        412.4591369628906,
+        334.79095458984375
+      ],
+      "left_indent": 306.8900146484375,
+      "width": 105.56912231445312,
+      "is_bold": false,
+      "font_size": 9.679999987284342
+    },
+    {
+      "page": 3,
+      "text": "Marital Status",
+      "bbox": [
+        54.84000015258789,
+        332.7019958496094,
+        125.12911987304688,
+        347.8709716796875
+      ],
+      "left_indent": 54.84000015258789,
+      "width": 70.28911972045898,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 3,
+      "text": "Married",
+      "bbox": [
+        306.8900146484375,
+        332.7019958496094,
+        347.29913330078125,
+        347.8709716796875
+      ],
+      "left_indent": 306.8900146484375,
+      "width": 40.40911865234375,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 3,
+      "text": "Permanent Address",
+      "bbox": [
+        54.84000015258789,
+        345.9019775390625,
+        155.12911987304688,
+        361.0709533691406
+      ],
+      "left_indent": 54.84000015258789,
+      "width": 100.28911972045898,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 3,
+      "text": "Amarshri Niwas, C-23 Krishna Nagar, Mathura, (U.P.)",
+      "bbox": [
+        306.8900146484375,
+        345.9019775390625,
+        571.7290649414062,
+        361.0709533691406
+      ],
+      "left_indent": 306.8900146484375,
+      "width": 264.83905029296875,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 3,
+      "text": "INDIA - 281004.",
+      "bbox": [
+        306.8900146484375,
+        358.5019836425781,
+        388.8191223144531,
+        373.67095947265625
+      ],
+      "left_indent": 306.8900146484375,
+      "width": 81.92910766601562,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 3,
+      "text": "Languages Known",
+      "bbox": [
+        54.84000015258789,
+        371.7019958496094,
+        149.00912475585938,
+        386.8709716796875
+      ],
+      "left_indent": 54.84000015258789,
+      "width": 94.16912460327148,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 3,
+      "text": "Hindi, English",
+      "bbox": [
+        306.8900146484375,
+        371.7019958496094,
+        377.29913330078125,
+        386.8709716796875
+      ],
+      "left_indent": 306.8900146484375,
+      "width": 70.40911865234375,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    }
+  ],
+  "text_per_page": [
+    "RESUME\n Ajay Goyal\n +91-9815459175,9927020157\n ajay.goyal2411@gmail.com\n CAREEER OBJECTIVE\nIntend to carry out research work in an academic environment with young and dedicated brains where ideas\ncan be gathered and communicated.\n TECHNICAL SKILLS\nMetal Cutting modeling, Fourier series and transformation, Bone mechanotransduction, Strength of\nMaterials, Mechanics, optimization methods, fatigue failure, regression methods, neural networks\n WORKING EXPERIENCE\n GLA University, Mathura (15 th July 2014 to 30 th December 2014)\nWorking as Assistant Professor in Mechanical Engineering Department\n Mangalayatan University, Aligarh (from 15 th July 2013 to 10 th July 2014)\nWorked as Assistant Professor in Mechanical Engineering Department\nCourses taught: Machine Design 1 and 2, Heat and Mass Transfer\n Gateforum (GATE coaching classes), Aligarh.\nSubjects taught: Strength of Materials\n Sachdeva Institute of Technology, Mathura (from 22 th July 2010 to 22 th July 2011)\nWorked as Lecturer in Mechanical department\nCourses taught: Manufacturing science II, Mechanics, Strength of Materials, and Mechanical Workshop\n Starion India Pvt. Ltd., NOIDA (from 26 th September 2009 to 21 st June 2010)\nWorked as Production Engineer, deployed in washing machine department where semi-automatic\nmachines are manufactured\n PUBLICATIONS\n A.Goyal, R.K. Sharma,” Simplified Mathematical Modeling of Temperature Rise inTurning Operation\nUsing MATLAB”, Jordan Journal of Mechanical and Industrial Engineering, vol. 9(2), pp 103-111, 2015\n A. Goyal, “Generation of Temperature Rise Distribution at Chip of EN31 Steel Due to Primary\nDeformation Zone during Turning Using MATLAB® and to Study its Machinability Behavior with CVD\nCarbide Insert”, International Journal of Engineering Trends and Technology, vol. 15, pp. 145-152, 2014\n A. Goyal , S. Kumar , S. Dhiman , R.K. Sharma,“Studying methods of estimating Heat Generation at\nThree Different Zones in Metal cutting: A review of Analytical models’, International Journal of\nEngineering Trends and Technology, vol. 8 pp 532 – 545, 2014\n A. Singh, A. Goyal, S. Dhiman, R.K. Sharma, S. Kumar, “Machinability Behavior of Medium Carbon Steel\n(EN38) using PCBN inserts during turning process”, International Conference on Smart Technologies for\nMechanical Engineering , Delhi College of Engineering’, ISBN 978-93-83083-35-0 , pp 1253 – 1257,\nJune 2013\n A. Goyal, S. Kumar, S. Dhiman, R.K. Sharma, “A study of temperature measuring experimental\ntechniques used in metal cutting”, Jordan Journal of Mechanical and Industrial Engineering, vol. 8, pp 82-\n93, 2014\n A. Goyal, S. Kumar, S. Dhiman, R.K. Sharma, “A Study of Analytical Models of Heat Generation at Three\nDifferent Zones in Metal Cutting”, 3 rd International Conference of National Institute of Technology,\nJalandhar, Department of Industrial and Production engineering’ pp 882 – 894, March 2013\n WORKSHOPS\n 3 day workshop at GLA University on Faculty Development Program in July 14.\n REVIEWER\n Premier Publication Journals since August 2014.\n Jordan Journal of Mechanical and Industrial Engineering since October 2014.\n SOFTWARE SKILLS",
+    "MATLAB9 (Image Processing, Neural Networks), Pro Engineer, MS Office Suite, Rstudio, ImageJ, ABACUS\n EDUCATIONAL QUALIFICATION\nExamination\nDiscipline/Board\nInstitution\nDuration of course\nPercentage\nIndian Institute of\nDoctor of Philosophy\nBioMechanics\nTechnology, Ropar,\nSince January 2015\n(Ph.D.)\nPunjab\nCAD CAM\nMasters of Technology\nNIT Hamirpur (Himachal\n(Mechanical\n2011-2013\n8.79/10 (absolute)\nPradesh)\n(M.Tech.)\nEngineering\nDepartment)\nBharatiVidyapeeth\nBachelor of Engineering\nProduction\n(B.V.P.) University, Pune\n2005-2009\n64.30%\n(B.E.)\n(Maharashtra)\nModi Public School\nXII\nC.B.S.E.\n2003-2004\n65.20%\n(Rajasthan)\nSacred Heart Convent\nX\nI.C.S.E.\nHigher Sec. School,\n2001-2002\n80.66%\nMathura (Uttar Pradesh)\n PROJECTS UNDERTAKEN AT COLLEGE LEVEL\nProject Title\nMathematical Computation of Thermal Modeling of EN31 Steel machined with\n(Masters of Technology)\nCVD coated carbide insert for turning process using MATLAB programming\nAnalytical models capable of determining temperature rise distribution at work piece and chip due to combined effect\nof deformation zones during machining are simplified in a step by step manner along with relating them with basic\nmachining parameters with the help of MATLAB programming. The coding is validated with already developed results\nof scientists for various machining parameters. The coding serves as generalized algorithm to generate temperature\nrise contour graphs with respect to various coordinates of work piece and chip for any set of machining parameters in\nfew seconds.\nThe developed coding is used to determine temperature rise distribution at work piece and chip of EN31 Steel when\nmachined with MTCVD coated carbide insert. Total 27 experiments were performed with various combinations of\ncutting parameters to obtain input parameters like cutting forces (dynamometer), chip thickness (Vernier) etc. These\ninput parameters are used to calculate other input parameters like shear angle, friction angle, other developed forces,\ntool-chip contact length etc. Contour graphs are developed using obtained input parameters and tabulated to\ncompare variation of temperature rise and cutting forces with respect to cutting parameters.\nProject Title\nDevelopment of CNC programming software\n( Bachelor of Engineering )\nDeveloping software in Visual Basic which has the capability to generate CNC Programming just by pressing buttons\nvisible on window of software\n PhD Research Title\nInvertible Computer Model for Bone Adaptation to Mechanical Environment\n INDUSTRIAL TRAINING\n Janta Engineers & Company (Iron), Faridabad ( from 13 th June 2009 to 10 th September 2009 )\nI was the part of a team which handles all the work related to bidding (excluding estimating cost of\nproject). I have also learned to execute on-line bidding.\n Indian Oil Corporation Ltd., Mathura Refinery (from 08 th June 2007 to 07 th July 2007)\nI was engaged in machine shop where I have learned to perform various operations on lathe machine",
+    " ACHIEVEMENTS\n Overall topper of CAD-CAM branch.\n GATE 2011 qualified in Mechanical stream with 425 score\n Project of generating software for CNC programming was accessed as the best B.E. project of the year\n2009 by Tata Consultancy Services (TCS)\n Won 100% attendance award during my tenure of B.E.\nEXTRA CURRICULAR ACTIVITIES\n Training & Placement Representative (TPR)ofM.Tech.students at NIT Hamirpur 2012-13.\n Participated in various group discussion and paper presentation competitions at various colleges during\nB.E. duration\n Participated in blood donation camp held every year at B.V.P. University.\n HOBBIES\nDelivering knowledge, Hindi Poetry and Dancing\n STRENGTH\n Quick Learner\n Team player with pragmatic approach\n Workaholic\n PERSONAL PROFILE\nFather’s Name\nSh. Dinesh Chand Goyal\nDate of birth\n24 th November, 1985\nMarital Status\nMarried\nPermanent Address\nAmarshri Niwas, C-23 Krishna Nagar, Mathura, (U.P.)\nINDIA - 281004.\nLanguages Known\nHindi, English"
+  ],
+  "text_all": "RESUME\n Ajay Goyal\n +91-9815459175,9927020157\n ajay.goyal2411@gmail.com\n CAREEER OBJECTIVE\nIntend to carry out research work in an academic environment with young and dedicated brains where ideas\ncan be gathered and communicated.\n TECHNICAL SKILLS\nMetal Cutting modeling, Fourier series and transformation, Bone mechanotransduction, Strength of\nMaterials, Mechanics, optimization methods, fatigue failure, regression methods, neural networks\n WORKING EXPERIENCE\n GLA University, Mathura (15 th July 2014 to 30 th December 2014)\nWorking as Assistant Professor in Mechanical Engineering Department\n Mangalayatan University, Aligarh (from 15 th July 2013 to 10 th July 2014)\nWorked as Assistant Professor in Mechanical Engineering Department\nCourses taught: Machine Design 1 and 2, Heat and Mass Transfer\n Gateforum (GATE coaching classes), Aligarh.\nSubjects taught: Strength of Materials\n Sachdeva Institute of Technology, Mathura (from 22 th July 2010 to 22 th July 2011)\nWorked as Lecturer in Mechanical department\nCourses taught: Manufacturing science II, Mechanics, Strength of Materials, and Mechanical Workshop\n Starion India Pvt. Ltd., NOIDA (from 26 th September 2009 to 21 st June 2010)\nWorked as Production Engineer, deployed in washing machine department where semi-automatic\nmachines are manufactured\n PUBLICATIONS\n A.Goyal, R.K. Sharma,” Simplified Mathematical Modeling of Temperature Rise inTurning Operation\nUsing MATLAB”, Jordan Journal of Mechanical and Industrial Engineering, vol. 9(2), pp 103-111, 2015\n A. Goyal, “Generation of Temperature Rise Distribution at Chip of EN31 Steel Due to Primary\nDeformation Zone during Turning Using MATLAB® and to Study its Machinability Behavior with CVD\nCarbide Insert”, International Journal of Engineering Trends and Technology, vol. 15, pp. 145-152, 2014\n A. Goyal , S. Kumar , S. Dhiman , R.K. Sharma,“Studying methods of estimating Heat Generation at\nThree Different Zones in Metal cutting: A review of Analytical models’, International Journal of\nEngineering Trends and Technology, vol. 8 pp 532 – 545, 2014\n A. Singh, A. Goyal, S. Dhiman, R.K. Sharma, S. Kumar, “Machinability Behavior of Medium Carbon Steel\n(EN38) using PCBN inserts during turning process”, International Conference on Smart Technologies for\nMechanical Engineering , Delhi College of Engineering’, ISBN 978-93-83083-35-0 , pp 1253 – 1257,\nJune 2013\n A. Goyal, S. Kumar, S. Dhiman, R.K. Sharma, “A study of temperature measuring experimental\ntechniques used in metal cutting”, Jordan Journal of Mechanical and Industrial Engineering, vol. 8, pp 82-\n93, 2014\n A. Goyal, S. Kumar, S. Dhiman, R.K. Sharma, “A Study of Analytical Models of Heat Generation at Three\nDifferent Zones in Metal Cutting”, 3 rd International Conference of National Institute of Technology,\nJalandhar, Department of Industrial and Production engineering’ pp 882 – 894, March 2013\n WORKSHOPS\n 3 day workshop at GLA University on Faculty Development Program in July 14.\n REVIEWER\n Premier Publication Journals since August 2014.\n Jordan Journal of Mechanical and Industrial Engineering since October 2014.\n SOFTWARE SKILLS\n\nMATLAB9 (Image Processing, Neural Networks), Pro Engineer, MS Office Suite, Rstudio, ImageJ, ABACUS\n EDUCATIONAL QUALIFICATION\nExamination\nDiscipline/Board\nInstitution\nDuration of course\nPercentage\nIndian Institute of\nDoctor of Philosophy\nBioMechanics\nTechnology, Ropar,\nSince January 2015\n(Ph.D.)\nPunjab\nCAD CAM\nMasters of Technology\nNIT Hamirpur (Himachal\n(Mechanical\n2011-2013\n8.79/10 (absolute)\nPradesh)\n(M.Tech.)\nEngineering\nDepartment)\nBharatiVidyapeeth\nBachelor of Engineering\nProduction\n(B.V.P.) University, Pune\n2005-2009\n64.30%\n(B.E.)\n(Maharashtra)\nModi Public School\nXII\nC.B.S.E.\n2003-2004\n65.20%\n(Rajasthan)\nSacred Heart Convent\nX\nI.C.S.E.\nHigher Sec. School,\n2001-2002\n80.66%\nMathura (Uttar Pradesh)\n PROJECTS UNDERTAKEN AT COLLEGE LEVEL\nProject Title\nMathematical Computation of Thermal Modeling of EN31 Steel machined with\n(Masters of Technology)\nCVD coated carbide insert for turning process using MATLAB programming\nAnalytical models capable of determining temperature rise distribution at work piece and chip due to combined effect\nof deformation zones during machining are simplified in a step by step manner along with relating them with basic\nmachining parameters with the help of MATLAB programming. The coding is validated with already developed results\nof scientists for various machining parameters. The coding serves as generalized algorithm to generate temperature\nrise contour graphs with respect to various coordinates of work piece and chip for any set of machining parameters in\nfew seconds.\nThe developed coding is used to determine temperature rise distribution at work piece and chip of EN31 Steel when\nmachined with MTCVD coated carbide insert. Total 27 experiments were performed with various combinations of\ncutting parameters to obtain input parameters like cutting forces (dynamometer), chip thickness (Vernier) etc. These\ninput parameters are used to calculate other input parameters like shear angle, friction angle, other developed forces,\ntool-chip contact length etc. Contour graphs are developed using obtained input parameters and tabulated to\ncompare variation of temperature rise and cutting forces with respect to cutting parameters.\nProject Title\nDevelopment of CNC programming software\n( Bachelor of Engineering )\nDeveloping software in Visual Basic which has the capability to generate CNC Programming just by pressing buttons\nvisible on window of software\n PhD Research Title\nInvertible Computer Model for Bone Adaptation to Mechanical Environment\n INDUSTRIAL TRAINING\n Janta Engineers & Company (Iron), Faridabad ( from 13 th June 2009 to 10 th September 2009 )\nI was the part of a team which handles all the work related to bidding (excluding estimating cost of\nproject). I have also learned to execute on-line bidding.\n Indian Oil Corporation Ltd., Mathura Refinery (from 08 th June 2007 to 07 th July 2007)\nI was engaged in machine shop where I have learned to perform various operations on lathe machine\n\n ACHIEVEMENTS\n Overall topper of CAD-CAM branch.\n GATE 2011 qualified in Mechanical stream with 425 score\n Project of generating software for CNC programming was accessed as the best B.E. project of the year\n2009 by Tata Consultancy Services (TCS)\n Won 100% attendance award during my tenure of B.E.\nEXTRA CURRICULAR ACTIVITIES\n Training & Placement Representative (TPR)ofM.Tech.students at NIT Hamirpur 2012-13.\n Participated in various group discussion and paper presentation competitions at various colleges during\nB.E. duration\n Participated in blood donation camp held every year at B.V.P. University.\n HOBBIES\nDelivering knowledge, Hindi Poetry and Dancing\n STRENGTH\n Quick Learner\n Team player with pragmatic approach\n Workaholic\n PERSONAL PROFILE\nFather’s Name\nSh. Dinesh Chand Goyal\nDate of birth\n24 th November, 1985\nMarital Status\nMarried\nPermanent Address\nAmarshri Niwas, C-23 Krishna Nagar, Mathura, (U.P.)\nINDIA - 281004.\nLanguages Known\nHindi, English"
+}

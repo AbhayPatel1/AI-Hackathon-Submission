@@ -1,0 +1,83 @@
+AMLAN DAS
+Apt. #9B, 60 Wadsworth Street,
+Cambridge, MA 02142, United States
+Email: amlandas@mit.edu | Cell: +1 (617) 417 4839
+EDUCATION
+Massachusetts Institute of Technology
+School of Engineering & Sloan School of Management
+M.S., System Design and Management
+Visva Bharati University
+Dept. of Computer Science
+Bachelor of Technology (B.Tech), Information Technology
+EXPERIENCE
+GOLDMAN SACHS
+Associate
+
+Led software development modules for cloud platforms team; designed and developed features such as software rate
+limiter, state transition workflow engine, data reconciliation framework.
+
+Built a product and services provisioning system having salient characteristics like - policy-based inventory, security
+hardening of the systems, workflow and lifecycle automation, and capacity management. Took proactive leadership
+to define the proposed road map to adopt the new system, which leads to cost savings for the firm up to $1.5M.
+AT&T
+Technical Specialist
+
+Defined design strategy, reviewed and rated engineers working in my team.
+THOMSON REUTERS
+Lead Engineer
+Senior Engineer
+Engineer
+
+Led a global (US & India) development team of five engineers. Established software development standards and
+practices, engaged in requirement and feature discussions with clients, and authored the high-level design document.
+
+Worked closely with business stakeholders to evaluate the data in the internal systems and suggest improvements.
+
+Reviewed and rated engineers working in the team, identified skill matrix for the team and recommend training
+programs, defined half-yearly common goals and a plan of action to achieve them. Also handled conflict
+management, worked to enable greater synergy between cross-functional teams, and mentored team members.
+
+Built an asset management software with features like – monitor complete asset lifecycle, auto discovery of
+endpoints, CMDB functionality like viewing configuration items and their relationships, license management,
+remote control of devices, and granular reporting of the environment.
+
+Devised centralized voice and contact center management portal. It provided the business stakeholders a lever to
+their business variables giving them more fine-grained control, automation and efficient utilization of work force.
+
+Designed a solution to integrate Salesforce and internal client management system.
+TECH MAHINDRA
+Technical Associate
+
+Worked on product enhancements as a member of offshore development team. Developed and supported Computer
+Telephony Integration (CTI) solutions.
+HEWLETT PACKARD
+Technology Consultant
+
+Worked on operational support engineer for Cisco Unified Communication and HP products e.g. – Cisco UCCE,
+Cisco UCM, Cisco CVP, HP Service Manager. Was responsible for incident management and change management.
+TECHNICAL SKILLS
+
+Programming/Scripting Languages: JavaScript (node.js), Java, J2EE, SQL
+
+Databases/Data Sets: RDF, OWL, Graph DB, Microsoft SQL Server, Oracle, MySQL, NoSQL, XML, JSON
+
+Concepts: Data Structures & Algorithms, Ontology, Semantic Web, Design Patterns, UML, REST web services
+
+Others: Node.js, JBOSS Application Server, Apache Tomcat, Glassfish AS, Subversion (SVN), JIRA, Eclipse IDE,
+Intellij IDEA, VMWare VCloud, Linux Red-Hat, Windows Server, ITIL
+Cambridge, MA
+Sep 2016 - Present
+Kolkata, India
+Jul 2003 – Jun 2007
+Bangalore, India
+Jun 2015 – July 2016
+Bangalore, India
+Feb 2015 – May 2015
+Bangalore, India
+Oct 2013 – Jan 2015
+Jul 2012 – Oct 2013
+Sep 2010 – Jun 2012
+Bangalore, India
+Feb 2010 – Sep 2010
+Bangalore, India
+Aug 2007 – Jan 2010

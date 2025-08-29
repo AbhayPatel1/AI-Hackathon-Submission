@@ -1,0 +1,1188 @@
+{
+  "meta": {
+    "source_path": "data/resumes/2017-Resume-Book-for-Web-SDM-5.pdf",
+    "pages": 1
+  },
+  "lines": [
+    {
+      "page": 1,
+      "text": "MINA N. M. BOTROS",
+      "bbox": [
+        255.83200073242188,
+        51.9466552734375,
+        374.1677551269531,
+        65.2357177734375
+      ],
+      "left_indent": 255.83200073242188,
+      "width": 118.33575439453125,
+      "is_bold": true,
+      "font_size": 12.0
+    },
+    {
+      "page": 1,
+      "text": "EDUCATION",
+      "bbox": [
+        72.0,
+        86.135986328125,
+        141.92999267578125,
+        98.09614562988281
+      ],
+      "left_indent": 72.0,
+      "width": 69.92999267578125,
+      "is_bold": true,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Massachusetts Institute of Technology",
+      "bbox": [
+        72.0,
+        107.9759521484375,
+        251.267333984375,
+        119.93611145019531
+      ],
+      "left_indent": 72.0,
+      "width": 179.267333984375,
+      "is_bold": true,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "School of Engineering & Sloan School of Management",
+      "bbox": [
+        72.0,
+        119.0159912109375,
+        316.3616027832031,
+        130.9761505126953
+      ],
+      "left_indent": 72.0,
+      "width": 244.36160278320312,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "M.S., Engineering Management",
+      "bbox": [
+        72.0,
+        130.05596923828125,
+        218.6999969482422,
+        142.01612854003906
+      ],
+      "left_indent": 72.0,
+      "width": 146.6999969482422,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "University of Calgary",
+      "bbox": [
+        72.0,
+        152.135986328125,
+        173.34719848632812,
+        164.0961456298828
+      ],
+      "left_indent": 72.0,
+      "width": 101.34719848632812,
+      "is_bold": true,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Schulich School of Engineering",
+      "bbox": [
+        72.0,
+        162.93597412109375,
+        213.69850158691406,
+        174.89613342285156
+      ],
+      "left_indent": 72.0,
+      "width": 141.69850158691406,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "B.Sc., Mechanical Engineering",
+      "bbox": [
+        72.0,
+        173.9759521484375,
+        218.6999969482422,
+        185.9361114501953
+      ],
+      "left_indent": 72.0,
+      "width": 146.6999969482422,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "PROFESSIONAL EXPERIENCE",
+      "bbox": [
+        72.0,
+        196.05596923828125,
+        235.14529418945312,
+        208.01612854003906
+      ],
+      "left_indent": 72.0,
+      "width": 163.14529418945312,
+      "is_bold": true,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "TECHNOLOGY STRATEGY PARTNERS",
+      "bbox": [
+        72.0,
+        218.135986328125,
+        280.0691223144531,
+        230.0961456298828
+      ],
+      "left_indent": 72.0,
+      "width": 208.06912231445312,
+      "is_bold": true,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Associate, Consultant",
+      "bbox": [
+        72.0,
+        228.93597412109375,
+        173.114501953125,
+        240.89613342285156
+      ],
+      "left_indent": 72.0,
+      "width": 101.114501953125,
+      "is_bold": true,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Strategy",
+      "bbox": [
+        72.0,
+        239.9759521484375,
+        109.18816375732422,
+        251.9361114501953
+      ],
+      "left_indent": 72.0,
+      "width": 37.18816375732422,
+      "is_bold": true,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Created models to assess the effect of product pricing points on consumer buying habits and forecasted",
+      "bbox": [
+        90.0,
+        251.0159912109375,
+        546.3432006835938,
+        262.97613525390625
+      ],
+      "left_indent": 90.0,
+      "width": 456.34320068359375,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        253.06735229492188,
+        76.96757507324219,
+        263.86737060546875
+      ],
+      "left_indent": 72.0,
+      "width": 4.9675750732421875,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "sales.",
+      "bbox": [
+        90.0,
+        262.05596923828125,
+        122.3322982788086,
+        274.01611328125
+      ],
+      "left_indent": 90.0,
+      "width": 32.332298278808594,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Investigated several value creation frameworks to achieve clients’ revenue growth targets.",
+      "bbox": [
+        90.0,
+        273.0959777832031,
+        494.9520263671875,
+        285.0561218261719
+      ],
+      "left_indent": 90.0,
+      "width": 404.9520263671875,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        275.1473388671875,
+        76.96757507324219,
+        285.9473571777344
+      ],
+      "left_indent": 72.0,
+      "width": 4.9675750732421875,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Helped clients apply holistic systems models to make business decisions and to meet their strategic",
+      "bbox": [
+        90.0,
+        284.135986328125,
+        529.0039672851562,
+        296.09613037109375
+      ],
+      "left_indent": 90.0,
+      "width": 439.00396728515625,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        286.1873474121094,
+        76.96757507324219,
+        296.98736572265625
+      ],
+      "left_indent": 72.0,
+      "width": 4.9675750732421875,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "visions.",
+      "bbox": [
+        90.0,
+        294.93597412109375,
+        126.62379455566406,
+        306.8961181640625
+      ],
+      "left_indent": 90.0,
+      "width": 36.62379455566406,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Operations",
+      "bbox": [
+        72.0,
+        305.9759826660156,
+        122.04353332519531,
+        317.9361267089844
+      ],
+      "left_indent": 72.0,
+      "width": 50.04353332519531,
+      "is_bold": true,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Conducted diagnostic interviews with key stakeholders within clients’ organizations.",
+      "bbox": [
+        90.0,
+        317.0159912109375,
+        466.3133239746094,
+        328.97613525390625
+      ],
+      "left_indent": 90.0,
+      "width": 376.3133239746094,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        319.0673522949219,
+        76.96757507324219,
+        329.86737060546875
+      ],
+      "left_indent": 72.0,
+      "width": 4.9675750732421875,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Worked with clients to identify and to analyze historical data for model creation, calibration and testing.",
+      "bbox": [
+        90.0,
+        328.05596923828125,
+        551.197998046875,
+        340.01611328125
+      ],
+      "left_indent": 90.0,
+      "width": 461.197998046875,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        330.1073303222656,
+        76.96757507324219,
+        340.9073486328125
+      ],
+      "left_indent": 72.0,
+      "width": 4.9675750732421875,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Conducted analyses to identify potential common product platform parts or new architectures.",
+      "bbox": [
+        90.0,
+        339.0959777832031,
+        506.9241027832031,
+        351.0561218261719
+      ],
+      "left_indent": 90.0,
+      "width": 416.9241027832031,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        341.1473388671875,
+        76.96757507324219,
+        351.9473571777344
+      ],
+      "left_indent": 72.0,
+      "width": 4.9675750732421875,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Conducted financial analyses to assess the profitability of product platforms.",
+      "bbox": [
+        90.0,
+        350.135986328125,
+        429.972412109375,
+        362.09613037109375
+      ],
+      "left_indent": 90.0,
+      "width": 339.972412109375,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        352.1873474121094,
+        76.96757507324219,
+        362.98736572265625
+      ],
+      "left_indent": 72.0,
+      "width": 4.9675750732421875,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "JACOBS CANADA INC.",
+      "bbox": [
+        72.0,
+        371.9759826660156,
+        191.3950653076172,
+        383.9361267089844
+      ],
+      "left_indent": 72.0,
+      "width": 119.39506530761719,
+      "is_bold": true,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Project Engineer, Team Lead (P.Eng.)",
+      "bbox": [
+        72.0,
+        383.0159912109375,
+        249.76010131835938,
+        394.97613525390625
+      ],
+      "left_indent": 72.0,
+      "width": 177.76010131835938,
+      "is_bold": true,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Managed several multi-million dollar concurrent oil sands projects including shared scope with Mumbai",
+      "bbox": [
+        90.0,
+        394.05596923828125,
+        552.1079711914062,
+        406.01611328125
+      ],
+      "left_indent": 90.0,
+      "width": 462.10797119140625,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        396.1073303222656,
+        76.96757507324219,
+        406.9073486328125
+      ],
+      "left_indent": 72.0,
+      "width": 4.9675750732421875,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "office.",
+      "bbox": [
+        90.0,
+        405.0959777832031,
+        121.10769653320312,
+        417.0561218261719
+      ],
+      "left_indent": 90.0,
+      "width": 31.107696533203125,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Prepared engineering budgets and staffing plans, and compiled monthly-earned value reports.",
+      "bbox": [
+        90.0,
+        416.135986328125,
+        504.4695129394531,
+        428.09613037109375
+      ],
+      "left_indent": 90.0,
+      "width": 414.4695129394531,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        418.1873474121094,
+        76.96757507324219,
+        428.98736572265625
+      ],
+      "left_indent": 72.0,
+      "width": 4.9675750732421875,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Reviewed, signed, and stamped all construction documents and building permit applications.",
+      "bbox": [
+        90.0,
+        426.93597412109375,
+        501.1395263671875,
+        438.8961181640625
+      ],
+      "left_indent": 90.0,
+      "width": 411.1395263671875,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        428.9873352050781,
+        76.96757507324219,
+        439.787353515625
+      ],
+      "left_indent": 72.0,
+      "width": 4.9675750732421875,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Analyzed historical labor reports, and presented resource cross utilization plan to management to increase",
+      "bbox": [
+        90.0,
+        437.9759826660156,
+        558.3392333984375,
+        449.9361267089844
+      ],
+      "left_indent": 90.0,
+      "width": 468.3392333984375,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        440.02734375,
+        76.96757507324219,
+        450.8273620605469
+      ],
+      "left_indent": 72.0,
+      "width": 4.9675750732421875,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "productivity. Projected savings to clients ranged from $100k to $250k depending on project scope.",
+      "bbox": [
+        90.0,
+        449.0159912109375,
+        526.818603515625,
+        460.97613525390625
+      ],
+      "left_indent": 90.0,
+      "width": 436.818603515625,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Evaluated various contracting strategies to save clients $150k per project by shifting scope of supply with",
+      "bbox": [
+        90.0,
+        460.05596923828125,
+        557.9484252929688,
+        472.01611328125
+      ],
+      "left_indent": 90.0,
+      "width": 467.94842529296875,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        462.1073303222656,
+        76.96757507324219,
+        472.9073486328125
+      ],
+      "left_indent": 72.0,
+      "width": 4.9675750732421875,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "a minor increase in schedule risk.",
+      "bbox": [
+        90.0,
+        471.0959777832031,
+        239.92709350585938,
+        483.0561218261719
+      ],
+      "left_indent": 90.0,
+      "width": 149.92709350585938,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "ACADEMIC EXPERIENCE",
+      "bbox": [
+        72.0,
+        492.93597412109375,
+        211.29229736328125,
+        504.8961181640625
+      ],
+      "left_indent": 72.0,
+      "width": 139.29229736328125,
+      "is_bold": true,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "SYSTEM DESIGN AND MANAGEMENT PROGRAM at MIT",
+      "bbox": [
+        72.0,
+        515.0159912109375,
+        371.95916748046875,
+        526.9761352539062
+      ],
+      "left_indent": 72.0,
+      "width": 299.95916748046875,
+      "is_bold": true,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Head Teaching Assistant",
+      "bbox": [
+        72.0,
+        526.0559692382812,
+        188.3791961669922,
+        538.01611328125
+      ],
+      "left_indent": 72.0,
+      "width": 116.37919616699219,
+      "is_bold": true,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Lead a team of 5 teaching assistants.",
+      "bbox": [
+        90.0,
+        537.095947265625,
+        253.67709350585938,
+        549.0560913085938
+      ],
+      "left_indent": 90.0,
+      "width": 163.67709350585938,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        539.1473388671875,
+        76.96757507324219,
+        549.9473266601562
+      ],
+      "left_indent": 72.0,
+      "width": 4.9675750732421875,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Liaise with course instructors to build lecture and recitation schedule.",
+      "bbox": [
+        90.0,
+        548.135986328125,
+        398.7718200683594,
+        560.0961303710938
+      ],
+      "left_indent": 90.0,
+      "width": 308.7718200683594,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        550.1873779296875,
+        76.96757507324219,
+        560.9873657226562
+      ],
+      "left_indent": 72.0,
+      "width": 4.9675750732421875,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Teach a two-hour class once per week to 107 students.",
+      "bbox": [
+        90.0,
+        558.9359741210938,
+        332.78790283203125,
+        570.8961181640625
+      ],
+      "left_indent": 90.0,
+      "width": 242.78790283203125,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        560.9873657226562,
+        76.96757507324219,
+        571.787353515625
+      ],
+      "left_indent": 72.0,
+      "width": 4.9675750732421875,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Create grading rubrics; handle teamwork conflicts and moderate online class forum.",
+      "bbox": [
+        90.0,
+        569.9759521484375,
+        462.61260986328125,
+        581.9360961914062
+      ],
+      "left_indent": 90.0,
+      "width": 372.61260986328125,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        572.02734375,
+        76.96757507324219,
+        582.8273315429688
+      ],
+      "left_indent": 72.0,
+      "width": 4.9675750732421875,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Collaborate with the program’s staff to promote it across MIT and to industry sponsors.",
+      "bbox": [
+        90.0,
+        581.0159912109375,
+        478.2532043457031,
+        592.9761352539062
+      ],
+      "left_indent": 90.0,
+      "width": 388.2532043457031,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        583.0673828125,
+        76.96757507324219,
+        593.8673706054688
+      ],
+      "left_indent": 72.0,
+      "width": 4.9675750732421875,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Mentor five industry sponsored term projects in the areas of architecture, technology maturation and",
+      "bbox": [
+        90.0,
+        592.0559692382812,
+        534.4091186523438,
+        604.01611328125
+      ],
+      "left_indent": 90.0,
+      "width": 444.40911865234375,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        594.1073608398438,
+        76.96757507324219,
+        604.9073486328125
+      ],
+      "left_indent": 72.0,
+      "width": 4.9675750732421875,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "roadmapping, process implementation and business case evaluation.",
+      "bbox": [
+        90.0,
+        603.095947265625,
+        392.67559814453125,
+        615.0560913085938
+      ],
+      "left_indent": 90.0,
+      "width": 302.67559814453125,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "GLOBAL TEAMWORK LAB",
+      "bbox": [
+        72.0,
+        624.9359741210938,
+        216.07839965820312,
+        636.8961181640625
+      ],
+      "left_indent": 72.0,
+      "width": 144.07839965820312,
+      "is_bold": true,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Researcher",
+      "bbox": [
+        72.0,
+        635.9759521484375,
+        126.02619934082031,
+        647.9360961914062
+      ],
+      "left_indent": 72.0,
+      "width": 54.02619934082031,
+      "is_bold": true,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Design a resource allocation framework to advance project portfolio management practices.",
+      "bbox": [
+        90.0,
+        647.0159912109375,
+        496.7942199707031,
+        658.9761352539062
+      ],
+      "left_indent": 90.0,
+      "width": 406.7942199707031,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        649.0673828125,
+        76.96757507324219,
+        659.8673706054688
+      ],
+      "left_indent": 72.0,
+      "width": 4.9675750732421875,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Participate in designing experiment to detect correlations between participants’ mental models and project",
+      "bbox": [
+        90.0,
+        658.0559692382812,
+        560.038818359375,
+        670.01611328125
+      ],
+      "left_indent": 90.0,
+      "width": 470.038818359375,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        660.1073608398438,
+        76.96757507324219,
+        670.9073486328125
+      ],
+      "left_indent": 72.0,
+      "width": 4.9675750732421875,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "performance.",
+      "bbox": [
+        90.0,
+        669.095947265625,
+        151.03009033203125,
+        681.0560913085938
+      ],
+      "left_indent": 90.0,
+      "width": 61.03009033203125,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Organize research symposia and conferences with colleagues from the University of Tokyo.",
+      "bbox": [
+        90.0,
+        680.135986328125,
+        497.7396240234375,
+        692.0961303710938
+      ],
+      "left_indent": 90.0,
+      "width": 407.7396240234375,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        682.1873779296875,
+        76.96757507324219,
+        692.9873657226562
+      ],
+      "left_indent": 72.0,
+      "width": 4.9675750732421875,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Advise industry research partner on strategic organizational design and its effect on innovation and",
+      "bbox": [
+        90.0,
+        690.9359741210938,
+        528.722900390625,
+        702.8961181640625
+      ],
+      "left_indent": 90.0,
+      "width": 438.722900390625,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        692.9873657226562,
+        76.96757507324219,
+        703.787353515625
+      ],
+      "left_indent": 72.0,
+      "width": 4.9675750732421875,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "process implementation.",
+      "bbox": [
+        90.0,
+        701.9759521484375,
+        200.2292938232422,
+        713.9360961914062
+      ],
+      "left_indent": 90.0,
+      "width": 110.22929382324219,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Cambridge, MA",
+      "bbox": [
+        485.8984069824219,
+        107.9759521484375,
+        560.7000122070312,
+        119.93611145019531
+      ],
+      "left_indent": 485.8984069824219,
+      "width": 74.80160522460938,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "2015-2017 (expected)",
+      "bbox": [
+        461.17529296875,
+        119.0159912109375,
+        560.7000122070312,
+        130.9761505126953
+      ],
+      "left_indent": 461.17529296875,
+      "width": 99.52471923828125,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Calgary, AB",
+      "bbox": [
+        502.3984069824219,
+        152.135986328125,
+        560.7000122070312,
+        164.0961456298828
+      ],
+      "left_indent": 502.3984069824219,
+      "width": 58.301605224609375,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "2005-2009",
+      "bbox": [
+        510.3369140625,
+        162.93597412109375,
+        560.7000122070312,
+        174.89613342285156
+      ],
+      "left_indent": 510.3369140625,
+      "width": 50.36309814453125,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Cambridge, MA",
+      "bbox": [
+        485.8984069824219,
+        218.135986328125,
+        560.7000122070312,
+        230.0961456298828
+      ],
+      "left_indent": 485.8984069824219,
+      "width": 74.80160522460938,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "2016",
+      "bbox": [
+        535.9998779296875,
+        228.93597412109375,
+        560.7000122070312,
+        240.89613342285156
+      ],
+      "left_indent": 535.9998779296875,
+      "width": 24.70013427734375,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Calgary, AB",
+      "bbox": [
+        502.3984069824219,
+        371.9759826660156,
+        560.7000122070312,
+        383.9361267089844
+      ],
+      "left_indent": 502.3984069824219,
+      "width": 58.301605224609375,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "2011 – 2016",
+      "bbox": [
+        503.0,
+        383.0159912109375,
+        560.7000122070312,
+        394.97613525390625
+      ],
+      "left_indent": 503.0,
+      "width": 57.70001220703125,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Cambridge, MA",
+      "bbox": [
+        485.8984069824219,
+        515.0159912109375,
+        560.7000122070312,
+        526.9761352539062
+      ],
+      "left_indent": 485.8984069824219,
+      "width": 74.80160522460938,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "2016 - Present",
+      "bbox": [
+        494.45458984375,
+        526.0559692382812,
+        560.7000122070312,
+        538.01611328125
+      ],
+      "left_indent": 494.45458984375,
+      "width": 66.24542236328125,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Cambridge, MA",
+      "bbox": [
+        485.8984069824219,
+        624.9359741210938,
+        560.7000122070312,
+        636.8961181640625
+      ],
+      "left_indent": 485.8984069824219,
+      "width": 74.80160522460938,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "2016 – Present",
+      "bbox": [
+        492.61761474609375,
+        635.9759521484375,
+        560.7000122070312,
+        647.9360961914062
+      ],
+      "left_indent": 492.61761474609375,
+      "width": 68.0823974609375,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    }
+  ],
+  "text_per_page": [
+    "MINA N. M. BOTROS\nEDUCATION\nMassachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nM.S., Engineering Management\nUniversity of Calgary\nSchulich School of Engineering\nB.Sc., Mechanical Engineering\nPROFESSIONAL EXPERIENCE\nTECHNOLOGY STRATEGY PARTNERS\nAssociate, Consultant\nStrategy\nCreated models to assess the effect of product pricing points on consumer buying habits and forecasted\n•\nsales.\nInvestigated several value creation frameworks to achieve clients’ revenue growth targets.\n•\nHelped clients apply holistic systems models to make business decisions and to meet their strategic\n•\nvisions.\nOperations\nConducted diagnostic interviews with key stakeholders within clients’ organizations.\n•\nWorked with clients to identify and to analyze historical data for model creation, calibration and testing.\n•\nConducted analyses to identify potential common product platform parts or new architectures.\n•\nConducted financial analyses to assess the profitability of product platforms.\n•\nJACOBS CANADA INC.\nProject Engineer, Team Lead (P.Eng.)\nManaged several multi-million dollar concurrent oil sands projects including shared scope with Mumbai\n•\noffice.\nPrepared engineering budgets and staffing plans, and compiled monthly-earned value reports.\n•\nReviewed, signed, and stamped all construction documents and building permit applications.\n•\nAnalyzed historical labor reports, and presented resource cross utilization plan to management to increase\n•\nproductivity. Projected savings to clients ranged from $100k to $250k depending on project scope.\nEvaluated various contracting strategies to save clients $150k per project by shifting scope of supply with\n•\na minor increase in schedule risk.\nACADEMIC EXPERIENCE\nSYSTEM DESIGN AND MANAGEMENT PROGRAM at MIT\nHead Teaching Assistant\nLead a team of 5 teaching assistants.\n•\nLiaise with course instructors to build lecture and recitation schedule.\n•\nTeach a two-hour class once per week to 107 students.\n•\nCreate grading rubrics; handle teamwork conflicts and moderate online class forum.\n•\nCollaborate with the program’s staff to promote it across MIT and to industry sponsors.\n•\nMentor five industry sponsored term projects in the areas of architecture, technology maturation and\n•\nroadmapping, process implementation and business case evaluation.\nGLOBAL TEAMWORK LAB\nResearcher\nDesign a resource allocation framework to advance project portfolio management practices.\n•\nParticipate in designing experiment to detect correlations between participants’ mental models and project\n•\nperformance.\nOrganize research symposia and conferences with colleagues from the University of Tokyo.\n•\nAdvise industry research partner on strategic organizational design and its effect on innovation and\n•\nprocess implementation.\nCambridge, MA\n2015-2017 (expected)\nCalgary, AB\n2005-2009\nCambridge, MA\n2016\nCalgary, AB\n2011 – 2016\nCambridge, MA\n2016 - Present\nCambridge, MA\n2016 – Present"
+  ],
+  "text_all": "MINA N. M. BOTROS\nEDUCATION\nMassachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nM.S., Engineering Management\nUniversity of Calgary\nSchulich School of Engineering\nB.Sc., Mechanical Engineering\nPROFESSIONAL EXPERIENCE\nTECHNOLOGY STRATEGY PARTNERS\nAssociate, Consultant\nStrategy\nCreated models to assess the effect of product pricing points on consumer buying habits and forecasted\n•\nsales.\nInvestigated several value creation frameworks to achieve clients’ revenue growth targets.\n•\nHelped clients apply holistic systems models to make business decisions and to meet their strategic\n•\nvisions.\nOperations\nConducted diagnostic interviews with key stakeholders within clients’ organizations.\n•\nWorked with clients to identify and to analyze historical data for model creation, calibration and testing.\n•\nConducted analyses to identify potential common product platform parts or new architectures.\n•\nConducted financial analyses to assess the profitability of product platforms.\n•\nJACOBS CANADA INC.\nProject Engineer, Team Lead (P.Eng.)\nManaged several multi-million dollar concurrent oil sands projects including shared scope with Mumbai\n•\noffice.\nPrepared engineering budgets and staffing plans, and compiled monthly-earned value reports.\n•\nReviewed, signed, and stamped all construction documents and building permit applications.\n•\nAnalyzed historical labor reports, and presented resource cross utilization plan to management to increase\n•\nproductivity. Projected savings to clients ranged from $100k to $250k depending on project scope.\nEvaluated various contracting strategies to save clients $150k per project by shifting scope of supply with\n•\na minor increase in schedule risk.\nACADEMIC EXPERIENCE\nSYSTEM DESIGN AND MANAGEMENT PROGRAM at MIT\nHead Teaching Assistant\nLead a team of 5 teaching assistants.\n•\nLiaise with course instructors to build lecture and recitation schedule.\n•\nTeach a two-hour class once per week to 107 students.\n•\nCreate grading rubrics; handle teamwork conflicts and moderate online class forum.\n•\nCollaborate with the program’s staff to promote it across MIT and to industry sponsors.\n•\nMentor five industry sponsored term projects in the areas of architecture, technology maturation and\n•\nroadmapping, process implementation and business case evaluation.\nGLOBAL TEAMWORK LAB\nResearcher\nDesign a resource allocation framework to advance project portfolio management practices.\n•\nParticipate in designing experiment to detect correlations between participants’ mental models and project\n•\nperformance.\nOrganize research symposia and conferences with colleagues from the University of Tokyo.\n•\nAdvise industry research partner on strategic organizational design and its effect on innovation and\n•\nprocess implementation.\nCambridge, MA\n2015-2017 (expected)\nCalgary, AB\n2005-2009\nCambridge, MA\n2016\nCalgary, AB\n2011 – 2016\nCambridge, MA\n2016 - Present\nCambridge, MA\n2016 – Present"
+}

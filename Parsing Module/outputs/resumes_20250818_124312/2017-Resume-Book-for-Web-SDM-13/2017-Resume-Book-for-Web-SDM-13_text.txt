@@ -1,0 +1,101 @@
+Ben Linville-Engler | linkedin.com/in/ben-l-e
+EDUCATION
+Massachusetts Institute of Technology
+Cambridge, MA
+School of Engineering & Sloan School of Management
+Aug 2016 – Jan 2018 (expected)
+M.S., System Design and Management
+MIT/The Engine Working Group, Sloan Senate, GEL Program Mentor, BloomerTech Advisor, Hacking Medicine
+•
+University of Colorado
+Boulder, CO
+School of Engineering
+Aug 2003 – May 2007
+B.S., Mechanical Engineering, Biomedical Option
+Minor Biochemistry
+EXPERIENCE
+Applied Medical
+A new generation medical device company committed to improving the quality, affordability, and accessibility of healthcare .
+Applied Medical Europe | Amersfoort, Netherlands
+Vice President, Product Development and Engineering - Europe
+January 2015 – August 2016
+Enabled the expansion of Applied Medical Europe from a sales and distribution organization to include medical device
+•
+design, equipment service, and manufacturing in coordination with US teams.
+Supported the European sales teams by working directly with surgeons, nurses, biomedical engineers, and other decision
+•
+makers within hospitals and group purchasing organizations to enable new, and maintain existing, sales.
+Defined and implemented field data collection process to establish analysis of qualitative usage data and quantitative
+•
+system performance data for the Voyant product line, leading to significant product improvements.
+Applied Medical Resources | Rancho Santa Margarita, CA
+Vice President, Technology and Development – Electrical Systems
+September 2011
+Defined, built, and led a new organization focused on the development of medical electrical systems resulting in the
+•
+hiring of 50 new team members in approximately 2 years.
+Defined and led the expansion effort of the existing quality system (ISO 13485) to include medical electrical equipment
+•
+product development and manufacturing.
+Maintained the division budget ($15M), resource plans, and organizational plans. Including resource matrix
+•
+assignments, project/product prioritization, product development timelines, cost estimates, facilities planning, and
+product/feature feasibility studies.
+Coordinated cross-functional product development between Engineering, Clinical Marketing, Regulatory, and Quality
+•
+Systems teams by providing project management, direction, and leadership for product lifecycle.
+Culminated in launch of the Voyant Electrosurgical System; targeted at a $3B market segment with potential revenue
+•
+gains of up to 5 times company’s annual revenue.
+Director, Technology and Development
+February 2010
+Led team design of new products and development of prototype electrosurgical generator with contract developer.
+•
+Continuously grew and trained team with focus on electrosurgical product development for laparoscopic procedures.
+•
+Manager, Technology and Development
+August 2008
+Coordinated the implementation of product development plans, schedules, and designs throughout product lifecycle.
+•
+Reorganized development team structure to better utilize resources and enable technical development of less experienced
+•
+engineers by redistributing experienced engineers across development teams.
+Product Development Engineer, Technology and Development
+February 2008
+Worked within a mechanical engineering team responsible for the design of laparoscopic instruments.
+•
+Coordinated with material vendors, tooling designers, manufacturing, and planning to bring designs into production.
+•
+MANUFACTURING TRAINING
+Injection molding, plastic and metal extrusion, sheet metal forming, progressive die stamping, and CNC machining
+•
+PCB/PCBA processes, electronics product assembly, automated assembly, and cleanroom production.
+•
+Capital equipment post-production service management and customer preventive maintenance
+•
+REGULATORY TRAINING AND SOFTWARE TOOLS
+IEC 60601-1 3 rd Ed. Family (UL)
+Solidworks (MCAD), Altium (ECAD)
+Software Development/Build
+•
+•
+•
+ISO 14971 Risk Management (UL)
+SAP (ERP, MRP, PLM)
+IAR Workbench
+•
+•
+•
+IEC 62366 Usability (UL)
+PTC Integrity (Client and Admin)
+Parasoft, Coverity
+•
+•
+•
+IEC 62304 Software Development for
+Microsoft Office, Projects, and Visio
+Jenkins
+•
+•
+•
+Medical Devices

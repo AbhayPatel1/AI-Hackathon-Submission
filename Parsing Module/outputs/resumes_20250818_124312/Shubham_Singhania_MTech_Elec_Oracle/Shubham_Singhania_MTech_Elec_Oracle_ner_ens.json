@@ -1,0 +1,222 @@
+{
+  "meta": {
+    "source_path": "data/resumes/Shubham_Singhania_MTech_Elec_Oracle.pdf",
+    "pages": 2,
+    "model": "facebook/bart-large-mnli"
+  },
+  "candidate": {
+    "full_name": "Shubham Singhania",
+    "emails": [],
+    "phones": [],
+    "links": {
+      "linkedin": null,
+      "github": null
+    }
+  },
+  "experience": [
+    {
+      "company_raw": "Electrical Department",
+      "company_norm": "Electrical Department",
+      "title_raw": "• System Administrator | Electrical Department, IIT Bombay",
+      "title_norm": null,
+      "seniority": null,
+      "employment_type": null,
+      "location": null,
+      "start_date": null,
+      "end_date": null,
+      "is_current": false,
+      "extraction_confidence": 0.8,
+      "source_page": null,
+      "bullets": [
+        {
+          "bullet_text": "( Jul’18 - Present ) ◦ Development and maintenance of EE department website, Dashboard, and other internal portals like faculty search committee, meeting room booking system, and other portals. ◦ Provide mail service, storage space, computing, and network facilities to the Department. ◦ Automation of M.Tech/PhD admission process for Electrical Engineering Department for 800+ candidates.",
+          "metrics": {},
+          "skills_mentioned": [],
+          "source_page": null
+        }
+      ]
+    }
+  ],
+  "education": [],
+  "skills": [
+    {
+      "name": "c",
+      "category": null
+    },
+    {
+      "name": "css",
+      "category": null
+    },
+    {
+      "name": "git",
+      "category": null
+    },
+    {
+      "name": "html",
+      "category": null
+    },
+    {
+      "name": "java",
+      "category": null
+    },
+    {
+      "name": "python",
+      "category": null
+    },
+    {
+      "name": "sql",
+      "category": null
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project (2017–2022) Workshop on Intelligent Cyber Physical Systems held at IIT Bombay.",
+      "summary": "• Got half freeship as Department Topper (AY 2014-2015) in 3rd and 4th semester (BTech).",
+      "role": null,
+      "tech_stack": [],
+      "start_date": "2017-08-01",
+      "end_date": "2022-08-01",
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "MAJOR PROJECTS AND SEMINAR",
+      "summary": "• M.Tech Project: Machine Learning based Task Scheduling approach for Edge Computing Systems. Guide: Prof. Virendra Singh, IIT Bombay ( Jul’2020 - Ongoing ) ◦ Objective: Design of a Machine learning-based task scheduling algorithm in Edge Computing Systems taking into consideration task deadline , optimal resource utilization , energy requirement and other dynamic system constraints. ◦ Explored various literature using heuristic as well as Machine Learning-based approaches for Scheduling tasks at Edge. ◦ Investigating scheduling using Deep Reinforcement Learning where the system learns from experience. ◦ Future Work: Deploying the Machine Learning-based algorithm on real-time Edge Computing System and comparing the performance with existing heuristic based and other scheduling approaches. • Seminar: Edge Computing and its challenges ( Jul’19 - Dec’19 ) Guide: Prof. Virendra Singh, IIT Bombay ◦ Conducted an extensive literature survey on Edge computing and its various computing paradigm and how it is diﬀerent from existing Cloud Computing approach . ◦ Explored various security challenges in secure data analytics in Edge , Computing and task Scheduling challenges for heterogenous tasks in the Edge requiring real-time response, Quality of Service, and Veriﬁable Computation.",
+      "role": null,
+      "tech_stack": [],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "• Implementation of PAXOS algorithm in Python | Priciples of Concurrent & Parallel Programming (Jul’19-Dec’19)",
+      "summary": "Instructor: Prof. R.K.Shyamsundar, IIT Bombay ◦ Ensures consensus is reached from a bunch of proposed values in a distributed system. ◦ The algorithm uses three roles, proposers, acceptors & learners and does not need a centralized coordinator node. • Document Scanner Application in Python | Computer Vision (Jan’20) Instructor: Prof. Sharat Chandran, IIT Bombay ◦ Implemented a document scanner to obtain the undistorted image of the largest convex quadrilateral object present in the input image and to automate the task of choosing the largest convex quadrilateral. ◦ A set of image operations such as Edge and Contour Detection , Corner Point Extraction and Perspective Transformation was carried out to obtain an undistorted rectangular image of the convex quadrilateral. • Real Time Target Tracking | DSP -System Design & Implementation ( Jul’19 - Nov’19 ) Instructor: Prof. Rajbabu Velmurugan, IIT Bombay ◦ Designed and developed an object tracking system using image segmentation in TI DSP EVM 6678. ◦ Video signal obtained from USB camera was sent frame by frame to the DSP board using UDP connection. ◦ Target was tracked with a laser pointer mounted on a base with 2 DOF and controlled via Tiva C board. • Augmented Reality: Augmenting a book on the wall surface | Computer Vision (Feb’20) Instructor: Prof. Sharat Chandran, IIT Bombay ◦ The aim of the project was to stick a book on the wall surface which represents reality being augmented. ◦ A set of image operations such as Projecting 3D points on the 2D image plane , Perspective Transformations and Mask Generation was carried out to stick the book on the wall surface. • Implementation of Fiduccia Mattheyses Partitioning Algorithm in Python | VLSI CAD (Jul’18 - Nov’18) Instructor: Prof. Virendra Singh, IIT Bombay ◦ Implemented Fiduccia Mattheyses partitioning algorithm to partition a circuit assuming distributed systems, such that the number of connections (external wires) is minimized. ◦ Inputs are netlist along with area information needed by the sub-circuits, and the outputs are mapping of the subcircuits to nodes and the number of crossings. • Image Stiching | Image Processing ( Jul’18 - Nov’18 ) Instructor: Prof. Amit Sethi, IIT Bombay ◦ Developed a feature based image stitching GUI application in python. ◦ Applied Scale Invariant Feature Transform ( SIFT ) algorithm for feature detection, Fast Library for Approximate Nearest Neighbors ( FLANN ) for matching and RANdom Sample Consensus ( RANSAC ) for homography computation. • Vowel Detection: Feature Extraction and Multi-Class Classiﬁcation | Machine Learning (Jan’19 - Apr’19) Instructor: Prof. Biplab Banerjee, IIT Bombay ◦ Trained a multi-class classiﬁer using Softmax function from features obtained from input voice samples. ◦ Obtained a mean test accuracy of 68% on ﬁve classes classiﬁcation. • Clustering Images using Metric Learning | Computer Vision (Mar’20) Instructor: Prof. Sharat Chandran, IIT Bombay ◦ Trained a Siamese network with Contrastive Loss to better separate and visualize the two-dimensional embeddings of two classes of the MNIST Dataset. ◦ Analysed performance of the obtained model on augmented dataset i.e., images augmented using Euclidean transfor- mations and trained a new model robust to such data augmentations . • Design of 6 Stage Pipelined Processor using VHDL | Processor Design ( Jan’19 - Apr’19 ) Instructor: Prof. Virendra Singh, IIT Bombay ◦ Designed RISC Architecture processor using 8 registers to execute 15 instructions of type R, I and J. ◦ Implemented hazard mitigation technique and data forwarding to optimize performance. Design also includes some advanced instructions like Load multiple (LM) and Store multiple (SM).",
+      "role": null,
+      "tech_stack": [
+        "python"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    }
+  ],
+  "certifications": [],
+  "publications": [],
+  "achievements": [
+    "Secured an All India Rank 475 ( 99.56 percentile) in GATE in Computer Science and Information Technology. ( 2018 )",
+    "Talk on Edge Computing and its Challenges in Fourth Indo-Japanese Joint Research Laboratory",
+    "( Nov’19 )",
+    "Mess Secretary | Hostel 1, IIT Bombay",
+    "( Jul’18 - Jun’19 )",
+    "Interview Coordinator | Placement Cell, IIT Bombay",
+    "( 2018 )",
+    "◦ Coordinated with a team of 250+ members for interviews of 1600+ students",
+    "◦ Assisted in conducting Pre-placement Talks and Tests for 15+ ﬁrms.",
+    "Web Nominee | Post Graduate Academic Council, IIT Bombay",
+    "( 2019 - 2020 )",
+    "Maintenance Councillor | Hostel 1, IIT Bombay",
+    "( Jul’19 - Present )",
+    "◦ Lead 5 Secretary and 15 working staﬀs to carry out the maintenance activity of the hostel.",
+    "◦ Started 2 dustbin approach to segregate waste generation at source.",
+    "Web Coordinator | Students’ Reading Group, Electrical Department, IIT Bombay",
+    "( Jul’19 - Present )",
+    "OTHER ACTIVITIES & INTERESTS",
+    "Completed 4 out 5 courses in Deep learning Specialization authorized by deeplearning.ai in Coursera."
+  ],
+  "languages": [],
+  "sectioned_text": [
+    {
+      "section_type": "other",
+      "text": "Shubham Singhania\n183079025\nElectrical Engineering\nM.Tech.\nIndian Institute of Technology, Bombay\nGender: Male\nSpecialization: Electronic Systems\nDOB: 19-12-1995\nExamination\nUniversity\nInstitute\nYear\nCPI / %\nPost Graduation\nIIT Bombay\nIIT Bombay\n2021\n8.5\nGraduation\nMAKAUT, West Bengal\nHaldia Institute of Technology\n2018\n9.1\nGraduation Specialization: Computer Science & Engineering",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "interests",
+      "text": "• Algorithms\n• Database Management\n• Operating System\n• Machine Learning\n• Deep Learning",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "achievements",
+      "text": "• Secured an All India Rank 475 ( 99.56 percentile) in GATE in Computer Science and Information Technology. ( 2018 )\n• Talk on Edge Computing and its Challenges in Fourth Indo-Japanese Joint Research Laboratory\n( Nov’19 )",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "Project (2017–2022) Workshop on Intelligent Cyber Physical Systems held at IIT Bombay.\n• Got half freeship as Department Topper (AY 2014-2015) in 3rd and 4th semester (BTech).\nMAJOR PROJECTS AND SEMINAR\n• M.Tech Project: Machine Learning based Task Scheduling approach for Edge Computing Systems.\nGuide: Prof. Virendra Singh, IIT Bombay\n( Jul’2020 - Ongoing )\n◦ Objective: Design of a Machine learning-based task scheduling algorithm in Edge Computing Systems taking into\nconsideration task deadline , optimal resource utilization , energy requirement and other dynamic system constraints.\n◦ Explored various literature using heuristic as well as Machine Learning-based approaches for Scheduling tasks at Edge.\n◦ Investigating scheduling using Deep Reinforcement Learning where the system learns from experience.\n◦ Future Work: Deploying the Machine Learning-based algorithm on real-time Edge Computing System and\ncomparing the performance with existing heuristic based and other scheduling approaches.\n• Seminar: Edge Computing and its challenges\n( Jul’19 - Dec’19 )\nGuide: Prof. Virendra Singh, IIT Bombay\n◦ Conducted an extensive literature survey on Edge computing and its various computing paradigm and how it is diﬀerent\nfrom existing Cloud Computing approach .\n◦ Explored various security challenges in secure data analytics in Edge , Computing and task Scheduling challenges\nfor heterogenous tasks in the Edge requiring real-time response, Quality of Service, and Veriﬁable Computation.",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "work_experience",
+      "text": "• System Administrator | Electrical Department, IIT Bombay\n( Jul’18 - Present )\n◦ Development and maintenance of EE department website, Dashboard, and other internal portals like faculty search\ncommittee, meeting room booking system, and other portals.\n◦ Provide mail service, storage space, computing, and network facilities to the Department.\n◦ Automation of M.Tech/PhD admission process for Electrical Engineering Department for 800+ candidates.",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "• Implementation of PAXOS algorithm in Python | Priciples of Concurrent & Parallel Programming (Jul’19-Dec’19)\nInstructor: Prof. R.K.Shyamsundar, IIT Bombay\n◦ Ensures consensus is reached from a bunch of proposed values in a distributed system.\n◦ The algorithm uses three roles, proposers, acceptors & learners and does not need a centralized coordinator node.\n• Document Scanner Application in Python | Computer Vision\n(Jan’20)\nInstructor: Prof. Sharat Chandran, IIT Bombay\n◦ Implemented a document scanner to obtain the undistorted image of the largest convex quadrilateral object present\nin the input image and to automate the task of choosing the largest convex quadrilateral.\n◦ A set of image operations such as Edge and Contour Detection , Corner Point Extraction and Perspective\nTransformation was carried out to obtain an undistorted rectangular image of the convex quadrilateral.\n• Real Time Target Tracking | DSP -System Design & Implementation\n( Jul’19 - Nov’19 )\nInstructor: Prof. Rajbabu Velmurugan, IIT Bombay\n◦ Designed and developed an object tracking system using image segmentation in TI DSP EVM 6678.\n◦ Video signal obtained from USB camera was sent frame by frame to the DSP board using UDP connection.\n◦ Target was tracked with a laser pointer mounted on a base with 2 DOF and controlled via Tiva C board.\n• Augmented Reality: Augmenting a book on the wall surface | Computer Vision\n(Feb’20)\nInstructor: Prof. Sharat Chandran, IIT Bombay\n◦ The aim of the project was to stick a book on the wall surface which represents reality being augmented.\n◦ A set of image operations such as Projecting 3D points on the 2D image plane , Perspective Transformations\nand Mask Generation was carried out to stick the book on the wall surface.\n• Implementation of Fiduccia Mattheyses Partitioning Algorithm in Python | VLSI CAD\n(Jul’18 - Nov’18)\nInstructor: Prof. Virendra Singh, IIT Bombay\n◦ Implemented Fiduccia Mattheyses partitioning algorithm to partition a circuit assuming distributed systems, such\nthat the number of connections (external wires) is minimized.\n◦ Inputs are netlist along with area information needed by the sub-circuits, and the outputs are mapping of the subcircuits\nto nodes and the number of crossings.\n• Image Stiching | Image Processing\n( Jul’18 - Nov’18 )\nInstructor: Prof. Amit Sethi, IIT Bombay\n◦ Developed a feature based image stitching GUI application in python.\n◦ Applied Scale Invariant Feature Transform ( SIFT ) algorithm for feature detection, Fast Library for Approximate\nNearest Neighbors ( FLANN ) for matching and RANdom Sample Consensus ( RANSAC ) for homography computation.\n• Vowel Detection: Feature Extraction and Multi-Class Classiﬁcation | Machine Learning\n(Jan’19 - Apr’19)\nInstructor: Prof. Biplab Banerjee, IIT Bombay\n◦ Trained a multi-class classiﬁer using Softmax function from features obtained from input voice samples.\n◦ Obtained a mean test accuracy of 68% on ﬁve classes classiﬁcation.\n• Clustering Images using Metric Learning | Computer Vision\n(Mar’20)\nInstructor: Prof. Sharat Chandran, IIT Bombay\n◦ Trained a Siamese network with Contrastive Loss to better separate and visualize the two-dimensional embeddings\nof two classes of the MNIST Dataset.\n◦ Analysed performance of the obtained model on augmented dataset i.e., images augmented using Euclidean transfor-\nmations and trained a new model robust to such data augmentations .\n• Design of 6 Stage Pipelined Processor using VHDL | Processor Design\n( Jan’19 - Apr’19 )\nInstructor: Prof. Virendra Singh, IIT Bombay\n◦ Designed RISC Architecture processor using 8 registers to execute 15 instructions of type R, I and J.\n◦ Implemented hazard mitigation technique and data forwarding to optimize performance. Design also includes some\nadvanced instructions like Load multiple (LM) and Store multiple (SM).",
+      "page_range": [
+        1,
+        2
+      ]
+    },
+    {
+      "section_type": "skills",
+      "text": "Languages\n:\nC, Python, VHDL, PHP, Java, SQL, HTML/JS/CSS, Bash.\nTools\n:\nGit, L A TEX, Code Composite Studio, Altera Quartus II.",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "courses",
+      "text": "• Principles of Concurrent & Parallel Programming\n• Machine Learning for Remote Sensing -I\n• Computer Vision\n• Processor Design\n• Embedded System Design\n• VLSI CAD",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "responsibility",
+      "text": "• Mess Secretary | Hostel 1, IIT Bombay\n( Jul’18 - Jun’19 )\n• Interview Coordinator | Placement Cell, IIT Bombay\n( 2018 )\n◦ Coordinated with a team of 250+ members for interviews of 1600+ students\n◦ Assisted in conducting Pre-placement Talks and Tests for 15+ ﬁrms.\n• Web Nominee | Post Graduate Academic Council, IIT Bombay\n( 2019 - 2020 )\n• Maintenance Councillor | Hostel 1, IIT Bombay\n( Jul’19 - Present )\n◦ Lead 5 Secretary and 15 working staﬀs to carry out the maintenance activity of the hostel.\n◦ Started 2 dustbin approach to segregate waste generation at source.\n• Web Coordinator | Students’ Reading Group, Electrical Department, IIT Bombay\n( Jul’19 - Present )\nOTHER ACTIVITIES & INTERESTS\n• Completed 4 out 5 courses in Deep learning Specialization authorized by deeplearning.ai in Coursera.",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "courses",
+      "text": "• Ongoing course in Reinforce learning Specialization authorized by the University of Alberta in Coursera.",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "other",
+      "text": "• Trained students in a 1-day solar lamp assembly world record event conducted at IIT Bombay.\n( 2 Oct’18 )\n• Volunteered for Linux workshop for Electrical Department PG Bridgecourse, IIT Bombay.\n( Jul’19 )\n• Volunteered for Phonathan event of reaching out alumni for Student Alumni Relation Cell, IIT Bombay.\n( Jun’19 )\n• Active Blood Donor, Hobbies: Watching TV series, Gardening, Cooking\nScholastic achievements and extracurricular activities are not verified by the Placement Cell",
+      "page_range": [
+        2,
+        2
+      ]
+    }
+  ]
+}

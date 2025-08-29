@@ -1,0 +1,83 @@
+SUBHANKAR DAS
+s_das@mit.edu | (617)-909-4828 | #705, Building W85, 540 Memorial Drive, Cambridge, MA-02139
+SUMMARY
+Engineering and management professional with 12 years of experience in the Hi-Tech industry, leading several
+teams in successfully developing and shipping innovative products, both in the corporate and start-up environments.
+EDUCATION
+Massachusetts Institute of Technology
+Cambridge, MA
+School of Engineering & Sloan School of Management
+June’17
+Masters - System Design and Management (SDM)
+GPA: 4.9/5.0
+Visvesvaraya Technological University
+Bagalkot, KA, India
+Bachelor of Engineering, Electrical and Electronics
+July’03
+WORK EXPERIENCE
+SENSATA TECHNOLOGIES
+Jun 2016 – Aug 2016
+Leadership Development Program
+Attleboro, MA & Aguascalientes, Mexico
+Designed an analytical tool for evaluating individual parts holistically to make data-driven decisions.
+•
+Successfully deployed the tool for an entire family of products, with estimated profit of $1. 3M over next 5 years
+Developed framework, discovered systemic process gaps, recommended and implemented long-term mitigation
+•
+plans, for effective management of End-Of-Life and Service parts with long product life cycles of 20+ years
+TEXAS INSTRUMENTS
+Aug 2011 – Aug 2015
+Team Lead, Microcontroller and Embedded Processing
+Bangalore, India
+Led a team of 8 to design and develop both ultra low-power and high speed digital standard cell libraries that
+•
+formed the building blocks of almost all chips, across multiple technology nodes (130nm-28nm)
+Spearheaded efforts on building a robust QC system with buy-in from several design teams; the system reduced
+•
+bugs reported in field, improved design cycle times by 10% and increased yield by 20%
+Collaborated with global cross-functional teams across TI sites - Germany, Norway, China and USA to gather
+•
+unique requirements of each team, to build and manage ~15 (6000 cells each) optimal, high-performance libraries
+Awarded “Team TI-tanium award” thrice, for the most innovative project within a 300-member Business Unit
+•
+Mentored 9 interns; identified and hired competent candidates to create a very technically competent workforce
+•
+AMD
+Jan 2011 – Aug 2011
+Team Lead, Technology and Manufacturing Group
+Bangalore, India
+Designed and developed High-speed Standard Cell Libraries for 30% area savings on 40nm/28nm nodes
+•
+Recruited & mentored design team to grow from 3 to 11 members in 6 months to double the productivity
+•
+KARNATAKA MICROELECTRONICS DESIGN CENTRE
+Aug 2003 – Jan 2011
+Project Manager and Member of Technical Staff
+Manipal, India
+Managed several technical teams with sizes ranging from 6 to 40 members. Teams included peers and seniors
+•
+Hired and provided on-the-job training to 70+ engineers to power growth and competency of the company
+•
+from 28 members to 350 members over 7 years. Awarded 1% shares of the company for my contributions.
+Core designer of a unique product line of High Definition miniature projectors, at Syndiant Inc. Dallas, TX
+•
+Headed a 3-member team to decide Compensation and Leave policies for the company
+•
+PATENTS & PAPERS
+Low Area Enable Flip-Flop , Co-Inventors – Soman P, USPTO – 20160191028, Status-Published
+•
+A Standard Cell Design with Reduced Cell Delay , Co-Inventors – Ramesh H, USPTO- 20160188758, Status-Published
+•
+New High Performance and High Density Libraries in 65nm tuned for MCU, TIITC, Dec-14 ( Best Paper)
+•
+Design techniques for PPA improvements in C28.P libraries, Texas Instruments Interconnect symposium, Feb-12
+•
+On-rail Passenger Information System, VLSI Design and Test Conference, May-04
+•
+ADDITIONAL INFORMATION
+Teaching Assistant for Global Supply Chain Mgmt, B2B Marketing & Architecture of Complex Systems (MITx)
+•
+Fellow, MIT Graduate Student Leadership Institute - A selected group of 30, across all schools at MIT
+•
+Avid food enthusiast and food blogger. Fluent in 5 languages – English, Hindi, Oriya, Bengali & Kannada
+•

@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "source_path": "data/resumes/Aditya_Pahariya_BTech_NIT_Bhopal_EDG_MathWorks.pdf",
+    "pages": 1,
+    "model": "facebook/bart-large-mnli"
+  },
+  "candidate": {
+    "full_name": null,
+    "emails": [],
+    "phones": [],
+    "links": {
+      "linkedin": null,
+      "github": null
+    }
+  },
+  "sectioned_text": [],
+  "stats": {
+    "sections": 0,
+    "contacts_found": {
+      "name": false,
+      "email": false,
+      "phone": false
+    }
+  }
+}

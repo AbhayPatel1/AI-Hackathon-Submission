@@ -1,0 +1,398 @@
+{
+  "candidate": {
+    "full_name": "Ashish Pratap Singh",
+    "emails": [
+      "xxx@gmail.com"
+    ],
+    "phones": [],
+    "location": {
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": "linkedin.com/in/ashishps1",
+      "github": "github.com/ashishps1"
+    },
+    "resume_text_hash": "sha256:97002f3e102a8fb9818aae7294baeeba1cd330d562d2baac0da89d30dfbd9dcd",
+    "source_file_id": "Ashish_Resume_final.pdf",
+    "parsed_at": "2025-08-18T09:20:49Z",
+    "parser_version": "v0.3.0"
+  },
+  "experience": [
+    {
+      "company_raw": null,
+      "company_norm": null,
+      "title_raw": "Work Experience",
+      "title_norm": null,
+      "seniority": null,
+      "employment_type": null,
+      "location": null,
+      "start_date": null,
+      "end_date": null,
+      "is_current": false,
+      "extraction_confidence": 0.4,
+      "source_page": null,
+      "bullets": [
+        {
+          "bullet_text": "Adobe, Bangalore Computer Scientist",
+          "metrics": {},
+          "skills_mentioned": [
+            "c"
+          ],
+          "source_page": null
+        },
+        {
+          "bullet_text": "Led the migration of Hive and Presto jobs from Qubole to AWS EMR, enhancing availability and significantly reducing",
+          "metrics": {},
+          "skills_mentioned": [
+            "aws",
+            "c"
+          ],
+          "source_page": null
+        },
+        {
+          "bullet_text": "operational costs.",
+          "metrics": {},
+          "skills_mentioned": [
+            "c"
+          ],
+          "source_page": null
+        },
+        {
+          "bullet_text": "Reduced the cost involved in running custom reports service by more than 80% by devising an automated system that",
+          "metrics": {
+            "percent": 80
+          },
+          "skills_mentioned": [
+            "c"
+          ],
+          "source_page": null
+        },
+        {
+          "bullet_text": "identified and disabled reports with no usage or empty data.",
+          "metrics": {},
+          "skills_mentioned": [],
+          "source_page": null
+        },
+        {
+          "bullet_text": "Led a cost-saving initiative by identifying unused AWS resources and establishing S3 bucket expiration policies, leading",
+          "metrics": {},
+          "skills_mentioned": [
+            "aws",
+            "c"
+          ],
+          "source_page": null
+        },
+        {
+          "bullet_text": "to an annual cost reduction exceeding $50,000 in AWS expenditures.",
+          "metrics": {},
+          "skills_mentioned": [
+            "aws",
+            "c"
+          ],
+          "source_page": null
+        },
+        {
+          "bullet_text": "AWS, EC2, S3, EMR, Hive, Presto, Qubole, Kafka, Druid, Zookeeper, MySQL, Kubernetes, Docker, Bazel",
+          "metrics": {},
+          "skills_mentioned": [
+            "aws",
+            "c",
+            "docker",
+            "kubernetes",
+            "mysql",
+            "sql"
+          ],
+          "source_page": null
+        },
+        {
+          "bullet_text": "Amazon, Bangalore Software Development Engineer",
+          "metrics": {},
+          "skills_mentioned": [],
+          "source_page": null
+        },
+        {
+          "bullet_text": "Worked on migrating ML workflows to Native AWS, enabling automated scalability based on workload demands and",
+          "metrics": {},
+          "skills_mentioned": [
+            "aws",
+            "c"
+          ],
+          "source_page": null
+        },
+        {
+          "bullet_text": "improving the logging and troubleshooting capabilities.",
+          "metrics": {},
+          "skills_mentioned": [
+            "c"
+          ],
+          "source_page": null
+        },
+        {
+          "bullet_text": "Developed a customized batch workflow plugin for an external team to help them save upto $6MM in human labelling",
+          "metrics": {},
+          "skills_mentioned": [
+            "c"
+          ],
+          "source_page": null
+        },
+        {
+          "bullet_text": "cost for their ML experiments. This was achieved by auto labelling high confidence records using our ML models.",
+          "metrics": {},
+          "skills_mentioned": [
+            "c"
+          ],
+          "source_page": null
+        },
+        {
+          "bullet_text": "Java, Python, TypeScript, AWS Step Functions, AWS Batch, Lambda, S3, DynamoDB, EC2, SQS, SNS, AWS CDK,",
+          "metrics": {},
+          "skills_mentioned": [
+            "aws",
+            "c",
+            "java",
+            "python"
+          ],
+          "source_page": null
+        },
+        {
+          "bullet_text": "AWS Athena, Elastic Search, LightGBM, TensorFlow Morgan Stanley, Bangalore Technology Assosciate",
+          "metrics": {},
+          "skills_mentioned": [
+            "aws",
+            "c",
+            "tensorflow"
+          ],
+          "source_page": null
+        },
+        {
+          "bullet_text": "Built a visualization tool to group contextually related infrastructure alerts (issues) to reduce the Mean Time to Resolu-",
+          "metrics": {},
+          "skills_mentioned": [
+            "c"
+          ],
+          "source_page": null
+        },
+        {
+          "bullet_text": "tion. Modeled the infrastructure dependencies as a graph problem and used graph algorithms like BFS, Union-Find to show the visualization and identify the root cause for a bunch of alerts.",
+          "metrics": {},
+          "skills_mentioned": [
+            "c"
+          ],
+          "source_page": null
+        },
+        {
+          "bullet_text": "Developed a Machine Learning powered solution to predict the likelihood of a production deployment resulting in an",
+          "metrics": {},
+          "skills_mentioned": [
+            "c"
+          ],
+          "source_page": null
+        },
+        {
+          "bullet_text": "emergency reversion.",
+          "metrics": {},
+          "skills_mentioned": [
+            "c"
+          ],
+          "source_page": null
+        },
+        {
+          "bullet_text": "Python, Flask, ReactJS, Redux, Angular, d3, Kafka, DB2, scikit-learn",
+          "metrics": {},
+          "skills_mentioned": [
+            "c",
+            "flask",
+            "python",
+            "scikit-learn"
+          ],
+          "source_page": null
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree_raw": "B.Tech/B.E.",
+      "degree_level": "bachelors",
+      "field_raw": null,
+      "institution_raw": "BITS Hyderabad",
+      "start_date": null,
+      "end_date": null,
+      "gpa": null,
+      "extraction_confidence": 0.6,
+      "source_page": null
+    }
+  ],
+  "skills": [
+    {
+      "name": "aws",
+      "category": null
+    },
+    {
+      "name": "c",
+      "category": null
+    },
+    {
+      "name": "c++",
+      "category": null
+    },
+    {
+      "name": "docker",
+      "category": null
+    },
+    {
+      "name": "java",
+      "category": null
+    },
+    {
+      "name": "javascript",
+      "category": null
+    },
+    {
+      "name": "python",
+      "category": null
+    },
+    {
+      "name": "sql",
+      "category": null
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project Work",
+      "summary": "• Word Lookup Dictionary (2015): Developed a desktop software for online lookup of English words. Implemented efficient search of valid words using Trie data structure. Implemented spelling correction and auto-suggestion using edit distance algorithm. Used web scraping to get the data for online lookup. Python, BeautifulSoup. • Alternative-Routes in Road Networks (2016): Applied Dijkstra’s shortest path algorithm to find the route which takes the shortest time to travel from source to destination in a given road network with randomly generated traffic. Imple- mented methods to avoid collisions between vehicles by dynamically changing their speeds. Used C++ and OpenGL library for simulation. C++, OpenGL • Clustering SSH Attacks (2016): Applied KMeans clustering algorithm to segregate different kind of attacks during a Secure Shell (SSH) session by making use of network packet files(pcap). It involved finding the best value of K and grouping the similar files on the basis of cluster assignments. Java, WEKA",
+      "role": null,
+      "tech_stack": [
+        "c",
+        "c++",
+        "java",
+        "python"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Mar 2021 - Present",
+      "summary": null,
+      "role": null,
+      "tech_stack": [],
+      "start_date": "2021-03-01",
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Sept 2019 - Mar 2021",
+      "summary": null,
+      "role": null,
+      "tech_stack": [],
+      "start_date": "2019-09-01",
+      "end_date": "2021-03-01",
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Aug 2017 - Aug 2019",
+      "summary": null,
+      "role": null,
+      "tech_stack": [],
+      "start_date": "2017-08-01",
+      "end_date": "2019-08-01",
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Aug 2013 - Jun 2017",
+      "summary": "CGPA: 7.96/10",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": "2013-08-01",
+      "end_date": "2017-06-01",
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    }
+  ],
+  "certifications": [],
+  "publications": [],
+  "achievements": [
+    "Awards and Certificates"
+  ],
+  "languages": [],
+  "sectioned_text": [
+    {
+      "section_type": "other",
+      "text": "Ashish Pratap Singh\nć xxx@gmail.com | Ħ XXX-XXX-XXX\na github.com/ashishps1 | ] linkedin.com/in/ashishps1",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "skills",
+      "text": "Skills\nLanguages: C/C++, Java, Python, JavaScript, TypeScript, SQL\nTechnologies & Tools: AWS, EC2, DynamoDB, S3, SQS, Lambda, Athena, Elasticsearch, Spark, Hive, Presto, Kuber-\nnetes, Docker, Splunk, Kafka, Spring, Angular, ReactJS",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "work_experience",
+      "text": "Work Experience\nAdobe, Bangalore\nComputer Scientist\n• Led the migration of Hive and Presto jobs from Qubole to AWS EMR, enhancing availability and significantly reducing\noperational costs.\n• Reduced the cost involved in running custom reports service by more than 80% by devising an automated system that\nidentified and disabled reports with no usage or empty data.\n• Led a cost-saving initiative by identifying unused AWS resources and establishing S3 bucket expiration policies, leading\nto an annual cost reduction exceeding $50,000 in AWS expenditures.\n• AWS, EC2, S3, EMR, Hive, Presto, Qubole, Kafka, Druid, Zookeeper, MySQL, Kubernetes, Docker, Bazel\nAmazon, Bangalore\nSoftware Development Engineer\n• Worked on migrating ML workflows to Native AWS, enabling automated scalability based on workload demands and\nimproving the logging and troubleshooting capabilities.\n• Developed a customized batch workflow plugin for an external team to help them save upto $6MM in human labelling\ncost for their ML experiments. This was achieved by auto labelling high confidence records using our ML models.\n• Java, Python, TypeScript, AWS Step Functions, AWS Batch, Lambda, S3, DynamoDB, EC2, SQS, SNS, AWS CDK,\nAWS Athena, Elastic Search, LightGBM, TensorFlow\nMorgan Stanley, Bangalore\nTechnology Assosciate\n• Built a visualization tool to group contextually related infrastructure alerts (issues) to reduce the Mean Time to Resolu-\ntion. Modeled the infrastructure dependencies as a graph problem and used graph algorithms like BFS, Union-Find to\nshow the visualization and identify the root cause for a bunch of alerts.\n• Developed a Machine Learning powered solution to predict the likelihood of a production deployment resulting in an\nemergency reversion.\n• Python, Flask, ReactJS, Redux, Angular, d3, Kafka, DB2, scikit-learn",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "Education\nBITS Hyderabad\nB.E. in Computer Science and Engineering",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "courses",
+      "text": "Relevant Coursework: Object Oriented Programming, Databases, Discrete Maths, Data Structures and Algorithms, Oper-\nating Systems, Computer Networks, Machine Learning, Data Mining, Advance Data Structures and Algorithms, Information\nRetrieval, Image Processing",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "Project Work\n• Word Lookup Dictionary (2015): Developed a desktop software for online lookup of English words. Implemented\nefficient search of valid words using Trie data structure. Implemented spelling correction and auto-suggestion using\nedit distance algorithm. Used web scraping to get the data for online lookup. Python, BeautifulSoup.\n• Alternative-Routes in Road Networks (2016): Applied Dijkstra’s shortest path algorithm to find the route which takes\nthe shortest time to travel from source to destination in a given road network with randomly generated traffic. Imple-\nmented methods to avoid collisions between vehicles by dynamically changing their speeds. Used C++ and OpenGL\nlibrary for simulation. C++, OpenGL\n• Clustering SSH Attacks (2016): Applied KMeans clustering algorithm to segregate different kind of attacks during a\nSecure Shell (SSH) session by making use of network packet files(pcap). It involved finding the best value of K and\ngrouping the similar files on the basis of cluster assignments. Java, WEKA\nMar 2021 - Present\nSept 2019 - Mar 2021\nAug 2017 - Aug 2019\nAug 2013 - Jun 2017\nCGPA: 7.96/10",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "achievements",
+      "text": "Awards and Certificates",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "other",
+      "text": "• Mentor at Scaler Academy: Helping students and working professionals to get better at problem solving, coding and\nsystem design\n• Data Engineering Nanodegree on Udacity\n• Machine Learning and Deep Learning Specialization on Coursera",
+      "page_range": [
+        2,
+        2
+      ]
+    }
+  ]
+}

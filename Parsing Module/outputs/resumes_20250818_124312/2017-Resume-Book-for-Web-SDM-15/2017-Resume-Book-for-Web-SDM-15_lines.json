@@ -1,0 +1,1076 @@
+{
+  "meta": {
+    "source_path": "data/resumes/2017-Resume-Book-for-Web-SDM-15.pdf",
+    "pages": 1
+  },
+  "lines": [
+    {
+      "page": 1,
+      "text": "Adrien MOREAU",
+      "bbox": [
+        268.1689147949219,
+        51.9466552734375,
+        361.8309326171875,
+        65.2357177734375
+      ],
+      "left_indent": 268.1689147949219,
+      "width": 93.66201782226562,
+      "is_bold": true,
+      "font_size": 12.0
+    },
+    {
+      "page": 1,
+      "text": "+1 781 547 1484",
+      "bbox": [
+        280.93011474609375,
+        64.91143798828125,
+        351.52978515625,
+        75.8084716796875
+      ],
+      "left_indent": 280.93011474609375,
+      "width": 70.59967041015625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "amoreau@mit.edu",
+      "bbox": [
+        278.0469055175781,
+        75.951416015625,
+        354.4130859375,
+        86.84844970703125
+      ],
+      "left_indent": 278.0469055175781,
+      "width": 76.36618041992188,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "EDUCATION",
+      "bbox": [
+        72.0,
+        97.79144287109375,
+        135.5782012939453,
+        108.6884765625
+      ],
+      "left_indent": 72.0,
+      "width": 63.57820129394531,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Massachusetts Institute of Technology",
+      "bbox": [
+        72.0,
+        119.8714599609375,
+        234.92774963378906,
+        130.76849365234375
+      ],
+      "left_indent": 72.0,
+      "width": 162.92774963378906,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "School of Engineering & Sloan School of Management",
+      "bbox": [
+        72.0,
+        130.91143798828125,
+        294.15240478515625,
+        141.8084716796875
+      ],
+      "left_indent": 72.0,
+      "width": 222.15240478515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "M.S., System Design and Management",
+      "bbox": [
+        72.0,
+        141.951416015625,
+        230.8321075439453,
+        152.84844970703125
+      ],
+      "left_indent": 72.0,
+      "width": 158.8321075439453,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Delft University of Technology",
+      "bbox": [
+        72.0,
+        163.79144287109375,
+        202.70571899414062,
+        174.6884765625
+      ],
+      "left_indent": 72.0,
+      "width": 130.70571899414062,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Civil Engineering Department",
+      "bbox": [
+        72.0,
+        174.8314208984375,
+        196.10549926757812,
+        185.72845458984375
+      ],
+      "left_indent": 72.0,
+      "width": 124.10549926757812,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "PhD., Water Management and Sanitary Engineering",
+      "bbox": [
+        72.0,
+        185.8714599609375,
+        280.4457092285156,
+        196.76849365234375
+      ],
+      "left_indent": 72.0,
+      "width": 208.44570922851562,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Conducted research within the framework of the European Union Marie Curie program focusing on the membrane",
+      "bbox": [
+        90.0,
+        196.91143798828125,
+        560.45556640625,
+        207.8084716796875
+      ],
+      "left_indent": 90.0,
+      "width": 470.45556640625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        198.78045654296875,
+        76.52601623535156,
+        208.62046813964844
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "bioreactor (MBR) process.",
+      "bbox": [
+        90.0,
+        207.951416015625,
+        199.3740997314453,
+        218.84844970703125
+      ],
+      "left_indent": 90.0,
+      "width": 109.37409973144531,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Thesis: MBR Filterability Assessment at European Scale",
+      "bbox": [
+        90.0,
+        218.991455078125,
+        320.2041015625,
+        229.88848876953125
+      ],
+      "left_indent": 90.0,
+      "width": 230.2041015625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        220.8604736328125,
+        76.52601623535156,
+        230.7004852294922
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Full publication list available on request",
+      "bbox": [
+        90.0,
+        229.79144287109375,
+        253.26080322265625,
+        240.6884765625
+      ],
+      "left_indent": 90.0,
+      "width": 163.26080322265625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        231.66046142578125,
+        76.52601623535156,
+        241.50047302246094
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "National Institute of Applied Science (INSA)",
+      "bbox": [
+        72.0,
+        251.8714599609375,
+        261.6533203125,
+        262.76849365234375
+      ],
+      "left_indent": 72.0,
+      "width": 189.6533203125,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Chemical & Process Engineering Department",
+      "bbox": [
+        72.0,
+        262.91143798828125,
+        259.4306945800781,
+        273.8084716796875
+      ],
+      "left_indent": 72.0,
+      "width": 187.43069458007812,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "M.S., Process Engineering",
+      "bbox": [
+        72.0,
+        273.9514465332031,
+        178.24644470214844,
+        284.8484802246094
+      ],
+      "left_indent": 72.0,
+      "width": 106.24644470214844,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Specialization in water treatment",
+      "bbox": [
+        90.0,
+        284.991455078125,
+        224.349609375,
+        295.88848876953125
+      ],
+      "left_indent": 90.0,
+      "width": 134.349609375,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        286.8604736328125,
+        76.52601623535156,
+        296.7004699707031
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "EXPERIENCE",
+      "bbox": [
+        72.0,
+        317.8714599609375,
+        140.0264129638672,
+        328.76849365234375
+      ],
+      "left_indent": 72.0,
+      "width": 68.02641296386719,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Veolia Water Technologies",
+      "bbox": [
+        72.0,
+        339.9514465332031,
+        186.9682159423828,
+        350.8484802246094
+      ],
+      "left_indent": 72.0,
+      "width": 114.96821594238281,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Global Support Engineer - Technology",
+      "bbox": [
+        72.0,
+        351.471435546875,
+        235.0264129638672,
+        362.36846923828125
+      ],
+      "left_indent": 72.0,
+      "width": 163.0264129638672,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Develop, lead and coordinate technical risk management and support through hydraulics and modeling for Veolia",
+      "bbox": [
+        90.0,
+        362.2714538574219,
+        560.4949340820312,
+        373.1684875488281
+      ],
+      "left_indent": 90.0,
+      "width": 470.49493408203125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        364.1404724121094,
+        76.52601623535156,
+        373.98046875
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "activities (model difficult cases & different options with regards to tank geometry, mixing capacity and water",
+      "bbox": [
+        90.0,
+        373.3114318847656,
+        560.4619750976562,
+        384.2084655761719
+      ],
+      "left_indent": 90.0,
+      "width": 470.46197509765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "distribution, validate final designs)",
+      "bbox": [
+        90.0,
+        384.3514404296875,
+        231.88380432128906,
+        395.24847412109375
+      ],
+      "left_indent": 90.0,
+      "width": 141.88380432128906,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Develop and lead piloting coordination and strategy at corporate level with a specific focus on branding and safety",
+      "bbox": [
+        90.0,
+        395.3914489746094,
+        550.931640625,
+        406.2884826660156
+      ],
+      "left_indent": 90.0,
+      "width": 460.931640625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        397.2604675292969,
+        76.52601623535156,
+        407.1004638671875
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Lead and promote Research & Innovation projects with external partners (Department of Energy funded projects)",
+      "bbox": [
+        90.0,
+        406.43145751953125,
+        547.3135375976562,
+        417.3284912109375
+      ],
+      "left_indent": 90.0,
+      "width": 457.31353759765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        408.30047607421875,
+        76.52601623535156,
+        418.1404724121094
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Produce strategy notes and roadmaps on behalf of Executive Management (Digitalization, Internet of Things)",
+      "bbox": [
+        90.0,
+        417.471435546875,
+        530.6680297851562,
+        428.36846923828125
+      ],
+      "left_indent": 90.0,
+      "width": 440.66802978515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        419.3404541015625,
+        76.52601623535156,
+        429.1804504394531
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Hydraulics Expert",
+      "bbox": [
+        72.0,
+        439.3114318847656,
+        150.29501342773438,
+        450.2084655761719
+      ],
+      "left_indent": 72.0,
+      "width": 78.29501342773438,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Develop, lead and coordinate technical risk management and support through Hydraulics and CFD modeling for",
+      "bbox": [
+        90.0,
+        450.3514404296875,
+        560.4812622070312,
+        461.24847412109375
+      ],
+      "left_indent": 90.0,
+      "width": 470.48126220703125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        452.220458984375,
+        76.52601623535156,
+        462.0604553222656
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Veolia activities (modeled difficult cases & different options with regards to tank geometry, mixing capacity and",
+      "bbox": [
+        90.0,
+        461.3914489746094,
+        560.336669921875,
+        472.2884826660156
+      ],
+      "left_indent": 90.0,
+      "width": 470.336669921875,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "water distribution, validated final designs)",
+      "bbox": [
+        90.0,
+        472.43145751953125,
+        261.59088134765625,
+        483.3284912109375
+      ],
+      "left_indent": 90.0,
+      "width": 171.59088134765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Lead product development (early phase & industrialization of a grit removal process and a pretreatment for",
+      "bbox": [
+        90.0,
+        483.471435546875,
+        560.4076538085938,
+        494.36846923828125
+      ],
+      "left_indent": 90.0,
+      "width": 470.40765380859375,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        485.3404541015625,
+        76.52601623535156,
+        495.1804504394531
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "industrial water treatment plants)",
+      "bbox": [
+        90.0,
+        494.2714538574219,
+        224.91600036621094,
+        505.1684875488281
+      ],
+      "left_indent": 90.0,
+      "width": 134.91600036621094,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "30+ projects assessed and validated (150M$+ worth value)",
+      "bbox": [
+        90.0,
+        505.3114013671875,
+        328.40728759765625,
+        516.2084350585938
+      ],
+      "left_indent": 90.0,
+      "width": 238.40728759765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        507.180419921875,
+        76.52601623535156,
+        517.0204467773438
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Veolia Environnement Research & Innovation",
+      "bbox": [
+        72.0,
+        527.3914794921875,
+        270.2377624511719,
+        538.2885131835938
+      ],
+      "left_indent": 72.0,
+      "width": 198.23776245117188,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Project leader – membrane bioreactor (MBR) portfolio",
+      "bbox": [
+        72.0,
+        538.4314575195312,
+        299.9921875,
+        549.3284912109375
+      ],
+      "left_indent": 72.0,
+      "width": 227.9921875,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Provide project leadership and operational management on projects related to the integration of membrane processes",
+      "bbox": [
+        90.0,
+        549.471435546875,
+        560.5070190429688,
+        560.3684692382812
+      ],
+      "left_indent": 90.0,
+      "width": 470.50701904296875,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        551.3404541015625,
+        76.52601623535156,
+        561.1804809570312
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "in wastewater treatment line (4 technicians, 2 engineers, 3.4M€ over 3 years)",
+      "bbox": [
+        90.0,
+        560.2714233398438,
+        400.68267822265625,
+        571.16845703125
+      ],
+      "left_indent": 90.0,
+      "width": 310.68267822265625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Successfully developed an MBR package plant for the Middle-East Market",
+      "bbox": [
+        90.0,
+        571.3114624023438,
+        393.216796875,
+        582.20849609375
+      ],
+      "left_indent": 90.0,
+      "width": 303.216796875,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        573.1804809570312,
+        76.52601623535156,
+        583.0205078125
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Successfully brought an airless MBR concept to industrialization",
+      "bbox": [
+        90.0,
+        582.3514404296875,
+        352.69439697265625,
+        593.2484741210938
+      ],
+      "left_indent": 90.0,
+      "width": 262.69439697265625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        584.220458984375,
+        76.52601623535156,
+        594.0604858398438
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "ADDITIONAL SKILLS & INTERESTS",
+      "bbox": [
+        72.0,
+        615.471435546875,
+        247.57040405273438,
+        626.3684692382812
+      ],
+      "left_indent": 72.0,
+      "width": 175.57040405273438,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Fluent in French & English",
+      "bbox": [
+        90.0,
+        637.3114624023438,
+        201.8985137939453,
+        648.20849609375
+      ],
+      "left_indent": 90.0,
+      "width": 111.89851379394531,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        639.1804809570312,
+        76.52601623535156,
+        649.0205078125
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Key areas of expertise: membrane processes, biological treatment, operational management",
+      "bbox": [
+        90.0,
+        649.5514526367188,
+        461.205078125,
+        660.448486328125
+      ],
+      "left_indent": 90.0,
+      "width": 371.205078125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        651.4204711914062,
+        76.52601623535156,
+        661.260498046875
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Water & Sanitation Engineer for the Non-Governmental Organization “Premières Urgences”",
+      "bbox": [
+        90.0,
+        661.7914428710938,
+        464.271484375,
+        672.6884765625
+      ],
+      "left_indent": 90.0,
+      "width": 374.271484375,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        663.6604614257812,
+        76.52601623535156,
+        673.50048828125
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Active member of the Veolia Force (missions for the UNHCR in Ethiopia, 2012)",
+      "bbox": [
+        90.0,
+        674.0314331054688,
+        419.0712890625,
+        684.928466796875
+      ],
+      "left_indent": 90.0,
+      "width": 329.0712890625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        675.9004516601562,
+        76.52601623535156,
+        685.740478515625
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Rock climbing, mountaineering",
+      "bbox": [
+        90.0,
+        685.0714111328125,
+        219.37890625,
+        695.9684448242188
+      ],
+      "left_indent": 90.0,
+      "width": 129.37890625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        686.9404296875,
+        76.52601623535156,
+        696.7804565429688
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Cambridge, MA",
+      "bbox": [
+        492.4530944824219,
+        119.8714599609375,
+        560.4600219726562,
+        130.76849365234375
+      ],
+      "left_indent": 492.4530944824219,
+      "width": 68.00692749023438,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "2016- expected 2018",
+      "bbox": [
+        474.1376953125,
+        130.91143798828125,
+        560.4600219726562,
+        141.8084716796875
+      ],
+      "left_indent": 474.1376953125,
+      "width": 86.32232666015625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Delft, The Netherlands",
+      "bbox": [
+        466.0859069824219,
+        163.79144287109375,
+        560.4600219726562,
+        174.6884765625
+      ],
+      "left_indent": 466.0859069824219,
+      "width": 94.37411499023438,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "2006-2010",
+      "bbox": [
+        514.669921875,
+        185.8714599609375,
+        560.4600219726562,
+        196.76849365234375
+      ],
+      "left_indent": 514.669921875,
+      "width": 45.79010009765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Toulouse, France",
+      "bbox": [
+        488.57611083984375,
+        251.8714599609375,
+        560.4600219726562,
+        262.76849365234375
+      ],
+      "left_indent": 488.57611083984375,
+      "width": 71.8839111328125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "2003-2006",
+      "bbox": [
+        514.669921875,
+        273.9514465332031,
+        560.4600219726562,
+        284.8484802246094
+      ],
+      "left_indent": 514.669921875,
+      "width": 45.79010009765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Boston, MA",
+      "bbox": [
+        508.5469055175781,
+        339.9514465332031,
+        560.4600219726562,
+        350.8484802246094
+      ],
+      "left_indent": 508.5469055175781,
+      "width": 51.913116455078125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "2016 - Present",
+      "bbox": [
+        500.2314147949219,
+        351.471435546875,
+        560.4600219726562,
+        362.36846923828125
+      ],
+      "left_indent": 500.2314147949219,
+      "width": 60.228607177734375,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "2013-2016",
+      "bbox": [
+        514.669921875,
+        439.3114318847656,
+        560.4600219726562,
+        450.2084655761719
+      ],
+      "left_indent": 514.669921875,
+      "width": 45.79010009765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Paris, France",
+      "bbox": [
+        505.7929992675781,
+        527.3914794921875,
+        560.4600219726562,
+        538.2885131835938
+      ],
+      "left_indent": 505.7929992675781,
+      "width": 54.667022705078125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "2010-2013",
+      "bbox": [
+        514.669921875,
+        538.4314575195312,
+        560.4600219726562,
+        549.3284912109375
+      ],
+      "left_indent": 514.669921875,
+      "width": 45.79010009765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    }
+  ],
+  "text_per_page": [
+    "Adrien MOREAU\n+1 781 547 1484\namoreau@mit.edu\nEDUCATION\nMassachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nM.S., System Design and Management\nDelft University of Technology\nCivil Engineering Department\nPhD., Water Management and Sanitary Engineering\nConducted research within the framework of the European Union Marie Curie program focusing on the membrane\n•\nbioreactor (MBR) process.\nThesis: MBR Filterability Assessment at European Scale\n•\nFull publication list available on request\n•\nNational Institute of Applied Science (INSA)\nChemical & Process Engineering Department\nM.S., Process Engineering\nSpecialization in water treatment\n•\nEXPERIENCE\nVeolia Water Technologies\nGlobal Support Engineer - Technology\nDevelop, lead and coordinate technical risk management and support through hydraulics and modeling for Veolia\n•\nactivities (model difficult cases & different options with regards to tank geometry, mixing capacity and water\ndistribution, validate final designs)\nDevelop and lead piloting coordination and strategy at corporate level with a specific focus on branding and safety\n•\nLead and promote Research & Innovation projects with external partners (Department of Energy funded projects)\n•\nProduce strategy notes and roadmaps on behalf of Executive Management (Digitalization, Internet of Things)\n•\nHydraulics Expert\nDevelop, lead and coordinate technical risk management and support through Hydraulics and CFD modeling for\n•\nVeolia activities (modeled difficult cases & different options with regards to tank geometry, mixing capacity and\nwater distribution, validated final designs)\nLead product development (early phase & industrialization of a grit removal process and a pretreatment for\n•\nindustrial water treatment plants)\n30+ projects assessed and validated (150M$+ worth value)\n•\nVeolia Environnement Research & Innovation\nProject leader – membrane bioreactor (MBR) portfolio\nProvide project leadership and operational management on projects related to the integration of membrane processes\n•\nin wastewater treatment line (4 technicians, 2 engineers, 3.4M€ over 3 years)\nSuccessfully developed an MBR package plant for the Middle-East Market\n•\nSuccessfully brought an airless MBR concept to industrialization\n•\nADDITIONAL SKILLS & INTERESTS\nFluent in French & English\n•\nKey areas of expertise: membrane processes, biological treatment, operational management\n•\nWater & Sanitation Engineer for the Non-Governmental Organization “Premières Urgences”\n•\nActive member of the Veolia Force (missions for the UNHCR in Ethiopia, 2012)\n•\nRock climbing, mountaineering\n•\nCambridge, MA\n2016- expected 2018\nDelft, The Netherlands\n2006-2010\nToulouse, France\n2003-2006\nBoston, MA\n2016 - Present\n2013-2016\nParis, France\n2010-2013"
+  ],
+  "text_all": "Adrien MOREAU\n+1 781 547 1484\namoreau@mit.edu\nEDUCATION\nMassachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nM.S., System Design and Management\nDelft University of Technology\nCivil Engineering Department\nPhD., Water Management and Sanitary Engineering\nConducted research within the framework of the European Union Marie Curie program focusing on the membrane\n•\nbioreactor (MBR) process.\nThesis: MBR Filterability Assessment at European Scale\n•\nFull publication list available on request\n•\nNational Institute of Applied Science (INSA)\nChemical & Process Engineering Department\nM.S., Process Engineering\nSpecialization in water treatment\n•\nEXPERIENCE\nVeolia Water Technologies\nGlobal Support Engineer - Technology\nDevelop, lead and coordinate technical risk management and support through hydraulics and modeling for Veolia\n•\nactivities (model difficult cases & different options with regards to tank geometry, mixing capacity and water\ndistribution, validate final designs)\nDevelop and lead piloting coordination and strategy at corporate level with a specific focus on branding and safety\n•\nLead and promote Research & Innovation projects with external partners (Department of Energy funded projects)\n•\nProduce strategy notes and roadmaps on behalf of Executive Management (Digitalization, Internet of Things)\n•\nHydraulics Expert\nDevelop, lead and coordinate technical risk management and support through Hydraulics and CFD modeling for\n•\nVeolia activities (modeled difficult cases & different options with regards to tank geometry, mixing capacity and\nwater distribution, validated final designs)\nLead product development (early phase & industrialization of a grit removal process and a pretreatment for\n•\nindustrial water treatment plants)\n30+ projects assessed and validated (150M$+ worth value)\n•\nVeolia Environnement Research & Innovation\nProject leader – membrane bioreactor (MBR) portfolio\nProvide project leadership and operational management on projects related to the integration of membrane processes\n•\nin wastewater treatment line (4 technicians, 2 engineers, 3.4M€ over 3 years)\nSuccessfully developed an MBR package plant for the Middle-East Market\n•\nSuccessfully brought an airless MBR concept to industrialization\n•\nADDITIONAL SKILLS & INTERESTS\nFluent in French & English\n•\nKey areas of expertise: membrane processes, biological treatment, operational management\n•\nWater & Sanitation Engineer for the Non-Governmental Organization “Premières Urgences”\n•\nActive member of the Veolia Force (missions for the UNHCR in Ethiopia, 2012)\n•\nRock climbing, mountaineering\n•\nCambridge, MA\n2016- expected 2018\nDelft, The Netherlands\n2006-2010\nToulouse, France\n2003-2006\nBoston, MA\n2016 - Present\n2013-2016\nParis, France\n2010-2013"
+}

@@ -1,0 +1,51 @@
+LinkedIn |
+Technical
+Product Manager Intern | AdrenL
+marketing team in Singapore, ensuring alignment with international business objectives.
+managing partnerships with stakeholders like PhonePe and Digio .
+engagement and a reduced bounce rate.
+policies like cancellation policy, enhancing satisfaction, and supporting profitability.
+Research Consultant | Worldquant Brain
+outofsample testing.
+Cold Email Generator
+generating personalized emails.
+dedicated software engineering services.
+Ride Demand Surge Price Prediction
+• Developed a predictive model to forecast surge pricing types, improving cabtocustomer matching efficiency.
+• Built and tuned models, achieving 73% accuracy through feature selection and hyperparameter tuning. Human Activity Recognition
+• Performed timeseries preprocessing and feature extraction to enhance model performance.
+• Optimized deep learning models using TensorFlow for realtime activity recognition. Dual Degree (B.Tech + M.Tech)
+• Major in Mechanical Engineering 88 Inter IIT Vice Captain | Medichain
+the Inter IIT Tech Meet among 22 IITs to present this innovative concept.
+for decentralization
+Governor | Finance Society of IIT Bhubaneswar
+WebND Coordinator | Sports Fest IIT BBS
+\
+• Codeforces : Pupil on CodeForces (Max rating: 1334).
+• CodeRelay - Secured rank 1 out of 1600 participants on unstop in a 3day software development hackathon
+• Secured a rank within the top 4% in JEE Advanced (2020) among more than 10 lakh students. cause analysis, Problemsolving ABHAY PRATAP S INGH PATEL +91 9695213908 | 20me02040@iitbbs.ac.in | GitHub Work Experience __________________________________________________________________________________
+Aug, 2023 - March, 2024
+• Led the endtoend development of a SaaS platform from concept to beta launch within 4 months, collaborating with the founder in Jordan and the
+• Drove key feature development , including chat, review system, and secure payment integration with PhonePe, enhancing product offerings and effectively
+• Conducted market analysis by interviewing over 25 adventure service providers in Uttarakhand to identify market gaps and enhance platform offerings.
+• Implemented datadriven decisionmaking by integrating the Google Trends API to optimize homepage sorting, resulting in improved customer
+• Designed Figma mockups, site maps , and layouts for better user retention, including SEO and Google Analytics integration. Implemented usercentric
+• Developed and implemented advanced trading strategies by formulating alpha models using a simulationbased platform and statistical analysis for Projects __________________________________________________________________________________________
+• Developed a cold email generator tool using Groq, Langchain, and Streamlit to automate outreach by extracting job listings from company careers pages and
+• Integrated portfolio link sourcing from a vector database to align email content with job descriptions, improving relevance and personalization.
+• Deployed a userfriendly Streamlit app that assists business development teams in reaching out to potential clients, providing value propositions for Collab
+• Conducted exploratory data analysis (EDA), handled missing values, and encoded categorical variables to prepare the dataset for machine learning.
+• Improved service efficiency during peak demand times by enabling proactive surge pricing predictions using Python, Pandas, and Scikitlearn
+• Built machine learning models (Random Forest, LSTM) for classifying human activities from smartphone sensor data, achieving 90%+ accuracy. Education ________________________________________________________________________________________
+Indian Institute of Technology (IIT)
+Bhubaneswar, Odisha
+2020 - 2025
+Positions of Responsibility _________________________________________________________________________
+Github
+• Originated the idea for a decentralized application to securely store patient medical histories, leading the team in a tech entrepreneurship competition at
+• Developed comprehensive Figma mockups to visualize the user interfaceand experience, and built a functional prototype using Solidity, leveraging crypto
+• Founded and led FEBS into a top finance society with 100+ members. Hosted events with 300+ attendees, featuring speakers like Zerodha Founder and Anil Bhasan. Partnered with WorldQuant, ISB, and managed a Product Development Club. Conducted workshops in finance, math, statistics, and quant.
+Github
+• Managed a 30+ member team to create a multifunctional website for registrations and event publicity, while overseeing sponsorship acquisition, organizing offline events, and coordinating logistics, contributing to a successful fest with over 1, 000 attendees across three days. Achievements _______________________________________________________________________________________
+Skills ________________________________________________________________________________
+• Python, SQL, DBMS, C, C++, DataStructures and Algorithms, Tableau, Project Management, Excel, Google Analytics, Figma, Premier Pro, Mixpanel, Root

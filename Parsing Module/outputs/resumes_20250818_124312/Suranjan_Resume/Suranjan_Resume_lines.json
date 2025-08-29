@@ -1,0 +1,1413 @@
+{
+  "meta": {
+    "source_path": "data/resumes/Suranjan_Resume.pdf",
+    "pages": 2
+  },
+  "lines": [
+    {
+      "page": 1,
+      "text": "Kolkata, India",
+      "bbox": [
+        36.0,
+        93.23138427734375,
+        104.02874755859375,
+        106.00384521484375
+      ],
+      "left_indent": 36.0,
+      "width": 68.02874755859375,
+      "is_bold": false,
+      "font_size": 11.0
+    },
+    {
+      "page": 1,
+      "text": "(+91) 8017417238",
+      "bbox": [
+        36.0,
+        106.73138427734375,
+        122.3260498046875,
+        119.50384521484375
+      ],
+      "left_indent": 36.0,
+      "width": 86.3260498046875,
+      "is_bold": false,
+      "font_size": 11.0
+    },
+    {
+      "page": 1,
+      "text": "Suranjan Daw",
+      "bbox": [
+        226.546875,
+        120.10484313964844,
+        379.4686279296875,
+        147.97203063964844
+      ],
+      "left_indent": 226.546875,
+      "width": 152.9217529296875,
+      "is_bold": true,
+      "font_size": 24.0
+    },
+    {
+      "page": 1,
+      "text": "suranjandaw@gmail.com",
+      "bbox": [
+        36.0,
+        120.23138427734375,
+        158.17112731933594,
+        133.00384521484375
+      ],
+      "left_indent": 36.0,
+      "width": 122.17112731933594,
+      "is_bold": false,
+      "font_size": 11.0
+    },
+    {
+      "page": 1,
+      "text": "cs21mtech12008@iith.ac.in",
+      "bbox": [
+        36.0,
+        134.25775146484375,
+        159.07562255859375,
+        146.43939208984375
+      ],
+      "left_indent": 36.0,
+      "width": 123.07562255859375,
+      "is_bold": false,
+      "font_size": 11.0
+    },
+    {
+      "page": 1,
+      "text": "Coursework & Technical Skills",
+      "bbox": [
+        36.0,
+        166.73138427734375,
+        188.8356170654297,
+        179.50384521484375
+      ],
+      "left_indent": 36.0,
+      "width": 152.8356170654297,
+      "is_bold": true,
+      "font_size": 11.0
+    },
+    {
+      "page": 1,
+      "text": "Languages: C, C++ Python, Java",
+      "bbox": [
+        67.5,
+        181.93008422851562,
+        213.46063232421875,
+        193.29238891601562
+      ],
+      "left_indent": 67.5,
+      "width": 145.96063232421875,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Areas of Interest: Computer Networks, Networked Wireless Systems, Machine Learning.",
+      "bbox": [
+        67.5,
+        195.43008422851562,
+        469.43426513671875,
+        206.79238891601562
+      ],
+      "left_indent": 67.5,
+      "width": 401.93426513671875,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Education",
+      "bbox": [
+        36.0,
+        213.23138427734375,
+        86.96156311035156,
+        226.00384521484375
+      ],
+      "left_indent": 36.0,
+      "width": 50.96156311035156,
+      "is_bold": true,
+      "font_size": 11.0
+    },
+    {
+      "page": 1,
+      "text": "Indian Institute of Technology, Hyderabad",
+      "bbox": [
+        67.5,
+        264.4300842285156,
+        291.921875,
+        275.7923889160156
+      ],
+      "left_indent": 67.5,
+      "width": 224.421875,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Computer Science and Engineering, M. Tech.",
+      "bbox": [
+        105.0,
+        276.4300842285156,
+        306.3726806640625,
+        287.7923889160156
+      ],
+      "left_indent": 105.0,
+      "width": 201.3726806640625,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "●",
+      "bbox": [
+        87.0,
+        276.5472717285156,
+        93.0400390625,
+        287.7191467285156
+      ],
+      "left_indent": 87.0,
+      "width": 6.0400390625,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Heritage Institute of Technology, Kolkata",
+      "bbox": [
+        67.5,
+        327.4300842285156,
+        285.44488525390625,
+        338.7923889160156
+      ],
+      "left_indent": 67.5,
+      "width": 217.94488525390625,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Computer Science and Engineering, B. Tech.:",
+      "bbox": [
+        105.0,
+        339.4300842285156,
+        307.4761962890625,
+        350.7923889160156
+      ],
+      "left_indent": 105.0,
+      "width": 202.4761962890625,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "●",
+      "bbox": [
+        87.0,
+        339.5472717285156,
+        93.0400390625,
+        350.7191467285156
+      ],
+      "left_indent": 87.0,
+      "width": 6.0400390625,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "CGPA:9.32",
+      "bbox": [
+        105.0,
+        352.9300842285156,
+        154.75814819335938,
+        364.2923889160156
+      ],
+      "left_indent": 105.0,
+      "width": 49.758148193359375,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Orient Day School, Kolkata (CISCE)",
+      "bbox": [
+        67.5,
+        390.4300842285156,
+        254.57717895507812,
+        401.7923889160156
+      ],
+      "left_indent": 67.5,
+      "width": 187.07717895507812,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Indian School Certificate. Percentage: 95.25%",
+      "bbox": [
+        105.0,
+        402.4300842285156,
+        310.43084716796875,
+        413.7923889160156
+      ],
+      "left_indent": 105.0,
+      "width": 205.43084716796875,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "●",
+      "bbox": [
+        87.0,
+        402.5472717285156,
+        93.0400390625,
+        413.7191467285156
+      ],
+      "left_indent": 87.0,
+      "width": 6.0400390625,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Indian Certificate of Secondary Education. Percentage: 93.4%",
+      "bbox": [
+        105.0,
+        427.9300842285156,
+        383.3712463378906,
+        439.2923889160156
+      ],
+      "left_indent": 105.0,
+      "width": 278.3712463378906,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "●",
+      "bbox": [
+        87.0,
+        428.0472717285156,
+        93.0400390625,
+        439.2191467285156
+      ],
+      "left_indent": 87.0,
+      "width": 6.0400390625,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Certifications",
+      "bbox": [
+        36.0,
+        465.23138427734375,
+        105.2842025756836,
+        478.00384521484375
+      ],
+      "left_indent": 36.0,
+      "width": 69.2842025756836,
+      "is_bold": true,
+      "font_size": 11.0
+    },
+    {
+      "page": 1,
+      "text": "Udacity – Google India Challenge Scholarship: Android",
+      "bbox": [
+        67.5,
+        504.4300537109375,
+        324.60894775390625,
+        515.7923583984375
+      ],
+      "left_indent": 67.5,
+      "width": 257.10894775390625,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Hewlett Packard (HP) Summer Training – PHP with WordPress",
+      "bbox": [
+        67.5,
+        522.4300537109375,
+        385.98089599609375,
+        533.7923583984375
+      ],
+      "left_indent": 67.5,
+      "width": 318.48089599609375,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "AppliedAiCourse - Machine Learning",
+      "bbox": [
+        67.5,
+        540.4300537109375,
+        246.96835327148438,
+        551.7923583984375
+      ],
+      "left_indent": 67.5,
+      "width": 179.46835327148438,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Coursera – Google Cloud Platform Big Data and Machine Learning",
+      "bbox": [
+        67.5,
+        558.4300537109375,
+        377.78155517578125,
+        569.7923583984375
+      ],
+      "left_indent": 67.5,
+      "width": 310.28155517578125,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Fundamentals",
+      "bbox": [
+        67.5,
+        576.4300537109375,
+        132.3689422607422,
+        587.7923583984375
+      ],
+      "left_indent": 67.5,
+      "width": 64.86894226074219,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Coursera – Google Cloud Platform Fundamentals: Core Infrastructure",
+      "bbox": [
+        67.5,
+        594.4300537109375,
+        392.092041015625,
+        605.7923583984375
+      ],
+      "left_indent": 67.5,
+      "width": 324.592041015625,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Coursera – Getting started with AWS Machine Learning",
+      "bbox": [
+        67.5,
+        612.4300537109375,
+        328.2355041503906,
+        623.7923583984375
+      ],
+      "left_indent": 67.5,
+      "width": 260.7355041503906,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Coursera – Neural Networks and Deep Learning",
+      "bbox": [
+        67.5,
+        630.4300537109375,
+        294.21551513671875,
+        641.7923583984375
+      ],
+      "left_indent": 67.5,
+      "width": 226.71551513671875,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Internshala – Machine Learning",
+      "bbox": [
+        67.5,
+        648.4300537109375,
+        224.35997009277344,
+        659.7923583984375
+      ],
+      "left_indent": 67.5,
+      "width": 156.85997009277344,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Coursera – The Bits and Bytes of Computer Networking",
+      "bbox": [
+        67.5,
+        666.4300537109375,
+        325.7218322753906,
+        677.7923583984375
+      ],
+      "left_indent": 67.5,
+      "width": 258.2218322753906,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "https://github.com/SuranjanDaw",
+      "bbox": [
+        440.537109375,
+        105.6888656616211,
+        570.7528076171875,
+        116.7630844116211
+      ],
+      "left_indent": 440.537109375,
+      "width": 130.2156982421875,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "https://www.linkedin.com/in/suranjan-daw",
+      "bbox": [
+        399.8257141113281,
+        117.6888656616211,
+        570.7528076171875,
+        128.76309204101562
+      ],
+      "left_indent": 399.8257141113281,
+      "width": 170.92709350585938,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "August 2021-Present",
+      "bbox": [
+        479.1532287597656,
+        264.4300842285156,
+        571.5013427734375,
+        275.7923889160156
+      ],
+      "left_indent": 479.1532287597656,
+      "width": 92.34811401367188,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "August 2021",
+      "bbox": [
+        516.423828125,
+        327.4300842285156,
+        571.501708984375,
+        338.7923889160156
+      ],
+      "left_indent": 516.423828125,
+      "width": 55.077880859375,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "March 2017",
+      "bbox": [
+        519.2938232421875,
+        390.4300842285156,
+        571.501953125,
+        401.7923889160156
+      ],
+      "left_indent": 519.2938232421875,
+      "width": 52.2081298828125,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "March 2015",
+      "bbox": [
+        519.03515625,
+        426.4300842285156,
+        571.5020751953125,
+        437.7923889160156
+      ],
+      "left_indent": 519.03515625,
+      "width": 52.4669189453125,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "February 2018",
+      "bbox": [
+        506.7987060546875,
+        504.4300537109375,
+        571.5023193359375,
+        515.7923583984375
+      ],
+      "left_indent": 506.7987060546875,
+      "width": 64.70361328125,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "June 2018",
+      "bbox": [
+        525.4535522460938,
+        522.4300537109375,
+        571.5023193359375,
+        533.7923583984375
+      ],
+      "left_indent": 525.4535522460938,
+      "width": 46.04876708984375,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "March 2019",
+      "bbox": [
+        518.6593017578125,
+        540.4300537109375,
+        571.502197265625,
+        551.7923583984375
+      ],
+      "left_indent": 518.6593017578125,
+      "width": 52.8428955078125,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "March 2019",
+      "bbox": [
+        518.6593017578125,
+        558.4300537109375,
+        571.502197265625,
+        569.7923583984375
+      ],
+      "left_indent": 518.6593017578125,
+      "width": 52.8428955078125,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "June 2019",
+      "bbox": [
+        525.7561645507812,
+        576.4300537109375,
+        571.502197265625,
+        587.7923583984375
+      ],
+      "left_indent": 525.7561645507812,
+      "width": 45.74603271484375,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "May 2020",
+      "bbox": [
+        526.4248046875,
+        594.4300537109375,
+        571.5023803710938,
+        605.7923583984375
+      ],
+      "left_indent": 526.4248046875,
+      "width": 45.07757568359375,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "May 2020",
+      "bbox": [
+        526.4248046875,
+        612.4300537109375,
+        571.5023803710938,
+        623.7923583984375
+      ],
+      "left_indent": 526.4248046875,
+      "width": 45.07757568359375,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "June 2020",
+      "bbox": [
+        523.9892578125,
+        630.4300537109375,
+        571.5023803710938,
+        641.7923583984375
+      ],
+      "left_indent": 523.9892578125,
+      "width": 47.51312255859375,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "June 2020",
+      "bbox": [
+        523.9892578125,
+        648.4300537109375,
+        571.5023803710938,
+        659.7923583984375
+      ],
+      "left_indent": 523.9892578125,
+      "width": 47.51312255859375,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "Internships",
+      "bbox": [
+        36.0,
+        87.23138427734375,
+        93.07901000976562,
+        100.00384521484375
+      ],
+      "left_indent": 36.0,
+      "width": 57.079010009765625,
+      "is_bold": true,
+      "font_size": 11.0
+    },
+    {
+      "page": 2,
+      "text": "MinD Webs. Position: Technical Head.",
+      "bbox": [
+        66.0,
+        120.75775146484375,
+        245.0421905517578,
+        132.93939208984375
+      ],
+      "left_indent": 66.0,
+      "width": 179.0421905517578,
+      "is_bold": true,
+      "font_size": 11.0
+    },
+    {
+      "page": 2,
+      "text": "Technologies: Android, Computer vision, PHP.",
+      "bbox": [
+        66.0,
+        133.93008422851562,
+        283.80181884765625,
+        145.29238891601562
+      ],
+      "left_indent": 66.0,
+      "width": 217.80181884765625,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "●",
+      "bbox": [
+        95.25,
+        152.6246337890625,
+        101.592041015625,
+        164.3551025390625
+      ],
+      "left_indent": 95.25,
+      "width": 6.342041015625,
+      "is_bold": false,
+      "font_size": 10.5
+    },
+    {
+      "page": 2,
+      "text": "Designed and developed a Ticket Collection and verification System using Android.",
+      "bbox": [
+        113.25,
+        152.9600830078125,
+        479.0408020019531,
+        164.3223876953125
+      ],
+      "left_indent": 113.25,
+      "width": 365.7908020019531,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "●",
+      "bbox": [
+        95.25,
+        167.6246337890625,
+        101.592041015625,
+        179.3551025390625
+      ],
+      "left_indent": 95.25,
+      "width": 6.342041015625,
+      "is_bold": false,
+      "font_size": 10.5
+    },
+    {
+      "page": 2,
+      "text": "Designed an API using PHP.",
+      "bbox": [
+        113.25,
+        167.9600830078125,
+        238.70013427734375,
+        179.3223876953125
+      ],
+      "left_indent": 113.25,
+      "width": 125.45013427734375,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "Project Experiences",
+      "bbox": [
+        36.0,
+        196.23138427734375,
+        139.51670837402344,
+        209.00384521484375
+      ],
+      "left_indent": 36.0,
+      "width": 103.51670837402344,
+      "is_bold": true,
+      "font_size": 11.0
+    },
+    {
+      "page": 2,
+      "text": "Face Recognition: Built face detection and recognition software by implementing transfer learning on",
+      "bbox": [
+        72.0,
+        233.8800811767578,
+        541.789794921875,
+        245.2423858642578
+      ],
+      "left_indent": 72.0,
+      "width": 469.789794921875,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "●",
+      "bbox": [
+        54.0,
+        233.9972686767578,
+        60.0400390625,
+        245.1691436767578
+      ],
+      "left_indent": 54.0,
+      "width": 6.0400390625,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "VGG16, InceptionV3, and MobileNetV2 using imagenet dataset weights. | Technology: Tensorflow, Keras,",
+      "bbox": [
+        72.0,
+        247.93008422851562,
+        545.4149169921875,
+        259.2923889160156
+      ],
+      "left_indent": 72.0,
+      "width": 473.4149169921875,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "MobileNetV2, VGG16, InceptionV3, Python.",
+      "bbox": [
+        72.0,
+        261.4300842285156,
+        266.685791015625,
+        272.7923889160156
+      ],
+      "left_indent": 72.0,
+      "width": 194.685791015625,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "Customer Churn Predictor: Build a Customer Churn Prediction model using Scikit-learn library. |",
+      "bbox": [
+        72.0,
+        274.9300842285156,
+        528.581298828125,
+        286.2923889160156
+      ],
+      "left_indent": 72.0,
+      "width": 456.581298828125,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "●",
+      "bbox": [
+        54.0,
+        275.0472717285156,
+        60.0400390625,
+        286.2191467285156
+      ],
+      "left_indent": 54.0,
+      "width": 6.0400390625,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "Technology: Machine Learning, Python, Scikit-learn.",
+      "bbox": [
+        72.0,
+        288.4300842285156,
+        310.15521240234375,
+        299.7923889160156
+      ],
+      "left_indent": 72.0,
+      "width": 238.15521240234375,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "Handwritten Digit Recognition Software: Recognize handwritten digits built using Neural Networks |",
+      "bbox": [
+        72.0,
+        301.9300842285156,
+        559.3113403320312,
+        313.2923889160156
+      ],
+      "left_indent": 72.0,
+      "width": 487.31134033203125,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "●",
+      "bbox": [
+        54.0,
+        302.0472717285156,
+        60.0400390625,
+        313.2191467285156
+      ],
+      "left_indent": 54.0,
+      "width": 6.0400390625,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "Technology: MATLAB.",
+      "bbox": [
+        72.0,
+        315.4300842285156,
+        174.2365264892578,
+        326.7923889160156
+      ],
+      "left_indent": 72.0,
+      "width": 102.23652648925781,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "Product Recommendation Engine: Displays similar products. Tested on real Amazon product data. |",
+      "bbox": [
+        72.0,
+        328.9300842285156,
+        549.1736450195312,
+        340.2923889160156
+      ],
+      "left_indent": 72.0,
+      "width": 477.17364501953125,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "●",
+      "bbox": [
+        54.0,
+        329.0472717285156,
+        60.0400390625,
+        340.2191467285156
+      ],
+      "left_indent": 54.0,
+      "width": 6.0400390625,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "Technology: Python, Tensorflow, Scikit learn.",
+      "bbox": [
+        72.0,
+        342.4300842285156,
+        276.91619873046875,
+        353.7923889160156
+      ],
+      "left_indent": 72.0,
+      "width": 204.91619873046875,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "Sentiment Analyser: Built a Sentiment Analysis Application that takes sentences and tells classifies them",
+      "bbox": [
+        72.0,
+        355.9300842285156,
+        553.8760986328125,
+        367.2923889160156
+      ],
+      "left_indent": 72.0,
+      "width": 481.8760986328125,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "●",
+      "bbox": [
+        54.0,
+        356.0472717285156,
+        60.0400390625,
+        367.2191467285156
+      ],
+      "left_indent": 54.0,
+      "width": 6.0400390625,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "into positive or negative sentences. | Technology: Machine Learning, Python, Scikit Learn, NLTK.",
+      "bbox": [
+        72.0,
+        369.4300842285156,
+        508.66668701171875,
+        380.7923889160156
+      ],
+      "left_indent": 72.0,
+      "width": 436.66668701171875,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "Canteen Management System: A system of Mobile Applications and Web applications which manages the",
+      "bbox": [
+        72.0,
+        382.9300842285156,
+        565.5690307617188,
+        394.2923889160156
+      ],
+      "left_indent": 72.0,
+      "width": 493.56903076171875,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "●",
+      "bbox": [
+        54.0,
+        383.0472717285156,
+        60.0400390625,
+        394.2191467285156
+      ],
+      "left_indent": 54.0,
+      "width": 6.0400390625,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "listing and selling of food items through coupons and is integrated with an offline payment system. | Play",
+      "bbox": [
+        72.0,
+        396.4300842285156,
+        543.5955810546875,
+        407.7923889160156
+      ],
+      "left_indent": 72.0,
+      "width": 471.5955810546875,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "Store: https://play.google.com/store/apps/details?id=devriel.gourmetfood&hl=en",
+      "bbox": [
+        72.0,
+        409.9300842285156,
+        446.4411315917969,
+        421.2923889160156
+      ],
+      "left_indent": 72.0,
+      "width": 374.4411315917969,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "HIT CRUNCH: An aggregator for notices, notes, and Question paper provided by college | Technology:",
+      "bbox": [
+        72.0,
+        423.4300842285156,
+        541.2910766601562,
+        434.7923889160156
+      ],
+      "left_indent": 72.0,
+      "width": 469.29107666015625,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "●",
+      "bbox": [
+        54.0,
+        423.5472717285156,
+        60.0400390625,
+        434.7191467285156
+      ],
+      "left_indent": 54.0,
+      "width": 6.0400390625,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "Android, Firebase,Node.js. Play Store:",
+      "bbox": [
+        72.0,
+        436.9300842285156,
+        244.23898315429688,
+        448.2923889160156
+      ],
+      "left_indent": 72.0,
+      "width": 172.23898315429688,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "https://play.google.com/store/apps/details?id=dschik.noticeboard&hl=en",
+      "bbox": [
+        72.0,
+        450.4300842285156,
+        407.22314453125,
+        461.7923889160156
+      ],
+      "left_indent": 72.0,
+      "width": 335.22314453125,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "Bluetooth Chat: A chat application that communicates using Bluetooth. | Technology: Android.",
+      "bbox": [
+        72.0,
+        463.9300842285156,
+        508.437255859375,
+        475.2923889160156
+      ],
+      "left_indent": 72.0,
+      "width": 436.437255859375,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "●",
+      "bbox": [
+        54.0,
+        464.0472717285156,
+        60.0400390625,
+        475.2191467285156
+      ],
+      "left_indent": 54.0,
+      "width": 6.0400390625,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "Honors and Activities",
+      "bbox": [
+        36.0,
+        491.48138427734375,
+        144.9535675048828,
+        504.25384521484375
+      ],
+      "left_indent": 36.0,
+      "width": 108.95356750488281,
+      "is_bold": true,
+      "font_size": 11.0
+    },
+    {
+      "page": 2,
+      "text": "●",
+      "bbox": [
+        54.0,
+        518.7972412109375,
+        60.0400390625,
+        529.9691162109375
+      ],
+      "left_indent": 54.0,
+      "width": 6.0400390625,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "Secured 98.46 Percentile in GATE 2021.",
+      "bbox": [
+        72.0,
+        518.9388427734375,
+        238.8741455078125,
+        530.0130615234375
+      ],
+      "left_indent": 72.0,
+      "width": 166.8741455078125,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "●",
+      "bbox": [
+        54.0,
+        530.7972412109375,
+        60.0400390625,
+        541.9691162109375
+      ],
+      "left_indent": 54.0,
+      "width": 6.0400390625,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "Codevita Season 9 India Round 1: Secured the rank of 3245.",
+      "bbox": [
+        72.0,
+        530.9388427734375,
+        318.4769287109375,
+        542.0130615234375
+      ],
+      "left_indent": 72.0,
+      "width": 246.4769287109375,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "●",
+      "bbox": [
+        54.0,
+        542.7972412109375,
+        60.0400390625,
+        553.9691162109375
+      ],
+      "left_indent": 54.0,
+      "width": 6.0400390625,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "Winners at IEM International Space Apps Challenge 2018 : Acquired 5th Position. Organized by IEM",
+      "bbox": [
+        72.0,
+        542.9388427734375,
+        486.86090087890625,
+        554.0130615234375
+      ],
+      "left_indent": 72.0,
+      "width": 414.86090087890625,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "●",
+      "bbox": [
+        54.0,
+        554.7972412109375,
+        60.0400390625,
+        565.9691162109375
+      ],
+      "left_indent": 54.0,
+      "width": 6.0400390625,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "Teaching Assistant at Developers Student Club, HIT in the field of Android and Firebase .",
+      "bbox": [
+        72.0,
+        554.9388427734375,
+        431.57196044921875,
+        566.0130615234375
+      ],
+      "left_indent": 72.0,
+      "width": 359.57196044921875,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "●",
+      "bbox": [
+        54.0,
+        566.7972412109375,
+        60.0400390625,
+        577.9691162109375
+      ],
+      "left_indent": 54.0,
+      "width": 6.0400390625,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "Organized a technical Extravaganza: Techchtronista2k19 at MinDWebs.",
+      "bbox": [
+        72.0,
+        566.9388427734375,
+        365.49884033203125,
+        578.0130615234375
+      ],
+      "left_indent": 72.0,
+      "width": 293.49884033203125,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "●",
+      "bbox": [
+        54.0,
+        578.7972412109375,
+        60.0400390625,
+        589.9691162109375
+      ],
+      "left_indent": 54.0,
+      "width": 6.0400390625,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "Speaker at Google Cloud Study Jam, 2019 at Heritage Institute of Technology.",
+      "bbox": [
+        72.0,
+        578.9388427734375,
+        390.1136474609375,
+        590.0130615234375
+      ],
+      "left_indent": 72.0,
+      "width": 318.1136474609375,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "●",
+      "bbox": [
+        54.0,
+        590.7972412109375,
+        60.0400390625,
+        601.9691162109375
+      ],
+      "left_indent": 54.0,
+      "width": 6.0400390625,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "Cloud Facilitator at Developers Student Club, HIT",
+      "bbox": [
+        72.0,
+        590.9388427734375,
+        277.19561767578125,
+        602.0130615234375
+      ],
+      "left_indent": 72.0,
+      "width": 205.19561767578125,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "●",
+      "bbox": [
+        54.0,
+        602.7972412109375,
+        60.0400390625,
+        613.9691162109375
+      ],
+      "left_indent": 54.0,
+      "width": 6.0400390625,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "GCP Quest Leader: Received the title of GCP Quest Leader from Google Cloud Developers for completing 12+ labs on",
+      "bbox": [
+        72.0,
+        602.9388427734375,
+        553.6644287109375,
+        614.0130615234375
+      ],
+      "left_indent": 72.0,
+      "width": 481.6644287109375,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "Qwiklabs.",
+      "bbox": [
+        72.0,
+        614.9388427734375,
+        112.26359558105469,
+        626.0130615234375
+      ],
+      "left_indent": 72.0,
+      "width": 40.26359558105469,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 2,
+      "text": "January 2019 –July 2019",
+      "bbox": [
+        466.5966796875,
+        120.38706970214844,
+        570.02392578125,
+        130.61314392089844
+      ],
+      "left_indent": 466.5966796875,
+      "width": 103.42724609375,
+      "is_bold": false,
+      "font_size": 9.0
+    }
+  ],
+  "text_per_page": [
+    "Kolkata, India\n(+91) 8017417238\nSuranjan Daw\nsuranjandaw@gmail.com\ncs21mtech12008@iith.ac.in\nCoursework & Technical Skills\nLanguages: C, C++ Python, Java\nAreas of Interest: Computer Networks, Networked Wireless Systems, Machine Learning.\nEducation\nIndian Institute of Technology, Hyderabad\nComputer Science and Engineering, M. Tech.\n●\nHeritage Institute of Technology, Kolkata\nComputer Science and Engineering, B. Tech.:\n●\nCGPA:9.32\nOrient Day School, Kolkata (CISCE)\nIndian School Certificate. Percentage: 95.25%\n●\nIndian Certificate of Secondary Education. Percentage: 93.4%\n●\nCertifications\nUdacity – Google India Challenge Scholarship: Android\nHewlett Packard (HP) Summer Training – PHP with WordPress\nAppliedAiCourse - Machine Learning\nCoursera – Google Cloud Platform Big Data and Machine Learning\nFundamentals\nCoursera – Google Cloud Platform Fundamentals: Core Infrastructure\nCoursera – Getting started with AWS Machine Learning\nCoursera – Neural Networks and Deep Learning\nInternshala – Machine Learning\nCoursera – The Bits and Bytes of Computer Networking\nhttps://github.com/SuranjanDaw\nhttps://www.linkedin.com/in/suranjan-daw\nAugust 2021-Present\nAugust 2021\nMarch 2017\nMarch 2015\nFebruary 2018\nJune 2018\nMarch 2019\nMarch 2019\nJune 2019\nMay 2020\nMay 2020\nJune 2020\nJune 2020",
+    "Internships\nMinD Webs. Position: Technical Head.\nTechnologies: Android, Computer vision, PHP.\n●\nDesigned and developed a Ticket Collection and verification System using Android.\n●\nDesigned an API using PHP.\nProject Experiences\nFace Recognition: Built face detection and recognition software by implementing transfer learning on\n●\nVGG16, InceptionV3, and MobileNetV2 using imagenet dataset weights. | Technology: Tensorflow, Keras,\nMobileNetV2, VGG16, InceptionV3, Python.\nCustomer Churn Predictor: Build a Customer Churn Prediction model using Scikit-learn library. |\n●\nTechnology: Machine Learning, Python, Scikit-learn.\nHandwritten Digit Recognition Software: Recognize handwritten digits built using Neural Networks |\n●\nTechnology: MATLAB.\nProduct Recommendation Engine: Displays similar products. Tested on real Amazon product data. |\n●\nTechnology: Python, Tensorflow, Scikit learn.\nSentiment Analyser: Built a Sentiment Analysis Application that takes sentences and tells classifies them\n●\ninto positive or negative sentences. | Technology: Machine Learning, Python, Scikit Learn, NLTK.\nCanteen Management System: A system of Mobile Applications and Web applications which manages the\n●\nlisting and selling of food items through coupons and is integrated with an offline payment system. | Play\nStore: https://play.google.com/store/apps/details?id=devriel.gourmetfood&hl=en\nHIT CRUNCH: An aggregator for notices, notes, and Question paper provided by college | Technology:\n●\nAndroid, Firebase,Node.js. Play Store:\nhttps://play.google.com/store/apps/details?id=dschik.noticeboard&hl=en\nBluetooth Chat: A chat application that communicates using Bluetooth. | Technology: Android.\n●\nHonors and Activities\n●\nSecured 98.46 Percentile in GATE 2021.\n●\nCodevita Season 9 India Round 1: Secured the rank of 3245.\n●\nWinners at IEM International Space Apps Challenge 2018 : Acquired 5th Position. Organized by IEM\n●\nTeaching Assistant at Developers Student Club, HIT in the field of Android and Firebase .\n●\nOrganized a technical Extravaganza: Techchtronista2k19 at MinDWebs.\n●\nSpeaker at Google Cloud Study Jam, 2019 at Heritage Institute of Technology.\n●\nCloud Facilitator at Developers Student Club, HIT\n●\nGCP Quest Leader: Received the title of GCP Quest Leader from Google Cloud Developers for completing 12+ labs on\nQwiklabs.\nJanuary 2019 –July 2019"
+  ],
+  "text_all": "Kolkata, India\n(+91) 8017417238\nSuranjan Daw\nsuranjandaw@gmail.com\ncs21mtech12008@iith.ac.in\nCoursework & Technical Skills\nLanguages: C, C++ Python, Java\nAreas of Interest: Computer Networks, Networked Wireless Systems, Machine Learning.\nEducation\nIndian Institute of Technology, Hyderabad\nComputer Science and Engineering, M. Tech.\n●\nHeritage Institute of Technology, Kolkata\nComputer Science and Engineering, B. Tech.:\n●\nCGPA:9.32\nOrient Day School, Kolkata (CISCE)\nIndian School Certificate. Percentage: 95.25%\n●\nIndian Certificate of Secondary Education. Percentage: 93.4%\n●\nCertifications\nUdacity – Google India Challenge Scholarship: Android\nHewlett Packard (HP) Summer Training – PHP with WordPress\nAppliedAiCourse - Machine Learning\nCoursera – Google Cloud Platform Big Data and Machine Learning\nFundamentals\nCoursera – Google Cloud Platform Fundamentals: Core Infrastructure\nCoursera – Getting started with AWS Machine Learning\nCoursera – Neural Networks and Deep Learning\nInternshala – Machine Learning\nCoursera – The Bits and Bytes of Computer Networking\nhttps://github.com/SuranjanDaw\nhttps://www.linkedin.com/in/suranjan-daw\nAugust 2021-Present\nAugust 2021\nMarch 2017\nMarch 2015\nFebruary 2018\nJune 2018\nMarch 2019\nMarch 2019\nJune 2019\nMay 2020\nMay 2020\nJune 2020\nJune 2020\n\nInternships\nMinD Webs. Position: Technical Head.\nTechnologies: Android, Computer vision, PHP.\n●\nDesigned and developed a Ticket Collection and verification System using Android.\n●\nDesigned an API using PHP.\nProject Experiences\nFace Recognition: Built face detection and recognition software by implementing transfer learning on\n●\nVGG16, InceptionV3, and MobileNetV2 using imagenet dataset weights. | Technology: Tensorflow, Keras,\nMobileNetV2, VGG16, InceptionV3, Python.\nCustomer Churn Predictor: Build a Customer Churn Prediction model using Scikit-learn library. |\n●\nTechnology: Machine Learning, Python, Scikit-learn.\nHandwritten Digit Recognition Software: Recognize handwritten digits built using Neural Networks |\n●\nTechnology: MATLAB.\nProduct Recommendation Engine: Displays similar products. Tested on real Amazon product data. |\n●\nTechnology: Python, Tensorflow, Scikit learn.\nSentiment Analyser: Built a Sentiment Analysis Application that takes sentences and tells classifies them\n●\ninto positive or negative sentences. | Technology: Machine Learning, Python, Scikit Learn, NLTK.\nCanteen Management System: A system of Mobile Applications and Web applications which manages the\n●\nlisting and selling of food items through coupons and is integrated with an offline payment system. | Play\nStore: https://play.google.com/store/apps/details?id=devriel.gourmetfood&hl=en\nHIT CRUNCH: An aggregator for notices, notes, and Question paper provided by college | Technology:\n●\nAndroid, Firebase,Node.js. Play Store:\nhttps://play.google.com/store/apps/details?id=dschik.noticeboard&hl=en\nBluetooth Chat: A chat application that communicates using Bluetooth. | Technology: Android.\n●\nHonors and Activities\n●\nSecured 98.46 Percentile in GATE 2021.\n●\nCodevita Season 9 India Round 1: Secured the rank of 3245.\n●\nWinners at IEM International Space Apps Challenge 2018 : Acquired 5th Position. Organized by IEM\n●\nTeaching Assistant at Developers Student Club, HIT in the field of Android and Firebase .\n●\nOrganized a technical Extravaganza: Techchtronista2k19 at MinDWebs.\n●\nSpeaker at Google Cloud Study Jam, 2019 at Heritage Institute of Technology.\n●\nCloud Facilitator at Developers Student Club, HIT\n●\nGCP Quest Leader: Received the title of GCP Quest Leader from Google Cloud Developers for completing 12+ labs on\nQwiklabs.\nJanuary 2019 –July 2019"
+}

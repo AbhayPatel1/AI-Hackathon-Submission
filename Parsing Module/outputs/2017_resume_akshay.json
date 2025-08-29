@@ -1,0 +1,2477 @@
+{
+  "meta": {
+    "source_path": "/Users/samarthya/Desktop/Extarct_NER/Akshay_Raj_MTech_Elec_Xilinx.pdf",
+    "pages": 2
+  },
+  "lines": [
+    {
+      "page": 1,
+      "text": "Akshay Raj",
+      "bbox": [
+        150.0,
+        39.55999755859375,
+        200.27999877929688,
+        53.40999984741211
+      ],
+      "left_indent": 150.0,
+      "width": 50.279998779296875,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "193070076",
+      "bbox": [
+        400.0,
+        39.55999755859375,
+        445.0,
+        53.40999984741211
+      ],
+      "left_indent": 400.0,
+      "width": 45.0,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Electrical Engineering",
+      "bbox": [
+        150.0,
+        54.55999755859375,
+        245.8300018310547,
+        68.41000366210938
+      ],
+      "left_indent": 150.0,
+      "width": 95.83000183105469,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "M.Tech.",
+      "bbox": [
+        400.0,
+        54.55999755859375,
+        435.5500183105469,
+        68.41000366210938
+      ],
+      "left_indent": 400.0,
+      "width": 35.550018310546875,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Indian Institute of Technology, Bombay",
+      "bbox": [
+        150.0,
+        69.55999755859375,
+        320.29998779296875,
+        83.41000366210938
+      ],
+      "left_indent": 150.0,
+      "width": 170.29998779296875,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Gender: Male",
+      "bbox": [
+        400.0,
+        69.55999755859375,
+        459.7099914550781,
+        83.41000366210938
+      ],
+      "left_indent": 400.0,
+      "width": 59.709991455078125,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Specialization: Solid State Devices",
+      "bbox": [
+        150.0,
+        84.55999755859375,
+        295.83001708984375,
+        98.41000366210938
+      ],
+      "left_indent": 150.0,
+      "width": 145.83001708984375,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "DOB: 17-12-1997",
+      "bbox": [
+        400.0,
+        84.55999755859375,
+        476.65997314453125,
+        98.41000366210938
+      ],
+      "left_indent": 400.0,
+      "width": 76.65997314453125,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Examination",
+      "bbox": [
+        50.0,
+        110.55999755859375,
+        105.00999450683594,
+        124.41000366210938
+      ],
+      "left_indent": 50.0,
+      "width": 55.00999450683594,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "University",
+      "bbox": [
+        150.0,
+        110.55999755859375,
+        194.44000244140625,
+        124.41000366210938
+      ],
+      "left_indent": 150.0,
+      "width": 44.44000244140625,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Institute",
+      "bbox": [
+        300.0,
+        110.55999755859375,
+        336.1099853515625,
+        124.41000366210938
+      ],
+      "left_indent": 300.0,
+      "width": 36.1099853515625,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Year",
+      "bbox": [
+        475.0,
+        110.55999755859375,
+        496.1000061035156,
+        124.41000366210938
+      ],
+      "left_indent": 475.0,
+      "width": 21.100006103515625,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "CPI / %",
+      "bbox": [
+        510.0,
+        110.55999755859375,
+        545.0,
+        124.41000366210938
+      ],
+      "left_indent": 510.0,
+      "width": 35.0,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Post Graduation",
+      "bbox": [
+        50.0,
+        127.47000122070312,
+        114.72000885009766,
+        140.80999755859375
+      ],
+      "left_indent": 50.0,
+      "width": 64.72000885009766,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "IIT Bombay",
+      "bbox": [
+        150.0,
+        127.47000122070312,
+        199.16000366210938,
+        140.80999755859375
+      ],
+      "left_indent": 150.0,
+      "width": 49.160003662109375,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "IIT Bombay",
+      "bbox": [
+        300.0,
+        127.47000122070312,
+        349.15997314453125,
+        140.80999755859375
+      ],
+      "left_indent": 300.0,
+      "width": 49.15997314453125,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "2021",
+      "bbox": [
+        475.0,
+        127.47000122070312,
+        495.0,
+        140.80999755859375
+      ],
+      "left_indent": 475.0,
+      "width": 20.0,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "8.54",
+      "bbox": [
+        510.0,
+        127.47000122070312,
+        527.5,
+        140.80999755859375
+      ],
+      "left_indent": 510.0,
+      "width": 17.5,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Graduation",
+      "bbox": [
+        50.0,
+        140.47000122070312,
+        94.99000549316406,
+        153.80999755859375
+      ],
+      "left_indent": 50.0,
+      "width": 44.99000549316406,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "NIT Uttarakhand",
+      "bbox": [
+        150.0,
+        140.47000122070312,
+        218.5900115966797,
+        153.80999755859375
+      ],
+      "left_indent": 150.0,
+      "width": 68.59001159667969,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "NIT Uttarakhand",
+      "bbox": [
+        300.0,
+        140.47000122070312,
+        368.5899658203125,
+        153.80999755859375
+      ],
+      "left_indent": 300.0,
+      "width": 68.5899658203125,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "2018",
+      "bbox": [
+        475.0,
+        140.47000122070312,
+        495.0,
+        153.80999755859375
+      ],
+      "left_indent": 475.0,
+      "width": 20.0,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "8.54",
+      "bbox": [
+        510.0,
+        140.47000122070312,
+        527.5,
+        153.80999755859375
+      ],
+      "left_indent": 510.0,
+      "width": 17.5,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Graduation Specialization: ECE",
+      "bbox": [
+        50.0,
+        153.47000122070312,
+        178.32000732421875,
+        166.80999755859375
+      ],
+      "left_indent": 50.0,
+      "width": 128.32000732421875,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Intermediate",
+      "bbox": [
+        50.0,
+        166.47000122070312,
+        100.54000854492188,
+        179.80999755859375
+      ],
+      "left_indent": 50.0,
+      "width": 50.540008544921875,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "ISC",
+      "bbox": [
+        150.0,
+        166.47000122070312,
+        165.55999755859375,
+        179.80999755859375
+      ],
+      "left_indent": 150.0,
+      "width": 15.55999755859375,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Brooklyn School, Dehradun",
+      "bbox": [
+        300.0,
+        166.47000122070312,
+        412.489990234375,
+        179.80999755859375
+      ],
+      "left_indent": 300.0,
+      "width": 112.489990234375,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "2014",
+      "bbox": [
+        475.0,
+        166.47000122070312,
+        495.0,
+        179.80999755859375
+      ],
+      "left_indent": 475.0,
+      "width": 20.0,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "93.80%",
+      "bbox": [
+        510.0,
+        166.47000122070312,
+        540.8300170898438,
+        179.80999755859375
+      ],
+      "left_indent": 510.0,
+      "width": 30.83001708984375,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Matriculation",
+      "bbox": [
+        50.0,
+        179.47000122070312,
+        104.44000244140625,
+        192.80999755859375
+      ],
+      "left_indent": 50.0,
+      "width": 54.44000244140625,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "ICSE",
+      "bbox": [
+        150.0,
+        179.47000122070312,
+        171.6699981689453,
+        192.80999755859375
+      ],
+      "left_indent": 150.0,
+      "width": 21.669998168945312,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Carmel School, Chamba",
+      "bbox": [
+        300.0,
+        179.47000122070312,
+        398.0500183105469,
+        192.80999755859375
+      ],
+      "left_indent": 300.0,
+      "width": 98.05001831054688,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "2012",
+      "bbox": [
+        475.0,
+        179.47000122070312,
+        495.0,
+        192.80999755859375
+      ],
+      "left_indent": 475.0,
+      "width": 20.0,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "89.28%",
+      "bbox": [
+        510.0,
+        179.47000122070312,
+        540.8300170898438,
+        192.80999755859375
+      ],
+      "left_indent": 510.0,
+      "width": 30.83001708984375,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "AREAS OF INTEREST",
+      "bbox": [
+        238.28399658203125,
+        196.89303588867188,
+        360.833984375,
+        206.8556365966797
+      ],
+      "left_indent": 238.28399658203125,
+      "width": 122.54998779296875,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "Digital VLSI Design, Hardware Description, VLSI Technology, Reliability in VLSI",
+      "bbox": [
+        60.32600402832031,
+        210.81704711914062,
+        419.3680419921875,
+        220.77964782714844
+      ],
+      "left_indent": 60.32600402832031,
+      "width": 359.0420379638672,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "SCHOLASTIC ACHIEVEMENTS",
+      "bbox": [
+        212.60299682617188,
+        226.70803833007812,
+        386.5002136230469,
+        236.67063903808594
+      ],
+      "left_indent": 212.60299682617188,
+      "width": 173.897216796875,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "• Secured 99.68%ile in GATE 2019 (EC) among 1,04,782 appeared candidates",
+      "bbox": [
+        54.94200134277344,
+        237.85400390625,
+        420.23919677734375,
+        250.386962890625
+      ],
+      "left_indent": 54.94200134277344,
+      "width": 365.2971954345703,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "[2019]",
+      "bbox": [
+        527.751953125,
+        239.71701049804688,
+        554.2225952148438,
+        249.6796112060547
+      ],
+      "left_indent": 527.751953125,
+      "width": 26.47064208984375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "• Secured 1st position among 62 students in 12th std.",
+      "bbox": [
+        54.94195556640625,
+        251.99102783203125,
+        299.2032775878906,
+        264.52398681640625
+      ],
+      "left_indent": 54.94195556640625,
+      "width": 244.26132202148438,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "[2014]",
+      "bbox": [
+        527.7509765625,
+        253.85403442382812,
+        554.2216186523438,
+        263.816650390625
+      ],
+      "left_indent": 527.7509765625,
+      "width": 26.47064208984375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "• Secured 1st position in class and 21 state rank in International Olympiad of Mathematics",
+      "bbox": [
+        54.941986083984375,
+        266.12701416015625,
+        472.6745300292969,
+        278.65997314453125
+      ],
+      "left_indent": 54.941986083984375,
+      "width": 417.7325439453125,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "[2012]",
+      "bbox": [
+        527.7509765625,
+        267.9900207519531,
+        554.2216186523438,
+        277.95263671875
+      ],
+      "left_indent": 527.7509765625,
+      "width": 26.47064208984375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "MAJOR PROJECTS AND SEMINAR",
+      "bbox": [
+        201.22900390625,
+        283.2750549316406,
+        397.8708190917969,
+        293.2376708984375
+      ],
+      "left_indent": 201.22900390625,
+      "width": 196.64181518554688,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "• M.Tech Project: Negative Bias Temperature Instability (NBTI) aging framework for analog and",
+      "bbox": [
+        54.94200134277344,
+        294.4210205078125,
+        555.232177734375,
+        306.9539794921875
+      ],
+      "left_indent": 54.94200134277344,
+      "width": 500.29017639160156,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "digital circuits",
+      "bbox": [
+        64.90299987792969,
+        308.2390441894531,
+        136.9724578857422,
+        318.20166015625
+      ],
+      "left_indent": 64.90299987792969,
+      "width": 72.0694580078125,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "[May’20 - Present]",
+      "bbox": [
+        472.7249755859375,
+        308.2390441894531,
+        554.2290649414062,
+        318.20166015625
+      ],
+      "left_indent": 472.7249755859375,
+      "width": 81.50408935546875,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "Guide: Prof. Souvik Mahapatra, Department of Electrical Engineering, IIT Bombay",
+      "bbox": [
+        64.90298461914062,
+        320.1950378417969,
+        434.3199768066406,
+        330.15765380859375
+      ],
+      "left_indent": 64.90298461914062,
+      "width": 369.4169921875,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "Completed Work:",
+      "bbox": [
+        70.57298278808594,
+        332.1500244140625,
+        159.3696746826172,
+        342.1126403808594
+      ],
+      "left_indent": 70.57298278808594,
+      "width": 88.79669189453125,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "◦ Study of causes of various subcomponents of NBTI and their impact on circuit aging",
+      "bbox": [
+        76.8589859008789,
+        342.323974609375,
+        474.3873596191406,
+        359.60906982421875
+      ],
+      "left_indent": 76.8589859008789,
+      "width": 397.5283737182617,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "◦ Implemented the compact model and auto parameter extraction for various subcomponents of NBTI",
+      "bbox": [
+        76.85897827148438,
+        353.81597900390625,
+        552.131103515625,
+        371.10107421875
+      ],
+      "left_indent": 76.85897827148438,
+      "width": 475.2721252441406,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "◦ Implementation was done using Python",
+      "bbox": [
+        76.85897827148438,
+        365.3069763183594,
+        264.712890625,
+        382.5920715332031
+      ],
+      "left_indent": 76.85897827148438,
+      "width": 187.85391235351562,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "Ongoing & Future Work:",
+      "bbox": [
+        70.57296752929688,
+        378.1980285644531,
+        196.61981201171875,
+        388.16064453125
+      ],
+      "left_indent": 70.57296752929688,
+      "width": 126.04684448242188,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "◦ Developing Circuit Aging Reliability Analysis Tool (CARAT) that can be integrated with commercial",
+      "bbox": [
+        76.85897064208984,
+        391.20697021484375,
+        555.2789916992188,
+        408.4920654296875
+      ],
+      "left_indent": 76.85897064208984,
+      "width": 478.4200210571289,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "EDA tools for reliability analysis",
+      "bbox": [
+        86.82095336914062,
+        403.4110107421875,
+        230.14292907714844,
+        413.3736267089844
+      ],
+      "left_indent": 86.82095336914062,
+      "width": 143.3219757080078,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "◦ Modiﬁcation in the current compact model to design a Universal Model",
+      "bbox": [
+        76.85895538330078,
+        414.6529541015625,
+        400.03515625,
+        431.93804931640625
+      ],
+      "left_indent": 76.85895538330078,
+      "width": 323.1762008666992,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "◦ Developing Dynamic Voltage Frequency Scaling (DVFS) compatible cycle by cycle compact model",
+      "bbox": [
+        76.85895538330078,
+        426.14495849609375,
+        516.4979858398438,
+        443.4300537109375
+      ],
+      "left_indent": 76.85895538330078,
+      "width": 439.63903045654297,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "• M.Tech Seminar : Overview of NBTI from Device to Circuit Level",
+      "bbox": [
+        54.94195556640625,
+        438.9110107421875,
+        400.5728759765625,
+        451.4439697265625
+      ],
+      "left_indent": 54.94195556640625,
+      "width": 345.63092041015625,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "[Jan’20 - May’20]",
+      "bbox": [
+        477.1799621582031,
+        440.7740173339844,
+        554.230712890625,
+        450.73663330078125
+      ],
+      "left_indent": 477.1799621582031,
+      "width": 77.05075073242188,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "Guide: Prof. Souvik Mahapatra, Department of Electrical Engineering, IIT Bombay",
+      "bbox": [
+        64.9029541015625,
+        452.72900390625,
+        434.3199462890625,
+        462.6916198730469
+      ],
+      "left_indent": 64.9029541015625,
+      "width": 369.4169921875,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "◦ Studied the eﬀect of NBTI in p-FETs",
+      "bbox": [
+        76.85894775390625,
+        464.0889587402344,
+        260.70550537109375,
+        481.3740539550781
+      ],
+      "left_indent": 76.85894775390625,
+      "width": 183.8465576171875,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "◦ Learned to use CARAT (Circuit Aging Reliability Analysis Tool), which is currently in development phase",
+      "bbox": [
+        76.85894775390625,
+        475.5799560546875,
+        552.0842895507812,
+        492.86505126953125
+      ],
+      "left_indent": 76.85894775390625,
+      "width": 475.225341796875,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "◦ Simulated CARAT for various circuits like inverter, Sense Ampliﬁer, seven stage ring oscillator, etc.",
+      "bbox": [
+        76.85894775390625,
+        487.07196044921875,
+        522.5650634765625,
+        504.3570556640625
+      ],
+      "left_indent": 76.85894775390625,
+      "width": 445.70611572265625,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "• B.Tech Project: Liquid Level Indicator",
+      "bbox": [
+        54.94194793701172,
+        498.1889953613281,
+        260.7178649902344,
+        510.7219543457031
+      ],
+      "left_indent": 54.94194793701172,
+      "width": 205.77591705322266,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "[Autumn’16]",
+      "bbox": [
+        500.9959411621094,
+        500.052001953125,
+        554.2261962890625,
+        510.0146179199219
+      ],
+      "left_indent": 500.9959411621094,
+      "width": 53.230255126953125,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "Guide: Prof. M. Raja, NIT Uttarakhand, Srinagar (Garhwal)",
+      "bbox": [
+        64.9029541015625,
+        512.0070190429688,
+        338.4996337890625,
+        521.9696044921875
+      ],
+      "left_indent": 64.9029541015625,
+      "width": 273.5966796875,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "◦ Made use of ultrasonic sensor, bluetooth module and Arduino board to predict the liquid level",
+      "bbox": [
+        76.85894775390625,
+        523.366943359375,
+        499.3224792480469,
+        540.6520385742188
+      ],
+      "left_indent": 76.85894775390625,
+      "width": 422.4635314941406,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "◦ Eﬃcient and fast system which can be buzzer alarm enabled",
+      "bbox": [
+        76.85894775390625,
+        534.8579711914062,
+        350.9095458984375,
+        552.14306640625
+      ],
+      "left_indent": 76.85894775390625,
+      "width": 274.05059814453125,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "◦ The system can be controlled using mobile phone",
+      "bbox": [
+        76.85894775390625,
+        546.3489379882812,
+        302.60089111328125,
+        563.634033203125
+      ],
+      "left_indent": 76.85894775390625,
+      "width": 225.741943359375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "RELEVANT COURSES",
+      "bbox": [
+        238.60299682617188,
+        562.944091796875,
+        360.5054016113281,
+        572.9066772460938
+      ],
+      "left_indent": 238.60299682617188,
+      "width": 121.90240478515625,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "- VLSI Design (Digital)",
+      "bbox": [
+        78.625,
+        580.26708984375,
+        181.4888458251953,
+        590.2296752929688
+      ],
+      "left_indent": 78.625,
+      "width": 102.86384582519531,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "- Processor Design",
+      "bbox": [
+        238.34539794921875,
+        580.26708984375,
+        319.07232666015625,
+        590.2296752929688
+      ],
+      "left_indent": 238.34539794921875,
+      "width": 80.7269287109375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "- VLSI Design Lab",
+      "bbox": [
+        395.047119140625,
+        580.26708984375,
+        477.14886474609375,
+        590.2296752929688
+      ],
+      "left_indent": 395.047119140625,
+      "width": 82.10174560546875,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "- VLSI Technology",
+      "bbox": [
+        78.625,
+        592.2230834960938,
+        160.3979949951172,
+        602.1856689453125
+      ],
+      "left_indent": 78.625,
+      "width": 81.77299499511719,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "- Solid State Devices",
+      "bbox": [
+        238.33541870117188,
+        592.2230834960938,
+        328.74603271484375,
+        602.1856689453125
+      ],
+      "left_indent": 238.33541870117188,
+      "width": 90.41061401367188,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "- Physics of Transistors",
+      "bbox": [
+        395.0570983886719,
+        592.2230834960938,
+        496.8050842285156,
+        602.1856689453125
+      ],
+      "left_indent": 395.0570983886719,
+      "width": 101.74798583984375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "- Microelectronics Simulation Lab",
+      "bbox": [
+        78.625,
+        604.1781005859375,
+        226.3802947998047,
+        614.1406860351562
+      ],
+      "left_indent": 78.625,
+      "width": 147.7552947998047,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "- Microelectronics Lab (Fab)",
+      "bbox": [
+        238.3453826904297,
+        604.1781005859375,
+        363.2565002441406,
+        614.1406860351562
+      ],
+      "left_indent": 238.3453826904297,
+      "width": 124.91111755371094,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "TECHNICAL SKILLS",
+      "bbox": [
+        242.781005859375,
+        623.5550537109375,
+        356.31475830078125,
+        633.5176391601562
+      ],
+      "left_indent": 242.781005859375,
+      "width": 113.53375244140625,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "Tools & Hardware Platforms :",
+      "bbox": [
+        64.88900756835938,
+        639.4610595703125,
+        216.9182586669922,
+        649.4236450195312
+      ],
+      "left_indent": 64.88900756835938,
+      "width": 152.0292510986328,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "Programming Languages:",
+      "bbox": [
+        303.61279296875,
+        639.4610595703125,
+        431.2634582519531,
+        649.4236450195312
+      ],
+      "left_indent": 303.61279296875,
+      "width": 127.65066528320312,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "Altera Quartus Prime, Xilinx Vivado HLS, NGSpice,",
+      "bbox": [
+        64.88900756835938,
+        651.4160766601562,
+        291.6976013183594,
+        661.378662109375
+      ],
+      "left_indent": 64.88900756835938,
+      "width": 226.80859375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "Verilog",
+      "bbox": [
+        303.614990234375,
+        651.4160766601562,
+        334.0905456542969,
+        661.378662109375
+      ],
+      "left_indent": 303.614990234375,
+      "width": 30.475555419921875,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "HDL,",
+      "bbox": [
+        343.674560546875,
+        651.4160766601562,
+        367.74420166015625,
+        661.378662109375
+      ],
+      "left_indent": 343.674560546875,
+      "width": 24.06964111328125,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "Python,",
+      "bbox": [
+        377.3381652832031,
+        651.4160766601562,
+        412.0777893066406,
+        661.378662109375
+      ],
+      "left_indent": 377.3381652832031,
+      "width": 34.7396240234375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "MATLAB,",
+      "bbox": [
+        423.23590087890625,
+        651.4160766601562,
+        469.7214050292969,
+        661.378662109375
+      ],
+      "left_indent": 423.23590087890625,
+      "width": 46.485504150390625,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "VHDL,",
+      "bbox": [
+        479.31536865234375,
+        651.4160766601562,
+        510.8569641113281,
+        661.378662109375
+      ],
+      "left_indent": 479.31536865234375,
+      "width": 31.541595458984375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "C,",
+      "bbox": [
+        520.450927734375,
+        651.4160766601562,
+        530.403564453125,
+        661.378662109375
+      ],
+      "left_indent": 520.450927734375,
+      "width": 9.95263671875,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "HSpice, MATLAB, TCAD, Cadence",
+      "bbox": [
+        64.88900756835938,
+        663.3720703125,
+        223.04530334472656,
+        673.3346557617188
+      ],
+      "left_indent": 64.88900756835938,
+      "width": 158.1562957763672,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "8085(assembly)",
+      "bbox": [
+        303.614990234375,
+        663.3720703125,
+        370.1252746582031,
+        673.3346557617188
+      ],
+      "left_indent": 303.614990234375,
+      "width": 66.51028442382812,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "TRAINING & WORKSHOPS",
+      "bbox": [
+        222.9250030517578,
+        679.1961059570312,
+        376.1596984863281,
+        689.15869140625
+      ],
+      "left_indent": 222.9250030517578,
+      "width": 153.2346954345703,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "• Summer Trainee at IRDE (DRDO)",
+      "bbox": [
+        54.94200134277344,
+        690.343017578125,
+        242.29702758789062,
+        702.8759765625
+      ],
+      "left_indent": 54.94200134277344,
+      "width": 187.3550262451172,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "[May’17 - June’17]",
+      "bbox": [
+        468.0040283203125,
+        692.2060546875,
+        550.9129028320312,
+        702.1686401367188
+      ],
+      "left_indent": 468.0040283203125,
+      "width": 82.90887451171875,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "◦ Implemented 8051 microcontroller on FPGA using Verilog HDL",
+      "bbox": [
+        76.85903930664062,
+        703.1809692382812,
+        366.0328063964844,
+        720.466064453125
+      ],
+      "left_indent": 76.85903930664062,
+      "width": 289.17376708984375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "• Training at BSNL Exchange",
+      "bbox": [
+        54.942039489746094,
+        713.2120361328125,
+        206.51145935058594,
+        725.7449951171875
+      ],
+      "left_indent": 54.942039489746094,
+      "width": 151.56941986083984,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "[May’16 - June’16]",
+      "bbox": [
+        471.3250427246094,
+        715.0750732421875,
+        554.23388671875,
+        725.0376586914062
+      ],
+      "left_indent": 471.3250427246094,
+      "width": 82.90884399414062,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "• Attended introductory workshop on ”Nanofabrication Technologies” at Centre for Nano Science",
+      "bbox": [
+        54.942047119140625,
+        727.3490600585938,
+        555.2820434570312,
+        739.8820190429688
+      ],
+      "left_indent": 54.942047119140625,
+      "width": 500.3399963378906,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "and Engineering, IISc Bangalore",
+      "bbox": [
+        64.90304565429688,
+        741.1671142578125,
+        228.2299346923828,
+        751.1296997070312
+      ],
+      "left_indent": 64.90304565429688,
+      "width": 163.32688903808594,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "[Apr’17]",
+      "bbox": [
+        518.1820068359375,
+        741.1671142578125,
+        554.2267456054688,
+        751.1296997070312
+      ],
+      "left_indent": 518.1820068359375,
+      "width": 36.04473876953125,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "• Attended 7 day workshop on ”FPGA based SoC Design” organized by E&ICT Academy, IIT",
+      "bbox": [
+        54.9420166015625,
+        753.4410400390625,
+        555.2919311523438,
+        765.9739990234375
+      ],
+      "left_indent": 54.9420166015625,
+      "width": 500.34991455078125,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "Roorkee",
+      "bbox": [
+        64.90301513671875,
+        767.2590942382812,
+        106.22787475585938,
+        777.2216796875
+      ],
+      "left_indent": 64.90301513671875,
+      "width": 41.324859619140625,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "[Dec’16]",
+      "bbox": [
+        518.7020263671875,
+        767.2590942382812,
+        554.228759765625,
+        777.2216796875
+      ],
+      "left_indent": 518.7020263671875,
+      "width": 35.5267333984375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "KEY COURSE PROJECTS & ASSIGNMENTS",
+      "bbox": [
+        177.68600463867188,
+        57.24106216430664,
+        421.4209899902344,
+        67.20365905761719
+      ],
+      "left_indent": 177.68600463867188,
+      "width": 243.7349853515625,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• 32-bit Brent Kung adder",
+      "bbox": [
+        54.94200134277344,
+        69.64307403564453,
+        189.95358276367188,
+        82.176025390625
+      ],
+      "left_indent": 54.94200134277344,
+      "width": 135.01158142089844,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "[Autumn’19]",
+      "bbox": [
+        500.99700927734375,
+        71.5060806274414,
+        554.2272338867188,
+        81.46867370605469
+      ],
+      "left_indent": 500.99700927734375,
+      "width": 53.230224609375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "Guide: Prof. Dinesh Kumar Sharma, VLSI Design",
+      "bbox": [
+        64.90301513671875,
+        83.46109771728516,
+        292.3629455566406,
+        93.42369079589844
+      ],
+      "left_indent": 64.90301513671875,
+      "width": 227.45993041992188,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "◦ Designed 32-bit Brent Kung adder with its hardware description in synthisizable VHDL",
+      "bbox": [
+        76.8590087890625,
+        94.54503631591797,
+        471.1282653808594,
+        111.83014678955078
+      ],
+      "left_indent": 76.8590087890625,
+      "width": 394.2692565917969,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• 16-bit Dadda Multiplier",
+      "bbox": [
+        54.94200897216797,
+        105.98407745361328,
+        185.2113800048828,
+        118.51702880859375
+      ],
+      "left_indent": 54.94200897216797,
+      "width": 130.26937103271484,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "[Autumn’19]",
+      "bbox": [
+        500.9960021972656,
+        107.84708404541016,
+        554.2262573242188,
+        117.80967712402344
+      ],
+      "left_indent": 500.9960021972656,
+      "width": 53.230255126953125,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "Guide: Prof. Dinesh Kumar Sharma, VLSI Design",
+      "bbox": [
+        64.90301513671875,
+        119.8021011352539,
+        292.3629455566406,
+        129.7646942138672
+      ],
+      "left_indent": 64.90301513671875,
+      "width": 227.45993041992188,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "◦ Designed a Dadda multiplier for unsigned 16x16 bit multiplication using VHDL",
+      "bbox": [
+        76.8590087890625,
+        130.885009765625,
+        461.4830017089844,
+        148.1701202392578
+      ],
+      "left_indent": 76.8590087890625,
+      "width": 384.6239929199219,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "◦ Identiﬁed the critical paths and computed the critical path delay",
+      "bbox": [
+        76.85897827148438,
+        143.2860107421875,
+        382.0775146484375,
+        160.5711212158203
+      ],
+      "left_indent": 76.85897827148438,
+      "width": 305.2185363769531,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Layout of 16-bit Brent Kung adder",
+      "bbox": [
+        54.94197082519531,
+        154.72406005859375,
+        241.24099731445312,
+        167.25701904296875
+      ],
+      "left_indent": 54.94197082519531,
+      "width": 186.2990264892578,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "[Autumn’19]",
+      "bbox": [
+        500.9959716796875,
+        156.58706665039062,
+        554.2261962890625,
+        166.54966735839844
+      ],
+      "left_indent": 500.9959716796875,
+      "width": 53.230224609375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "Guide: Prof. Dinesh Kumar Sharma, VLSI Design",
+      "bbox": [
+        64.90298461914062,
+        168.54208374023438,
+        292.3629150390625,
+        178.5046844482422
+      ],
+      "left_indent": 64.90298461914062,
+      "width": 227.45993041992188,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "◦ Implemented the design of 16-bit Brent Kung adder in Cadence",
+      "bbox": [
+        76.85897827148438,
+        179.62603759765625,
+        370.836669921875,
+        196.91114807128906
+      ],
+      "left_indent": 76.85897827148438,
+      "width": 293.9776916503906,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "◦ Implemented its layout, back-extracted and simulated (at circuit level) using Cadence",
+      "bbox": [
+        76.85897827148438,
+        192.02606201171875,
+        485.6064758300781,
+        209.31117248535156
+      ],
+      "left_indent": 76.85897827148438,
+      "width": 408.74749755859375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• 32-bit Floating-point multiplier",
+      "bbox": [
+        54.941986083984375,
+        203.465087890625,
+        222.222412109375,
+        215.998046875
+      ],
+      "left_indent": 54.941986083984375,
+      "width": 167.28042602539062,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "[Spring’20]",
+      "bbox": [
+        506.7469787597656,
+        205.32809448242188,
+        554.2288208007812,
+        215.2906951904297
+      ],
+      "left_indent": 506.7469787597656,
+      "width": 47.481842041015625,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "Guide: Prof. Sachin Patkar, VLSI Design Lab",
+      "bbox": [
+        64.90298461914062,
+        217.28311157226562,
+        272.2185363769531,
+        227.24571228027344
+      ],
+      "left_indent": 64.90298461914062,
+      "width": 207.3155517578125,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "◦ Designed a purely combinational 32-bit ﬂoating-point multiplier using Verilog HDL",
+      "bbox": [
+        76.85897827148438,
+        228.3670654296875,
+        459.5506896972656,
+        245.6521759033203
+      ],
+      "left_indent": 76.85897827148438,
+      "width": 382.69171142578125,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "◦ Performed RTL and Gate-level simulation in ModelSim and tested the design on Altera DE0 Nano FPGA",
+      "bbox": [
+        76.85896301269531,
+        240.76708984375,
+        555.2767944335938,
+        258.05218505859375
+      ],
+      "left_indent": 76.85896301269531,
+      "width": 478.41783142089844,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Fabricated diode, BJT and MOSFET",
+      "bbox": [
+        54.94195556640625,
+        252.20611572265625,
+        252.29945373535156,
+        264.73907470703125
+      ],
+      "left_indent": 54.94195556640625,
+      "width": 197.3574981689453,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "[Spring’20]",
+      "bbox": [
+        506.7469482421875,
+        254.06912231445312,
+        554.2288208007812,
+        264.03173828125
+      ],
+      "left_indent": 506.7469482421875,
+      "width": 47.48187255859375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "Guide: Prof. Saurabh Lodha, Microelectronics Lab",
+      "bbox": [
+        64.9029541015625,
+        266.0241394042969,
+        288.2283935546875,
+        275.98675537109375
+      ],
+      "left_indent": 64.9029541015625,
+      "width": 223.325439453125,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "◦ Fabricated diode, BJT and MOSFET on 2 inch wafer",
+      "bbox": [
+        76.85894775390625,
+        277.10809326171875,
+        329.01678466796875,
+        294.3931884765625
+      ],
+      "left_indent": 76.85894775390625,
+      "width": 252.1578369140625,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "◦ Used 4 diﬀerent masks to fabricate the devices",
+      "bbox": [
+        76.85894775390625,
+        289.50811767578125,
+        301.7184143066406,
+        306.793212890625
+      ],
+      "left_indent": 76.85894775390625,
+      "width": 224.85946655273438,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• MOSFET Characterization",
+      "bbox": [
+        54.94194030761719,
+        300.9461669921875,
+        200.86253356933594,
+        313.4791259765625
+      ],
+      "left_indent": 54.94194030761719,
+      "width": 145.92059326171875,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "[Spring’20]",
+      "bbox": [
+        506.7469482421875,
+        302.8091735839844,
+        554.2288208007812,
+        312.77178955078125
+      ],
+      "left_indent": 506.7469482421875,
+      "width": 47.48187255859375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "Guide: Prof. Saurabh Lodha, Microelectronics Lab",
+      "bbox": [
+        64.9029541015625,
+        314.7651672363281,
+        288.2283935546875,
+        324.727783203125
+      ],
+      "left_indent": 64.9029541015625,
+      "width": 223.325439453125,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "◦ Characterized MOSFETs with varying W/L ratios",
+      "bbox": [
+        76.85894775390625,
+        325.8481140136719,
+        308.0504150390625,
+        343.1332092285156
+      ],
+      "left_indent": 76.85894775390625,
+      "width": 231.19146728515625,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "◦ Observed various short-channel eﬀects like Gate Induced Drain Leakage (GIDL) , Drain Induced",
+      "bbox": [
+        76.85894775390625,
+        338.2491149902344,
+        555.2716674804688,
+        355.5342102050781
+      ],
+      "left_indent": 76.85894775390625,
+      "width": 478.4127197265625,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "Barrier Lowering (DIBL) and mobility degradation",
+      "bbox": [
+        86.82095336914062,
+        350.4531555175781,
+        340.51373291015625,
+        360.415771484375
+      ],
+      "left_indent": 86.82095336914062,
+      "width": 253.69277954101562,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Pao-Sah and Brews models for MOSFET",
+      "bbox": [
+        54.94194030761719,
+        361.64215087890625,
+        271.5771484375,
+        374.17510986328125
+      ],
+      "left_indent": 54.94194030761719,
+      "width": 216.6352081298828,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "[Spring’20]",
+      "bbox": [
+        506.7469482421875,
+        363.5051574707031,
+        554.2288208007812,
+        373.4677734375
+      ],
+      "left_indent": 506.7469482421875,
+      "width": 47.48187255859375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "Guide: Prof. Souvik Mahapatra, Physics of Transistors",
+      "bbox": [
+        64.9029541015625,
+        375.4611511230469,
+        309.7376403808594,
+        385.42376708984375
+      ],
+      "left_indent": 64.9029541015625,
+      "width": 244.83468627929688,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "◦ Implemented the Pao-Sah and Brews models for MOSFET in MATLAB",
+      "bbox": [
+        76.85795593261719,
+        386.5440979003906,
+        408.9972839355469,
+        403.8291931152344
+      ],
+      "left_indent": 76.85795593261719,
+      "width": 332.1393280029297,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "◦ Observed Id-Vd characteristics for Pao-Sah, Brews and Compact model for MOSFET",
+      "bbox": [
+        76.85794067382812,
+        398.9450988769531,
+        461.3948669433594,
+        416.2301940917969
+      ],
+      "left_indent": 76.85794067382812,
+      "width": 384.53692626953125,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• TCAD simulation (sprocess and sdevice) for fabrication of pn junction",
+      "bbox": [
+        54.94194030761719,
+        410.3831481933594,
+        419.3522644042969,
+        422.9161071777344
+      ],
+      "left_indent": 54.94194030761719,
+      "width": 364.4103240966797,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "[Autumn’19]",
+      "bbox": [
+        500.99591064453125,
+        412.24615478515625,
+        554.2261352539062,
+        422.2087707519531
+      ],
+      "left_indent": 500.99591064453125,
+      "width": 53.230224609375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "Guide: Prof. Swaroop Ganguly, Microelectronics Simulations Lab",
+      "bbox": [
+        64.90292358398438,
+        424.2011413574219,
+        354.1210021972656,
+        434.16375732421875
+      ],
+      "left_indent": 64.90292358398438,
+      "width": 289.21807861328125,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "◦ Created a n + p junction of 100nm depth and 150nm width with uniform n-side doping",
+      "bbox": [
+        76.85792541503906,
+        434.1607666015625,
+        462.4458923339844,
+        452.5701904296875
+      ],
+      "left_indent": 76.85792541503906,
+      "width": 385.5879669189453,
+      "is_bold": false,
+      "font_size": 9.464466492335001
+    },
+    {
+      "page": 2,
+      "text": "◦ Observed the eﬀect of implant energy and implant dose on peak concentration and junction depth",
+      "bbox": [
+        76.85790252685547,
+        447.6850891113281,
+        515.7409057617188,
+        464.9701843261719
+      ],
+      "left_indent": 76.85790252685547,
+      "width": 438.8830032348633,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "POSITIONS OF RESPONSIBILITY",
+      "bbox": [
+        204.58700561523438,
+        465.33905029296875,
+        390.4093933105469,
+        475.3016662597656
+      ],
+      "left_indent": 204.58700561523438,
+      "width": 185.8223876953125,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Department Coordinator (DC), Institute Student Companion Programme (ISCP) [Apr’20 - Present]",
+      "bbox": [
+        54.94200134277344,
+        479.1580505371094,
+        554.2274169921875,
+        491.6910095214844
+      ],
+      "left_indent": 54.94200134277344,
+      "width": 499.28541564941406,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "◦ Selected one amongst 31 DCs out of 89 applicants based on Interviews, Peer Review and SOP",
+      "bbox": [
+        76.85897827148438,
+        492.1050109863281,
+        511.7293395996094,
+        509.3901062011719
+      ],
+      "left_indent": 76.85897827148438,
+      "width": 434.870361328125,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "◦ Leading a team of 19 Student Companions to organize formal and informal sessions for 161 new entrants",
+      "bbox": [
+        76.85896301269531,
+        504.5050048828125,
+        555.3064575195312,
+        521.7901000976562
+      ],
+      "left_indent": 76.85896301269531,
+      "width": 478.44749450683594,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "in the department to help them on academic and non academic fronts",
+      "bbox": [
+        86.82093811035156,
+        516.7091064453125,
+        392.2045593261719,
+        526.6716918945312
+      ],
+      "left_indent": 86.82093811035156,
+      "width": 305.3836212158203,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "◦ Mentoring 10 students throughout the year helping them on academic and non-academic fronts during",
+      "bbox": [
+        76.85894012451172,
+        528.8610229492188,
+        555.3381958007812,
+        546.1461181640625
+      ],
+      "left_indent": 76.85894012451172,
+      "width": 478.47925567626953,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "the Covid-19 pandemic",
+      "bbox": [
+        86.8209457397461,
+        541.0650634765625,
+        187.562744140625,
+        551.0276489257812
+      ],
+      "left_indent": 86.8209457397461,
+      "width": 100.7417984008789,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Teaching Assistant, Microprocessors (EE309) course",
+      "bbox": [
+        54.94194793701172,
+        551.7559814453125,
+        327.4672546386719,
+        564.2889404296875
+      ],
+      "left_indent": 54.94194793701172,
+      "width": 272.52530670166016,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "[Autumn’20]",
+      "bbox": [
+        500.9969482421875,
+        553.6190185546875,
+        554.2271728515625,
+        563.5816040039062
+      ],
+      "left_indent": 500.9969482421875,
+      "width": 53.230224609375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "◦ Assisting the instructor in smooth functioning of online classes, conducting and evaluating online tests",
+      "bbox": [
+        76.85894775390625,
+        564.7029418945312,
+        534.4205932617188,
+        581.988037109375
+      ],
+      "left_indent": 76.85894775390625,
+      "width": 457.5616455078125,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Teaching Assistant, Introduction to Electrical and Electronic Circuits (EE101) course [Autumn’19]",
+      "bbox": [
+        54.94194793701172,
+        575.6430053710938,
+        554.2271728515625,
+        588.1759643554688
+      ],
+      "left_indent": 54.94194793701172,
+      "width": 499.2852249145508,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "◦ Assisted & apprised course work for better learning of students",
+      "bbox": [
+        76.85894775390625,
+        588.5899658203125,
+        362.7550354003906,
+        605.8750610351562
+      ],
+      "left_indent": 76.85894775390625,
+      "width": 285.8960876464844,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "◦ Responsible for evaluation of examination papers & assignments, invigilation in tests etc in the course",
+      "bbox": [
+        76.85894775390625,
+        600.9899291992188,
+        532.8565063476562,
+        618.2750244140625
+      ],
+      "left_indent": 76.85894775390625,
+      "width": 455.99755859375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Training and Placement Coordinator (ECE), NIT Uttarakhand",
+      "bbox": [
+        54.94194793701172,
+        611.9310302734375,
+        382.6202087402344,
+        624.4639892578125
+      ],
+      "left_indent": 54.94194793701172,
+      "width": 327.67826080322266,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "[Aug’17 - May’18]",
+      "bbox": [
+        475.00494384765625,
+        613.7940673828125,
+        554.2374877929688,
+        623.7566528320312
+      ],
+      "left_indent": 475.00494384765625,
+      "width": 79.2325439453125,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "◦ Responsible for contacting various companies for campus recruitment drive",
+      "bbox": [
+        76.85894775390625,
+        624.8779907226562,
+        414.5307312011719,
+        642.1630859375
+      ],
+      "left_indent": 76.85894775390625,
+      "width": 337.6717834472656,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "◦ Responsible for maintaining Corporate Relations of the institute",
+      "bbox": [
+        76.85894775390625,
+        637.2779541015625,
+        382.26556396484375,
+        654.5630493164062
+      ],
+      "left_indent": 76.85894775390625,
+      "width": 305.4066162109375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Group Leader in Community Project, NIT Uttarakhand",
+      "bbox": [
+        54.94195556640625,
+        648.218017578125,
+        348.4285583496094,
+        660.7509765625
+      ],
+      "left_indent": 54.94195556640625,
+      "width": 293.4866027832031,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "[Spring’16]",
+      "bbox": [
+        506.7469482421875,
+        650.0810546875,
+        554.2288208007812,
+        660.0436401367188
+      ],
+      "left_indent": 506.7469482421875,
+      "width": 47.48187255859375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "◦ Conducted a free Dental Checkup Camp in a village Supana, near Srinagar (Garhwal)",
+      "bbox": [
+        76.85894775390625,
+        661.1649780273438,
+        481.36248779296875,
+        678.4500732421875
+      ],
+      "left_indent": 76.85894775390625,
+      "width": 404.5035400390625,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Head Boy of the School, XII std.(Brooklyn School, Dehradun)",
+      "bbox": [
+        54.94197082519531,
+        672.10498046875,
+        378.95391845703125,
+        684.637939453125
+      ],
+      "left_indent": 54.94197082519531,
+      "width": 324.01194763183594,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "[Apr’13 - Mar’14]",
+      "bbox": [
+        476.02398681640625,
+        673.968017578125,
+        554.2304077148438,
+        683.9306030273438
+      ],
+      "left_indent": 476.02398681640625,
+      "width": 78.2064208984375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "EXTRA CURRICULAR ACTIVITIES AND HOBBIES",
+      "bbox": [
+        157.94000244140625,
+        693.3441162109375,
+        441.166748046875,
+        703.3067016601562
+      ],
+      "left_indent": 157.94000244140625,
+      "width": 283.22674560546875,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Participated in Streetplay General Championship (GC) , and the team secured 2nd position",
+      "bbox": [
+        54.94200134277344,
+        709.998046875,
+        498.727783203125,
+        722.531005859375
+      ],
+      "left_indent": 54.94200134277344,
+      "width": 443.78578186035156,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "[March’20]",
+      "bbox": [
+        507.489013671875,
+        711.861083984375,
+        554.2335815429688,
+        721.8236694335938
+      ],
+      "left_indent": 507.489013671875,
+      "width": 46.74456787109375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Participated in Freshie Fashion Fiesta fashion show organized by StypeUp Club , IIT Bombay",
+      "bbox": [
+        54.9420166015625,
+        725.0870361328125,
+        497.0041198730469,
+        737.6199951171875
+      ],
+      "left_indent": 54.9420166015625,
+      "width": 442.0621032714844,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "[Aug’19]",
+      "bbox": [
+        517.7999877929688,
+        726.9500732421875,
+        554.2233276367188,
+        736.9126586914062
+      ],
+      "left_indent": 517.7999877929688,
+      "width": 36.42333984375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Social Events Coordinator , Cliﬀesto’17, NIT Uttarakhand",
+      "bbox": [
+        54.941986083984375,
+        740.1770629882812,
+        334.84124755859375,
+        752.7100219726562
+      ],
+      "left_indent": 54.941986083984375,
+      "width": 279.8992614746094,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "[Aug’16 - Feb’17]",
+      "bbox": [
+        478.9630126953125,
+        742.0401000976562,
+        554.2305297851562,
+        752.002685546875
+      ],
+      "left_indent": 478.9630126953125,
+      "width": 75.26751708984375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Participated in e-Yantra Robotics competition, IIT Bombay",
+      "bbox": [
+        54.9420166015625,
+        755.2660522460938,
+        339.06488037109375,
+        767.7990112304688
+      ],
+      "left_indent": 54.9420166015625,
+      "width": 284.12286376953125,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "[Nov’16 - Jan’17]",
+      "bbox": [
+        478.9630126953125,
+        757.1290893554688,
+        554.2205200195312,
+        767.0916748046875
+      ],
+      "left_indent": 478.9630126953125,
+      "width": 75.25750732421875,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Hobbies: Playing guitar, role-playing PC games, cycling",
+      "bbox": [
+        54.9420166015625,
+        770.3560180664062,
+        315.6099548339844,
+        782.8889770507812
+      ],
+      "left_indent": 54.9420166015625,
+      "width": 260.6679382324219,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "Scholastic achievements and extracurricular activities are not verified by the Placement Cell",
+      "bbox": [
+        130.65199279785156,
+        824.3309936523438,
+        465.8572998046875,
+        835.3200073242188
+      ],
+      "left_indent": 130.65199279785156,
+      "width": 335.20530700683594,
+      "is_bold": false,
+      "font_size": 9.0
+    }
+  ],
+  "text_per_page": [
+    "Akshay Raj\n193070076\nElectrical Engineering\nM.Tech.\nIndian Institute of Technology, Bombay\nGender: Male\nSpecialization: Solid State Devices\nDOB: 17-12-1997\nExamination\nUniversity\nInstitute\nYear\nCPI / %\nPost Graduation\nIIT Bombay\nIIT Bombay\n2021\n8.54\nGraduation\nNIT Uttarakhand\nNIT Uttarakhand\n2018\n8.54\nGraduation Specialization: ECE\nIntermediate\nISC\nBrooklyn School, Dehradun\n2014\n93.80%\nMatriculation\nICSE\nCarmel School, Chamba\n2012\n89.28%\nAREAS OF INTEREST\nDigital VLSI Design, Hardware Description, VLSI Technology, Reliability in VLSI\nSCHOLASTIC ACHIEVEMENTS\n• Secured 99.68%ile in GATE 2019 (EC) among 1,04,782 appeared candidates\n[2019]\n• Secured 1st position among 62 students in 12th std.\n[2014]\n• Secured 1st position in class and 21 state rank in International Olympiad of Mathematics\n[2012]\nMAJOR PROJECTS AND SEMINAR\n• M.Tech Project: Negative Bias Temperature Instability (NBTI) aging framework for analog and\ndigital circuits\n[May’20 - Present]\nGuide: Prof. Souvik Mahapatra, Department of Electrical Engineering, IIT Bombay\nCompleted Work:\n◦ Study of causes of various subcomponents of NBTI and their impact on circuit aging\n◦ Implemented the compact model and auto parameter extraction for various subcomponents of NBTI\n◦ Implementation was done using Python\nOngoing & Future Work:\n◦ Developing Circuit Aging Reliability Analysis Tool (CARAT) that can be integrated with commercial\nEDA tools for reliability analysis\n◦ Modiﬁcation in the current compact model to design a Universal Model\n◦ Developing Dynamic Voltage Frequency Scaling (DVFS) compatible cycle by cycle compact model\n• M.Tech Seminar : Overview of NBTI from Device to Circuit Level\n[Jan’20 - May’20]\nGuide: Prof. Souvik Mahapatra, Department of Electrical Engineering, IIT Bombay\n◦ Studied the eﬀect of NBTI in p-FETs\n◦ Learned to use CARAT (Circuit Aging Reliability Analysis Tool), which is currently in development phase\n◦ Simulated CARAT for various circuits like inverter, Sense Ampliﬁer, seven stage ring oscillator, etc.\n• B.Tech Project: Liquid Level Indicator\n[Autumn’16]\nGuide: Prof. M. Raja, NIT Uttarakhand, Srinagar (Garhwal)\n◦ Made use of ultrasonic sensor, bluetooth module and Arduino board to predict the liquid level\n◦ Eﬃcient and fast system which can be buzzer alarm enabled\n◦ The system can be controlled using mobile phone\nRELEVANT COURSES\n- VLSI Design (Digital)\n- Processor Design\n- VLSI Design Lab\n- VLSI Technology\n- Solid State Devices\n- Physics of Transistors\n- Microelectronics Simulation Lab\n- Microelectronics Lab (Fab)\nTECHNICAL SKILLS\nTools & Hardware Platforms :\nProgramming Languages:\nAltera Quartus Prime, Xilinx Vivado HLS, NGSpice,\nVerilog\nHDL,\nPython,\nMATLAB,\nVHDL,\nC,\nHSpice, MATLAB, TCAD, Cadence\n8085(assembly)\nTRAINING & WORKSHOPS\n• Summer Trainee at IRDE (DRDO)\n[May’17 - June’17]\n◦ Implemented 8051 microcontroller on FPGA using Verilog HDL\n• Training at BSNL Exchange\n[May’16 - June’16]\n• Attended introductory workshop on ”Nanofabrication Technologies” at Centre for Nano Science\nand Engineering, IISc Bangalore\n[Apr’17]\n• Attended 7 day workshop on ”FPGA based SoC Design” organized by E&ICT Academy, IIT\nRoorkee\n[Dec’16]",
+    "KEY COURSE PROJECTS & ASSIGNMENTS\n• 32-bit Brent Kung adder\n[Autumn’19]\nGuide: Prof. Dinesh Kumar Sharma, VLSI Design\n◦ Designed 32-bit Brent Kung adder with its hardware description in synthisizable VHDL\n• 16-bit Dadda Multiplier\n[Autumn’19]\nGuide: Prof. Dinesh Kumar Sharma, VLSI Design\n◦ Designed a Dadda multiplier for unsigned 16x16 bit multiplication using VHDL\n◦ Identiﬁed the critical paths and computed the critical path delay\n• Layout of 16-bit Brent Kung adder\n[Autumn’19]\nGuide: Prof. Dinesh Kumar Sharma, VLSI Design\n◦ Implemented the design of 16-bit Brent Kung adder in Cadence\n◦ Implemented its layout, back-extracted and simulated (at circuit level) using Cadence\n• 32-bit Floating-point multiplier\n[Spring’20]\nGuide: Prof. Sachin Patkar, VLSI Design Lab\n◦ Designed a purely combinational 32-bit ﬂoating-point multiplier using Verilog HDL\n◦ Performed RTL and Gate-level simulation in ModelSim and tested the design on Altera DE0 Nano FPGA\n• Fabricated diode, BJT and MOSFET\n[Spring’20]\nGuide: Prof. Saurabh Lodha, Microelectronics Lab\n◦ Fabricated diode, BJT and MOSFET on 2 inch wafer\n◦ Used 4 diﬀerent masks to fabricate the devices\n• MOSFET Characterization\n[Spring’20]\nGuide: Prof. Saurabh Lodha, Microelectronics Lab\n◦ Characterized MOSFETs with varying W/L ratios\n◦ Observed various short-channel eﬀects like Gate Induced Drain Leakage (GIDL) , Drain Induced\nBarrier Lowering (DIBL) and mobility degradation\n• Pao-Sah and Brews models for MOSFET\n[Spring’20]\nGuide: Prof. Souvik Mahapatra, Physics of Transistors\n◦ Implemented the Pao-Sah and Brews models for MOSFET in MATLAB\n◦ Observed Id-Vd characteristics for Pao-Sah, Brews and Compact model for MOSFET\n• TCAD simulation (sprocess and sdevice) for fabrication of pn junction\n[Autumn’19]\nGuide: Prof. Swaroop Ganguly, Microelectronics Simulations Lab\n◦ Created a n + p junction of 100nm depth and 150nm width with uniform n-side doping\n◦ Observed the eﬀect of implant energy and implant dose on peak concentration and junction depth\nPOSITIONS OF RESPONSIBILITY\n• Department Coordinator (DC), Institute Student Companion Programme (ISCP) [Apr’20 - Present]\n◦ Selected one amongst 31 DCs out of 89 applicants based on Interviews, Peer Review and SOP\n◦ Leading a team of 19 Student Companions to organize formal and informal sessions for 161 new entrants\nin the department to help them on academic and non academic fronts\n◦ Mentoring 10 students throughout the year helping them on academic and non-academic fronts during\nthe Covid-19 pandemic\n• Teaching Assistant, Microprocessors (EE309) course\n[Autumn’20]\n◦ Assisting the instructor in smooth functioning of online classes, conducting and evaluating online tests\n• Teaching Assistant, Introduction to Electrical and Electronic Circuits (EE101) course [Autumn’19]\n◦ Assisted & apprised course work for better learning of students\n◦ Responsible for evaluation of examination papers & assignments, invigilation in tests etc in the course\n• Training and Placement Coordinator (ECE), NIT Uttarakhand\n[Aug’17 - May’18]\n◦ Responsible for contacting various companies for campus recruitment drive\n◦ Responsible for maintaining Corporate Relations of the institute\n• Group Leader in Community Project, NIT Uttarakhand\n[Spring’16]\n◦ Conducted a free Dental Checkup Camp in a village Supana, near Srinagar (Garhwal)\n• Head Boy of the School, XII std.(Brooklyn School, Dehradun)\n[Apr’13 - Mar’14]\nEXTRA CURRICULAR ACTIVITIES AND HOBBIES\n• Participated in Streetplay General Championship (GC) , and the team secured 2nd position\n[March’20]\n• Participated in Freshie Fashion Fiesta fashion show organized by StypeUp Club , IIT Bombay\n[Aug’19]\n• Social Events Coordinator , Cliﬀesto’17, NIT Uttarakhand\n[Aug’16 - Feb’17]\n• Participated in e-Yantra Robotics competition, IIT Bombay\n[Nov’16 - Jan’17]\n• Hobbies: Playing guitar, role-playing PC games, cycling\nScholastic achievements and extracurricular activities are not verified by the Placement Cell"
+  ],
+  "text_all": "Akshay Raj\n193070076\nElectrical Engineering\nM.Tech.\nIndian Institute of Technology, Bombay\nGender: Male\nSpecialization: Solid State Devices\nDOB: 17-12-1997\nExamination\nUniversity\nInstitute\nYear\nCPI / %\nPost Graduation\nIIT Bombay\nIIT Bombay\n2021\n8.54\nGraduation\nNIT Uttarakhand\nNIT Uttarakhand\n2018\n8.54\nGraduation Specialization: ECE\nIntermediate\nISC\nBrooklyn School, Dehradun\n2014\n93.80%\nMatriculation\nICSE\nCarmel School, Chamba\n2012\n89.28%\nAREAS OF INTEREST\nDigital VLSI Design, Hardware Description, VLSI Technology, Reliability in VLSI\nSCHOLASTIC ACHIEVEMENTS\n• Secured 99.68%ile in GATE 2019 (EC) among 1,04,782 appeared candidates\n[2019]\n• Secured 1st position among 62 students in 12th std.\n[2014]\n• Secured 1st position in class and 21 state rank in International Olympiad of Mathematics\n[2012]\nMAJOR PROJECTS AND SEMINAR\n• M.Tech Project: Negative Bias Temperature Instability (NBTI) aging framework for analog and\ndigital circuits\n[May’20 - Present]\nGuide: Prof. Souvik Mahapatra, Department of Electrical Engineering, IIT Bombay\nCompleted Work:\n◦ Study of causes of various subcomponents of NBTI and their impact on circuit aging\n◦ Implemented the compact model and auto parameter extraction for various subcomponents of NBTI\n◦ Implementation was done using Python\nOngoing & Future Work:\n◦ Developing Circuit Aging Reliability Analysis Tool (CARAT) that can be integrated with commercial\nEDA tools for reliability analysis\n◦ Modiﬁcation in the current compact model to design a Universal Model\n◦ Developing Dynamic Voltage Frequency Scaling (DVFS) compatible cycle by cycle compact model\n• M.Tech Seminar : Overview of NBTI from Device to Circuit Level\n[Jan’20 - May’20]\nGuide: Prof. Souvik Mahapatra, Department of Electrical Engineering, IIT Bombay\n◦ Studied the eﬀect of NBTI in p-FETs\n◦ Learned to use CARAT (Circuit Aging Reliability Analysis Tool), which is currently in development phase\n◦ Simulated CARAT for various circuits like inverter, Sense Ampliﬁer, seven stage ring oscillator, etc.\n• B.Tech Project: Liquid Level Indicator\n[Autumn’16]\nGuide: Prof. M. Raja, NIT Uttarakhand, Srinagar (Garhwal)\n◦ Made use of ultrasonic sensor, bluetooth module and Arduino board to predict the liquid level\n◦ Eﬃcient and fast system which can be buzzer alarm enabled\n◦ The system can be controlled using mobile phone\nRELEVANT COURSES\n- VLSI Design (Digital)\n- Processor Design\n- VLSI Design Lab\n- VLSI Technology\n- Solid State Devices\n- Physics of Transistors\n- Microelectronics Simulation Lab\n- Microelectronics Lab (Fab)\nTECHNICAL SKILLS\nTools & Hardware Platforms :\nProgramming Languages:\nAltera Quartus Prime, Xilinx Vivado HLS, NGSpice,\nVerilog\nHDL,\nPython,\nMATLAB,\nVHDL,\nC,\nHSpice, MATLAB, TCAD, Cadence\n8085(assembly)\nTRAINING & WORKSHOPS\n• Summer Trainee at IRDE (DRDO)\n[May’17 - June’17]\n◦ Implemented 8051 microcontroller on FPGA using Verilog HDL\n• Training at BSNL Exchange\n[May’16 - June’16]\n• Attended introductory workshop on ”Nanofabrication Technologies” at Centre for Nano Science\nand Engineering, IISc Bangalore\n[Apr’17]\n• Attended 7 day workshop on ”FPGA based SoC Design” organized by E&ICT Academy, IIT\nRoorkee\n[Dec’16]\n\nKEY COURSE PROJECTS & ASSIGNMENTS\n• 32-bit Brent Kung adder\n[Autumn’19]\nGuide: Prof. Dinesh Kumar Sharma, VLSI Design\n◦ Designed 32-bit Brent Kung adder with its hardware description in synthisizable VHDL\n• 16-bit Dadda Multiplier\n[Autumn’19]\nGuide: Prof. Dinesh Kumar Sharma, VLSI Design\n◦ Designed a Dadda multiplier for unsigned 16x16 bit multiplication using VHDL\n◦ Identiﬁed the critical paths and computed the critical path delay\n• Layout of 16-bit Brent Kung adder\n[Autumn’19]\nGuide: Prof. Dinesh Kumar Sharma, VLSI Design\n◦ Implemented the design of 16-bit Brent Kung adder in Cadence\n◦ Implemented its layout, back-extracted and simulated (at circuit level) using Cadence\n• 32-bit Floating-point multiplier\n[Spring’20]\nGuide: Prof. Sachin Patkar, VLSI Design Lab\n◦ Designed a purely combinational 32-bit ﬂoating-point multiplier using Verilog HDL\n◦ Performed RTL and Gate-level simulation in ModelSim and tested the design on Altera DE0 Nano FPGA\n• Fabricated diode, BJT and MOSFET\n[Spring’20]\nGuide: Prof. Saurabh Lodha, Microelectronics Lab\n◦ Fabricated diode, BJT and MOSFET on 2 inch wafer\n◦ Used 4 diﬀerent masks to fabricate the devices\n• MOSFET Characterization\n[Spring’20]\nGuide: Prof. Saurabh Lodha, Microelectronics Lab\n◦ Characterized MOSFETs with varying W/L ratios\n◦ Observed various short-channel eﬀects like Gate Induced Drain Leakage (GIDL) , Drain Induced\nBarrier Lowering (DIBL) and mobility degradation\n• Pao-Sah and Brews models for MOSFET\n[Spring’20]\nGuide: Prof. Souvik Mahapatra, Physics of Transistors\n◦ Implemented the Pao-Sah and Brews models for MOSFET in MATLAB\n◦ Observed Id-Vd characteristics for Pao-Sah, Brews and Compact model for MOSFET\n• TCAD simulation (sprocess and sdevice) for fabrication of pn junction\n[Autumn’19]\nGuide: Prof. Swaroop Ganguly, Microelectronics Simulations Lab\n◦ Created a n + p junction of 100nm depth and 150nm width with uniform n-side doping\n◦ Observed the eﬀect of implant energy and implant dose on peak concentration and junction depth\nPOSITIONS OF RESPONSIBILITY\n• Department Coordinator (DC), Institute Student Companion Programme (ISCP) [Apr’20 - Present]\n◦ Selected one amongst 31 DCs out of 89 applicants based on Interviews, Peer Review and SOP\n◦ Leading a team of 19 Student Companions to organize formal and informal sessions for 161 new entrants\nin the department to help them on academic and non academic fronts\n◦ Mentoring 10 students throughout the year helping them on academic and non-academic fronts during\nthe Covid-19 pandemic\n• Teaching Assistant, Microprocessors (EE309) course\n[Autumn’20]\n◦ Assisting the instructor in smooth functioning of online classes, conducting and evaluating online tests\n• Teaching Assistant, Introduction to Electrical and Electronic Circuits (EE101) course [Autumn’19]\n◦ Assisted & apprised course work for better learning of students\n◦ Responsible for evaluation of examination papers & assignments, invigilation in tests etc in the course\n• Training and Placement Coordinator (ECE), NIT Uttarakhand\n[Aug’17 - May’18]\n◦ Responsible for contacting various companies for campus recruitment drive\n◦ Responsible for maintaining Corporate Relations of the institute\n• Group Leader in Community Project, NIT Uttarakhand\n[Spring’16]\n◦ Conducted a free Dental Checkup Camp in a village Supana, near Srinagar (Garhwal)\n• Head Boy of the School, XII std.(Brooklyn School, Dehradun)\n[Apr’13 - Mar’14]\nEXTRA CURRICULAR ACTIVITIES AND HOBBIES\n• Participated in Streetplay General Championship (GC) , and the team secured 2nd position\n[March’20]\n• Participated in Freshie Fashion Fiesta fashion show organized by StypeUp Club , IIT Bombay\n[Aug’19]\n• Social Events Coordinator , Cliﬀesto’17, NIT Uttarakhand\n[Aug’16 - Feb’17]\n• Participated in e-Yantra Robotics competition, IIT Bombay\n[Nov’16 - Jan’17]\n• Hobbies: Playing guitar, role-playing PC games, cycling\nScholastic achievements and extracurricular activities are not verified by the Placement Cell"
+}

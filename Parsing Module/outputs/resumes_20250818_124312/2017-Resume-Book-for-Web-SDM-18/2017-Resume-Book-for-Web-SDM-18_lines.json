@@ -1,0 +1,978 @@
+{
+  "meta": {
+    "source_path": "data/resumes/2017-Resume-Book-for-Web-SDM-18.pdf",
+    "pages": 1
+  },
+  "lines": [
+    {
+      "page": 1,
+      "text": "JOLLY PRADHAN",
+      "bbox": [
+        263.4989929199219,
+        51.9466552734375,
+        366.5018310546875,
+        65.2357177734375
+      ],
+      "left_indent": 263.4989929199219,
+      "width": 103.00283813476562,
+      "is_bold": true,
+      "font_size": 12.0
+    },
+    {
+      "page": 1,
+      "text": "391 Broadway, Apt 504",
+      "bbox": [
+        266.9507141113281,
+        64.91143798828125,
+        365.50927734375,
+        75.8084716796875
+      ],
+      "left_indent": 266.9507141113281,
+      "width": 98.55856323242188,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Somerville, MA, 02145",
+      "bbox": [
+        267.5024108886719,
+        75.951416015625,
+        364.95758056640625,
+        86.84844970703125
+      ],
+      "left_indent": 267.5024108886719,
+      "width": 97.45516967773438,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "603-682-3851",
+      "bbox": [
+        286.6698913574219,
+        86.991455078125,
+        345.79010009765625,
+        97.88848876953125
+      ],
+      "left_indent": 286.6698913574219,
+      "width": 59.120208740234375,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "jpradhan@mit.edu",
+      "bbox": [
+        277.76611328125,
+        97.79144287109375,
+        354.6938781738281,
+        108.6884765625
+      ],
+      "left_indent": 277.76611328125,
+      "width": 76.92776489257812,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "EDUCATION",
+      "bbox": [
+        72.0,
+        119.8714599609375,
+        135.5782012939453,
+        130.76849365234375
+      ],
+      "left_indent": 72.0,
+      "width": 63.57820129394531,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Massachusetts Institute of Technology",
+      "bbox": [
+        72.0,
+        141.951416015625,
+        234.92774963378906,
+        152.84844970703125
+      ],
+      "left_indent": 72.0,
+      "width": 162.92774963378906,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "School of Engineering & Sloan School of Management",
+      "bbox": [
+        72.0,
+        152.991455078125,
+        294.1474914550781,
+        163.88848876953125
+      ],
+      "left_indent": 72.0,
+      "width": 222.14749145507812,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "M.S., System Design and Management",
+      "bbox": [
+        72.0,
+        163.79144287109375,
+        230.8321075439453,
+        174.6884765625
+      ],
+      "left_indent": 72.0,
+      "width": 158.8321075439453,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Rensselaer Polytechnic Institute",
+      "bbox": [
+        72.0,
+        185.8714599609375,
+        208.51771545410156,
+        196.76849365234375
+      ],
+      "left_indent": 72.0,
+      "width": 136.51771545410156,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Bachelor of Science in Mechanical Engineering Dec 2009",
+      "bbox": [
+        72.0,
+        196.91143798828125,
+        556.8154296875,
+        207.8084716796875
+      ],
+      "left_indent": 72.0,
+      "width": 484.8154296875,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "EXPERIENCE",
+      "bbox": [
+        72.0,
+        218.991455078125,
+        140.0264129638672,
+        229.88848876953125
+      ],
+      "left_indent": 72.0,
+      "width": 68.02641296386719,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Varian Semiconductor Equipment Associates",
+      "bbox": [
+        72.0,
+        240.8314208984375,
+        265.5692138671875,
+        251.72845458984375
+      ],
+      "left_indent": 72.0,
+      "width": 193.5692138671875,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Systems Engineer",
+      "bbox": [
+        72.0,
+        251.8714599609375,
+        148.0782012939453,
+        262.76849365234375
+      ],
+      "left_indent": 72.0,
+      "width": 76.07820129394531,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Crion Cold Implant",
+      "bbox": [
+        72.0,
+        263.6314697265625,
+        183.35650634765625,
+        274.52850341796875
+      ],
+      "left_indent": 72.0,
+      "width": 111.35650634765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        276.1871337890625,
+        76.52601623535156,
+        288.2420959472656
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Crion is a cold system that enables customer to implant wafers at -100˚C. The system consists of cryo-chillers, a",
+      "bbox": [
+        90.0,
+        277.3114318847656,
+        541.787841796875,
+        288.2084655761719
+      ],
+      "left_indent": 90.0,
+      "width": 451.787841796875,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "vacuum-sealed valve system, and cooling ring to cool the implant mechanism.",
+      "bbox": [
+        90.0,
+        288.8314514160156,
+        405.7118835449219,
+        299.7284851074219
+      ],
+      "left_indent": 90.0,
+      "width": 315.7118835449219,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        299.9471435546875,
+        76.52601623535156,
+        312.0021057128906
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Conducted and documented characterization tests for Crion by validating cool down rate, throughput, wafer",
+      "bbox": [
+        90.0,
+        301.0714416503906,
+        523.4519653320312,
+        311.9684753417969
+      ],
+      "left_indent": 90.0,
+      "width": 433.45196533203125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "temperature uniformity and overall functionality of the system.",
+      "bbox": [
+        90.0,
+        312.5914306640625,
+        347.1083984375,
+        323.48846435546875
+      ],
+      "left_indent": 90.0,
+      "width": 257.1083984375,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        323.7071533203125,
+        76.52601623535156,
+        335.7621154785156
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Operated the tool during 40 continuous hours of reliability growth testing and helped release the product from R&D",
+      "bbox": [
+        90.0,
+        324.8314514160156,
+        556.4747314453125,
+        335.7284851074219
+      ],
+      "left_indent": 90.0,
+      "width": 466.4747314453125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "to Production.",
+      "bbox": [
+        90.0,
+        336.1114501953125,
+        154.125,
+        347.00848388671875
+      ],
+      "left_indent": 90.0,
+      "width": 64.125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        347.2271423339844,
+        76.52601623535156,
+        359.2821044921875
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Supported customer escalations by analyzing archives from the field and determining root cause of the customer",
+      "bbox": [
+        90.0,
+        348.3514404296875,
+        542.0396118164062,
+        359.24847412109375
+      ],
+      "left_indent": 90.0,
+      "width": 452.03961181640625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "problems.",
+      "bbox": [
+        90.0,
+        359.8714599609375,
+        132.16342163085938,
+        370.76849365234375
+      ],
+      "left_indent": 90.0,
+      "width": 42.163421630859375,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "26-Wafer Implementation",
+      "bbox": [
+        72.0,
+        371.3914489746094,
+        197.49220275878906,
+        382.2884826660156
+      ],
+      "left_indent": 72.0,
+      "width": 125.49220275878906,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        382.50714111328125,
+        76.52601623535156,
+        394.5621032714844
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Led the project with a team of mechanical engineers, an electrical engineer and software engineers to create new",
+      "bbox": [
+        90.0,
+        383.6314392089844,
+        542.734375,
+        394.5284729003906
+      ],
+      "left_indent": 90.0,
+      "width": 452.734375,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "hardware as well as software controls to implement the platen warm-up process. Released the hardware through",
+      "bbox": [
+        90.0,
+        395.1514587402344,
+        540.0567016601562,
+        406.0484924316406
+      ],
+      "left_indent": 90.0,
+      "width": 450.05670166015625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "ECO process to Production and conducted tests to help with software release.",
+      "bbox": [
+        90.0,
+        406.67144775390625,
+        404.88189697265625,
+        417.5684814453125
+      ],
+      "left_indent": 90.0,
+      "width": 314.88189697265625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Center for Earthquake Engineering Simulation",
+      "bbox": [
+        72.0,
+        428.7514343261719,
+        279.0779113769531,
+        439.6484680175781
+      ],
+      "left_indent": 72.0,
+      "width": 207.07791137695312,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Research Engineer",
+      "bbox": [
+        72.0,
+        439.79144287109375,
+        153.62991333007812,
+        450.6884765625
+      ],
+      "left_indent": 72.0,
+      "width": 81.62991333007812,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        450.6671447753906,
+        76.52601623535156,
+        462.72210693359375
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Operated and troubleshot earthquake simulation machinery (centrifuge) while conducting experiments.",
+      "bbox": [
+        90.0,
+        451.79144287109375,
+        507.04010009765625,
+        462.6884765625
+      ],
+      "left_indent": 90.0,
+      "width": 417.04010009765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        462.9071350097656,
+        76.52601623535156,
+        474.96209716796875
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Gained hands-on experience by preparing and sealing centrifuge laminar container with Ph.D. students while using",
+      "bbox": [
+        90.0,
+        464.03143310546875,
+        552.9494018554688,
+        474.928466796875
+      ],
+      "left_indent": 90.0,
+      "width": 462.94940185546875,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "strain gauges, accelerometer, and pressure sensors.",
+      "bbox": [
+        90.0,
+        475.55145263671875,
+        298.2118835449219,
+        486.448486328125
+      ],
+      "left_indent": 90.0,
+      "width": 208.21188354492188,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "LEADERSHIP POSITIONS",
+      "bbox": [
+        72.0,
+        497.6314392089844,
+        196.4375,
+        508.5284729003906
+      ],
+      "left_indent": 72.0,
+      "width": 124.4375,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Fusion Engineering Development Program",
+      "bbox": [
+        72.0,
+        518.991455078125,
+        280.0019836425781,
+        529.8884887695312
+      ],
+      "left_indent": 72.0,
+      "width": 208.00198364257812,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Graduate",
+      "bbox": [
+        72.0,
+        530.75146484375,
+        110.81040954589844,
+        541.6484985351562
+      ],
+      "left_indent": 72.0,
+      "width": 38.81040954589844,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        543.3071899414062,
+        76.52601623535156,
+        555.3621215820312
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "This is a program for new graduates at Varian to expose them to various engineering departments within the",
+      "bbox": [
+        90.0,
+        544.4314575195312,
+        525.6380615234375,
+        555.3284912109375
+      ],
+      "left_indent": 90.0,
+      "width": 435.6380615234375,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "company and to experience presenting to upper management.",
+      "bbox": [
+        90.0,
+        555.951416015625,
+        340.42388916015625,
+        566.8484497070312
+      ],
+      "left_indent": 90.0,
+      "width": 250.42388916015625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        567.0671997070312,
+        76.52601623535156,
+        579.1221313476562
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Rotated through End Station (Robotics), Continuous Improvement and Physics Department (R&D) .",
+      "bbox": [
+        90.0,
+        568.1914672851562,
+        494.3544921875,
+        579.0885009765625
+      ],
+      "left_indent": 90.0,
+      "width": 404.3544921875,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Women’s Mentoring Program at RPI",
+      "bbox": [
+        72.0,
+        591.2314453125,
+        236.92581176757812,
+        602.1284790039062
+      ],
+      "left_indent": 72.0,
+      "width": 164.92581176757812,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Co-Chair",
+      "bbox": [
+        72.0,
+        602.75146484375,
+        110.82618713378906,
+        613.6484985351562
+      ],
+      "left_indent": 72.0,
+      "width": 38.82618713378906,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "§",
+      "bbox": [
+        72.0,
+        614.1945190429688,
+        76.50199127197266,
+        625.1156005859375
+      ],
+      "left_indent": 72.0,
+      "width": 4.501991271972656,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Developed a new program providing opportunity for mentors and mentees to meet prior to the start of the school",
+      "bbox": [
+        90.0,
+        614.2714233398438,
+        560.1948852539062,
+        625.16845703125
+      ],
+      "left_indent": 90.0,
+      "width": 470.19488525390625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "year. As a result of its success, this is now an annual program. Organized formal and informal events including:",
+      "bbox": [
+        90.0,
+        625.7914428710938,
+        560.3726806640625,
+        636.6884765625
+      ],
+      "left_indent": 90.0,
+      "width": 470.3726806640625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Chat with Shirley Ann Jackson (President of RPI) and Design Your Future Day to encourage women in science and",
+      "bbox": [
+        90.0,
+        637.3114624023438,
+        560.2359008789062,
+        648.20849609375
+      ],
+      "left_indent": 90.0,
+      "width": 470.23590087890625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "engineering.",
+      "bbox": [
+        90.0,
+        648.8314208984375,
+        142.162109375,
+        659.7284545898438
+      ],
+      "left_indent": 90.0,
+      "width": 52.162109375,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "TECHNICAL SKILLS",
+      "bbox": [
+        72.0,
+        671.1514282226562,
+        173.65921020507812,
+        682.0484619140625
+      ],
+      "left_indent": 72.0,
+      "width": 101.65921020507812,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        692.34716796875,
+        76.52601623535156,
+        704.402099609375
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Expert in Signal Analysis and Archive Analysis",
+      "bbox": [
+        90.0,
+        693.471435546875,
+        284.095703125,
+        704.3684692382812
+      ],
+      "left_indent": 90.0,
+      "width": 194.095703125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        704.587158203125,
+        76.52601623535156,
+        716.64208984375
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Proficient in Microsoft Excel, Microsoft PowerPoint, MINITAB Statistics, Adobe Illustrator, and Adobe Photoshop.",
+      "bbox": [
+        90.0,
+        705.71142578125,
+        558.995849609375,
+        716.6084594726562
+      ],
+      "left_indent": 90.0,
+      "width": 468.995849609375,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Basic knowledge 3D CAD Modeling (SolidWorks and ProE), LabVIEW, and MATLAB.",
+      "bbox": [
+        90.0,
+        717.2314453125,
+        450.4579772949219,
+        728.1284790039062
+      ],
+      "left_indent": 90.0,
+      "width": 360.4579772949219,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Cambridge, MA",
+      "bbox": [
+        492.4530944824219,
+        141.951416015625,
+        560.4600219726562,
+        152.84844970703125
+      ],
+      "left_indent": 492.4530944824219,
+      "width": 68.00692749023438,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Sept 2015-Present",
+      "bbox": [
+        484.9530944824219,
+        152.991455078125,
+        560.4600219726562,
+        163.88848876953125
+      ],
+      "left_indent": 484.9530944824219,
+      "width": 75.50692749023438,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Troy, NY",
+      "bbox": [
+        519.1182250976562,
+        185.8714599609375,
+        560.4600219726562,
+        196.76849365234375
+      ],
+      "left_indent": 519.1182250976562,
+      "width": 41.341796875,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Gloucester, MA",
+      "bbox": [
+        493.5712890625,
+        240.8314208984375,
+        560.4600219726562,
+        251.72845458984375
+      ],
+      "left_indent": 493.5712890625,
+      "width": 66.88873291015625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Sept 2010-July 2015",
+      "bbox": [
+        475.2217102050781,
+        251.8714599609375,
+        560.4600219726562,
+        262.76849365234375
+      ],
+      "left_indent": 475.2217102050781,
+      "width": 85.23831176757812,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Troy, NY",
+      "bbox": [
+        519.1182250976562,
+        428.7514343261719,
+        560.4600219726562,
+        439.6484680175781
+      ],
+      "left_indent": 519.1182250976562,
+      "width": 41.341796875,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Jan 10-Sept 2010",
+      "bbox": [
+        488.5614929199219,
+        439.79144287109375,
+        560.4600219726562,
+        450.6884765625
+      ],
+      "left_indent": 488.5614929199219,
+      "width": 71.89852905273438,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Sept 2010-Sept 2012",
+      "bbox": [
+        473.0,
+        518.991455078125,
+        556.8106689453125,
+        529.8884887695312
+      ],
+      "left_indent": 473.0,
+      "width": 83.8106689453125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Sept 2006-Sept 2008",
+      "bbox": [
+        432.0,
+        591.2314453125,
+        553.3106689453125,
+        602.1284790039062
+      ],
+      "left_indent": 432.0,
+      "width": 121.3106689453125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    }
+  ],
+  "text_per_page": [
+    "JOLLY PRADHAN\n391 Broadway, Apt 504\nSomerville, MA, 02145\n603-682-3851\njpradhan@mit.edu\nEDUCATION\nMassachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nM.S., System Design and Management\nRensselaer Polytechnic Institute\nBachelor of Science in Mechanical Engineering Dec 2009\nEXPERIENCE\nVarian Semiconductor Equipment Associates\nSystems Engineer\nCrion Cold Implant\n•\nCrion is a cold system that enables customer to implant wafers at -100˚C. The system consists of cryo-chillers, a\nvacuum-sealed valve system, and cooling ring to cool the implant mechanism.\n•\nConducted and documented characterization tests for Crion by validating cool down rate, throughput, wafer\ntemperature uniformity and overall functionality of the system.\n•\nOperated the tool during 40 continuous hours of reliability growth testing and helped release the product from R&D\nto Production.\n•\nSupported customer escalations by analyzing archives from the field and determining root cause of the customer\nproblems.\n26-Wafer Implementation\n•\nLed the project with a team of mechanical engineers, an electrical engineer and software engineers to create new\nhardware as well as software controls to implement the platen warm-up process. Released the hardware through\nECO process to Production and conducted tests to help with software release.\nCenter for Earthquake Engineering Simulation\nResearch Engineer\n•\nOperated and troubleshot earthquake simulation machinery (centrifuge) while conducting experiments.\n•\nGained hands-on experience by preparing and sealing centrifuge laminar container with Ph.D. students while using\nstrain gauges, accelerometer, and pressure sensors.\nLEADERSHIP POSITIONS\nFusion Engineering Development Program\nGraduate\n•\nThis is a program for new graduates at Varian to expose them to various engineering departments within the\ncompany and to experience presenting to upper management.\n•\nRotated through End Station (Robotics), Continuous Improvement and Physics Department (R&D) .\nWomen’s Mentoring Program at RPI\nCo-Chair\n§\nDeveloped a new program providing opportunity for mentors and mentees to meet prior to the start of the school\nyear. As a result of its success, this is now an annual program. Organized formal and informal events including:\nChat with Shirley Ann Jackson (President of RPI) and Design Your Future Day to encourage women in science and\nengineering.\nTECHNICAL SKILLS\n•\nExpert in Signal Analysis and Archive Analysis\n•\nProficient in Microsoft Excel, Microsoft PowerPoint, MINITAB Statistics, Adobe Illustrator, and Adobe Photoshop.\nBasic knowledge 3D CAD Modeling (SolidWorks and ProE), LabVIEW, and MATLAB.\nCambridge, MA\nSept 2015-Present\nTroy, NY\nGloucester, MA\nSept 2010-July 2015\nTroy, NY\nJan 10-Sept 2010\nSept 2010-Sept 2012\nSept 2006-Sept 2008"
+  ],
+  "text_all": "JOLLY PRADHAN\n391 Broadway, Apt 504\nSomerville, MA, 02145\n603-682-3851\njpradhan@mit.edu\nEDUCATION\nMassachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nM.S., System Design and Management\nRensselaer Polytechnic Institute\nBachelor of Science in Mechanical Engineering Dec 2009\nEXPERIENCE\nVarian Semiconductor Equipment Associates\nSystems Engineer\nCrion Cold Implant\n•\nCrion is a cold system that enables customer to implant wafers at -100˚C. The system consists of cryo-chillers, a\nvacuum-sealed valve system, and cooling ring to cool the implant mechanism.\n•\nConducted and documented characterization tests for Crion by validating cool down rate, throughput, wafer\ntemperature uniformity and overall functionality of the system.\n•\nOperated the tool during 40 continuous hours of reliability growth testing and helped release the product from R&D\nto Production.\n•\nSupported customer escalations by analyzing archives from the field and determining root cause of the customer\nproblems.\n26-Wafer Implementation\n•\nLed the project with a team of mechanical engineers, an electrical engineer and software engineers to create new\nhardware as well as software controls to implement the platen warm-up process. Released the hardware through\nECO process to Production and conducted tests to help with software release.\nCenter for Earthquake Engineering Simulation\nResearch Engineer\n•\nOperated and troubleshot earthquake simulation machinery (centrifuge) while conducting experiments.\n•\nGained hands-on experience by preparing and sealing centrifuge laminar container with Ph.D. students while using\nstrain gauges, accelerometer, and pressure sensors.\nLEADERSHIP POSITIONS\nFusion Engineering Development Program\nGraduate\n•\nThis is a program for new graduates at Varian to expose them to various engineering departments within the\ncompany and to experience presenting to upper management.\n•\nRotated through End Station (Robotics), Continuous Improvement and Physics Department (R&D) .\nWomen’s Mentoring Program at RPI\nCo-Chair\n§\nDeveloped a new program providing opportunity for mentors and mentees to meet prior to the start of the school\nyear. As a result of its success, this is now an annual program. Organized formal and informal events including:\nChat with Shirley Ann Jackson (President of RPI) and Design Your Future Day to encourage women in science and\nengineering.\nTECHNICAL SKILLS\n•\nExpert in Signal Analysis and Archive Analysis\n•\nProficient in Microsoft Excel, Microsoft PowerPoint, MINITAB Statistics, Adobe Illustrator, and Adobe Photoshop.\nBasic knowledge 3D CAD Modeling (SolidWorks and ProE), LabVIEW, and MATLAB.\nCambridge, MA\nSept 2015-Present\nTroy, NY\nGloucester, MA\nSept 2010-July 2015\nTroy, NY\nJan 10-Sept 2010\nSept 2010-Sept 2012\nSept 2006-Sept 2008"
+}

@@ -1,0 +1,1174 @@
+{
+  "meta": {
+    "source_path": "data/resumes/2017-Resume-Book-for-Web-SDM-6.pdf",
+    "pages": 1
+  },
+  "lines": [
+    {
+      "page": 1,
+      "text": "AMLAN DAS",
+      "bbox": [
+        272.8101806640625,
+        51.940208435058594,
+        357.0649108886719,
+        65.98021697998047
+      ],
+      "left_indent": 272.8101806640625,
+      "width": 84.25473022460938,
+      "is_bold": true,
+      "font_size": 14.040010452270508
+    },
+    {
+      "page": 1,
+      "text": "Apt. #9B, 60 Wadsworth Street,",
+      "bbox": [
+        250.72979736328125,
+        66.32450103759766,
+        384.40057373046875,
+        76.28450775146484
+      ],
+      "left_indent": 250.72979736328125,
+      "width": 133.6707763671875,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Cambridge, MA 02142, United States",
+      "bbox": [
+        239.20977783203125,
+        77.26419830322266,
+        393.40057373046875,
+        87.22420501708984
+      ],
+      "left_indent": 239.20977783203125,
+      "width": 154.1907958984375,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Email: amlandas@mit.edu | Cell: +1 (617) 417 4839",
+      "bbox": [
+        72.02466583251953,
+        88.3041763305664,
+        442.270263671875,
+        98.2645492553711
+      ],
+      "left_indent": 72.02466583251953,
+      "width": 370.24559783935547,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "EDUCATION",
+      "bbox": [
+        72.02445220947266,
+        99.14432525634766,
+        135.58981323242188,
+        109.10433197021484
+      ],
+      "left_indent": 72.02445220947266,
+      "width": 63.56536102294922,
+      "is_bold": true,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Massachusetts Institute of Technology",
+      "bbox": [
+        72.02445220947266,
+        121.10428619384766,
+        234.91427612304688,
+        131.0642852783203
+      ],
+      "left_indent": 72.02445220947266,
+      "width": 162.88982391357422,
+      "is_bold": true,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "School of Engineering & Sloan School of Management",
+      "bbox": [
+        72.0244369506836,
+        132.17599487304688,
+        294.2805480957031,
+        142.13600158691406
+      ],
+      "left_indent": 72.0244369506836,
+      "width": 222.25611114501953,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "M.S., System Design and Management",
+      "bbox": [
+        72.02440643310547,
+        143.2644500732422,
+        230.89979553222656,
+        153.22445678710938
+      ],
+      "left_indent": 72.02440643310547,
+      "width": 158.8753890991211,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Visva Bharati University",
+      "bbox": [
+        72.02440643310547,
+        165.14425659179688,
+        178.0594482421875,
+        175.10426330566406
+      ],
+      "left_indent": 72.02440643310547,
+      "width": 106.03504180908203,
+      "is_bold": true,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Dept. of Computer Science",
+      "bbox": [
+        72.02410125732422,
+        176.09597778320312,
+        182.29949951171875,
+        186.0559844970703
+      ],
+      "left_indent": 72.02410125732422,
+      "width": 110.27539825439453,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Bachelor of Technology (B.Tech), Information Technology",
+      "bbox": [
+        72.02379608154297,
+        187.30442810058594,
+        313.1196594238281,
+        197.26443481445312
+      ],
+      "left_indent": 72.02379608154297,
+      "width": 241.09586334228516,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "EXPERIENCE",
+      "bbox": [
+        72.0238037109375,
+        209.06417846679688,
+        140.02915954589844,
+        219.02418518066406
+      ],
+      "left_indent": 72.0238037109375,
+      "width": 68.00535583496094,
+      "is_bold": true,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "GOLDMAN SACHS",
+      "bbox": [
+        72.02445220947266,
+        231.14443969726562,
+        161.04757690429688,
+        241.1044464111328
+      ],
+      "left_indent": 72.02445220947266,
+      "width": 89.02312469482422,
+      "is_bold": true,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Associate",
+      "bbox": [
+        72.02474212646484,
+        242.0382537841797,
+        113.39009094238281,
+        251.99826049804688
+      ],
+      "left_indent": 72.02474212646484,
+      "width": 41.36534881591797,
+      "is_bold": true,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02474212646484,
+        250.79612731933594,
+        76.60595703125,
+        262.99810791015625
+      ],
+      "left_indent": 72.02474212646484,
+      "width": 4.581214904785156,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Led software development modules for cloud platforms team; designed and developed features such as software rate",
+      "bbox": [
+        90.02474975585938,
+        253.3346405029297,
+        558.7042846679688,
+        263.2946472167969
+      ],
+      "left_indent": 90.02474975585938,
+      "width": 468.6795349121094,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "limiter, state transition workflow engine, data reconciliation framework.",
+      "bbox": [
+        90.02474975585938,
+        264.3746032714844,
+        381.2809143066406,
+        274.3346252441406
+      ],
+      "left_indent": 90.02474975585938,
+      "width": 291.25616455078125,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02474212646484,
+        273.71612548828125,
+        76.60595703125,
+        285.9180908203125
+      ],
+      "left_indent": 72.02474212646484,
+      "width": 4.581214904785156,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Built a product and services provisioning system having salient characteristics like - policy-based inventory, security",
+      "bbox": [
+        90.02474975585938,
+        276.2546081542969,
+        559.7706909179688,
+        286.2146301269531
+      ],
+      "left_indent": 90.02474975585938,
+      "width": 469.7459411621094,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "hardening of the systems, workflow and lifecycle automation, and capacity management. Took proactive leadership",
+      "bbox": [
+        90.02474975585938,
+        287.77459716796875,
+        555.638671875,
+        297.734619140625
+      ],
+      "left_indent": 90.02474975585938,
+      "width": 465.6139221191406,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "to define the proposed road map to adopt the new system, which leads to cost savings for the firm up to $1.5M.",
+      "bbox": [
+        90.02474975585938,
+        299.29461669921875,
+        537.4501342773438,
+        309.254638671875
+      ],
+      "left_indent": 90.02474975585938,
+      "width": 447.4253845214844,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "AT&T",
+      "bbox": [
+        72.02373504638672,
+        321.8944091796875,
+        100.85770416259766,
+        331.85443115234375
+      ],
+      "left_indent": 72.02373504638672,
+      "width": 28.833969116210938,
+      "is_bold": true,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Technical Specialist",
+      "bbox": [
+        72.02404022216797,
+        332.7882385253906,
+        157.5493927001953,
+        342.7482604980469
+      ],
+      "left_indent": 72.02404022216797,
+      "width": 85.52535247802734,
+      "is_bold": true,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02400970458984,
+        341.51617431640625,
+        76.605224609375,
+        353.7181396484375
+      ],
+      "left_indent": 72.02400970458984,
+      "width": 4.581214904785156,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Defined design strategy, reviewed and rated engineers working in my team.",
+      "bbox": [
+        90.02401733398438,
+        344.0546569824219,
+        395.3202209472656,
+        354.0146789550781
+      ],
+      "left_indent": 90.02401733398438,
+      "width": 305.29620361328125,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "THOMSON REUTERS",
+      "bbox": [
+        72.02429962158203,
+        365.8144836425781,
+        173.87619018554688,
+        375.7745056152344
+      ],
+      "left_indent": 72.02429962158203,
+      "width": 101.85189056396484,
+      "is_bold": true,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Lead Engineer",
+      "bbox": [
+        72.02428436279297,
+        376.82830810546875,
+        135.9496307373047,
+        386.788330078125
+      ],
+      "left_indent": 72.02428436279297,
+      "width": 63.92534637451172,
+      "is_bold": true,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Senior Engineer",
+      "bbox": [
+        72.02425384521484,
+        387.86834716796875,
+        142.54962158203125,
+        397.828369140625
+      ],
+      "left_indent": 72.02425384521484,
+      "width": 70.5253677368164,
+      "is_bold": true,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Engineer",
+      "bbox": [
+        72.02422332763672,
+        398.7883605957031,
+        112.90956115722656,
+        408.7483825683594
+      ],
+      "left_indent": 72.02422332763672,
+      "width": 40.885337829589844,
+      "is_bold": true,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02388763427734,
+        407.5162658691406,
+        76.6051025390625,
+        419.7182312011719
+      ],
+      "left_indent": 72.02388763427734,
+      "width": 4.581214904785156,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Led a global (US & India) development team of five engineers. Established software development standards and",
+      "bbox": [
+        90.02389526367188,
+        410.05474853515625,
+        542.9267578125,
+        420.0147705078125
+      ],
+      "left_indent": 90.02389526367188,
+      "width": 452.9028625488281,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "practices, engaged in requirement and feature discussions with clients, and authored the high-level design document.",
+      "bbox": [
+        90.02389526367188,
+        421.1153564453125,
+        561.930419921875,
+        431.07537841796875
+      ],
+      "left_indent": 90.02389526367188,
+      "width": 471.9065246582031,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02422332763672,
+        429.4969177246094,
+        76.60543823242188,
+        441.6988830566406
+      ],
+      "left_indent": 72.02422332763672,
+      "width": 4.581214904785156,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Worked closely with business stakeholders to evaluate the data in the internal systems and suggest improvements.",
+      "bbox": [
+        90.02423095703125,
+        432.035400390625,
+        551.1304931640625,
+        441.99542236328125
+      ],
+      "left_indent": 90.02423095703125,
+      "width": 461.10626220703125,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.0241928100586,
+        440.53692626953125,
+        76.60540771484375,
+        452.7388916015625
+      ],
+      "left_indent": 72.0241928100586,
+      "width": 4.581214904785156,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Reviewed and rated engineers working in the team, identified skill matrix for the team and recommend training",
+      "bbox": [
+        90.02420043945312,
+        443.0754089355469,
+        537.9208984375,
+        453.0354309082031
+      ],
+      "left_indent": 90.02420043945312,
+      "width": 447.8966979980469,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "programs, defined half-yearly common goals and a plan of action to achieve them. Also handled conflict",
+      "bbox": [
+        90.02447509765625,
+        454.11541748046875,
+        511.099609375,
+        464.075439453125
+      ],
+      "left_indent": 90.02447509765625,
+      "width": 421.07513427734375,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "management, worked to enable greater synergy between cross-functional teams, and mentored team members.",
+      "bbox": [
+        90.02435302734375,
+        465.03546142578125,
+        533.8501586914062,
+        474.9954833984375
+      ],
+      "left_indent": 90.02435302734375,
+      "width": 443.8258056640625,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02434539794922,
+        473.5369873046875,
+        76.60556030273438,
+        485.73895263671875
+      ],
+      "left_indent": 72.02434539794922,
+      "width": 4.581214904785156,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Built an asset management software with features like – monitor complete asset lifecycle, auto discovery of",
+      "bbox": [
+        90.02435302734375,
+        474.67498779296875,
+        522.8609619140625,
+        486.0354919433594
+      ],
+      "left_indent": 90.02435302734375,
+      "width": 432.83660888671875,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "endpoints, CMDB functionality like viewing configuration items and their relationships, license management,",
+      "bbox": [
+        90.02436828613281,
+        487.115478515625,
+        532.00732421875,
+        497.07550048828125
+      ],
+      "left_indent": 90.02436828613281,
+      "width": 441.9829559326172,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "remote control of devices, and granular reporting of the environment.",
+      "bbox": [
+        90.02435302734375,
+        498.0354919433594,
+        370.0006408691406,
+        507.9955139160156
+      ],
+      "left_indent": 90.02435302734375,
+      "width": 279.9762878417969,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02434539794922,
+        506.53704833984375,
+        76.60556030273438,
+        518.739013671875
+      ],
+      "left_indent": 72.02434539794922,
+      "width": 4.581214904785156,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Devised centralized voice and contact center management portal. It provided the business stakeholders a lever to",
+      "bbox": [
+        90.02435302734375,
+        509.0755310058594,
+        542.9701538085938,
+        519.0355224609375
+      ],
+      "left_indent": 90.02435302734375,
+      "width": 452.94580078125,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "their business variables giving them more fine-grained control, automation and efficient utilization of work force.",
+      "bbox": [
+        90.02435302734375,
+        520.1156005859375,
+        546.9307250976562,
+        530.0755615234375
+      ],
+      "left_indent": 90.02435302734375,
+      "width": 456.9063720703125,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02434539794922,
+        528.4970703125,
+        76.60556030273438,
+        540.6990356445312
+      ],
+      "left_indent": 72.02434539794922,
+      "width": 4.581214904785156,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Designed a solution to integrate Salesforce and internal client management system.",
+      "bbox": [
+        90.02435302734375,
+        531.0355834960938,
+        424.9906005859375,
+        540.9955444335938
+      ],
+      "left_indent": 90.02435302734375,
+      "width": 334.96624755859375,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "TECH MAHINDRA",
+      "bbox": [
+        72.02434539794922,
+        552.9154052734375,
+        159.91793823242188,
+        562.8753662109375
+      ],
+      "left_indent": 72.02434539794922,
+      "width": 87.89359283447266,
+      "is_bold": true,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Technical Associate",
+      "bbox": [
+        72.02465057373047,
+        563.8092041015625,
+        156.95001220703125,
+        573.7691650390625
+      ],
+      "left_indent": 72.02465057373047,
+      "width": 84.92536163330078,
+      "is_bold": true,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02462005615234,
+        572.5370483398438,
+        76.6058349609375,
+        584.739013671875
+      ],
+      "left_indent": 72.02462005615234,
+      "width": 4.581214904785156,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Worked on product enhancements as a member of offshore development team. Developed and supported Computer",
+      "bbox": [
+        90.02462768554688,
+        575.0755615234375,
+        554.7991943359375,
+        585.0355224609375
+      ],
+      "left_indent": 90.02462768554688,
+      "width": 464.7745666503906,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Telephony Integration (CTI) solutions.",
+      "bbox": [
+        90.02471923828125,
+        586.1455688476562,
+        248.0601348876953,
+        596.1055297851562
+      ],
+      "left_indent": 90.02471923828125,
+      "width": 158.03541564941406,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "HEWLETT PACKARD",
+      "bbox": [
+        72.02471160888672,
+        607.9053955078125,
+        175.5205535888672,
+        617.8653564453125
+      ],
+      "left_indent": 72.02471160888672,
+      "width": 103.49584197998047,
+      "is_bold": true,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Technology Consultant",
+      "bbox": [
+        72.02471160888672,
+        618.919189453125,
+        170.87010192871094,
+        628.879150390625
+      ],
+      "left_indent": 72.02471160888672,
+      "width": 98.84539031982422,
+      "is_bold": true,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.0246810913086,
+        627.527099609375,
+        76.60589599609375,
+        639.7290649414062
+      ],
+      "left_indent": 72.0246810913086,
+      "width": 4.581214904785156,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Worked on operational support engineer for Cisco Unified Communication and HP products e.g. – Cisco UCCE,",
+      "bbox": [
+        90.02468872070312,
+        628.6651000976562,
+        544.05029296875,
+        640.0255737304688
+      ],
+      "left_indent": 90.02468872070312,
+      "width": 454.0256042480469,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Cisco UCM, Cisco CVP, HP Service Manager. Was responsible for incident management and change management.",
+      "bbox": [
+        90.02398681640625,
+        641.1055908203125,
+        558.3302612304688,
+        651.0655517578125
+      ],
+      "left_indent": 90.02398681640625,
+      "width": 468.3062744140625,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "TECHNICAL SKILLS",
+      "bbox": [
+        72.02397918701172,
+        662.8654174804688,
+        173.74942016601562,
+        672.8253784179688
+      ],
+      "left_indent": 72.02397918701172,
+      "width": 101.7254409790039,
+      "is_bold": true,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02445220947266,
+        672.5264282226562,
+        76.60566711425781,
+        684.7283935546875
+      ],
+      "left_indent": 72.02445220947266,
+      "width": 4.581214904785156,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Programming/Scripting Languages: JavaScript (node.js), Java, J2EE, SQL",
+      "bbox": [
+        90.02445983886719,
+        674.86474609375,
+        401.4403076171875,
+        685.02490234375
+      ],
+      "left_indent": 90.02445983886719,
+      "width": 311.4158477783203,
+      "is_bold": true,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.0240707397461,
+        684.76171875,
+        76.60528564453125,
+        696.9636840820312
+      ],
+      "left_indent": 72.0240707397461,
+      "width": 4.581214904785156,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Databases/Data Sets: RDF, OWL, Graph DB, Microsoft SQL Server, Oracle, MySQL, NoSQL, XML, JSON",
+      "bbox": [
+        90.02407836914062,
+        687.1000366210938,
+        534.5703735351562,
+        697.2601928710938
+      ],
+      "left_indent": 90.02407836914062,
+      "width": 444.5462951660156,
+      "is_bold": true,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02440643310547,
+        697.0017700195312,
+        76.60562133789062,
+        709.2037353515625
+      ],
+      "left_indent": 72.02440643310547,
+      "width": 4.581214904785156,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Concepts: Data Structures & Algorithms, Ontology, Semantic Web, Design Patterns, UML, REST web services",
+      "bbox": [
+        90.0244140625,
+        699.340087890625,
+        543.2098999023438,
+        709.500244140625
+      ],
+      "left_indent": 90.0244140625,
+      "width": 453.18548583984375,
+      "is_bold": true,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.0237045288086,
+        709.1217651367188,
+        76.60491943359375,
+        721.32373046875
+      ],
+      "left_indent": 72.0237045288086,
+      "width": 4.581214904785156,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Others: Node.js, JBOSS Application Server, Apache Tomcat, Glassfish AS, Subversion (SVN), JIRA, Eclipse IDE,",
+      "bbox": [
+        90.02371215820312,
+        711.4600830078125,
+        558.449951171875,
+        721.6202392578125
+      ],
+      "left_indent": 90.02371215820312,
+      "width": 468.4262390136719,
+      "is_bold": true,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Intellij IDEA, VMWare VCloud, Linux Red-Hat, Windows Server, ITIL",
+      "bbox": [
+        90.02359008789062,
+        723.1802978515625,
+        383.5594787597656,
+        733.1402587890625
+      ],
+      "left_indent": 90.02359008789062,
+      "width": 293.535888671875,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Cambridge, MA",
+      "bbox": [
+        492.58074951171875,
+        121.30448150634766,
+        560.6102905273438,
+        131.26449584960938
+      ],
+      "left_indent": 492.58074951171875,
+      "width": 68.029541015625,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Sep 2016 - Present",
+      "bbox": [
+        482.8607177734375,
+        132.34446716308594,
+        560.6103515625,
+        142.30447387695312
+      ],
+      "left_indent": 482.8607177734375,
+      "width": 77.7496337890625,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Kolkata, India",
+      "bbox": [
+        500.8607177734375,
+        165.34446716308594,
+        560.6103515625,
+        175.30447387695312
+      ],
+      "left_indent": 500.8607177734375,
+      "width": 59.7496337890625,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Jul 2003 – Jun 2007",
+      "bbox": [
+        477.58038330078125,
+        174.86395263671875,
+        560.6101684570312,
+        186.22445678710938
+      ],
+      "left_indent": 477.58038330078125,
+      "width": 83.02978515625,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Bangalore, India",
+      "bbox": [
+        491.5010681152344,
+        231.3446502685547,
+        560.610595703125,
+        241.30465698242188
+      ],
+      "left_indent": 491.5010681152344,
+      "width": 69.10952758789062,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Jun 2015 – July 2016",
+      "bbox": [
+        472.541015625,
+        240.8641357421875,
+        560.6105346679688,
+        252.22463989257812
+      ],
+      "left_indent": 472.541015625,
+      "width": 88.06951904296875,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Bangalore, India",
+      "bbox": [
+        491.5003662109375,
+        322.0946044921875,
+        560.6099243164062,
+        332.05462646484375
+      ],
+      "left_indent": 491.5003662109375,
+      "width": 69.10955810546875,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Feb 2015 – May 2015",
+      "bbox": [
+        469.78033447265625,
+        331.6141357421875,
+        560.6099243164062,
+        342.9746398925781
+      ],
+      "left_indent": 469.78033447265625,
+      "width": 90.82958984375,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Bangalore, India",
+      "bbox": [
+        491.5006103515625,
+        366.0146789550781,
+        560.6101684570312,
+        375.9747009277344
+      ],
+      "left_indent": 491.5006103515625,
+      "width": 69.10955810546875,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Oct 2013 – Jan 2015",
+      "bbox": [
+        475.3005676269531,
+        375.6542053222656,
+        560.6101684570312,
+        387.01470947265625
+      ],
+      "left_indent": 475.3005676269531,
+      "width": 85.30960083007812,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Jul 2012 – Oct 2013",
+      "bbox": [
+        476.98052978515625,
+        386.6942443847656,
+        560.6101684570312,
+        398.05474853515625
+      ],
+      "left_indent": 476.98052978515625,
+      "width": 83.629638671875,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Sep 2010 – Jun 2012",
+      "bbox": [
+        474.22052001953125,
+        397.6142578125,
+        560.6102294921875,
+        408.9747619628906
+      ],
+      "left_indent": 474.22052001953125,
+      "width": 86.38970947265625,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Bangalore, India",
+      "bbox": [
+        491.5009765625,
+        553.1156005859375,
+        560.6105346679688,
+        563.0755615234375
+      ],
+      "left_indent": 491.5009765625,
+      "width": 69.10955810546875,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Feb 2010 – Sep 2010",
+      "bbox": [
+        473.14093017578125,
+        562.6350708007812,
+        560.6105346679688,
+        573.9955444335938
+      ],
+      "left_indent": 473.14093017578125,
+      "width": 87.4696044921875,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Bangalore, India",
+      "bbox": [
+        491.50103759765625,
+        608.1055908203125,
+        560.610595703125,
+        618.0655517578125
+      ],
+      "left_indent": 491.50103759765625,
+      "width": 69.10955810546875,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    },
+    {
+      "page": 1,
+      "text": "Aug 2007 – Jan 2010",
+      "bbox": [
+        472.5409851074219,
+        617.7450561523438,
+        560.610595703125,
+        629.1055297851562
+      ],
+      "left_indent": 472.5409851074219,
+      "width": 88.06961059570312,
+      "is_bold": false,
+      "font_size": 9.960006713867188
+    }
+  ],
+  "text_per_page": [
+    "AMLAN DAS\nApt. #9B, 60 Wadsworth Street,\nCambridge, MA 02142, United States\nEmail: amlandas@mit.edu | Cell: +1 (617) 417 4839\nEDUCATION\nMassachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nM.S., System Design and Management\nVisva Bharati University\nDept. of Computer Science\nBachelor of Technology (B.Tech), Information Technology\nEXPERIENCE\nGOLDMAN SACHS\nAssociate\n\nLed software development modules for cloud platforms team; designed and developed features such as software rate\nlimiter, state transition workflow engine, data reconciliation framework.\n\nBuilt a product and services provisioning system having salient characteristics like - policy-based inventory, security\nhardening of the systems, workflow and lifecycle automation, and capacity management. Took proactive leadership\nto define the proposed road map to adopt the new system, which leads to cost savings for the firm up to $1.5M.\nAT&T\nTechnical Specialist\n\nDefined design strategy, reviewed and rated engineers working in my team.\nTHOMSON REUTERS\nLead Engineer\nSenior Engineer\nEngineer\n\nLed a global (US & India) development team of five engineers. Established software development standards and\npractices, engaged in requirement and feature discussions with clients, and authored the high-level design document.\n\nWorked closely with business stakeholders to evaluate the data in the internal systems and suggest improvements.\n\nReviewed and rated engineers working in the team, identified skill matrix for the team and recommend training\nprograms, defined half-yearly common goals and a plan of action to achieve them. Also handled conflict\nmanagement, worked to enable greater synergy between cross-functional teams, and mentored team members.\n\nBuilt an asset management software with features like – monitor complete asset lifecycle, auto discovery of\nendpoints, CMDB functionality like viewing configuration items and their relationships, license management,\nremote control of devices, and granular reporting of the environment.\n\nDevised centralized voice and contact center management portal. It provided the business stakeholders a lever to\ntheir business variables giving them more fine-grained control, automation and efficient utilization of work force.\n\nDesigned a solution to integrate Salesforce and internal client management system.\nTECH MAHINDRA\nTechnical Associate\n\nWorked on product enhancements as a member of offshore development team. Developed and supported Computer\nTelephony Integration (CTI) solutions.\nHEWLETT PACKARD\nTechnology Consultant\n\nWorked on operational support engineer for Cisco Unified Communication and HP products e.g. – Cisco UCCE,\nCisco UCM, Cisco CVP, HP Service Manager. Was responsible for incident management and change management.\nTECHNICAL SKILLS\n\nProgramming/Scripting Languages: JavaScript (node.js), Java, J2EE, SQL\n\nDatabases/Data Sets: RDF, OWL, Graph DB, Microsoft SQL Server, Oracle, MySQL, NoSQL, XML, JSON\n\nConcepts: Data Structures & Algorithms, Ontology, Semantic Web, Design Patterns, UML, REST web services\n\nOthers: Node.js, JBOSS Application Server, Apache Tomcat, Glassfish AS, Subversion (SVN), JIRA, Eclipse IDE,\nIntellij IDEA, VMWare VCloud, Linux Red-Hat, Windows Server, ITIL\nCambridge, MA\nSep 2016 - Present\nKolkata, India\nJul 2003 – Jun 2007\nBangalore, India\nJun 2015 – July 2016\nBangalore, India\nFeb 2015 – May 2015\nBangalore, India\nOct 2013 – Jan 2015\nJul 2012 – Oct 2013\nSep 2010 – Jun 2012\nBangalore, India\nFeb 2010 – Sep 2010\nBangalore, India\nAug 2007 – Jan 2010"
+  ],
+  "text_all": "AMLAN DAS\nApt. #9B, 60 Wadsworth Street,\nCambridge, MA 02142, United States\nEmail: amlandas@mit.edu | Cell: +1 (617) 417 4839\nEDUCATION\nMassachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nM.S., System Design and Management\nVisva Bharati University\nDept. of Computer Science\nBachelor of Technology (B.Tech), Information Technology\nEXPERIENCE\nGOLDMAN SACHS\nAssociate\n\nLed software development modules for cloud platforms team; designed and developed features such as software rate\nlimiter, state transition workflow engine, data reconciliation framework.\n\nBuilt a product and services provisioning system having salient characteristics like - policy-based inventory, security\nhardening of the systems, workflow and lifecycle automation, and capacity management. Took proactive leadership\nto define the proposed road map to adopt the new system, which leads to cost savings for the firm up to $1.5M.\nAT&T\nTechnical Specialist\n\nDefined design strategy, reviewed and rated engineers working in my team.\nTHOMSON REUTERS\nLead Engineer\nSenior Engineer\nEngineer\n\nLed a global (US & India) development team of five engineers. Established software development standards and\npractices, engaged in requirement and feature discussions with clients, and authored the high-level design document.\n\nWorked closely with business stakeholders to evaluate the data in the internal systems and suggest improvements.\n\nReviewed and rated engineers working in the team, identified skill matrix for the team and recommend training\nprograms, defined half-yearly common goals and a plan of action to achieve them. Also handled conflict\nmanagement, worked to enable greater synergy between cross-functional teams, and mentored team members.\n\nBuilt an asset management software with features like – monitor complete asset lifecycle, auto discovery of\nendpoints, CMDB functionality like viewing configuration items and their relationships, license management,\nremote control of devices, and granular reporting of the environment.\n\nDevised centralized voice and contact center management portal. It provided the business stakeholders a lever to\ntheir business variables giving them more fine-grained control, automation and efficient utilization of work force.\n\nDesigned a solution to integrate Salesforce and internal client management system.\nTECH MAHINDRA\nTechnical Associate\n\nWorked on product enhancements as a member of offshore development team. Developed and supported Computer\nTelephony Integration (CTI) solutions.\nHEWLETT PACKARD\nTechnology Consultant\n\nWorked on operational support engineer for Cisco Unified Communication and HP products e.g. – Cisco UCCE,\nCisco UCM, Cisco CVP, HP Service Manager. Was responsible for incident management and change management.\nTECHNICAL SKILLS\n\nProgramming/Scripting Languages: JavaScript (node.js), Java, J2EE, SQL\n\nDatabases/Data Sets: RDF, OWL, Graph DB, Microsoft SQL Server, Oracle, MySQL, NoSQL, XML, JSON\n\nConcepts: Data Structures & Algorithms, Ontology, Semantic Web, Design Patterns, UML, REST web services\n\nOthers: Node.js, JBOSS Application Server, Apache Tomcat, Glassfish AS, Subversion (SVN), JIRA, Eclipse IDE,\nIntellij IDEA, VMWare VCloud, Linux Red-Hat, Windows Server, ITIL\nCambridge, MA\nSep 2016 - Present\nKolkata, India\nJul 2003 – Jun 2007\nBangalore, India\nJun 2015 – July 2016\nBangalore, India\nFeb 2015 – May 2015\nBangalore, India\nOct 2013 – Jan 2015\nJul 2012 – Oct 2013\nSep 2010 – Jun 2012\nBangalore, India\nFeb 2010 – Sep 2010\nBangalore, India\nAug 2007 – Jan 2010"
+}

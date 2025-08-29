@@ -1,0 +1,1174 @@
+{
+  "meta": {
+    "source_path": "data/resumes/2017-Resume-Book-for-Web-SDM-20.pdf",
+    "pages": 1
+  },
+  "lines": [
+    {
+      "page": 1,
+      "text": "Karan Sachan",
+      "bbox": [
+        278.2099914550781,
+        32.23200988769531,
+        354.9100036621094,
+        48.85200881958008
+      ],
+      "left_indent": 278.2099914550781,
+      "width": 76.70001220703125,
+      "is_bold": true,
+      "font_size": 12.0
+    },
+    {
+      "page": 1,
+      "text": "Tang Hall # 06B3, 550 Memorial Dr, Cambridge, MA - 02139",
+      "bbox": [
+        189.6199951171875,
+        45.31210708618164,
+        442.9599914550781,
+        58.59874725341797
+      ],
+      "left_indent": 189.6199951171875,
+      "width": 253.33999633789062,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "+1 617.401.5822 | ksachan@mit.edu",
+      "bbox": [
+        241.61000061035156,
+        56.23208999633789,
+        390.8800048828125,
+        69.51873016357422
+      ],
+      "left_indent": 241.61000061035156,
+      "width": 149.27000427246094,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "EDUCATION",
+      "bbox": [
+        72.02400207519531,
+        72.40174865722656,
+        135.5900115966797,
+        86.19635009765625
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 63.566009521484375,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Massachusetts Institute of Technology",
+      "bbox": [
+        72.02400207519531,
+        86.34175109863281,
+        234.87802124023438,
+        100.1363525390625
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 162.85401916503906,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "School of Engineering & Sloan School of Management",
+      "bbox": [
+        72.02400207519531,
+        98.30806732177734,
+        294.2599792480469,
+        110.46923065185547
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 222.23597717285156,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "M.S., Engineering and Management",
+      "bbox": [
+        72.02400207519531,
+        108.3321304321289,
+        222.02000427246094,
+        121.61876678466797
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 149.99600219726562,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "• VP of Marketing, Product Management Club; VP of Alumni relations, MIT-SDM",
+      "bbox": [
+        72.02400207519531,
+        119.25211334228516,
+        408.2799987792969,
+        132.53875732421875
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 336.25599670410156,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "• Core Member of Digital Currency Initiative, a group focusing on Blockchain and AR/VR at MIT Media Lab",
+      "bbox": [
+        72.02400207519531,
+        130.29214477539062,
+        517.75,
+        143.57879638671875
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 445.7259979248047,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "JSS Academy of Technical Education",
+      "bbox": [
+        72.02400207519531,
+        152.3417510986328,
+        231.8322296142578,
+        166.1363525390625
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 159.8082275390625,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "B.Tech (with Honors), Information Technology",
+      "bbox": [
+        72.02400207519531,
+        163.29214477539062,
+        263.0065002441406,
+        176.57879638671875
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 190.9824981689453,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Graduated 1st /117 students in my department & among top 5% of university B.Tech batch of ~23,000 students",
+      "bbox": [
+        89.90399932861328,
+        175.41213989257812,
+        541.27001953125,
+        188.69879150390625
+      ],
+      "left_indent": 89.90399932861328,
+      "width": 451.3660202026367,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        71.90399932861328,
+        175.88653564453125,
+        76.4852066040039,
+        188.0885009765625
+      ],
+      "left_indent": 71.90399932861328,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "EXPERIENCE",
+      "bbox": [
+        72.02400207519531,
+        191.3417510986328,
+        140.02999877929688,
+        205.1363525390625
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 68.00599670410156,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Wishing Well Technologies Pvt. Ltd.",
+      "bbox": [
+        72.02400207519531,
+        205.3817901611328,
+        228.17947387695312,
+        219.1763916015625
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 156.1554718017578,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Co-founder & Head – Product & Engineering",
+      "bbox": [
+        72.02400207519531,
+        217.22805786132812,
+        256.77642822265625,
+        229.3892059326172
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 184.75242614746094,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Successfully led fundraising efforts to build MVP, raising $500K from investors including ex-Fortune100 CEO",
+      "bbox": [
+        89.90399932861328,
+        228.33212280273438,
+        541.1499633789062,
+        241.6187744140625
+      ],
+      "left_indent": 89.90399932861328,
+      "width": 451.24596405029297,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        71.90399932861328,
+        228.8065185546875,
+        76.4852066040039,
+        241.00848388671875
+      ],
+      "left_indent": 71.90399932861328,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Led the design and development of platform (Web & Mobile) through new data-driven approach, resulting in a 97%",
+      "bbox": [
+        89.90399932861328,
+        242.25210571289062,
+        560.3445434570312,
+        255.53875732421875
+      ],
+      "left_indent": 89.90399932861328,
+      "width": 470.44054412841797,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        71.90399932861328,
+        242.72650146484375,
+        76.4852066040039,
+        254.928466796875
+      ],
+      "left_indent": 71.90399932861328,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "increase in signups, doubling of mobile traffic time-on-site, and growing visitor traffic at non-peak times by 20%",
+      "bbox": [
+        89.90399932861328,
+        255.48208618164062,
+        545.22998046875,
+        268.76873779296875
+      ],
+      "left_indent": 89.90399932861328,
+      "width": 455.3259811401367,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Finalist of India’s most premier start-up challenge – ‘10000 start-ups’ by NASSCOM; over 9000 start-ups applied",
+      "bbox": [
+        89.90399932861328,
+        269.4021301269531,
+        549.4299926757812,
+        282.68878173828125
+      ],
+      "left_indent": 89.90399932861328,
+      "width": 459.52599334716797,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        71.90399932861328,
+        269.87652587890625,
+        76.4852066040039,
+        282.0784912109375
+      ],
+      "left_indent": 71.90399932861328,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Reliance Industries Ltd.",
+      "bbox": [
+        72.02400207519531,
+        295.6517333984375,
+        174.9108123779297,
+        309.44635009765625
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 102.88681030273438,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Product Manager - Smartphone | Cloud Solutions – Saas & IaaS July 2013 – August 2016",
+      "bbox": [
+        72.02400207519531,
+        306.48211669921875,
+        558.1139526367188,
+        319.7687683105469
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 486.08995056152344,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Selected among 30 candidates out of 30,000+ for the most renowned Leadership Development Program in India",
+      "bbox": [
+        89.90399932861328,
+        318.60211181640625,
+        543.9099731445312,
+        331.8887634277344
+      ],
+      "left_indent": 89.90399932861328,
+      "width": 454.00597381591797,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        71.90399932861328,
+        319.0765075683594,
+        76.4852066040039,
+        331.2784729003906
+      ],
+      "left_indent": 71.90399932861328,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Product/Program Manager for $120M product portfolio; Responsible for delivering product from ideation to launch",
+      "bbox": [
+        89.90399932861328,
+        332.5221252441406,
+        555.4299926757812,
+        345.80877685546875
+      ],
+      "left_indent": 89.90399932861328,
+      "width": 465.52599334716797,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        71.90399932861328,
+        332.99652099609375,
+        76.4852066040039,
+        345.198486328125
+      ],
+      "left_indent": 71.90399932861328,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Successfully built the world’s most economical 4G smartphone by focusing on 80:20 rule for feature-usage metrics",
+      "bbox": [
+        89.90399932861328,
+        346.4421081542969,
+        560.5484008789062,
+        359.728759765625
+      ],
+      "left_indent": 89.90399932861328,
+      "width": 470.64440155029297,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        71.90399932861328,
+        346.91650390625,
+        76.4852066040039,
+        359.11846923828125
+      ],
+      "left_indent": 71.90399932861328,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "driven by usability studies and eliminating less valuable components, improving Bill of Material (BOM) by 37%",
+      "bbox": [
+        89.90399932861328,
+        359.7621154785156,
+        544.0299682617188,
+        373.04876708984375
+      ],
+      "left_indent": 89.90399932861328,
+      "width": 454.12596893310547,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Managed strategic vendor worldwide and grew partner ecosystem by 300% (incl. Fortune 500 companies), reducing",
+      "bbox": [
+        89.90399932861328,
+        373.68212890625,
+        560.5899658203125,
+        386.9687805175781
+      ],
+      "left_indent": 89.90399932861328,
+      "width": 470.6859664916992,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        71.90399932861328,
+        374.1565246582031,
+        76.4852066040039,
+        386.3584899902344
+      ],
+      "left_indent": 71.90399932861328,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "the time to market by 23% and cutting down run-rate expenses and budgeted capital expenditures by 17%",
+      "bbox": [
+        89.90399932861328,
+        386.8821105957031,
+        515.5899658203125,
+        400.16876220703125
+      ],
+      "left_indent": 89.90399932861328,
+      "width": 425.6859664916992,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Led Open Mobile Project from Reliance in collaboration with Govt. of India, Facebook’s Internet.org, and Google’s",
+      "bbox": [
+        89.90399932861328,
+        400.8021240234375,
+        560.5441284179688,
+        414.0887756347656
+      ],
+      "left_indent": 89.90399932861328,
+      "width": 470.64012908935547,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        71.90399932861328,
+        401.2765197753906,
+        76.4852066040039,
+        413.4784851074219
+      ],
+      "left_indent": 71.90399932861328,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Project Loon to provide Internet connectivity to 500+ millions Indians in rural and remote areas",
+      "bbox": [
+        89.90399932861328,
+        414.0021057128906,
+        475.75,
+        427.28875732421875
+      ],
+      "left_indent": 89.90399932861328,
+      "width": 385.8460006713867,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Filed 4 key patents around security architecture of smart devices, strengthening intellectual property of our product",
+      "bbox": [
+        89.90399932861328,
+        428.0621032714844,
+        552.9099731445312,
+        441.3487548828125
+      ],
+      "left_indent": 89.90399932861328,
+      "width": 463.00597381591797,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        71.90399932861328,
+        428.5364990234375,
+        76.4852066040039,
+        440.73846435546875
+      ],
+      "left_indent": 71.90399932861328,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Spearheaded product awareness and partnership by showcasing product at Mobile World Congress - Barcelona,",
+      "bbox": [
+        89.90399932861328,
+        441.98211669921875,
+        560.5575561523438,
+        455.2687683105469
+      ],
+      "left_indent": 89.90399932861328,
+      "width": 470.65355682373047,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        71.90399932861328,
+        442.4565124511719,
+        76.4852066040039,
+        454.6584777832031
+      ],
+      "left_indent": 71.90399932861328,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "attended by nearly 100,000+ participants from 190 countries and 3,600+ members of the international media",
+      "bbox": [
+        89.90399932861328,
+        455.18212890625,
+        527.1099853515625,
+        468.4687805175781
+      ],
+      "left_indent": 89.90399932861328,
+      "width": 437.2059860229492,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Qyuki Digital Media Pvt. Ltd.",
+      "bbox": [
+        72.02400207519531,
+        481.3117370605469,
+        199.82000732421875,
+        495.1063537597656
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 127.79600524902344,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Product Manager & Data Scientist",
+      "bbox": [
+        72.02400207519531,
+        493.2780456542969,
+        212.49362182617188,
+        505.439208984375
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 140.46961975097656,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Led the development of data science competencies for the platform, driving traffic up by 43% and increasing avg.",
+      "bbox": [
+        89.90399932861328,
+        504.3821105957031,
+        560.25048828125,
+        517.6687622070312
+      ],
+      "left_indent": 89.90399932861328,
+      "width": 470.3464889526367,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        71.90399932861328,
+        504.85650634765625,
+        76.4852066040039,
+        517.0584716796875
+      ],
+      "left_indent": 71.90399932861328,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "time spent per user per month by 33 mins; Increased EBIT by 37% by pushing personalized ads to customers",
+      "bbox": [
+        89.90399932861328,
+        517.5821533203125,
+        529.1499633789062,
+        530.8687744140625
+      ],
+      "left_indent": 89.90399932861328,
+      "width": 439.24596405029297,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Increased viral invites by 27% by implementing a social graph to connect through Facebook and Google+",
+      "bbox": [
+        89.90399932861328,
+        531.5021362304688,
+        513.5574340820312,
+        544.7887573242188
+      ],
+      "left_indent": 89.90399932861328,
+      "width": 423.65343475341797,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        71.90399932861328,
+        531.9765014648438,
+        76.4852066040039,
+        544.178466796875
+      ],
+      "left_indent": 71.90399932861328,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Drove strategic product development by facilitating a feedback loop among engineering, sales, and marketing/PR",
+      "bbox": [
+        89.90399932861328,
+        545.4221801757812,
+        543.8206787109375,
+        558.7088012695312
+      ],
+      "left_indent": 89.90399932861328,
+      "width": 453.9166793823242,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        71.90399932861328,
+        545.8965454101562,
+        76.4852066040039,
+        558.0985107421875
+      ],
+      "left_indent": 71.90399932861328,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Motorola Mobility Inc.",
+      "bbox": [
+        72.02400207519531,
+        571.6717529296875,
+        169.92083740234375,
+        585.4663696289062
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 97.89683532714844,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Senior Engineer, Motorola Innovations Lab",
+      "bbox": [
+        72.02400207519531,
+        583.5180053710938,
+        248.0019073486328,
+        595.67919921875
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 175.9779052734375,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Awarded ‘Innovator of the Year’ in 2011 across all Motorola facilities for ideating the initial modular phone concept",
+      "bbox": [
+        89.90399932861328,
+        594.6221313476562,
+        560.5899658203125,
+        607.9087524414062
+      ],
+      "left_indent": 89.90399932861328,
+      "width": 470.6859664916992,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        71.90399932861328,
+        595.0964965820312,
+        76.4852066040039,
+        607.2984619140625
+      ],
+      "left_indent": 71.90399932861328,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "in a hack-a-thon, which later matured and pursued by Google as ‘Project ARA’",
+      "bbox": [
+        89.90399932861328,
+        607.8521118164062,
+        409.9599914550781,
+        621.1387329101562
+      ],
+      "left_indent": 89.90399932861328,
+      "width": 320.05599212646484,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Outlined and designed welcome experience for new and returning users of Motorola devices, introducing them to a",
+      "bbox": [
+        90.02400207519531,
+        621.7721557617188,
+        560.4758911132812,
+        635.0587768554688
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 470.45188903808594,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02400207519531,
+        622.2465209960938,
+        76.60520935058594,
+        634.448486328125
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "completely re-imagined product experience including landing screen layout and guided tour for feature walkthrough",
+      "bbox": [
+        90.02400207519531,
+        635.0921630859375,
+        557.8300170898438,
+        648.3787841796875
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 467.80601501464844,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Managed UserVoice account that aggregates user feedback to make data-driven decisions and prioritize product",
+      "bbox": [
+        90.02400207519531,
+        649.0121459960938,
+        560.3756103515625,
+        662.2987670898438
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 470.3516082763672,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02400207519531,
+        649.4865112304688,
+        76.60520935058594,
+        661.6884765625
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "ideas. Determined top addressable issues by churning and analyzing data and led teams to resolve these issues",
+      "bbox": [
+        90.02400207519531,
+        662.212158203125,
+        532.75,
+        675.498779296875
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 442.7259979248047,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "ADDITIONAL INFORMATION",
+      "bbox": [
+        72.02400207519531,
+        688.3377685546875,
+        216.5,
+        702.1323852539062
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 144.4759979248047,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Technical Skills: Java, Cloud, Hadoop, Machine Learning, Python, R, NoSQL, JIRA, Google Analytics, Tableau",
+      "bbox": [
+        89.90399932861328,
+        701.328125,
+        548.1099853515625,
+        715.2123413085938
+      ],
+      "left_indent": 89.90399932861328,
+      "width": 458.2059860229492,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02400207519531,
+        701.802490234375,
+        76.60520935058594,
+        714.0044555664062
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Certifications: Harvard’s HBX CORe; Scrum Alliance’s Agile ScrumMaster; Design Thinking from Lynda.com",
+      "bbox": [
+        89.90399932861328,
+        715.3681640625,
+        546.1900024414062,
+        729.2523803710938
+      ],
+      "left_indent": 89.90399932861328,
+      "width": 456.28600311279297,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02400207519531,
+        715.842529296875,
+        76.60520935058594,
+        728.0444946289062
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Awarded Global Leaders scholarship by Fujitsu-JAIMS and Young Leader Program scholarship by Govt of Japan",
+      "bbox": [
+        89.90399932861328,
+        730.2481689453125,
+        549.0700073242188,
+        743.5347900390625
+      ],
+      "left_indent": 89.90399932861328,
+      "width": 459.16600799560547,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        71.90399932861328,
+        730.7225341796875,
+        76.4852066040039,
+        742.9244995117188
+      ],
+      "left_indent": 71.90399932861328,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Invited as Delegate in 12th World Business Dialogue at Berlin and in Preparing Global Leaders Academy at Jordan",
+      "bbox": [
+        90.02400207519531,
+        744.1681518554688,
+        554.9500122070312,
+        757.4547729492188
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 464.92601013183594,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02400207519531,
+        744.6425170898438,
+        76.60520935058594,
+        756.844482421875
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Cambridge, MA",
+      "bbox": [
+        492.5799865722656,
+        86.25211334228516,
+        560.5899658203125,
+        99.53874969482422
+      ],
+      "left_indent": 492.5799865722656,
+      "width": 68.00997924804688,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "August 2016 - Present",
+      "bbox": [
+        468.94000244140625,
+        97.29215240478516,
+        560.5899658203125,
+        110.57878875732422
+      ],
+      "left_indent": 468.94000244140625,
+      "width": 91.64996337890625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Noida, India",
+      "bbox": [
+        508.05999755859375,
+        152.25210571289062,
+        560.5899658203125,
+        165.53875732421875
+      ],
+      "left_indent": 508.05999755859375,
+      "width": 52.52996826171875,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "July 2005- May 2009",
+      "bbox": [
+        469.7799987792969,
+        163.29214477539062,
+        560.5899658203125,
+        176.57879638671875
+      ],
+      "left_indent": 469.7799987792969,
+      "width": 90.80996704101562,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Bangalore, India",
+      "bbox": [
+        491.5,
+        205.29214477539062,
+        560.5899658203125,
+        218.57879638671875
+      ],
+      "left_indent": 491.5,
+      "width": 69.0899658203125,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "October 2014 – August 2016",
+      "bbox": [
+        441.9100036621094,
+        216.21212768554688,
+        557.9939575195312,
+        229.498779296875
+      ],
+      "left_indent": 441.9100036621094,
+      "width": 116.08395385742188,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Bangalore | Mumbai, India",
+      "bbox": [
+        450.54998779296875,
+        295.5621032714844,
+        560.5899658203125,
+        308.8487548828125
+      ],
+      "left_indent": 450.54998779296875,
+      "width": 110.03997802734375,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Bangalore, India",
+      "bbox": [
+        491.5,
+        481.22210693359375,
+        560.5899658203125,
+        494.5087585449219
+      ],
+      "left_indent": 491.5,
+      "width": 69.0899658203125,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "August 2012 – July 2013",
+      "bbox": [
+        449.95001220703125,
+        492.2621154785156,
+        558.0399780273438,
+        505.54876708984375
+      ],
+      "left_indent": 449.95001220703125,
+      "width": 108.0899658203125,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Bangalore, India | Chicago, USA",
+      "bbox": [
+        426.07000732421875,
+        571.5821533203125,
+        560.5899658203125,
+        584.8687744140625
+      ],
+      "left_indent": 426.07000732421875,
+      "width": 134.51995849609375,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "July 2011 – August 2012",
+      "bbox": [
+        457.5400085449219,
+        582.5021362304688,
+        558.1599731445312,
+        595.7887573242188
+      ],
+      "left_indent": 457.5400085449219,
+      "width": 100.61996459960938,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    }
+  ],
+  "text_per_page": [
+    "Karan Sachan\nTang Hall # 06B3, 550 Memorial Dr, Cambridge, MA - 02139\n+1 617.401.5822 | ksachan@mit.edu\nEDUCATION\nMassachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nM.S., Engineering and Management\n• VP of Marketing, Product Management Club; VP of Alumni relations, MIT-SDM\n• Core Member of Digital Currency Initiative, a group focusing on Blockchain and AR/VR at MIT Media Lab\nJSS Academy of Technical Education\nB.Tech (with Honors), Information Technology\nGraduated 1st /117 students in my department & among top 5% of university B.Tech batch of ~23,000 students\n\nEXPERIENCE\nWishing Well Technologies Pvt. Ltd.\nCo-founder & Head – Product & Engineering\nSuccessfully led fundraising efforts to build MVP, raising $500K from investors including ex-Fortune100 CEO\n\nLed the design and development of platform (Web & Mobile) through new data-driven approach, resulting in a 97%\n\nincrease in signups, doubling of mobile traffic time-on-site, and growing visitor traffic at non-peak times by 20%\nFinalist of India’s most premier start-up challenge – ‘10000 start-ups’ by NASSCOM; over 9000 start-ups applied\n\nReliance Industries Ltd.\nProduct Manager - Smartphone | Cloud Solutions – Saas & IaaS July 2013 – August 2016\nSelected among 30 candidates out of 30,000+ for the most renowned Leadership Development Program in India\n\nProduct/Program Manager for $120M product portfolio; Responsible for delivering product from ideation to launch\n\nSuccessfully built the world’s most economical 4G smartphone by focusing on 80:20 rule for feature-usage metrics\n\ndriven by usability studies and eliminating less valuable components, improving Bill of Material (BOM) by 37%\nManaged strategic vendor worldwide and grew partner ecosystem by 300% (incl. Fortune 500 companies), reducing\n\nthe time to market by 23% and cutting down run-rate expenses and budgeted capital expenditures by 17%\nLed Open Mobile Project from Reliance in collaboration with Govt. of India, Facebook’s Internet.org, and Google’s\n\nProject Loon to provide Internet connectivity to 500+ millions Indians in rural and remote areas\nFiled 4 key patents around security architecture of smart devices, strengthening intellectual property of our product\n\nSpearheaded product awareness and partnership by showcasing product at Mobile World Congress - Barcelona,\n\nattended by nearly 100,000+ participants from 190 countries and 3,600+ members of the international media\nQyuki Digital Media Pvt. Ltd.\nProduct Manager & Data Scientist\nLed the development of data science competencies for the platform, driving traffic up by 43% and increasing avg.\n\ntime spent per user per month by 33 mins; Increased EBIT by 37% by pushing personalized ads to customers\nIncreased viral invites by 27% by implementing a social graph to connect through Facebook and Google+\n\nDrove strategic product development by facilitating a feedback loop among engineering, sales, and marketing/PR\n\nMotorola Mobility Inc.\nSenior Engineer, Motorola Innovations Lab\nAwarded ‘Innovator of the Year’ in 2011 across all Motorola facilities for ideating the initial modular phone concept\n\nin a hack-a-thon, which later matured and pursued by Google as ‘Project ARA’\nOutlined and designed welcome experience for new and returning users of Motorola devices, introducing them to a\n\ncompletely re-imagined product experience including landing screen layout and guided tour for feature walkthrough\nManaged UserVoice account that aggregates user feedback to make data-driven decisions and prioritize product\n\nideas. Determined top addressable issues by churning and analyzing data and led teams to resolve these issues\nADDITIONAL INFORMATION\nTechnical Skills: Java, Cloud, Hadoop, Machine Learning, Python, R, NoSQL, JIRA, Google Analytics, Tableau\n\nCertifications: Harvard’s HBX CORe; Scrum Alliance’s Agile ScrumMaster; Design Thinking from Lynda.com\n\nAwarded Global Leaders scholarship by Fujitsu-JAIMS and Young Leader Program scholarship by Govt of Japan\n\nInvited as Delegate in 12th World Business Dialogue at Berlin and in Preparing Global Leaders Academy at Jordan\n\nCambridge, MA\nAugust 2016 - Present\nNoida, India\nJuly 2005- May 2009\nBangalore, India\nOctober 2014 – August 2016\nBangalore | Mumbai, India\nBangalore, India\nAugust 2012 – July 2013\nBangalore, India | Chicago, USA\nJuly 2011 – August 2012"
+  ],
+  "text_all": "Karan Sachan\nTang Hall # 06B3, 550 Memorial Dr, Cambridge, MA - 02139\n+1 617.401.5822 | ksachan@mit.edu\nEDUCATION\nMassachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nM.S., Engineering and Management\n• VP of Marketing, Product Management Club; VP of Alumni relations, MIT-SDM\n• Core Member of Digital Currency Initiative, a group focusing on Blockchain and AR/VR at MIT Media Lab\nJSS Academy of Technical Education\nB.Tech (with Honors), Information Technology\nGraduated 1st /117 students in my department & among top 5% of university B.Tech batch of ~23,000 students\n\nEXPERIENCE\nWishing Well Technologies Pvt. Ltd.\nCo-founder & Head – Product & Engineering\nSuccessfully led fundraising efforts to build MVP, raising $500K from investors including ex-Fortune100 CEO\n\nLed the design and development of platform (Web & Mobile) through new data-driven approach, resulting in a 97%\n\nincrease in signups, doubling of mobile traffic time-on-site, and growing visitor traffic at non-peak times by 20%\nFinalist of India’s most premier start-up challenge – ‘10000 start-ups’ by NASSCOM; over 9000 start-ups applied\n\nReliance Industries Ltd.\nProduct Manager - Smartphone | Cloud Solutions – Saas & IaaS July 2013 – August 2016\nSelected among 30 candidates out of 30,000+ for the most renowned Leadership Development Program in India\n\nProduct/Program Manager for $120M product portfolio; Responsible for delivering product from ideation to launch\n\nSuccessfully built the world’s most economical 4G smartphone by focusing on 80:20 rule for feature-usage metrics\n\ndriven by usability studies and eliminating less valuable components, improving Bill of Material (BOM) by 37%\nManaged strategic vendor worldwide and grew partner ecosystem by 300% (incl. Fortune 500 companies), reducing\n\nthe time to market by 23% and cutting down run-rate expenses and budgeted capital expenditures by 17%\nLed Open Mobile Project from Reliance in collaboration with Govt. of India, Facebook’s Internet.org, and Google’s\n\nProject Loon to provide Internet connectivity to 500+ millions Indians in rural and remote areas\nFiled 4 key patents around security architecture of smart devices, strengthening intellectual property of our product\n\nSpearheaded product awareness and partnership by showcasing product at Mobile World Congress - Barcelona,\n\nattended by nearly 100,000+ participants from 190 countries and 3,600+ members of the international media\nQyuki Digital Media Pvt. Ltd.\nProduct Manager & Data Scientist\nLed the development of data science competencies for the platform, driving traffic up by 43% and increasing avg.\n\ntime spent per user per month by 33 mins; Increased EBIT by 37% by pushing personalized ads to customers\nIncreased viral invites by 27% by implementing a social graph to connect through Facebook and Google+\n\nDrove strategic product development by facilitating a feedback loop among engineering, sales, and marketing/PR\n\nMotorola Mobility Inc.\nSenior Engineer, Motorola Innovations Lab\nAwarded ‘Innovator of the Year’ in 2011 across all Motorola facilities for ideating the initial modular phone concept\n\nin a hack-a-thon, which later matured and pursued by Google as ‘Project ARA’\nOutlined and designed welcome experience for new and returning users of Motorola devices, introducing them to a\n\ncompletely re-imagined product experience including landing screen layout and guided tour for feature walkthrough\nManaged UserVoice account that aggregates user feedback to make data-driven decisions and prioritize product\n\nideas. Determined top addressable issues by churning and analyzing data and led teams to resolve these issues\nADDITIONAL INFORMATION\nTechnical Skills: Java, Cloud, Hadoop, Machine Learning, Python, R, NoSQL, JIRA, Google Analytics, Tableau\n\nCertifications: Harvard’s HBX CORe; Scrum Alliance’s Agile ScrumMaster; Design Thinking from Lynda.com\n\nAwarded Global Leaders scholarship by Fujitsu-JAIMS and Young Leader Program scholarship by Govt of Japan\n\nInvited as Delegate in 12th World Business Dialogue at Berlin and in Preparing Global Leaders Academy at Jordan\n\nCambridge, MA\nAugust 2016 - Present\nNoida, India\nJuly 2005- May 2009\nBangalore, India\nOctober 2014 – August 2016\nBangalore | Mumbai, India\nBangalore, India\nAugust 2012 – July 2013\nBangalore, India | Chicago, USA\nJuly 2011 – August 2012"
+}

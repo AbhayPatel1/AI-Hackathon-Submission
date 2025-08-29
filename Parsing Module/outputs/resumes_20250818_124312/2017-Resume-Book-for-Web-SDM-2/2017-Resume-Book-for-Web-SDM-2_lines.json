@@ -1,0 +1,1244 @@
+{
+  "meta": {
+    "source_path": "data/resumes/2017-Resume-Book-for-Web-SDM-2.pdf",
+    "pages": 1
+  },
+  "lines": [
+    {
+      "page": 1,
+      "text": "SHWETA AGARWAL",
+      "bbox": [
+        255.1699981689453,
+        50.23200988769531,
+        374.7619934082031,
+        66.85201263427734
+      ],
+      "left_indent": 255.1699981689453,
+      "width": 119.59199523925781,
+      "is_bold": true,
+      "font_size": 12.0
+    },
+    {
+      "page": 1,
+      "text": "235 Albany Street, Apt # 3069, Cambridge, MA 02139",
+      "bbox": [
+        204.6199951171875,
+        63.31210708618164,
+        427.9599914550781,
+        76.59874725341797
+      ],
+      "left_indent": 204.6199951171875,
+      "width": 223.33999633789062,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "+1 (917) 435-2825 | shwetaag@mit.edu",
+      "bbox": [
+        235.3699951171875,
+        74.23209381103516,
+        397.239990234375,
+        87.51873016357422
+      ],
+      "left_indent": 235.3699951171875,
+      "width": 161.8699951171875,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "EDUCATION",
+      "bbox": [
+        72.02400207519531,
+        85.38179016113281,
+        135.5900115966797,
+        99.1763916015625
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 63.566009521484375,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Massachusetts Institute of Technology",
+      "bbox": [
+        72.02400207519531,
+        102.42176818847656,
+        234.87802124023438,
+        116.21636962890625
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 162.85401916503906,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "School of Engineering & Sloan School of Management",
+      "bbox": [
+        72.02400207519531,
+        114.26802825927734,
+        294.2599792480469,
+        126.42919158935547
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 222.23597717285156,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Candidate for M.S., System Design and Management, Jan 2018 | CGPA 4.5/5",
+      "bbox": [
+        72.02400207519531,
+        124.29215240478516,
+        385.47998046875,
+        137.57879638671875
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 313.4559783935547,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Active member of Technology, Product Management, FinTech, and Entrepreneurship and Innovation clubs",
+      "bbox": [
+        90.02400207519531,
+        135.33212280273438,
+        522.0700073242188,
+        148.6187744140625
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 432.04600524902344,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02400207519531,
+        135.8065185546875,
+        76.60520935058594,
+        148.00848388671875
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Project: Designed image recognition tool for restaurants to identify customers, their emotion and fetch their food",
+      "bbox": [
+        90.02400207519531,
+        146.25210571289062,
+        560.5397338867188,
+        159.53875732421875
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 470.51573181152344,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02400207519531,
+        146.72650146484375,
+        76.60520935058594,
+        158.928466796875
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "preferences from past records, enabling personalized services to the right customer at the right time",
+      "bbox": [
+        90.02400207519531,
+        157.29214477539062,
+        490.0299987792969,
+        170.57879638671875
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 400.00599670410156,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "GMAT: 720",
+      "bbox": [
+        90.02400207519531,
+        168.33212280273438,
+        142.19000244140625,
+        181.6187744140625
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 52.16600036621094,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02400207519531,
+        168.8065185546875,
+        76.60520935058594,
+        181.00848388671875
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Indian School of Business (ISB)",
+      "bbox": [
+        72.02400207519531,
+        185.3417510986328,
+        206.46824645996094,
+        199.1363525390625
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 134.44424438476562,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Post Graduate Programme in Management (M.B.A.)",
+      "bbox": [
+        72.02400207519531,
+        197.30807495117188,
+        285.6199951171875,
+        209.46922302246094
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 213.5959930419922,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Concentration: Information and Technology Management; Marketing",
+      "bbox": [
+        90.02400207519531,
+        207.33212280273438,
+        371.0799865722656,
+        220.6187744140625
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 281.0559844970703,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02400207519531,
+        207.8065185546875,
+        76.60520935058594,
+        220.00848388671875
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Events Coordinator, Women in Business Club; Lead Coordinator, Business Technology Club",
+      "bbox": [
+        90.02400207519531,
+        218.25210571289062,
+        466.47998046875,
+        231.53875732421875
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 376.4559783935547,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02400207519531,
+        218.72650146484375,
+        76.60520935058594,
+        230.928466796875
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Galgotias College of Engineering and Technology",
+      "bbox": [
+        72.02400207519531,
+        235.3817901611328,
+        282.5884704589844,
+        249.1763916015625
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 210.56446838378906,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Bachelor of Technology, Electronics and Communication Engineering",
+      "bbox": [
+        72.02400207519531,
+        247.34805297851562,
+        357.03997802734375,
+        259.50921630859375
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 285.01597595214844,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Graduated 1 st / 125 students in my department & among top 5% of university B.Tech batch of ~26,000 students",
+      "bbox": [
+        90.02400207519531,
+        257.2821350097656,
+        538.989990234375,
+        270.56878662109375
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 448.9659881591797,
+      "is_bold": false,
+      "font_size": 8.800000031789144
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02400207519531,
+        257.75653076171875,
+        76.60520935058594,
+        269.95849609375
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "EXPERIENCE",
+      "bbox": [
+        72.02400207519531,
+        274.4117431640625,
+        140.02999877929688,
+        288.20635986328125
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 68.00599670410156,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Axis Bank",
+      "bbox": [
+        72.02400207519531,
+        291.4517517089844,
+        116.1667251586914,
+        305.2463684082031
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 44.142723083496094,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "India’s leading private bank, offering a wide range of consumer and corporate banking services; annual turnover: $6.2B",
+      "bbox": [
+        72.02400207519531,
+        302.2821044921875,
+        553.989990234375,
+        315.5687561035156
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 481.9659881591797,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Senior Manager, IT - Technology & Digital Innovation Group",
+      "bbox": [
+        72.02400207519531,
+        314.1288757324219,
+        332.05999755859375,
+        327.03704833984375
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 260.03599548339844,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Innovation Management and IT Strategy - CIO Advisory",
+      "bbox": [
+        72.02400207519531,
+        330.6580505371094,
+        303.3800048828125,
+        342.8192138671875
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 231.3560028076172,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Handpicked by the senior management to devise digital transformation strategy; conducted competitor analysis and",
+      "bbox": [
+        90.02400207519531,
+        341.7621154785156,
+        560.5608520507812,
+        355.04876708984375
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 470.53684997558594,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02400207519531,
+        342.23651123046875,
+        76.60520935058594,
+        354.4384765625
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "liaised with industry experts to constitute I.D.E.A. team to make digital innovation a core competency for the bank",
+      "bbox": [
+        90.02400207519531,
+        352.8021240234375,
+        551.7099609375,
+        366.0887756347656
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 461.6859588623047,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Analyzed user needs and presented applications of natural language processing, artificial intelligence and blockchain",
+      "bbox": [
+        90.02400207519531,
+        364.922119140625,
+        560.5625610351562,
+        378.2087707519531
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 470.53855895996094,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02400207519531,
+        365.3965148925781,
+        76.60520935058594,
+        377.5984802246094
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "technologies in virtual assistance, personalized customer experience and payments innovation at the bank",
+      "bbox": [
+        90.02400207519531,
+        375.84210205078125,
+        514.3900146484375,
+        389.1287536621094
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 424.3660125732422,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Managed setting up of Innovation Lab with in-house incubation center and accelerator program for new start-ups",
+      "bbox": [
+        90.02400207519531,
+        387.84210205078125,
+        544.989990234375,
+        401.1287536621094
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 454.9659881591797,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02400207519531,
+        388.3164978027344,
+        76.60520935058594,
+        400.5184631347656
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "New Product Design/Co-creation and Data Analytics",
+      "bbox": [
+        72.02400207519531,
+        406.1380310058594,
+        291.2599792480469,
+        418.2991943359375
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 219.23597717285156,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Led team of 12 people to build digital wallet 'LIME' app by evaluating market trends, gathering requirements and",
+      "bbox": [
+        90.02400207519531,
+        417.36212158203125,
+        560.421142578125,
+        430.6487731933594
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 470.3971405029297,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02400207519531,
+        417.8365173339844,
+        76.60520935058594,
+        430.0384826660156
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "developing features, resulting in >1M installs and ~$4.6M value of wallet load in 3 months of launch",
+      "bbox": [
+        90.02400207519531,
+        428.3021240234375,
+        496.989990234375,
+        441.5887756347656
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 406.9659881591797,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Designed and developed user journey, product features and technical implementation plan for the instant personal",
+      "bbox": [
+        90.02400207519531,
+        440.422119140625,
+        560.5442504882812,
+        453.7087707519531
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 470.52024841308594,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02400207519531,
+        440.8965148925781,
+        76.60520935058594,
+        453.0984802246094
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "loan on mobile app, resulting in 11,000 loan accounts creation and disbursal of ~$5.2M",
+      "bbox": [
+        90.02400207519531,
+        451.34210205078125,
+        442.3599853515625,
+        464.6287536621094
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 352.3359832763672,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Implemented multiple big data initiatives using Hadoop and Google Analytics, enabling location based personalized",
+      "bbox": [
+        90.02400207519531,
+        463.4621276855469,
+        560.5264282226562,
+        476.748779296875
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 470.50242614746094,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02400207519531,
+        463.9365234375,
+        76.60520935058594,
+        476.13848876953125
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "offers to customers, and 90% of time reduction in transactions tagging",
+      "bbox": [
+        90.02400207519531,
+        474.3821105957031,
+        373.8399963378906,
+        487.66876220703125
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 283.8159942626953,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Conceptualized and launched service package ‘Happy Holidays’ which included forex, travel insurance, trip assist,",
+      "bbox": [
+        90.02400207519531,
+        486.3821105957031,
+        560.4341430664062,
+        499.66876220703125
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 470.41014099121094,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02400207519531,
+        486.85650634765625,
+        76.60520935058594,
+        499.0584716796875
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "dining delights and international sim to tap Indian globetrotters. It won bronze amongst 469 nominees from 261",
+      "bbox": [
+        90.02400207519531,
+        497.3021240234375,
+        560.4315795898438,
+        510.5887756347656
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 470.40757751464844,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "banks in the EFMA International Innovation Awards (marketing & distribution) under customer experience category",
+      "bbox": [
+        90.02400207519531,
+        508.3420715332031,
+        560.1099853515625,
+        521.6287231445312
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 470.0859832763672,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Tata Consultancy Services",
+      "bbox": [
+        72.02400207519531,
+        530.3917236328125,
+        185.2293701171875,
+        544.1863403320312
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 113.20536804199219,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Asia’s largest IT Services, Business Solutions and Outsourcing organization; annual turnover - $16.5B",
+      "bbox": [
+        72.02400207519531,
+        541.3421630859375,
+        485.7099914550781,
+        554.6287841796875
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 413.6859893798828,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Systems Engineer, IT Infrastructure Services",
+      "bbox": [
+        72.02400207519531,
+        553.1889038085938,
+        261.0199890136719,
+        566.0970458984375
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 188.99598693847656,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Chosen ahead of 15 team members to drive due-diligence phase by serving as liaison between business and technical",
+      "bbox": [
+        90.02400207519531,
+        563.3021240234375,
+        560.2796020507812,
+        576.5887451171875
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 470.25559997558594,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02400207519531,
+        563.7764892578125,
+        76.60520935058594,
+        575.9784545898438
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "teams, enabling ~$5M deal sign-off from the UK based automobile manufacturing client",
+      "bbox": [
+        90.02400207519531,
+        574.3421630859375,
+        447.2799987792969,
+        587.6287841796875
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 357.25599670410156,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Automated the process of health check and monitoring of environment using Six –Sigma strategy, reducing 25% of",
+      "bbox": [
+        90.02400207519531,
+        587.3021240234375,
+        560.3866577148438,
+        600.5887451171875
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 470.36265563964844,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02400207519531,
+        587.7764892578125,
+        76.60520935058594,
+        599.9784545898438
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "man-hours and achieving cost saving of $50,000 for the UK Retail client",
+      "bbox": [
+        90.02400207519531,
+        598.3721313476562,
+        383.55999755859375,
+        611.6587524414062
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 293.53599548339844,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Spearheaded scoping & monitoring of the Service Level Agreement (SLA) by designing a customized IT Solution",
+      "bbox": [
+        90.02400207519531,
+        611.3321533203125,
+        559.9898071289062,
+        624.6187744140625
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 469.96580505371094,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02400207519531,
+        611.8065185546875,
+        76.60520935058594,
+        624.0084838867188
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "for tracking knowledge transfer from client, ensuring project compliance by meeting both internal & market SLAs",
+      "bbox": [
+        90.02400207519531,
+        622.3721313476562,
+        550.1499633789062,
+        635.6587524414062
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 460.12596130371094,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Rimjhim Ispat Ltd",
+      "bbox": [
+        72.02400207519531,
+        639.5017700195312,
+        152.35140991210938,
+        653.29638671875
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 80.32740783691406,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "India’s leading stainless steel producer, melting capacity 300,000 MT/annum, annual turnover $110M",
+      "bbox": [
+        72.02400207519531,
+        650.3321533203125,
+        482.79998779296875,
+        663.6187744140625
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 410.77598571777344,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Sales Engineer",
+      "bbox": [
+        72.02400207519531,
+        662.1788940429688,
+        137.02999877929688,
+        675.0870361328125
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 65.00599670410156,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Led the sales function which resulted in building new client base of 5 companies and order book value of $100,000",
+      "bbox": [
+        90.02400207519531,
+        672.4121704101562,
+        553.6300048828125,
+        685.6987915039062
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 463.6060028076172,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02400207519531,
+        672.8865356445312,
+        76.60520935058594,
+        685.0885009765625
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "ADDITIONAL INFORMATION",
+      "bbox": [
+        72.02400207519531,
+        689.417724609375,
+        216.5,
+        703.2123413085938
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 144.4759979248047,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Technical Skills: JMP13, R, Tableau, Python, HTML and JavaScript",
+      "bbox": [
+        90.02400207519531,
+        700.3681640625,
+        367.5999755859375,
+        713.65478515625
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 277.5759735107422,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02400207519531,
+        700.842529296875,
+        76.60520935058594,
+        713.0444946289062
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Volunteer CRY since Jul’12: organized street play & educated people on zero tolerance towards violation of child",
+      "bbox": [
+        90.02400207519531,
+        713.328125,
+        560.1316528320312,
+        726.61474609375
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 470.10765075683594,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02400207519531,
+        713.802490234375,
+        76.60520935058594,
+        726.0044555664062
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "rights",
+      "bbox": [
+        90.02400207519531,
+        724.3681640625,
+        115.30999755859375,
+        737.65478515625
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 25.285995483398438,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Avid swimmer and dancer",
+      "bbox": [
+        90.02400207519531,
+        737.328125,
+        198.35000610351562,
+        750.61474609375
+      ],
+      "left_indent": 90.02400207519531,
+      "width": 108.32600402832031,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        72.02400207519531,
+        737.802490234375,
+        76.60520935058594,
+        750.0044555664062
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Cambridge, MA",
+      "bbox": [
+        492.5799865722656,
+        102.3321304321289,
+        560.5899658203125,
+        115.61876678466797
+      ],
+      "left_indent": 492.5799865722656,
+      "width": 68.00997924804688,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "08/2016 – 01/2018",
+      "bbox": [
+        482.4700012207031,
+        113.25211334228516,
+        560.5899658203125,
+        126.53874969482422
+      ],
+      "left_indent": 482.4700012207031,
+      "width": 78.11996459960938,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Hyderabad, India",
+      "bbox": [
+        488.739990234375,
+        185.25210571289062,
+        560.5899658203125,
+        198.53875732421875
+      ],
+      "left_indent": 488.739990234375,
+      "width": 71.8499755859375,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "2013 - 2014",
+      "bbox": [
+        509.739990234375,
+        196.29214477539062,
+        560.5899658203125,
+        209.57879638671875
+      ],
+      "left_indent": 509.739990234375,
+      "width": 50.8499755859375,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Greater Noida, India",
+      "bbox": [
+        468.07000732421875,
+        235.29214477539062,
+        560.5899658203125,
+        248.57879638671875
+      ],
+      "left_indent": 468.07000732421875,
+      "width": 92.51995849609375,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "2005 - 2009",
+      "bbox": [
+        509.739990234375,
+        247.34805297851562,
+        560.5899658203125,
+        259.50921630859375
+      ],
+      "left_indent": 509.739990234375,
+      "width": 50.8499755859375,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Mumbai, India",
+      "bbox": [
+        498.70001220703125,
+        291.36212158203125,
+        560.5899658203125,
+        304.6487731933594
+      ],
+      "left_indent": 498.70001220703125,
+      "width": 61.88995361328125,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "05/2014 – 02/2016",
+      "bbox": [
+        482.4700012207031,
+        313.3221130371094,
+        560.5899658203125,
+        326.6087646484375
+      ],
+      "left_indent": 482.4700012207031,
+      "width": 78.11996459960938,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Gurgaon, India",
+      "bbox": [
+        497.5,
+        530.3021240234375,
+        560.5899658203125,
+        543.5887451171875
+      ],
+      "left_indent": 497.5,
+      "width": 63.0899658203125,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "01/2010 – 03/2013",
+      "bbox": [
+        482.4700012207031,
+        552.3821411132812,
+        560.5899658203125,
+        565.6687622070312
+      ],
+      "left_indent": 482.4700012207031,
+      "width": 78.11996459960938,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Unnao, India",
+      "bbox": [
+        505.8999938964844,
+        639.4121704101562,
+        560.5899658203125,
+        652.6987915039062
+      ],
+      "left_indent": 505.8999938964844,
+      "width": 54.689971923828125,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "07/2009 – 12/2009",
+      "bbox": [
+        482.4700012207031,
+        661.3721313476562,
+        560.5899658203125,
+        674.6587524414062
+      ],
+      "left_indent": 482.4700012207031,
+      "width": 78.11996459960938,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    }
+  ],
+  "text_per_page": [
+    "SHWETA AGARWAL\n235 Albany Street, Apt # 3069, Cambridge, MA 02139\n+1 (917) 435-2825 | shwetaag@mit.edu\nEDUCATION\nMassachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nCandidate for M.S., System Design and Management, Jan 2018 | CGPA 4.5/5\nActive member of Technology, Product Management, FinTech, and Entrepreneurship and Innovation clubs\n\nProject: Designed image recognition tool for restaurants to identify customers, their emotion and fetch their food\n\npreferences from past records, enabling personalized services to the right customer at the right time\nGMAT: 720\n\nIndian School of Business (ISB)\nPost Graduate Programme in Management (M.B.A.)\nConcentration: Information and Technology Management; Marketing\n\nEvents Coordinator, Women in Business Club; Lead Coordinator, Business Technology Club\n\nGalgotias College of Engineering and Technology\nBachelor of Technology, Electronics and Communication Engineering\nGraduated 1 st / 125 students in my department & among top 5% of university B.Tech batch of ~26,000 students\n\nEXPERIENCE\nAxis Bank\nIndia’s leading private bank, offering a wide range of consumer and corporate banking services; annual turnover: $6.2B\nSenior Manager, IT - Technology & Digital Innovation Group\nInnovation Management and IT Strategy - CIO Advisory\nHandpicked by the senior management to devise digital transformation strategy; conducted competitor analysis and\n\nliaised with industry experts to constitute I.D.E.A. team to make digital innovation a core competency for the bank\nAnalyzed user needs and presented applications of natural language processing, artificial intelligence and blockchain\n\ntechnologies in virtual assistance, personalized customer experience and payments innovation at the bank\nManaged setting up of Innovation Lab with in-house incubation center and accelerator program for new start-ups\n\nNew Product Design/Co-creation and Data Analytics\nLed team of 12 people to build digital wallet 'LIME' app by evaluating market trends, gathering requirements and\n\ndeveloping features, resulting in >1M installs and ~$4.6M value of wallet load in 3 months of launch\nDesigned and developed user journey, product features and technical implementation plan for the instant personal\n\nloan on mobile app, resulting in 11,000 loan accounts creation and disbursal of ~$5.2M\nImplemented multiple big data initiatives using Hadoop and Google Analytics, enabling location based personalized\n\noffers to customers, and 90% of time reduction in transactions tagging\nConceptualized and launched service package ‘Happy Holidays’ which included forex, travel insurance, trip assist,\n\ndining delights and international sim to tap Indian globetrotters. It won bronze amongst 469 nominees from 261\nbanks in the EFMA International Innovation Awards (marketing & distribution) under customer experience category\nTata Consultancy Services\nAsia’s largest IT Services, Business Solutions and Outsourcing organization; annual turnover - $16.5B\nSystems Engineer, IT Infrastructure Services\nChosen ahead of 15 team members to drive due-diligence phase by serving as liaison between business and technical\n\nteams, enabling ~$5M deal sign-off from the UK based automobile manufacturing client\nAutomated the process of health check and monitoring of environment using Six –Sigma strategy, reducing 25% of\n\nman-hours and achieving cost saving of $50,000 for the UK Retail client\nSpearheaded scoping & monitoring of the Service Level Agreement (SLA) by designing a customized IT Solution\n\nfor tracking knowledge transfer from client, ensuring project compliance by meeting both internal & market SLAs\nRimjhim Ispat Ltd\nIndia’s leading stainless steel producer, melting capacity 300,000 MT/annum, annual turnover $110M\nSales Engineer\nLed the sales function which resulted in building new client base of 5 companies and order book value of $100,000\n\nADDITIONAL INFORMATION\nTechnical Skills: JMP13, R, Tableau, Python, HTML and JavaScript\n\nVolunteer CRY since Jul’12: organized street play & educated people on zero tolerance towards violation of child\n\nrights\nAvid swimmer and dancer\n\nCambridge, MA\n08/2016 – 01/2018\nHyderabad, India\n2013 - 2014\nGreater Noida, India\n2005 - 2009\nMumbai, India\n05/2014 – 02/2016\nGurgaon, India\n01/2010 – 03/2013\nUnnao, India\n07/2009 – 12/2009"
+  ],
+  "text_all": "SHWETA AGARWAL\n235 Albany Street, Apt # 3069, Cambridge, MA 02139\n+1 (917) 435-2825 | shwetaag@mit.edu\nEDUCATION\nMassachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nCandidate for M.S., System Design and Management, Jan 2018 | CGPA 4.5/5\nActive member of Technology, Product Management, FinTech, and Entrepreneurship and Innovation clubs\n\nProject: Designed image recognition tool for restaurants to identify customers, their emotion and fetch their food\n\npreferences from past records, enabling personalized services to the right customer at the right time\nGMAT: 720\n\nIndian School of Business (ISB)\nPost Graduate Programme in Management (M.B.A.)\nConcentration: Information and Technology Management; Marketing\n\nEvents Coordinator, Women in Business Club; Lead Coordinator, Business Technology Club\n\nGalgotias College of Engineering and Technology\nBachelor of Technology, Electronics and Communication Engineering\nGraduated 1 st / 125 students in my department & among top 5% of university B.Tech batch of ~26,000 students\n\nEXPERIENCE\nAxis Bank\nIndia’s leading private bank, offering a wide range of consumer and corporate banking services; annual turnover: $6.2B\nSenior Manager, IT - Technology & Digital Innovation Group\nInnovation Management and IT Strategy - CIO Advisory\nHandpicked by the senior management to devise digital transformation strategy; conducted competitor analysis and\n\nliaised with industry experts to constitute I.D.E.A. team to make digital innovation a core competency for the bank\nAnalyzed user needs and presented applications of natural language processing, artificial intelligence and blockchain\n\ntechnologies in virtual assistance, personalized customer experience and payments innovation at the bank\nManaged setting up of Innovation Lab with in-house incubation center and accelerator program for new start-ups\n\nNew Product Design/Co-creation and Data Analytics\nLed team of 12 people to build digital wallet 'LIME' app by evaluating market trends, gathering requirements and\n\ndeveloping features, resulting in >1M installs and ~$4.6M value of wallet load in 3 months of launch\nDesigned and developed user journey, product features and technical implementation plan for the instant personal\n\nloan on mobile app, resulting in 11,000 loan accounts creation and disbursal of ~$5.2M\nImplemented multiple big data initiatives using Hadoop and Google Analytics, enabling location based personalized\n\noffers to customers, and 90% of time reduction in transactions tagging\nConceptualized and launched service package ‘Happy Holidays’ which included forex, travel insurance, trip assist,\n\ndining delights and international sim to tap Indian globetrotters. It won bronze amongst 469 nominees from 261\nbanks in the EFMA International Innovation Awards (marketing & distribution) under customer experience category\nTata Consultancy Services\nAsia’s largest IT Services, Business Solutions and Outsourcing organization; annual turnover - $16.5B\nSystems Engineer, IT Infrastructure Services\nChosen ahead of 15 team members to drive due-diligence phase by serving as liaison between business and technical\n\nteams, enabling ~$5M deal sign-off from the UK based automobile manufacturing client\nAutomated the process of health check and monitoring of environment using Six –Sigma strategy, reducing 25% of\n\nman-hours and achieving cost saving of $50,000 for the UK Retail client\nSpearheaded scoping & monitoring of the Service Level Agreement (SLA) by designing a customized IT Solution\n\nfor tracking knowledge transfer from client, ensuring project compliance by meeting both internal & market SLAs\nRimjhim Ispat Ltd\nIndia’s leading stainless steel producer, melting capacity 300,000 MT/annum, annual turnover $110M\nSales Engineer\nLed the sales function which resulted in building new client base of 5 companies and order book value of $100,000\n\nADDITIONAL INFORMATION\nTechnical Skills: JMP13, R, Tableau, Python, HTML and JavaScript\n\nVolunteer CRY since Jul’12: organized street play & educated people on zero tolerance towards violation of child\n\nrights\nAvid swimmer and dancer\n\nCambridge, MA\n08/2016 – 01/2018\nHyderabad, India\n2013 - 2014\nGreater Noida, India\n2005 - 2009\nMumbai, India\n05/2014 – 02/2016\nGurgaon, India\n01/2010 – 03/2013\nUnnao, India\n07/2009 – 12/2009"
+}

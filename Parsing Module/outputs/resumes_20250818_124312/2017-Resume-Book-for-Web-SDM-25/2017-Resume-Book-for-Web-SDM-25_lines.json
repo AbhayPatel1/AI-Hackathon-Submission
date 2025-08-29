@@ -1,0 +1,1426 @@
+{
+  "meta": {
+    "source_path": "data/resumes/2017-Resume-Book-for-Web-SDM-25.pdf",
+    "pages": 1
+  },
+  "lines": [
+    {
+      "page": 1,
+      "text": "Xiaoliang (Jack) Yao",
+      "bbox": [
+        261.1400146484375,
+        16.526611328125,
+        369.1400146484375,
+        29.815673828125
+      ],
+      "left_indent": 261.1400146484375,
+      "width": 108.0,
+      "is_bold": true,
+      "font_size": 12.0
+    },
+    {
+      "page": 1,
+      "text": "262C Winn ST.",
+      "bbox": [
+        283.6116943359375,
+        29.491455078125,
+        349.1282958984375,
+        40.388484954833984
+      ],
+      "left_indent": 283.6116943359375,
+      "width": 65.5166015625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Burlington MA, 01803",
+      "bbox": [
+        269.1658935546875,
+        40.53143310546875,
+        363.5740966796875,
+        51.428462982177734
+      ],
+      "left_indent": 269.1658935546875,
+      "width": 94.408203125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "5089040998",
+      "bbox": [
+        290.1400146484375,
+        51.57147216796875,
+        342.6000061035156,
+        62.468502044677734
+      ],
+      "left_indent": 290.1400146484375,
+      "width": 52.459991455078125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "JACKYAO@MIT.EDU",
+      "bbox": [
+        266.5096130371094,
+        62.3714599609375,
+        366.23028564453125,
+        73.26849365234375
+      ],
+      "left_indent": 266.5096130371094,
+      "width": 99.72067260742188,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "EDUCATION",
+      "bbox": [
+        72.13997650146484,
+        84.451416015625,
+        135.71810913085938,
+        95.34844970703125
+      ],
+      "left_indent": 72.13997650146484,
+      "width": 63.57813262939453,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Massachusetts Institute of Technology",
+      "bbox": [
+        72.13997650146484,
+        106.53143310546875,
+        235.06773376464844,
+        117.428466796875
+      ],
+      "left_indent": 72.13997650146484,
+      "width": 162.9277572631836,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "School of Engineering & Sloan School of Management",
+      "bbox": [
+        72.13997650146484,
+        117.57147216796875,
+        294.2875061035156,
+        128.468505859375
+      ],
+      "left_indent": 72.13997650146484,
+      "width": 222.14752960205078,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "M.S., Engineering and Management",
+      "bbox": [
+        72.13997650146484,
+        128.3714599609375,
+        219.56581115722656,
+        139.26849365234375
+      ],
+      "left_indent": 72.13997650146484,
+      "width": 147.42583465576172,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "4.53/5.00 GPA",
+      "bbox": [
+        90.13997650146484,
+        139.41143798828125,
+        152.88320922851562,
+        150.3084716796875
+      ],
+      "left_indent": 90.13997650146484,
+      "width": 62.74323272705078,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.13997650146484,
+        141.28045654296875,
+        76.6659927368164,
+        151.12046813964844
+      ],
+      "left_indent": 72.13997650146484,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Columbia University",
+      "bbox": [
+        72.13997650146484,
+        161.491455078125,
+        161.2037811279297,
+        172.38848876953125
+      ],
+      "left_indent": 72.13997650146484,
+      "width": 89.06380462646484,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Fu Foundation School of Engineering and Applied Sciences",
+      "bbox": [
+        72.13996887207031,
+        172.53143310546875,
+        314.8293762207031,
+        183.428466796875
+      ],
+      "left_indent": 72.13996887207031,
+      "width": 242.6894073486328,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "M.S., Operations Research",
+      "bbox": [
+        72.13996887207031,
+        183.57147216796875,
+        182.0756072998047,
+        194.468505859375
+      ],
+      "left_indent": 72.13996887207031,
+      "width": 109.93563842773438,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "3.63/4.00 GPA",
+      "bbox": [
+        90.13996887207031,
+        194.3714599609375,
+        152.88320922851562,
+        205.26849365234375
+      ],
+      "left_indent": 90.13996887207031,
+      "width": 62.74324035644531,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.13996887207031,
+        196.240478515625,
+        76.66598510742188,
+        206.0804901123047
+      ],
+      "left_indent": 72.13996887207031,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "University of Massachusetts Amherst",
+      "bbox": [
+        72.13996124267578,
+        216.451416015625,
+        231.22921752929688,
+        227.34844970703125
+      ],
+      "left_indent": 72.13996124267578,
+      "width": 159.0892562866211,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "B.S., Industrial Engineering 3.5/4.00 GPA",
+      "bbox": [
+        72.13996124267578,
+        227.491455078125,
+        241.73333740234375,
+        238.38848876953125
+      ],
+      "left_indent": 72.13996124267578,
+      "width": 169.59337615966797,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "B.S., Applied Mathematics 3.9/4.00 GPA",
+      "bbox": [
+        72.13995361328125,
+        238.53143310546875,
+        243.4818115234375,
+        249.428466796875
+      ],
+      "left_indent": 72.13995361328125,
+      "width": 171.34185791015625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "B.B.A., Operations Management 3.9/4.00 GPA",
+      "bbox": [
+        72.13995361328125,
+        249.57147216796875,
+        264.0238037109375,
+        260.468505859375
+      ],
+      "left_indent": 72.13995361328125,
+      "width": 191.88385009765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "B.A., Economics 3.8/4.00 GPA",
+      "bbox": [
+        72.13995361328125,
+        260.3714599609375,
+        200.70831298828125,
+        271.26849365234375
+      ],
+      "left_indent": 72.13995361328125,
+      "width": 128.568359375,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "B.A., Chinese Language and Linguistics 3.2/4.00 GPA",
+      "bbox": [
+        72.13995361328125,
+        271.41143798828125,
+        296.79718017578125,
+        282.3084716796875
+      ],
+      "left_indent": 72.13995361328125,
+      "width": 224.6572265625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Cumulative 3.68/4.00 GPA",
+      "bbox": [
+        90.13993835449219,
+        282.4514465332031,
+        202.04330444335938,
+        293.3484802246094
+      ],
+      "left_indent": 90.13993835449219,
+      "width": 111.90336608886719,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.13993835449219,
+        284.3204650878906,
+        76.66595458984375,
+        294.16046142578125
+      ],
+      "left_indent": 72.13993835449219,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "EXPERIENCE",
+      "bbox": [
+        72.13993835449219,
+        304.53143310546875,
+        140.1663055419922,
+        315.428466796875
+      ],
+      "left_indent": 72.13993835449219,
+      "width": 68.0263671875,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Amazon.com",
+      "bbox": [
+        72.13993835449219,
+        326.3714599609375,
+        130.42030334472656,
+        337.26849365234375
+      ],
+      "left_indent": 72.13993835449219,
+      "width": 58.280364990234375,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Pathways Operations Internship",
+      "bbox": [
+        72.13995361328125,
+        337.41143798828125,
+        210.46420288085938,
+        348.3084716796875
+      ],
+      "left_indent": 72.13995361328125,
+      "width": 138.32424926757812,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Reduced labor cost by $150k annually by leveling loading daily inbound volume",
+      "bbox": [
+        90.13993835449219,
+        348.4514465332031,
+        416.1496887207031,
+        359.3484802246094
+      ],
+      "left_indent": 90.13993835449219,
+      "width": 326.00975036621094,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.13993835449219,
+        350.3204650878906,
+        76.66595458984375,
+        360.16046142578125
+      ],
+      "left_indent": 72.13993835449219,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Increased inbound productivity by 40% by designing and implementing new inbound process",
+      "bbox": [
+        90.13995361328125,
+        359.491455078125,
+        466.69659423828125,
+        370.38848876953125
+      ],
+      "left_indent": 90.13995361328125,
+      "width": 376.556640625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.13995361328125,
+        361.3604736328125,
+        76.66596984863281,
+        371.2004699707031
+      ],
+      "left_indent": 72.13995361328125,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Decreased inventory shrinkage due to expiration by 4.3% by introducing new promotion strategy",
+      "bbox": [
+        90.13993835449219,
+        370.53143310546875,
+        481.1106872558594,
+        381.428466796875
+      ],
+      "left_indent": 90.13993835449219,
+      "width": 390.9707489013672,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.13993835449219,
+        372.40045166015625,
+        76.66595458984375,
+        382.2404479980469
+      ],
+      "left_indent": 72.13993835449219,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "General Electric Aviation",
+      "bbox": [
+        72.13993835449219,
+        392.3714599609375,
+        181.52288818359375,
+        403.26849365234375
+      ],
+      "left_indent": 72.13993835449219,
+      "width": 109.38294982910156,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Business Leader",
+      "bbox": [
+        72.13995361328125,
+        403.41143798828125,
+        142.66151428222656,
+        414.3084716796875
+      ],
+      "left_indent": 72.13995361328125,
+      "width": 70.52156066894531,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Drove cost out from 1.2 MM to 5.4MM in 2014",
+      "bbox": [
+        90.13993835449219,
+        414.4514465332031,
+        284.53839111328125,
+        425.3484802246094
+      ],
+      "left_indent": 90.13993835449219,
+      "width": 194.39845275878906,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.13993835449219,
+        416.3204650878906,
+        76.66595458984375,
+        426.16046142578125
+      ],
+      "left_indent": 72.13993835449219,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Eliminated customer impact by decreasing work stoppages from 34 in 2013 to 0 YTD",
+      "bbox": [
+        90.13995361328125,
+        425.491455078125,
+        436.1351013183594,
+        436.38848876953125
+      ],
+      "left_indent": 90.13995361328125,
+      "width": 345.9951477050781,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.13995361328125,
+        427.3604736328125,
+        76.66596984863281,
+        437.2004699707031
+      ],
+      "left_indent": 72.13995361328125,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Decreased average inventory balance from 4.7MM/Wk to 3.2 MM/Wk by implementing lean manufacturing",
+      "bbox": [
+        90.13993835449219,
+        436.53143310546875,
+        526.8717651367188,
+        447.428466796875
+      ],
+      "left_indent": 90.13993835449219,
+      "width": 436.73182678222656,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.13993835449219,
+        438.40045166015625,
+        76.66595458984375,
+        448.2404479980469
+      ],
+      "left_indent": 72.13993835449219,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "methods.",
+      "bbox": [
+        90.13995361328125,
+        447.5714416503906,
+        128.98670959472656,
+        458.4684753417969
+      ],
+      "left_indent": 90.13995361328125,
+      "width": 38.84675598144531,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "General Electric Aviation",
+      "bbox": [
+        72.13995361328125,
+        469.41143798828125,
+        181.52288818359375,
+        480.3084716796875
+      ],
+      "left_indent": 72.13995361328125,
+      "width": 109.3829345703125,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "1 st Shift Production Supervisor",
+      "bbox": [
+        72.13993835449219,
+        478.885498046875,
+        202.0164031982422,
+        491.3484802246094
+      ],
+      "left_indent": 72.13993835449219,
+      "width": 129.87646484375,
+      "is_bold": true,
+      "font_size": 8.72000010808309
+    },
+    {
+      "page": 1,
+      "text": "Decreased aged WIP from $1.7MM to under $1MM",
+      "bbox": [
+        90.13995361328125,
+        491.491455078125,
+        301.9944763183594,
+        502.38848876953125
+      ],
+      "left_indent": 90.13995361328125,
+      "width": 211.85452270507812,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.13995361328125,
+        493.3604736328125,
+        76.66596984863281,
+        503.2004699707031
+      ],
+      "left_indent": 72.13995361328125,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Decreased backlog from over $2.2MM to under $1.5MM",
+      "bbox": [
+        90.13993835449219,
+        502.53143310546875,
+        321.7113037109375,
+        513.428466796875
+      ],
+      "left_indent": 90.13993835449219,
+      "width": 231.5713653564453,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.13993835449219,
+        504.40045166015625,
+        76.66595458984375,
+        514.240478515625
+      ],
+      "left_indent": 72.13993835449219,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Increased shop productivity from 3% to over 8%.",
+      "bbox": [
+        90.13995361328125,
+        513.5714111328125,
+        290.3245849609375,
+        524.4684448242188
+      ],
+      "left_indent": 90.13995361328125,
+      "width": 200.18463134765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.13995361328125,
+        515.4404296875,
+        76.66596984863281,
+        525.2804565429688
+      ],
+      "left_indent": 72.13995361328125,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "General Electric Aviation",
+      "bbox": [
+        72.13995361328125,
+        535.4114379882812,
+        181.52288818359375,
+        546.3084716796875
+      ],
+      "left_indent": 72.13995361328125,
+      "width": 109.3829345703125,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Operations Management Leadership Program Associate",
+      "bbox": [
+        72.13993835449219,
+        546.451416015625,
+        306.2746887207031,
+        557.3484497070312
+      ],
+      "left_indent": 72.13993835449219,
+      "width": 234.13475036621094,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "4 th Assignment – FINS/Frames Production Supervisor",
+      "bbox": [
+        90.13995361328125,
+        555.9254760742188,
+        311.5426025390625,
+        568.3884887695312
+      ],
+      "left_indent": 90.13995361328125,
+      "width": 221.40264892578125,
+      "is_bold": false,
+      "font_size": 8.72000010808309
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.13995361328125,
+        559.3604736328125,
+        76.66596984863281,
+        569.2005004882812
+      ],
+      "left_indent": 72.13995361328125,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Decreased backlog from $1.1MM to $0",
+      "bbox": [
+        126.13990020751953,
+        569.1469116210938,
+        270.8218078613281,
+        578.9808349609375
+      ],
+      "left_indent": 126.13990020751953,
+      "width": 144.6819076538086,
+      "is_bold": false,
+      "font_size": 8.880000114440918
+    },
+    {
+      "page": 1,
+      "text": "o",
+      "bbox": [
+        108.13990020751953,
+        569.667236328125,
+        113.46876525878906,
+        579.7266235351562
+      ],
+      "left_indent": 108.13990020751953,
+      "width": 5.328865051269531,
+      "is_bold": false,
+      "font_size": 8.880000114440918
+    },
+    {
+      "page": 1,
+      "text": "Decreased overtime labor by 20% from 25% to 20%",
+      "bbox": [
+        126.13990020751953,
+        579.4669189453125,
+        317.29840087890625,
+        589.3008422851562
+      ],
+      "left_indent": 126.13990020751953,
+      "width": 191.15850067138672,
+      "is_bold": false,
+      "font_size": 8.880000114440918
+    },
+    {
+      "page": 1,
+      "text": "o",
+      "bbox": [
+        108.13990020751953,
+        579.9872436523438,
+        113.46876525878906,
+        590.046630859375
+      ],
+      "left_indent": 108.13990020751953,
+      "width": 5.328865051269531,
+      "is_bold": false,
+      "font_size": 8.880000114440918
+    },
+    {
+      "page": 1,
+      "text": "o",
+      "bbox": [
+        108.13990020751953,
+        589.7479858398438,
+        114.04486083984375,
+        600.8948974609375
+      ],
+      "left_indent": 108.13990020751953,
+      "width": 5.904960632324219,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Decreased aged WIP from $900K to under $500K",
+      "bbox": [
+        126.13990020751953,
+        590.0269165039062,
+        306.8288879394531,
+        599.86083984375
+      ],
+      "left_indent": 126.13990020751953,
+      "width": 180.6889877319336,
+      "is_bold": false,
+      "font_size": 8.880000114440918
+    },
+    {
+      "page": 1,
+      "text": "3 rd Assignment – Shipping Dock Supervisor",
+      "bbox": [
+        90.13995361328125,
+        598.6455078125,
+        269.40118408203125,
+        611.1084594726562
+      ],
+      "left_indent": 90.13995361328125,
+      "width": 179.26123046875,
+      "is_bold": false,
+      "font_size": 8.72000010808309
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.13995361328125,
+        602.0804443359375,
+        76.66596984863281,
+        611.9204711914062
+      ],
+      "left_indent": 72.13995361328125,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Increased On Time Delivery of all shipments from 76% to 92%",
+      "bbox": [
+        126.13990020751953,
+        611.866943359375,
+        357.2973937988281,
+        621.7008666992188
+      ],
+      "left_indent": 126.13990020751953,
+      "width": 231.1574935913086,
+      "is_bold": false,
+      "font_size": 8.880000114440918
+    },
+    {
+      "page": 1,
+      "text": "o",
+      "bbox": [
+        108.13990020751953,
+        612.3872680664062,
+        113.46876525878906,
+        622.4466552734375
+      ],
+      "left_indent": 108.13990020751953,
+      "width": 5.328865051269531,
+      "is_bold": false,
+      "font_size": 8.880000114440918
+    },
+    {
+      "page": 1,
+      "text": "o",
+      "bbox": [
+        108.13990020751953,
+        622.14794921875,
+        114.04486083984375,
+        633.2948608398438
+      ],
+      "left_indent": 108.13990020751953,
+      "width": 5.904960632324219,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Decreased overtime labor and decreased foam use by 50% through new package design",
+      "bbox": [
+        126.13990020751953,
+        622.4268798828125,
+        441.59307861328125,
+        632.2608032226562
+      ],
+      "left_indent": 126.13990020751953,
+      "width": 315.4531784057617,
+      "is_bold": false,
+      "font_size": 8.880000114440918
+    },
+    {
+      "page": 1,
+      "text": "2 nd Assignment – Manufacturing Quality Engineer",
+      "bbox": [
+        90.13993835449219,
+        631.0454711914062,
+        294.8908996582031,
+        643.5084838867188
+      ],
+      "left_indent": 90.13993835449219,
+      "width": 204.75096130371094,
+      "is_bold": false,
+      "font_size": 8.72000010808309
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.13993835449219,
+        634.48046875,
+        76.66595458984375,
+        644.3204956054688
+      ],
+      "left_indent": 72.13993835449219,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Reduced open non-conformances by 60% through process changes",
+      "bbox": [
+        126.13990020751953,
+        644.0269165039062,
+        369.53619384765625,
+        653.86083984375
+      ],
+      "left_indent": 126.13990020751953,
+      "width": 243.39629364013672,
+      "is_bold": false,
+      "font_size": 8.880000114440918
+    },
+    {
+      "page": 1,
+      "text": "o",
+      "bbox": [
+        108.13990020751953,
+        644.5472412109375,
+        113.46876525878906,
+        654.6066284179688
+      ],
+      "left_indent": 108.13990020751953,
+      "width": 5.328865051269531,
+      "is_bold": false,
+      "font_size": 8.880000114440918
+    },
+    {
+      "page": 1,
+      "text": "Increased Florissant Penetrant Inspection yield from 7% to 92% by leading weekly teaming sessions",
+      "bbox": [
+        126.13990020751953,
+        654.346923828125,
+        490.0255126953125,
+        664.1808471679688
+      ],
+      "left_indent": 126.13990020751953,
+      "width": 363.88561248779297,
+      "is_bold": false,
+      "font_size": 8.880000114440918
+    },
+    {
+      "page": 1,
+      "text": "o",
+      "bbox": [
+        108.13990020751953,
+        654.8672485351562,
+        113.46876525878906,
+        664.9266357421875
+      ],
+      "left_indent": 108.13990020751953,
+      "width": 5.328865051269531,
+      "is_bold": false,
+      "font_size": 8.880000114440918
+    },
+    {
+      "page": 1,
+      "text": "o",
+      "bbox": [
+        108.13990020751953,
+        664.6279907226562,
+        114.04486083984375,
+        675.77490234375
+      ],
+      "left_indent": 108.13990020751953,
+      "width": 5.904960632324219,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Decreased instances of physical damage to hardware from 10% to 0%",
+      "bbox": [
+        126.13990020751953,
+        664.9069213867188,
+        380.378662109375,
+        674.7408447265625
+      ],
+      "left_indent": 126.13990020751953,
+      "width": 254.23876190185547,
+      "is_bold": false,
+      "font_size": 8.880000114440918
+    },
+    {
+      "page": 1,
+      "text": "1 st Assignment – Lean Manufacturing Engineer",
+      "bbox": [
+        90.13993835449219,
+        673.0454711914062,
+        290.5998840332031,
+        685.5084838867188
+      ],
+      "left_indent": 90.13993835449219,
+      "width": 200.45994567871094,
+      "is_bold": false,
+      "font_size": 8.72000010808309
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.13993835449219,
+        676.48046875,
+        76.66595458984375,
+        686.3204956054688
+      ],
+      "left_indent": 72.13993835449219,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Increased the output of the Process Village Cell by over 100% by implementing lean process changes",
+      "bbox": [
+        126.13990020751953,
+        686.2669067382812,
+        494.00689697265625,
+        696.100830078125
+      ],
+      "left_indent": 126.13990020751953,
+      "width": 367.8669967651367,
+      "is_bold": false,
+      "font_size": 8.880000114440918
+    },
+    {
+      "page": 1,
+      "text": "o",
+      "bbox": [
+        108.13990020751953,
+        686.7872314453125,
+        113.46876525878906,
+        696.8466186523438
+      ],
+      "left_indent": 108.13990020751953,
+      "width": 5.328865051269531,
+      "is_bold": false,
+      "font_size": 8.880000114440918
+    },
+    {
+      "page": 1,
+      "text": "Supported lean manufacturing by designing equipment and facilities layouts that induce part flow",
+      "bbox": [
+        126.13990020751953,
+        696.5869140625,
+        479.76861572265625,
+        706.4208374023438
+      ],
+      "left_indent": 126.13990020751953,
+      "width": 353.6287155151367,
+      "is_bold": false,
+      "font_size": 8.880000114440918
+    },
+    {
+      "page": 1,
+      "text": "o",
+      "bbox": [
+        108.13990020751953,
+        697.1072387695312,
+        113.46876525878906,
+        707.1666259765625
+      ],
+      "left_indent": 108.13990020751953,
+      "width": 5.328865051269531,
+      "is_bold": false,
+      "font_size": 8.880000114440918
+    },
+    {
+      "page": 1,
+      "text": "o",
+      "bbox": [
+        108.13990020751953,
+        706.8679809570312,
+        114.04486083984375,
+        718.014892578125
+      ],
+      "left_indent": 108.13990020751953,
+      "width": 5.904960632324219,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Reduced the cycle time of process village by 25% from over 12 min to under the TAKT time of 10 min",
+      "bbox": [
+        126.13990020751953,
+        707.1469116210938,
+        498.54595947265625,
+        716.9808349609375
+      ],
+      "left_indent": 126.13990020751953,
+      "width": 372.4060592651367,
+      "is_bold": false,
+      "font_size": 8.880000114440918
+    },
+    {
+      "page": 1,
+      "text": "Languages____________________________________________________________________________________",
+      "bbox": [
+        72.13995361328125,
+        728.1314086914062,
+        540.722900390625,
+        739.0284423828125
+      ],
+      "left_indent": 72.13995361328125,
+      "width": 468.58294677734375,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Spoken and Written Mandarin Chinese",
+      "bbox": [
+        72.13993835449219,
+        739.1714477539062,
+        230.67420959472656,
+        750.0684814453125
+      ],
+      "left_indent": 72.13993835449219,
+      "width": 158.53427124023438,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Cambridge, MA",
+      "bbox": [
+        492.5931091308594,
+        106.53143310546875,
+        560.6000366210938,
+        117.428466796875
+      ],
+      "left_indent": 492.5931091308594,
+      "width": 68.00692749023438,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "May, 2017",
+      "bbox": [
+        514.8098754882812,
+        117.57147216796875,
+        560.6000366210938,
+        128.468505859375
+      ],
+      "left_indent": 514.8098754882812,
+      "width": 45.7901611328125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "New York, NY",
+      "bbox": [
+        496.76300048828125,
+        161.491455078125,
+        560.6000366210938,
+        172.38848876953125
+      ],
+      "left_indent": 496.76300048828125,
+      "width": 63.8370361328125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "May, 2013",
+      "bbox": [
+        514.8098754882812,
+        172.53143310546875,
+        560.6000366210938,
+        183.428466796875
+      ],
+      "left_indent": 514.8098754882812,
+      "width": 45.7901611328125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Amherst, MA",
+      "bbox": [
+        502.58819580078125,
+        216.451416015625,
+        560.6000366210938,
+        227.34844970703125
+      ],
+      "left_indent": 502.58819580078125,
+      "width": 58.0118408203125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "May, 2011",
+      "bbox": [
+        514.809814453125,
+        227.491455078125,
+        560.6000366210938,
+        238.38848876953125
+      ],
+      "left_indent": 514.809814453125,
+      "width": 45.79022216796875,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Seattle, WA",
+      "bbox": [
+        509.2679138183594,
+        326.3714599609375,
+        558.0267944335938,
+        337.26849365234375
+      ],
+      "left_indent": 509.2679138183594,
+      "width": 48.758880615234375,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "May 2016 – August 2016",
+      "bbox": [
+        455.9183044433594,
+        337.41143798828125,
+        558.044189453125,
+        348.3084716796875
+      ],
+      "left_indent": 455.9183044433594,
+      "width": 102.12588500976562,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Lynn, MA",
+      "bbox": [
+        515.9182739257812,
+        392.3714599609375,
+        560.6000366210938,
+        403.26849365234375
+      ],
+      "left_indent": 515.9182739257812,
+      "width": 44.6817626953125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "January 2015 – December 2015",
+      "bbox": [
+        430.9573059082031,
+        403.41143798828125,
+        560.6000366210938,
+        414.3084716796875
+      ],
+      "left_indent": 430.9573059082031,
+      "width": 129.64273071289062,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Lynn, MA",
+      "bbox": [
+        515.9182739257812,
+        469.41143798828125,
+        560.6000366210938,
+        480.3084716796875
+      ],
+      "left_indent": 515.9182739257812,
+      "width": 44.6817626953125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "July – December 2014",
+      "bbox": [
+        467.885986328125,
+        480.4514465332031,
+        560.6000366210938,
+        491.3484802246094
+      ],
+      "left_indent": 467.885986328125,
+      "width": 92.71405029296875,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Class of 2013",
+      "bbox": [
+        503.1400146484375,
+        535.4114379882812,
+        560.6000366210938,
+        546.3084716796875
+      ],
+      "left_indent": 503.1400146484375,
+      "width": 57.46002197265625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Cincinnati, OH",
+      "bbox": [
+        468.139892578125,
+        557.491455078125,
+        559.2035522460938,
+        568.3884887695312
+      ],
+      "left_indent": 468.139892578125,
+      "width": 91.06365966796875,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Lynn, MA",
+      "bbox": [
+        432.139892578125,
+        600.21142578125,
+        559.3215942382812,
+        611.1084594726562
+      ],
+      "left_indent": 432.139892578125,
+      "width": 127.18170166015625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Lynn, MA",
+      "bbox": [
+        504.139892578125,
+        632.6114501953125,
+        558.8215942382812,
+        643.5084838867188
+      ],
+      "left_indent": 504.139892578125,
+      "width": 54.68170166015625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Rutland, MA",
+      "bbox": [
+        504.139892578125,
+        674.6114501953125,
+        559.3782958984375,
+        685.5084838867188
+      ],
+      "left_indent": 504.139892578125,
+      "width": 55.2384033203125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    }
+  ],
+  "text_per_page": [
+    "Xiaoliang (Jack) Yao\n262C Winn ST.\nBurlington MA, 01803\n5089040998\nJACKYAO@MIT.EDU\nEDUCATION\nMassachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nM.S., Engineering and Management\n4.53/5.00 GPA\n•\nColumbia University\nFu Foundation School of Engineering and Applied Sciences\nM.S., Operations Research\n3.63/4.00 GPA\n•\nUniversity of Massachusetts Amherst\nB.S., Industrial Engineering 3.5/4.00 GPA\nB.S., Applied Mathematics 3.9/4.00 GPA\nB.B.A., Operations Management 3.9/4.00 GPA\nB.A., Economics 3.8/4.00 GPA\nB.A., Chinese Language and Linguistics 3.2/4.00 GPA\nCumulative 3.68/4.00 GPA\n•\nEXPERIENCE\nAmazon.com\nPathways Operations Internship\nReduced labor cost by $150k annually by leveling loading daily inbound volume\n•\nIncreased inbound productivity by 40% by designing and implementing new inbound process\n•\nDecreased inventory shrinkage due to expiration by 4.3% by introducing new promotion strategy\n•\nGeneral Electric Aviation\nBusiness Leader\nDrove cost out from 1.2 MM to 5.4MM in 2014\n•\nEliminated customer impact by decreasing work stoppages from 34 in 2013 to 0 YTD\n•\nDecreased average inventory balance from 4.7MM/Wk to 3.2 MM/Wk by implementing lean manufacturing\n•\nmethods.\nGeneral Electric Aviation\n1 st Shift Production Supervisor\nDecreased aged WIP from $1.7MM to under $1MM\n•\nDecreased backlog from over $2.2MM to under $1.5MM\n•\nIncreased shop productivity from 3% to over 8%.\n•\nGeneral Electric Aviation\nOperations Management Leadership Program Associate\n4 th Assignment – FINS/Frames Production Supervisor\n•\nDecreased backlog from $1.1MM to $0\no\nDecreased overtime labor by 20% from 25% to 20%\no\no\nDecreased aged WIP from $900K to under $500K\n3 rd Assignment – Shipping Dock Supervisor\n•\nIncreased On Time Delivery of all shipments from 76% to 92%\no\no\nDecreased overtime labor and decreased foam use by 50% through new package design\n2 nd Assignment – Manufacturing Quality Engineer\n•\nReduced open non-conformances by 60% through process changes\no\nIncreased Florissant Penetrant Inspection yield from 7% to 92% by leading weekly teaming sessions\no\no\nDecreased instances of physical damage to hardware from 10% to 0%\n1 st Assignment – Lean Manufacturing Engineer\n•\nIncreased the output of the Process Village Cell by over 100% by implementing lean process changes\no\nSupported lean manufacturing by designing equipment and facilities layouts that induce part flow\no\no\nReduced the cycle time of process village by 25% from over 12 min to under the TAKT time of 10 min\nLanguages____________________________________________________________________________________\nSpoken and Written Mandarin Chinese\nCambridge, MA\nMay, 2017\nNew York, NY\nMay, 2013\nAmherst, MA\nMay, 2011\nSeattle, WA\nMay 2016 – August 2016\nLynn, MA\nJanuary 2015 – December 2015\nLynn, MA\nJuly – December 2014\nClass of 2013\nCincinnati, OH\nLynn, MA\nLynn, MA\nRutland, MA"
+  ],
+  "text_all": "Xiaoliang (Jack) Yao\n262C Winn ST.\nBurlington MA, 01803\n5089040998\nJACKYAO@MIT.EDU\nEDUCATION\nMassachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nM.S., Engineering and Management\n4.53/5.00 GPA\n•\nColumbia University\nFu Foundation School of Engineering and Applied Sciences\nM.S., Operations Research\n3.63/4.00 GPA\n•\nUniversity of Massachusetts Amherst\nB.S., Industrial Engineering 3.5/4.00 GPA\nB.S., Applied Mathematics 3.9/4.00 GPA\nB.B.A., Operations Management 3.9/4.00 GPA\nB.A., Economics 3.8/4.00 GPA\nB.A., Chinese Language and Linguistics 3.2/4.00 GPA\nCumulative 3.68/4.00 GPA\n•\nEXPERIENCE\nAmazon.com\nPathways Operations Internship\nReduced labor cost by $150k annually by leveling loading daily inbound volume\n•\nIncreased inbound productivity by 40% by designing and implementing new inbound process\n•\nDecreased inventory shrinkage due to expiration by 4.3% by introducing new promotion strategy\n•\nGeneral Electric Aviation\nBusiness Leader\nDrove cost out from 1.2 MM to 5.4MM in 2014\n•\nEliminated customer impact by decreasing work stoppages from 34 in 2013 to 0 YTD\n•\nDecreased average inventory balance from 4.7MM/Wk to 3.2 MM/Wk by implementing lean manufacturing\n•\nmethods.\nGeneral Electric Aviation\n1 st Shift Production Supervisor\nDecreased aged WIP from $1.7MM to under $1MM\n•\nDecreased backlog from over $2.2MM to under $1.5MM\n•\nIncreased shop productivity from 3% to over 8%.\n•\nGeneral Electric Aviation\nOperations Management Leadership Program Associate\n4 th Assignment – FINS/Frames Production Supervisor\n•\nDecreased backlog from $1.1MM to $0\no\nDecreased overtime labor by 20% from 25% to 20%\no\no\nDecreased aged WIP from $900K to under $500K\n3 rd Assignment – Shipping Dock Supervisor\n•\nIncreased On Time Delivery of all shipments from 76% to 92%\no\no\nDecreased overtime labor and decreased foam use by 50% through new package design\n2 nd Assignment – Manufacturing Quality Engineer\n•\nReduced open non-conformances by 60% through process changes\no\nIncreased Florissant Penetrant Inspection yield from 7% to 92% by leading weekly teaming sessions\no\no\nDecreased instances of physical damage to hardware from 10% to 0%\n1 st Assignment – Lean Manufacturing Engineer\n•\nIncreased the output of the Process Village Cell by over 100% by implementing lean process changes\no\nSupported lean manufacturing by designing equipment and facilities layouts that induce part flow\no\no\nReduced the cycle time of process village by 25% from over 12 min to under the TAKT time of 10 min\nLanguages____________________________________________________________________________________\nSpoken and Written Mandarin Chinese\nCambridge, MA\nMay, 2017\nNew York, NY\nMay, 2013\nAmherst, MA\nMay, 2011\nSeattle, WA\nMay 2016 – August 2016\nLynn, MA\nJanuary 2015 – December 2015\nLynn, MA\nJuly – December 2014\nClass of 2013\nCincinnati, OH\nLynn, MA\nLynn, MA\nRutland, MA"
+}

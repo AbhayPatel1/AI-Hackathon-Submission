@@ -1,0 +1,134 @@
+{
+  "candidate": {
+    "full_name": "Aswini Narayana Prasad",
+    "emails": [
+      "aswinin@mit.edu"
+    ],
+    "phones": [
+      "+918579995118"
+    ],
+    "location": {
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null
+    },
+    "resume_text_hash": "sha256:f607d6861641772229e1aa3d8988bb41abbe131dbb224d2e118ddc1ee1e843e9",
+    "source_file_id": "2017-Resume-Book-for-Web-SDM-14.pdf",
+    "parsed_at": "2025-08-18T07:28:14Z",
+    "parser_version": "v0.3.0"
+  },
+  "experience": [],
+  "education": [
+    {
+      "degree_raw": null,
+      "degree_level": null,
+      "field_raw": null,
+      "institution_raw": "MA Massachusetts Institute of Technology Sep",
+      "start_date": null,
+      "end_date": null,
+      "gpa": null,
+      "extraction_confidence": 0.6,
+      "source_page": null
+    }
+  ],
+  "skills": [],
+  "projects": [
+    {
+      "name": "Action Projects under progress:",
+      "summary": " Competitive benchmarking & market strategy for ISEE, a Boston startup for Autonomous driving s/w solution o",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Trade space analysis and operational strategy for autonomous charging stations for GM",
+      "summary": "o New Delhi, India",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Indian Institute of Technology Delhi",
+      "summary": "M.Tech. Design Engineering Jun ’ 09 – July ’1l Thesis: Computationally Efficient Structural Analysis of Composite Fuselages (Won DAAD scholarship to  undertake thesis work at RWTH Aachen University, Germany for 9 months)",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    }
+  ],
+  "certifications": [],
+  "publications": [],
+  "achievements": [],
+  "languages": [],
+  "sectioned_text": [
+    {
+      "section_type": "other",
+      "text": "ASWINI NARAYANA PRASAD\nApt. #14-B2, 550 Memorial Drive, Cambridge • 8579995118 • aswinin@mit.edu",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "Cambridge, MA\nMassachusetts Institute of Technology\nSep ’16- (Expected completion: Jan ‘18)\nSchool of Engineering & Sloan School of Management\nM.S., Engineering Management\nSpecialization: Manufacturing and Supply chain, systems thinking, technology management\n\nThesis: Risk analysis & Mitigation solutions for Electric vehicle Li-ion batteries\n",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "Action Projects under progress:\n\nCompetitive benchmarking & market strategy for ISEE, a Boston startup for Autonomous driving s/w solution\no\nTrade space analysis and operational strategy for autonomous charging stations for GM\no\nNew Delhi, India\nIndian Institute of Technology Delhi\nM.Tech. Design Engineering\nJun ’ 09 – July ’1l\nThesis: Computationally Efficient Structural Analysis of Composite Fuselages (Won DAAD scholarship to\n\nundertake thesis work at RWTH Aachen University, Germany for 9 months)",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "publications",
+      "text": "3 international publications in Computational Design and Analysis\n\nChennai, India\nCollege of Engineering Guindy, Anna University\nB.E. Manufacturing\nJun ’ 05 – May ‘09\nEXPERIENCE\nResearch Assistant | MIT, Cambridge | Aug ’16 – Present\nProgram Manager for Industrial Consortium at MIT for modeling of Electric Vehicle Li-Ion batteries\n\nEngineering Team Lead, Vehicle Electrical Business | Eaton India Innovation Center | Mar ‘14– July‘16\nLead & Program Manager for development of power distribution and power conversion products for heavy duty\n\nvehicles – demonstrated timely product launches by close collaboration with manufacturing and supply chain\nteams – Toll gate and agile program management\nLed VAVE projects for cost out & part consolidation across global manufacturing plants - demonstrated cost\n\nsavings over $30K per year per product line\nReduced product testing cost >20% by replacing physical tests by FEA and analytical modeling\n\nSenior Engineer, Vehicle Powertrain Business | Eaton India Innovation Center | Aug’13-Feb’14\nDesigned the exhaust energy recovery system for heavy duty diesel vehicles – demonstrated nearly 8%\n\nreduction in fuel consumption\nDesign and optimization of conventional and electric boosting solutions (superchargers) for light duty engines\n\nusing GT-Suite software\nEngineer, Technology Advancement Team | Eaton India Innovation Center | Aug ’11-Aug ’13\nPart of Eaton’s Engineering Technology Leadership Program (ETLP) - 2 years rotational program – recognized\n\nas one among top 5% candidates at Eaton India.\nEstablished in-house computational modeling and testing capabilities for composite materials by working\n\nclosely with supply chain and purchase teams to establish vendors and external test lab partnership.\nPioneered Fuel Economy simulation for light duty and heavy duty vehicles using GT-Suite software\n\nOTHER ORGANISATIONAL INVOLVEMENTS\nCo-led strategic initiative at Eaton “Building an Integrated Innovation Framework” – Won Eaton APAC award\n\n(2012) for Continuous Improvement\nCore organizer of annual global technical event of Eaton India with 200+ global participants – first of its kind to\n\nbring engineering, manufacturing and marketing leaders and experts together to focus on regional innovation (2013)",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "certifications",
+      "text": "Green Belt certified in Design for Six Sigma – Also organization wide mentor, reviewer and trainer for Design for",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "other",
+      "text": "\nSix Sigma",
+      "page_range": [
+        1,
+        1
+      ]
+    }
+  ]
+}

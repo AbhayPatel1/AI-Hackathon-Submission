@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "source_path": "data/resumes/2017-Resume-Book-for-Web-SDM-8.pdf",
+    "pages": 1,
+    "model": "facebook/bart-large-mnli"
+  },
+  "candidate": {
+    "full_name": "Varag Gharibjanian",
+    "emails": [
+      "varag@sloan.mit.edu"
+    ],
+    "phones": [],
+    "links": {
+      "linkedin": null,
+      "github": null
+    }
+  },
+  "sectioned_text": [
+    {
+      "section_type": "other",
+      "text": "VARAG GHARIBJANIAN\n1 Devonshire Pl, apt 1606, Boston MA, 02109 | 714.955.1123 | varag@sloan.mit.edu",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "MIT SLOAN SCHOOL OF MANAGEMENT\nCandidate for M.S., Systems Design and Management, June 2017\n• Product management intern for Lightwave, a bio-analytics wearable startup in SF\n• System architect of digital platform for Hyperloop Transport Technologies (HTT)\n• Co-President of Product Management Club - Member of Technology and Entrepreneurship & Innovation Clubs\nUNIVERSITY OF CALIFORNIA, IRVINE\nBachelor of Science in Civil Engineering, June 2011\n• Led a four-student team in the design of a multi-story recreational building (senior design project)\nEXPERIENCE\nAPPLIED MATERIALS\nThe largest global provider of semiconductor equipment, software, and services with over $9B in revenue\nSummer Associate\n• Researched and developed market entry strategy in Augmented and Virtual Reality (AR/VR) industries, identifying and creating\npartnership and venture opportunities. Worked closely with Advanced Technologies Group to define technology roadmap\n• Researched the key evolutions of hardware technologies in 5G wireless infrastructure and devices, improving product portfolio\nand roadmap of largest Business Unit (BU) by revenue\n• Collaborated with corporate venture team to conduct technical and market due diligence on a leading AR/VR hardware startup\nENDEAVOUR PARTNERS LLC\nA business strategy and Intellectual Property consulting firm for large technology companies\nSenior Consultant\n• Led a team of consultants in defining the partnership strategy between the largest mobile device manufacturer and two largest\nwireless carriers, leading to a joint business venture, new product concept, and clearly defined go to market strategy\n• Advised nine technology startups (in the education, transportation, energy, and healthcare industries) on their business model,\nproduct, and marketing strategy, increasing valuations for portfolio companies of major Venture Capital client\n• Managed client relationship, project schedules/budgets, and led 10-person team to quantify the commercial value of an Intellectual\nProperty (IP) portfolio of 40,000 wireless patents in a licensing deal for an enterprise valued at over $160B)\n• Analyzed and valued IP portfolios of eight technology companies to help second largest wireless carrier identify strategic\npartnerships, supporting launch into wearable technology market\n• Led a two-consultant team to evaluate and assess capabilities of top 10 financial company's software portfolio and architecture,\nquantifying strengths and weaknesses that enabled client to invest in suitable acquisitions\n• Managed research and analysis of the mobile/wireless market with a 10-consultant team in three IP infringement before the\nInternational Trade Commission (ITC) on behalf of the world’s largest mobile device manufacturer, leading to repeat business\nwith a client who became the firm’s largest in terms of revenue\n• Analyzed mobile barcode recognition algorithm for the largest global online retailer in an IP dispute, helping client demonstrate",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "patents",
+      "text": "key technical differences from competitors’ technology and the claimed patent\nSVS CONCEPTS LLC\nA mobile technology startup developing solutions for self-storage security systems\nCo-Founder\n• Led a team of four developers and designers to develop mobile application that could control storage security systems. Led\nbusiness plan development and product launch strategy, resulting in successful deployment in several facilities\nWADDELL & REED\nAn asset management and financial services company with over $100B in AUM (Assets Under Management)\nFinancial Consultant\n• Purchased, sold, and specialized in technology equities and funds on behalf of clients, increasing portfolios’ values by 13%\n• Received numerous performance awards including two-time National Advisor of the Week\nMOBILITIE LLC\nThe largest private wireless infrastructure company servicing the nation's major wireless carriers",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "internships",
+      "text": "Product Management Intern",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "patents",
+      "text": "• Co-invented and patented wireless communication technology, enabling smartphones to form mesh networks to send and receive\ndata at advanced speeds without network infrastructure.\n• Led and collaborated with engineering, design, consulting, patent, and executive teams to develop technology and business model,\nresulting in successful launch in several major venues\nADDITIONAL",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "Tutoring Plus: Tutor and mentor underrepresented Cambridge middle school students in math, reading, and writing\nVenture Café: Track and analyze startup activity and funding data, support innovation events in the greater Boston area\nSeedUP: Inventor of innovative packaging product that will be launching in the market later this year",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "interests",
+      "text": "Interests: Play and teach students classical piano, compete in table tennis, chess, and basketball",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "other",
+      "text": "C AMBRIDGE , MA\n2015 – P RESENT\nI RVINE , CA\nS ANTA C LARA , CA\nS UMMER 2016\nC AMBRIDGE , MA\n2013 - 2015\nA NAHEIM , CA\n2012 - 2013\nL OS A NGELES , CA\n2010 - 2012\nN EWPORT B EACH , CA\n2010 - 2011",
+      "page_range": [
+        1,
+        1
+      ]
+    }
+  ],
+  "stats": {
+    "sections": 8,
+    "contacts_found": {
+      "name": true,
+      "email": true,
+      "phone": false
+    }
+  }
+}

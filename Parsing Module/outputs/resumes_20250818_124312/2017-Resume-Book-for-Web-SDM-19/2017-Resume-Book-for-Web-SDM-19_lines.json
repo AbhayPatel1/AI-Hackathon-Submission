@@ -1,0 +1,1104 @@
+{
+  "meta": {
+    "source_path": "data/resumes/2017-Resume-Book-for-Web-SDM-19.pdf",
+    "pages": 1
+  },
+  "lines": [
+    {
+      "page": 1,
+      "text": "ATIKHA RIZWAN",
+      "bbox": [
+        256.9700012207031,
+        35.49313735961914,
+        354.901611328125,
+        51.448341369628906
+      ],
+      "left_indent": 256.9700012207031,
+      "width": 97.93161010742188,
+      "is_bold": true,
+      "font_size": 11.520000457763672
+    },
+    {
+      "page": 1,
+      "text": "5F-2, Tang Residence Hall, 550 Memorial Dr",
+      "bbox": [
+        214.61000061035156,
+        48.55209732055664,
+        399.8800048828125,
+        61.83873748779297
+      ],
+      "left_indent": 214.61000061035156,
+      "width": 185.27000427246094,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Cambridge, MA 02139",
+      "bbox": [
+        259.489990234375,
+        60.07211685180664,
+        355.0,
+        73.35875701904297
+      ],
+      "left_indent": 259.489990234375,
+      "width": 95.510009765625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Mobile: +1 (857) 253-9356",
+      "bbox": [
+        251.08999633789062,
+        71.61209869384766,
+        363.3999938964844,
+        84.89873504638672
+      ],
+      "left_indent": 251.08999633789062,
+      "width": 112.30999755859375,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Email: atikha@mit.edu",
+      "bbox": [
+        259.3699951171875,
+        83.13211822509766,
+        352.3632507324219,
+        96.41875457763672
+      ],
+      "left_indent": 259.3699951171875,
+      "width": 92.99325561523438,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "EDUCATION",
+      "bbox": [
+        56.63999938964844,
+        95.10176086425781,
+        120.22999572753906,
+        108.8963623046875
+      ],
+      "left_indent": 56.63999938964844,
+      "width": 63.589996337890625,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Massachusetts Institute of Technology",
+      "bbox": [
+        56.63999938964844,
+        119.46174621582031,
+        224.66000366210938,
+        133.25634765625
+      ],
+      "left_indent": 56.63999938964844,
+      "width": 168.02000427246094,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "School of Engineering & Sloan School of Management",
+      "bbox": [
+        56.63999938964844,
+        130.89212036132812,
+        283.0999755859375,
+        144.17877197265625
+      ],
+      "left_indent": 56.63999938964844,
+      "width": 226.45997619628906,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "M.S., System Design and Management",
+      "bbox": [
+        56.63999938964844,
+        142.29214477539062,
+        218.0600128173828,
+        155.57879638671875
+      ],
+      "left_indent": 56.63999938964844,
+      "width": 161.42001342773438,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Andhra University",
+      "bbox": [
+        56.63999938964844,
+        165.42176818847656,
+        141.95001220703125,
+        179.21636962890625
+      ],
+      "left_indent": 56.63999938964844,
+      "width": 85.31001281738281,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "College of Engineering",
+      "bbox": [
+        56.63999938964844,
+        176.85214233398438,
+        154.91000366210938,
+        190.1387939453125
+      ],
+      "left_indent": 56.63999938964844,
+      "width": 98.27000427246094,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "B.Sc.Eng. & M.Sc.Eng. Electronics & Communication Engineering",
+      "bbox": [
+        56.63999938964844,
+        188.37210083007812,
+        333.3999938964844,
+        201.65875244140625
+      ],
+      "left_indent": 56.63999938964844,
+      "width": 276.75999450683594,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "EXPERIENCE",
+      "bbox": [
+        56.63999938964844,
+        211.7417755126953,
+        124.66999816894531,
+        225.536376953125
+      ],
+      "left_indent": 56.63999938964844,
+      "width": 68.02999877929688,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Massachusetts Institute of Technology",
+      "bbox": [
+        56.63999938964844,
+        236.2517852783203,
+        224.66000366210938,
+        250.04638671875
+      ],
+      "left_indent": 56.63999938964844,
+      "width": 168.02000427246094,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Teaching Assistant",
+      "bbox": [
+        56.63999938964844,
+        247.65174865722656,
+        140.02999877929688,
+        261.44635009765625
+      ],
+      "left_indent": 56.63999938964844,
+      "width": 83.38999938964844,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Introduction to CS and programming in Python; Computational thinking and data science",
+      "bbox": [
+        74.66400146484375,
+        271.3221130371094,
+        435.1600036621094,
+        284.6087646484375
+      ],
+      "left_indent": 74.66400146484375,
+      "width": 360.4960021972656,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        56.63999938964844,
+        271.7965087890625,
+        61.22121047973633,
+        283.99847412109375
+      ],
+      "left_indent": 56.63999938964844,
+      "width": 4.581211090087891,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Infosys Limited (Post graduation)",
+      "bbox": [
+        56.63999938964844,
+        294.4517517089844,
+        205.82000732421875,
+        308.2463684082031
+      ],
+      "left_indent": 56.63999938964844,
+      "width": 149.1800079345703,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Systems Engineer",
+      "bbox": [
+        56.63999938964844,
+        305.97174072265625,
+        137.510009765625,
+        319.766357421875
+      ],
+      "left_indent": 56.63999938964844,
+      "width": 80.87001037597656,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Ranked among top 5% in rigorous training in python programming language, database management systems and",
+      "bbox": [
+        74.66400146484375,
+        329.5221252441406,
+        527.9873657226562,
+        342.80877685546875
+      ],
+      "left_indent": 74.66400146484375,
+      "width": 453.3233642578125,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        56.63999938964844,
+        329.99652099609375,
+        61.22121047973633,
+        342.198486328125
+      ],
+      "left_indent": 56.63999938964844,
+      "width": 4.581211090087891,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "specialized in SAP (Systems, Applications, Products) with focus on ABAP (Advanced Business Application",
+      "bbox": [
+        74.66400146484375,
+        341.0421142578125,
+        511.62115478515625,
+        354.3287658691406
+      ],
+      "left_indent": 74.66400146484375,
+      "width": 436.9571533203125,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "programming).",
+      "bbox": [
+        74.66400146484375,
+        352.5621032714844,
+        142.4300079345703,
+        365.8487548828125
+      ],
+      "left_indent": 74.66400146484375,
+      "width": 67.76600646972656,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Developed a game using SQL server, and also a college and course bidding platform in SAP.",
+      "bbox": [
+        74.66400146484375,
+        364.8021240234375,
+        452.22998046875,
+        378.0887756347656
+      ],
+      "left_indent": 74.66400146484375,
+      "width": 377.56597900390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        56.63999938964844,
+        365.2765197753906,
+        61.22121047973633,
+        377.4784851074219
+      ],
+      "left_indent": 56.63999938964844,
+      "width": 4.581211090087891,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Grameena Vidya (Full-Time before graduation)",
+      "bbox": [
+        56.63999938964844,
+        387.8317565917969,
+        275.17999267578125,
+        401.6263732910156
+      ],
+      "left_indent": 56.63999938964844,
+      "width": 218.5399932861328,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Director",
+      "bbox": [
+        56.63999938964844,
+        399.35174560546875,
+        92.71511840820312,
+        413.1463623046875
+      ],
+      "left_indent": 56.63999938964844,
+      "width": 36.07511901855469,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Managing a non-profit NGO which provides digital education to rural schools to bridge the digital divide, led teams to",
+      "bbox": [
+        78.02400207519531,
+        417.2621154785156,
+        554.6986694335938,
+        430.54876708984375
+      ],
+      "left_indent": 78.02400207519531,
+      "width": 476.67466735839844,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        60.0,
+        417.73651123046875,
+        64.58120727539062,
+        429.9384765625
+      ],
+      "left_indent": 60.0,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "install 1400 smart classrooms in village schools, providing digital education to over 600k of India’s most challenged",
+      "bbox": [
+        78.02400207519531,
+        428.7821044921875,
+        546.8033447265625,
+        442.0687561035156
+      ],
+      "left_indent": 78.02400207519531,
+      "width": 468.7793426513672,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "students and training over 7000 teachers.",
+      "bbox": [
+        78.02400207519531,
+        440.3021240234375,
+        246.86000061035156,
+        453.5887756347656
+      ],
+      "left_indent": 78.02400207519531,
+      "width": 168.83599853515625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Powered through huge resistance from teachers by conducting diagnostic tests and surveys. Won the Best Mentor",
+      "bbox": [
+        78.02400207519531,
+        452.422119140625,
+        534.478515625,
+        465.7087707519531
+      ],
+      "left_indent": 78.02400207519531,
+      "width": 456.4545135498047,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        60.0,
+        452.8965148925781,
+        64.58120727539062,
+        465.0984802246094
+      ],
+      "left_indent": 60.0,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "award and Employee of the Year award in 2013.",
+      "bbox": [
+        78.02400207519531,
+        463.9421081542969,
+        277.0999755859375,
+        477.228759765625
+      ],
+      "left_indent": 78.02400207519531,
+      "width": 199.0759735107422,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Led the organization towards better funds management by cutting costs per classroom through organizational strategy",
+      "bbox": [
+        78.02400207519531,
+        476.18212890625,
+        551.7889404296875,
+        489.4687805175781
+      ],
+      "left_indent": 78.02400207519531,
+      "width": 473.7649383544922,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        60.0,
+        476.6565246582031,
+        64.58120727539062,
+        488.8584899902344
+      ],
+      "left_indent": 60.0,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "and logistics operations. Replaced CPUs with digi box with an android app to load and play the class specific content.",
+      "bbox": [
+        78.02400207519531,
+        487.7021179199219,
+        551.867431640625,
+        500.98876953125
+      ],
+      "left_indent": 78.02400207519531,
+      "width": 473.8434295654297,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Cost of digi box being 10% of the cost of a CPU, the savings were $1.8m.",
+      "bbox": [
+        78.02400207519531,
+        499.22210693359375,
+        379.1199951171875,
+        512.5087280273438
+      ],
+      "left_indent": 78.02400207519531,
+      "width": 301.0959930419922,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Took the initiative to develop a mini bio-gas power plant using animal and farm waste involving local rural population",
+      "bbox": [
+        78.02400207519531,
+        511.7021179199219,
+        555.0760498046875,
+        524.98876953125
+      ],
+      "left_indent": 78.02400207519531,
+      "width": 477.0520477294922,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        60.0,
+        512.176513671875,
+        64.58120727539062,
+        524.3784790039062
+      ],
+      "left_indent": 60.0,
+      "width": 4.581207275390625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "in its operation. This provided a reliable, sustainable and environment-friendly source of energy for the schools and",
+      "bbox": [
+        78.02400207519531,
+        523.2221069335938,
+        542.4315185546875,
+        536.5087280273438
+      ],
+      "left_indent": 78.02400207519531,
+      "width": 464.4075164794922,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "villages. Won the Best innovator award, 2014 for this achievement.",
+      "bbox": [
+        78.02400207519531,
+        534.7721557617188,
+        352.9599914550781,
+        548.0587768554688
+      ],
+      "left_indent": 78.02400207519531,
+      "width": 274.9359893798828,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Consolidated Education Technologies (I) Pvt. Ltd. (Part-Time before graduation)",
+      "bbox": [
+        56.63999938964844,
+        558.2617797851562,
+        408.3999938964844,
+        572.056396484375
+      ],
+      "left_indent": 56.63999938964844,
+      "width": 351.75999450683594,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "(Provides online and offline digital teaching and learning resource for K-12)",
+      "bbox": [
+        56.63999938964844,
+        569.5721435546875,
+        367.1199951171875,
+        582.8587646484375
+      ],
+      "left_indent": 56.63999938964844,
+      "width": 310.47999572753906,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Content and Portal developer",
+      "bbox": [
+        56.63999938964844,
+        581.4217529296875,
+        188.02999877929688,
+        595.2163696289062
+      ],
+      "left_indent": 56.63999938964844,
+      "width": 131.38999938964844,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "With a well planned manoeuvre, developed portal www.teachlearnweb.com and smart classroom content. Coordinated",
+      "bbox": [
+        74.66400146484375,
+        599.0921630859375,
+        551.7327880859375,
+        612.3787841796875
+      ],
+      "left_indent": 74.66400146484375,
+      "width": 477.06878662109375,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        56.63999938964844,
+        599.5665283203125,
+        61.22121047973633,
+        611.7684936523438
+      ],
+      "left_indent": 56.63999938964844,
+      "width": 4.581211090087891,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "between subject experts’ team and multimedia developers’ team. The portal has over 200K subscribers.",
+      "bbox": [
+        74.66400146484375,
+        610.6121215820312,
+        493.8699951171875,
+        623.8987426757812
+      ],
+      "left_indent": 74.66400146484375,
+      "width": 419.20599365234375,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "ADDITIONAL",
+      "bbox": [
+        56.63999938964844,
+        633.9817504882812,
+        124.18999481201172,
+        647.7763671875
+      ],
+      "left_indent": 56.63999938964844,
+      "width": 67.54999542236328,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "BMW supply chain resilience improvement - Currently working on this real-time project at MIT.",
+      "bbox": [
+        74.66400146484375,
+        647.5721435546875,
+        468.54998779296875,
+        660.8587646484375
+      ],
+      "left_indent": 74.66400146484375,
+      "width": 393.885986328125,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        56.63999938964844,
+        648.0465087890625,
+        61.22121047973633,
+        660.2484741210938
+      ],
+      "left_indent": 56.63999938964844,
+      "width": 4.581211090087891,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Internship at Defence Research and Development Organization (DRDO), Govt. of India – worked on a project titled",
+      "bbox": [
+        74.66400146484375,
+        660.1721801757812,
+        542.0975341796875,
+        673.4588012695312
+      ],
+      "left_indent": 74.66400146484375,
+      "width": 467.43353271484375,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        56.63999938964844,
+        660.6465454101562,
+        61.22121047973633,
+        672.8485107421875
+      ],
+      "left_indent": 56.63999938964844,
+      "width": 4.581211090087891,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "“Design of degaussing electronics for ring laser gyro.” Summer 2013",
+      "bbox": [
+        74.66400146484375,
+        671.692138671875,
+        356.91998291015625,
+        684.978759765625
+      ],
+      "left_indent": 74.66400146484375,
+      "width": 282.2559814453125,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Internship at State Bank of India (SBI) – in retail loan processing cell. Summer 2014",
+      "bbox": [
+        74.66400146484375,
+        684.43212890625,
+        418.8399963378906,
+        697.71875
+      ],
+      "left_indent": 74.66400146484375,
+      "width": 344.1759948730469,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        56.63999938964844,
+        684.906494140625,
+        61.22121047973633,
+        697.1084594726562
+      ],
+      "left_indent": 56.63999938964844,
+      "width": 4.581211090087891,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Started a non-profit NGO – “Hum Aapko”- in college, to raise funds, collect used books and equipment for lesser",
+      "bbox": [
+        74.66400146484375,
+        697.0321655273438,
+        557.4901733398438,
+        710.3187866210938
+      ],
+      "left_indent": 74.66400146484375,
+      "width": 482.826171875,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        56.63999938964844,
+        697.5065307617188,
+        61.22121047973633,
+        709.70849609375
+      ],
+      "left_indent": 56.63999938964844,
+      "width": 4.581211090087891,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "privileged students in rural areas. In addition, before the general elections 2014, ran a campaign to spread awareness",
+      "bbox": [
+        74.66400146484375,
+        708.5521240234375,
+        557.0868530273438,
+        721.8387451171875
+      ],
+      "left_indent": 74.66400146484375,
+      "width": 482.4228515625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "about the democratic electoral process among inner city and rural uneducated people. Got them registered as voters.",
+      "bbox": [
+        74.66400146484375,
+        720.0721435546875,
+        543.4299926757812,
+        733.3587646484375
+      ],
+      "left_indent": 74.66400146484375,
+      "width": 468.7659912109375,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Volunteered as a weekend mentor (2011-12) at SOS (Save Our Souls) - an International organization for orphans.",
+      "bbox": [
+        74.66400146484375,
+        732.7921752929688,
+        532.3900146484375,
+        746.0787963867188
+      ],
+      "left_indent": 74.66400146484375,
+      "width": 457.72601318359375,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        56.63999938964844,
+        733.2665405273438,
+        61.22121047973633,
+        745.468505859375
+      ],
+      "left_indent": 56.63999938964844,
+      "width": 4.581211090087891,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Won Gold and Silver medals in Lawn Tennis and Table Tennis at college for all five years.",
+      "bbox": [
+        74.66400146484375,
+        745.3921508789062,
+        444.9100036621094,
+        758.6787719726562
+      ],
+      "left_indent": 74.66400146484375,
+      "width": 370.2460021972656,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        56.63999938964844,
+        745.8665161132812,
+        61.22121047973633,
+        758.0684814453125
+      ],
+      "left_indent": 56.63999938964844,
+      "width": 4.581211090087891,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Cambridge, MA",
+      "bbox": [
+        488.739990234375,
+        119.37210845947266,
+        559.27001953125,
+        132.65875244140625
+      ],
+      "left_indent": 488.739990234375,
+      "width": 70.530029296875,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Sep 2016- May 2018(expected)",
+      "bbox": [
+        416.7099914550781,
+        130.89212036132812,
+        558.0700073242188,
+        144.17877197265625
+      ],
+      "left_indent": 416.7099914550781,
+      "width": 141.36001586914062,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "CGPA 4.6/5.0 (current)",
+      "bbox": [
+        454.4200134277344,
+        142.3817901611328,
+        556.75,
+        156.1763916015625
+      ],
+      "left_indent": 454.4200134277344,
+      "width": 102.32998657226562,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Visakhapatnam, India",
+      "bbox": [
+        466.8999938964844,
+        165.33212280273438,
+        559.510009765625,
+        178.6187744140625
+      ],
+      "left_indent": 466.8999938964844,
+      "width": 92.61001586914062,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Aug 2010 – Sep 2015",
+      "bbox": [
+        452.739990234375,
+        176.85214233398438,
+        559.989990234375,
+        190.1387939453125
+      ],
+      "left_indent": 452.739990234375,
+      "width": 107.25,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "CGPA 8.0/10.0",
+      "bbox": [
+        490.8999938964844,
+        188.4617462158203,
+        556.8948364257812,
+        202.25634765625
+      ],
+      "left_indent": 490.8999938964844,
+      "width": 65.99484252929688,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Cambridge, MA",
+      "bbox": [
+        488.739990234375,
+        236.16213989257812,
+        559.27001953125,
+        249.44879150390625
+      ],
+      "left_indent": 488.739990234375,
+      "width": 70.530029296875,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "16 th Jan – 31 st May 2017 (spring term)",
+      "bbox": [
+        398.3500061035156,
+        246.6665496826172,
+        551.6829833984375,
+        260.8487548828125
+      ],
+      "left_indent": 398.3500061035156,
+      "width": 153.33297729492188,
+      "is_bold": false,
+      "font_size": 8.568000030517577
+    },
+    {
+      "page": 1,
+      "text": "Mysore, India",
+      "bbox": [
+        498.82000732421875,
+        294.36212158203125,
+        559.8699951171875,
+        307.6487731933594
+      ],
+      "left_indent": 498.82000732421875,
+      "width": 61.04998779296875,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "December 2015 - June 2016",
+      "bbox": [
+        441.82000732421875,
+        305.8821105957031,
+        557.0557861328125,
+        319.16876220703125
+      ],
+      "left_indent": 441.82000732421875,
+      "width": 115.23577880859375,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Visakhapatnam, India",
+      "bbox": [
+        465.3399963378906,
+        387.74212646484375,
+        557.9500122070312,
+        401.0287780761719
+      ],
+      "left_indent": 465.3399963378906,
+      "width": 92.61001586914062,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "February 2012 – November 2015",
+      "bbox": [
+        416.7099914550781,
+        399.2621154785156,
+        560.1099853515625,
+        412.54876708984375
+      ],
+      "left_indent": 416.7099914550781,
+      "width": 143.39999389648438,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Visakhapatnam, India",
+      "bbox": [
+        465.3399963378906,
+        558.1721801757812,
+        557.9500122070312,
+        571.4588012695312
+      ],
+      "left_indent": 465.3399963378906,
+      "width": 92.61001586914062,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "January 2011 – January 2012",
+      "bbox": [
+        416.7099914550781,
+        569.5721435546875,
+        558.9099731445312,
+        582.8587646484375
+      ],
+      "left_indent": 416.7099914550781,
+      "width": 142.19998168945312,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    }
+  ],
+  "text_per_page": [
+    "ATIKHA RIZWAN\n5F-2, Tang Residence Hall, 550 Memorial Dr\nCambridge, MA 02139\nMobile: +1 (857) 253-9356\nEmail: atikha@mit.edu\nEDUCATION\nMassachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nM.S., System Design and Management\nAndhra University\nCollege of Engineering\nB.Sc.Eng. & M.Sc.Eng. Electronics & Communication Engineering\nEXPERIENCE\nMassachusetts Institute of Technology\nTeaching Assistant\nIntroduction to CS and programming in Python; Computational thinking and data science\n\nInfosys Limited (Post graduation)\nSystems Engineer\nRanked among top 5% in rigorous training in python programming language, database management systems and\n\nspecialized in SAP (Systems, Applications, Products) with focus on ABAP (Advanced Business Application\nprogramming).\nDeveloped a game using SQL server, and also a college and course bidding platform in SAP.\n\nGrameena Vidya (Full-Time before graduation)\nDirector\nManaging a non-profit NGO which provides digital education to rural schools to bridge the digital divide, led teams to\n\ninstall 1400 smart classrooms in village schools, providing digital education to over 600k of India’s most challenged\nstudents and training over 7000 teachers.\nPowered through huge resistance from teachers by conducting diagnostic tests and surveys. Won the Best Mentor\n\naward and Employee of the Year award in 2013.\nLed the organization towards better funds management by cutting costs per classroom through organizational strategy\n\nand logistics operations. Replaced CPUs with digi box with an android app to load and play the class specific content.\nCost of digi box being 10% of the cost of a CPU, the savings were $1.8m.\nTook the initiative to develop a mini bio-gas power plant using animal and farm waste involving local rural population\n\nin its operation. This provided a reliable, sustainable and environment-friendly source of energy for the schools and\nvillages. Won the Best innovator award, 2014 for this achievement.\nConsolidated Education Technologies (I) Pvt. Ltd. (Part-Time before graduation)\n(Provides online and offline digital teaching and learning resource for K-12)\nContent and Portal developer\nWith a well planned manoeuvre, developed portal www.teachlearnweb.com and smart classroom content. Coordinated\n\nbetween subject experts’ team and multimedia developers’ team. The portal has over 200K subscribers.\nADDITIONAL\nBMW supply chain resilience improvement - Currently working on this real-time project at MIT.\n\nInternship at Defence Research and Development Organization (DRDO), Govt. of India – worked on a project titled\n\n“Design of degaussing electronics for ring laser gyro.” Summer 2013\nInternship at State Bank of India (SBI) – in retail loan processing cell. Summer 2014\n\nStarted a non-profit NGO – “Hum Aapko”- in college, to raise funds, collect used books and equipment for lesser\n\nprivileged students in rural areas. In addition, before the general elections 2014, ran a campaign to spread awareness\nabout the democratic electoral process among inner city and rural uneducated people. Got them registered as voters.\nVolunteered as a weekend mentor (2011-12) at SOS (Save Our Souls) - an International organization for orphans.\n\nWon Gold and Silver medals in Lawn Tennis and Table Tennis at college for all five years.\n\nCambridge, MA\nSep 2016- May 2018(expected)\nCGPA 4.6/5.0 (current)\nVisakhapatnam, India\nAug 2010 – Sep 2015\nCGPA 8.0/10.0\nCambridge, MA\n16 th Jan – 31 st May 2017 (spring term)\nMysore, India\nDecember 2015 - June 2016\nVisakhapatnam, India\nFebruary 2012 – November 2015\nVisakhapatnam, India\nJanuary 2011 – January 2012"
+  ],
+  "text_all": "ATIKHA RIZWAN\n5F-2, Tang Residence Hall, 550 Memorial Dr\nCambridge, MA 02139\nMobile: +1 (857) 253-9356\nEmail: atikha@mit.edu\nEDUCATION\nMassachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nM.S., System Design and Management\nAndhra University\nCollege of Engineering\nB.Sc.Eng. & M.Sc.Eng. Electronics & Communication Engineering\nEXPERIENCE\nMassachusetts Institute of Technology\nTeaching Assistant\nIntroduction to CS and programming in Python; Computational thinking and data science\n\nInfosys Limited (Post graduation)\nSystems Engineer\nRanked among top 5% in rigorous training in python programming language, database management systems and\n\nspecialized in SAP (Systems, Applications, Products) with focus on ABAP (Advanced Business Application\nprogramming).\nDeveloped a game using SQL server, and also a college and course bidding platform in SAP.\n\nGrameena Vidya (Full-Time before graduation)\nDirector\nManaging a non-profit NGO which provides digital education to rural schools to bridge the digital divide, led teams to\n\ninstall 1400 smart classrooms in village schools, providing digital education to over 600k of India’s most challenged\nstudents and training over 7000 teachers.\nPowered through huge resistance from teachers by conducting diagnostic tests and surveys. Won the Best Mentor\n\naward and Employee of the Year award in 2013.\nLed the organization towards better funds management by cutting costs per classroom through organizational strategy\n\nand logistics operations. Replaced CPUs with digi box with an android app to load and play the class specific content.\nCost of digi box being 10% of the cost of a CPU, the savings were $1.8m.\nTook the initiative to develop a mini bio-gas power plant using animal and farm waste involving local rural population\n\nin its operation. This provided a reliable, sustainable and environment-friendly source of energy for the schools and\nvillages. Won the Best innovator award, 2014 for this achievement.\nConsolidated Education Technologies (I) Pvt. Ltd. (Part-Time before graduation)\n(Provides online and offline digital teaching and learning resource for K-12)\nContent and Portal developer\nWith a well planned manoeuvre, developed portal www.teachlearnweb.com and smart classroom content. Coordinated\n\nbetween subject experts’ team and multimedia developers’ team. The portal has over 200K subscribers.\nADDITIONAL\nBMW supply chain resilience improvement - Currently working on this real-time project at MIT.\n\nInternship at Defence Research and Development Organization (DRDO), Govt. of India – worked on a project titled\n\n“Design of degaussing electronics for ring laser gyro.” Summer 2013\nInternship at State Bank of India (SBI) – in retail loan processing cell. Summer 2014\n\nStarted a non-profit NGO – “Hum Aapko”- in college, to raise funds, collect used books and equipment for lesser\n\nprivileged students in rural areas. In addition, before the general elections 2014, ran a campaign to spread awareness\nabout the democratic electoral process among inner city and rural uneducated people. Got them registered as voters.\nVolunteered as a weekend mentor (2011-12) at SOS (Save Our Souls) - an International organization for orphans.\n\nWon Gold and Silver medals in Lawn Tennis and Table Tennis at college for all five years.\n\nCambridge, MA\nSep 2016- May 2018(expected)\nCGPA 4.6/5.0 (current)\nVisakhapatnam, India\nAug 2010 – Sep 2015\nCGPA 8.0/10.0\nCambridge, MA\n16 th Jan – 31 st May 2017 (spring term)\nMysore, India\nDecember 2015 - June 2016\nVisakhapatnam, India\nFebruary 2012 – November 2015\nVisakhapatnam, India\nJanuary 2011 – January 2012"
+}

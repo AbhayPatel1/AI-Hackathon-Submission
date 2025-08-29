@@ -1,0 +1,146 @@
+{
+  "candidate": {
+    "full_name": "Shweta Agarwal",
+    "emails": [
+      "shwetaag@mit.edu"
+    ],
+    "phones": [
+      "+19174352825"
+    ],
+    "location": {
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null
+    },
+    "resume_text_hash": "sha256:96ddd9b9552c35c9d08e8c6bd366253584fad4b8817e1d7b08ca549e3b42fa7b",
+    "source_file_id": "2017-Resume-Book-for-Web-SDM-2.pdf",
+    "parsed_at": "2025-08-18T07:40:12Z",
+    "parser_version": "v0.3.0"
+  },
+  "experience": [],
+  "education": [
+    {
+      "degree_raw": null,
+      "degree_level": null,
+      "field_raw": null,
+      "institution_raw": "Massachusetts Institute of Technology School of Engineering & Sloan School of Management Candidate",
+      "start_date": null,
+      "end_date": null,
+      "gpa": null,
+      "extraction_confidence": 0.6,
+      "source_page": null
+    }
+  ],
+  "skills": [
+    {
+      "name": "c",
+      "category": null
+    },
+    {
+      "name": "html",
+      "category": null
+    },
+    {
+      "name": "java",
+      "category": null
+    },
+    {
+      "name": "javascript",
+      "category": null
+    },
+    {
+      "name": "python",
+      "category": null
+    },
+    {
+      "name": "tableau",
+      "category": null
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project: Designed image recognition tool for restaurants to identify customers, their emotion and fetch their food",
+      "summary": " preferences from past records, enabling personalized services to the right customer at the right time GMAT: 720 ",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Indian School of Business (ISB)",
+      "summary": "Post Graduate Programme in Management (M.B.A.) Concentration: Information and Technology Management; Marketing  Events Coordinator, Women in Business Club; Lead Coordinator, Business Technology Club ",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    }
+  ],
+  "certifications": [],
+  "publications": [],
+  "achievements": [],
+  "languages": [],
+  "sectioned_text": [
+    {
+      "section_type": "other",
+      "text": "SHWETA AGARWAL\n235 Albany Street, Apt # 3069, Cambridge, MA 02139\n+1 (917) 435-2825 | shwetaag@mit.edu",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "Massachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nCandidate for M.S., System Design and Management, Jan 2018 | CGPA 4.5/5\nActive member of Technology, Product Management, FinTech, and Entrepreneurship and Innovation clubs\n",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "Project: Designed image recognition tool for restaurants to identify customers, their emotion and fetch their food\n\npreferences from past records, enabling personalized services to the right customer at the right time\nGMAT: 720\n\nIndian School of Business (ISB)\nPost Graduate Programme in Management (M.B.A.)\nConcentration: Information and Technology Management; Marketing\n\nEvents Coordinator, Women in Business Club; Lead Coordinator, Business Technology Club\n",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "courses",
+      "text": "Galgotias College of Engineering and Technology\nBachelor of Technology, Electronics and Communication Engineering\nGraduated 1 st / 125 students in my department & among top 5% of university B.Tech batch of ~26,000 students\n\nEXPERIENCE\nAxis Bank\nIndia’s leading private bank, offering a wide range of consumer and corporate banking services; annual turnover: $6.2B\nSenior Manager, IT - Technology & Digital Innovation Group\nInnovation Management and IT Strategy - CIO Advisory\nHandpicked by the senior management to devise digital transformation strategy; conducted competitor analysis and\n\nliaised with industry experts to constitute I.D.E.A. team to make digital innovation a core competency for the bank\nAnalyzed user needs and presented applications of natural language processing, artificial intelligence and blockchain\n\ntechnologies in virtual assistance, personalized customer experience and payments innovation at the bank\nManaged setting up of Innovation Lab with in-house incubation center and accelerator program for new start-ups\n\nNew Product Design/Co-creation and Data Analytics\nLed team of 12 people to build digital wallet 'LIME' app by evaluating market trends, gathering requirements and\n\ndeveloping features, resulting in >1M installs and ~$4.6M value of wallet load in 3 months of launch\nDesigned and developed user journey, product features and technical implementation plan for the instant personal\n\nloan on mobile app, resulting in 11,000 loan accounts creation and disbursal of ~$5.2M\nImplemented multiple big data initiatives using Hadoop and Google Analytics, enabling location based personalized\n\noffers to customers, and 90% of time reduction in transactions tagging\nConceptualized and launched service package ‘Happy Holidays’ which included forex, travel insurance, trip assist,\n\ndining delights and international sim to tap Indian globetrotters. It won bronze amongst 469 nominees from 261\nbanks in the EFMA International Innovation Awards (marketing & distribution) under customer experience category\nTata Consultancy Services\nAsia’s largest IT Services, Business Solutions and Outsourcing organization; annual turnover - $16.5B\nSystems Engineer, IT Infrastructure Services\nChosen ahead of 15 team members to drive due-diligence phase by serving as liaison between business and technical\n\nteams, enabling ~$5M deal sign-off from the UK based automobile manufacturing client\nAutomated the process of health check and monitoring of environment using Six –Sigma strategy, reducing 25% of\n\nman-hours and achieving cost saving of $50,000 for the UK Retail client\nSpearheaded scoping & monitoring of the Service Level Agreement (SLA) by designing a customized IT Solution\n\nfor tracking knowledge transfer from client, ensuring project compliance by meeting both internal & market SLAs\nRimjhim Ispat Ltd\nIndia’s leading stainless steel producer, melting capacity 300,000 MT/annum, annual turnover $110M\nSales Engineer\nLed the sales function which resulted in building new client base of 5 companies and order book value of $100,000\n\nADDITIONAL INFORMATION",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "skills",
+      "text": "Technical Skills: JMP13, R, Tableau, Python, HTML and JavaScript",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "other",
+      "text": "\nVolunteer CRY since Jul’12: organized street play & educated people on zero tolerance towards violation of child\n\nrights\nAvid swimmer and dancer\n\nCambridge, MA\n08/2016 – 01/2018\nHyderabad, India\n2013 - 2014\nGreater Noida, India\n2005 - 2009\nMumbai, India\n05/2014 – 02/2016\nGurgaon, India\n01/2010 – 03/2013\nUnnao, India\n07/2009 – 12/2009",
+      "page_range": [
+        1,
+        1
+      ]
+    }
+  ]
+}

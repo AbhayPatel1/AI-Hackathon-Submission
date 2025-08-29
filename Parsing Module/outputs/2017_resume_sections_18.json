@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "source_path": "/Users/samarthya/Desktop/Extarct_NER/2017-Resume-Book-for-Web-SDM-18.pdf",
+    "pages": 1,
+    "model": "facebook/bart-large-mnli"
+  },
+  "candidate": {
+    "full_name": "Jolly Pradhan",
+    "emails": [
+      "jpradhan@mit.edu"
+    ],
+    "phones": [
+      "+91 6036823851"
+    ],
+    "links": {
+      "linkedin": null,
+      "github": null
+    }
+  },
+  "sectioned_text": [
+    {
+      "section_type": "education",
+      "text": "Massachusetts Institute of Technology\nCambridge, MA\nSchool of Engineering & Sloan School of Management\nSept 2015-Present\nM.S., System Design and Management\nRensselaer Polytechnic Institute\nTroy, NY\nBachelor of Science in Mechanical Engineering Dec 2009",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "work_experience",
+      "text": "Varian Semiconductor Equipment Associates\nGloucester, MA\nSystems Engineer\nSept 2010-July 2015\nCrion Cold Implant\n•\nCrion is a cold system that enables customer to implant wafers at -100˚C. The system consists of cryo-chillers, a\nvacuum-sealed valve system, and cooling ring to cool the implant mechanism.\n•\nConducted and documented characterization tests for Crion by validating cool down rate, throughput, wafer\ntemperature uniformity and overall functionality of the system.\n•\nOperated the tool during 40 continuous hours of reliability growth testing and helped release the product from R&D\nto Production.\n•\nSupported customer escalations by analyzing archives from the field and determining root cause of the customer\nproblems.\n26-Wafer Implementation\n•\nLed the project with a team of mechanical engineers, an electrical engineer and software engineers to create new\nhardware as well as software controls to implement the platen warm-up process. Released the hardware through\nECO process to Production and conducted tests to help with software release.\nCenter for Earthquake Engineering Simulation\nTroy, NY\nResearch Engineer\nJan 10-Sept 2010\n•\nOperated and troubleshot earthquake simulation machinery (centrifuge) while conducting experiments.\n•\nstrain gauges, accelerometer, and pressure sensors.",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "responsibility",
+      "text": "Fusion Engineering Development Program\nSept 2010-Sept 2012\nGraduate\n•\nThis is a program for new graduates at Varian to expose them to various engineering departments within the",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "work_experience",
+      "text": "•\nRotated through End Station (Robotics), Continuous Improvement and Physics Department (R&D) .\nWomen’s Mentoring Program at RPI\nSept 2006-Sept 2008\nCo-Chair\n§\nDeveloped a new program providing opportunity for mentors and mentees to meet prior to the start of the school\nyear. As a result of its success, this is now an annual program. Organized formal and informal events including:\nChat with Shirley Ann Jackson (President of RPI) and Design Your Future Day to encourage women in science and\nengineering.",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "skills",
+      "text": "•\nExpert in Signal Analysis and Archive Analysis\n•\nProficient in Microsoft Excel, Microsoft PowerPoint, MINITAB Statistics, Adobe Illustrator, and Adobe Photoshop.\nBasic knowledge 3D CAD Modeling (SolidWorks and ProE), LabVIEW, and MATLAB.",
+      "page_range": [
+        1,
+        1
+      ]
+    }
+  ],
+  "stats": {
+    "sections": 5,
+    "contacts_found": {
+      "name": true,
+      "email": true,
+      "phone": true
+    }
+  }
+}

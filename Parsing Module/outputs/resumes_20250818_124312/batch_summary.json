@@ -1,0 +1,565 @@
+{
+  "batch_dir": "outputs/resumes_20250818_124312",
+  "items": [
+    {
+      "input": "data/resumes/2017-Resume-Book-for-Web-SDM-10.pdf",
+      "outputs": {
+        "doc_dir": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-10",
+        "lines_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-10/2017-Resume-Book-for-Web-SDM-10_lines.json",
+        "text_txt": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-10/2017-Resume-Book-for-Web-SDM-10_text.txt",
+        "sections_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-10/2017-Resume-Book-for-Web-SDM-10_sections_nli.json",
+        "ner_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-10/2017-Resume-Book-for-Web-SDM-10_ner_spacy.json",
+        "ner_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-10/2017-Resume-Book-for-Web-SDM-10_ner_hf.json",
+        "ner_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-10/2017-Resume-Book-for-Web-SDM-10_ner_ens.json",
+        "canon_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-10/2017-Resume-Book-for-Web-SDM-10_spacy_canonical.json",
+        "canon_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-10/2017-Resume-Book-for-Web-SDM-10_hf_canonical.json",
+        "canon_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-10/2017-Resume-Book-for-Web-SDM-10_ens_canonical.json",
+        "compare_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-10/2017-Resume-Book-for-Web-SDM-10_ner_compare.json"
+      }
+    },
+    {
+      "input": "data/resumes/2017-Resume-Book-for-Web-SDM-11.pdf",
+      "outputs": {
+        "doc_dir": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-11",
+        "lines_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-11/2017-Resume-Book-for-Web-SDM-11_lines.json",
+        "text_txt": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-11/2017-Resume-Book-for-Web-SDM-11_text.txt",
+        "sections_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-11/2017-Resume-Book-for-Web-SDM-11_sections_nli.json",
+        "ner_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-11/2017-Resume-Book-for-Web-SDM-11_ner_spacy.json",
+        "ner_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-11/2017-Resume-Book-for-Web-SDM-11_ner_hf.json",
+        "ner_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-11/2017-Resume-Book-for-Web-SDM-11_ner_ens.json",
+        "canon_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-11/2017-Resume-Book-for-Web-SDM-11_spacy_canonical.json",
+        "canon_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-11/2017-Resume-Book-for-Web-SDM-11_hf_canonical.json",
+        "canon_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-11/2017-Resume-Book-for-Web-SDM-11_ens_canonical.json",
+        "compare_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-11/2017-Resume-Book-for-Web-SDM-11_ner_compare.json"
+      }
+    },
+    {
+      "input": "data/resumes/2017-Resume-Book-for-Web-SDM-12.pdf",
+      "outputs": {
+        "doc_dir": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-12",
+        "lines_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-12/2017-Resume-Book-for-Web-SDM-12_lines.json",
+        "text_txt": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-12/2017-Resume-Book-for-Web-SDM-12_text.txt",
+        "sections_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-12/2017-Resume-Book-for-Web-SDM-12_sections_nli.json",
+        "ner_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-12/2017-Resume-Book-for-Web-SDM-12_ner_spacy.json",
+        "ner_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-12/2017-Resume-Book-for-Web-SDM-12_ner_hf.json",
+        "ner_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-12/2017-Resume-Book-for-Web-SDM-12_ner_ens.json",
+        "canon_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-12/2017-Resume-Book-for-Web-SDM-12_spacy_canonical.json",
+        "canon_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-12/2017-Resume-Book-for-Web-SDM-12_hf_canonical.json",
+        "canon_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-12/2017-Resume-Book-for-Web-SDM-12_ens_canonical.json",
+        "compare_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-12/2017-Resume-Book-for-Web-SDM-12_ner_compare.json"
+      }
+    },
+    {
+      "input": "data/resumes/2017-Resume-Book-for-Web-SDM-13.pdf",
+      "outputs": {
+        "doc_dir": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-13",
+        "lines_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-13/2017-Resume-Book-for-Web-SDM-13_lines.json",
+        "text_txt": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-13/2017-Resume-Book-for-Web-SDM-13_text.txt",
+        "sections_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-13/2017-Resume-Book-for-Web-SDM-13_sections_nli.json",
+        "ner_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-13/2017-Resume-Book-for-Web-SDM-13_ner_spacy.json",
+        "ner_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-13/2017-Resume-Book-for-Web-SDM-13_ner_hf.json",
+        "ner_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-13/2017-Resume-Book-for-Web-SDM-13_ner_ens.json",
+        "canon_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-13/2017-Resume-Book-for-Web-SDM-13_spacy_canonical.json",
+        "canon_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-13/2017-Resume-Book-for-Web-SDM-13_hf_canonical.json",
+        "canon_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-13/2017-Resume-Book-for-Web-SDM-13_ens_canonical.json",
+        "compare_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-13/2017-Resume-Book-for-Web-SDM-13_ner_compare.json"
+      }
+    },
+    {
+      "input": "data/resumes/2017-Resume-Book-for-Web-SDM-14.pdf",
+      "outputs": {
+        "doc_dir": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-14",
+        "lines_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-14/2017-Resume-Book-for-Web-SDM-14_lines.json",
+        "text_txt": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-14/2017-Resume-Book-for-Web-SDM-14_text.txt",
+        "sections_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-14/2017-Resume-Book-for-Web-SDM-14_sections_nli.json",
+        "ner_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-14/2017-Resume-Book-for-Web-SDM-14_ner_spacy.json",
+        "ner_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-14/2017-Resume-Book-for-Web-SDM-14_ner_hf.json",
+        "ner_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-14/2017-Resume-Book-for-Web-SDM-14_ner_ens.json",
+        "canon_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-14/2017-Resume-Book-for-Web-SDM-14_spacy_canonical.json",
+        "canon_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-14/2017-Resume-Book-for-Web-SDM-14_hf_canonical.json",
+        "canon_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-14/2017-Resume-Book-for-Web-SDM-14_ens_canonical.json",
+        "compare_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-14/2017-Resume-Book-for-Web-SDM-14_ner_compare.json"
+      }
+    },
+    {
+      "input": "data/resumes/2017-Resume-Book-for-Web-SDM-15.pdf",
+      "outputs": {
+        "doc_dir": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-15",
+        "lines_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-15/2017-Resume-Book-for-Web-SDM-15_lines.json",
+        "text_txt": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-15/2017-Resume-Book-for-Web-SDM-15_text.txt",
+        "sections_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-15/2017-Resume-Book-for-Web-SDM-15_sections_nli.json",
+        "ner_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-15/2017-Resume-Book-for-Web-SDM-15_ner_spacy.json",
+        "ner_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-15/2017-Resume-Book-for-Web-SDM-15_ner_hf.json",
+        "ner_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-15/2017-Resume-Book-for-Web-SDM-15_ner_ens.json",
+        "canon_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-15/2017-Resume-Book-for-Web-SDM-15_spacy_canonical.json",
+        "canon_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-15/2017-Resume-Book-for-Web-SDM-15_hf_canonical.json",
+        "canon_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-15/2017-Resume-Book-for-Web-SDM-15_ens_canonical.json",
+        "compare_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-15/2017-Resume-Book-for-Web-SDM-15_ner_compare.json"
+      }
+    },
+    {
+      "input": "data/resumes/2017-Resume-Book-for-Web-SDM-18.pdf",
+      "outputs": {
+        "doc_dir": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-18",
+        "lines_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-18/2017-Resume-Book-for-Web-SDM-18_lines.json",
+        "text_txt": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-18/2017-Resume-Book-for-Web-SDM-18_text.txt",
+        "sections_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-18/2017-Resume-Book-for-Web-SDM-18_sections_nli.json",
+        "ner_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-18/2017-Resume-Book-for-Web-SDM-18_ner_spacy.json",
+        "ner_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-18/2017-Resume-Book-for-Web-SDM-18_ner_hf.json",
+        "ner_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-18/2017-Resume-Book-for-Web-SDM-18_ner_ens.json",
+        "canon_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-18/2017-Resume-Book-for-Web-SDM-18_spacy_canonical.json",
+        "canon_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-18/2017-Resume-Book-for-Web-SDM-18_hf_canonical.json",
+        "canon_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-18/2017-Resume-Book-for-Web-SDM-18_ens_canonical.json",
+        "compare_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-18/2017-Resume-Book-for-Web-SDM-18_ner_compare.json"
+      }
+    },
+    {
+      "input": "data/resumes/2017-Resume-Book-for-Web-SDM-19.pdf",
+      "outputs": {
+        "doc_dir": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-19",
+        "lines_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-19/2017-Resume-Book-for-Web-SDM-19_lines.json",
+        "text_txt": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-19/2017-Resume-Book-for-Web-SDM-19_text.txt",
+        "sections_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-19/2017-Resume-Book-for-Web-SDM-19_sections_nli.json",
+        "ner_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-19/2017-Resume-Book-for-Web-SDM-19_ner_spacy.json",
+        "ner_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-19/2017-Resume-Book-for-Web-SDM-19_ner_hf.json",
+        "ner_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-19/2017-Resume-Book-for-Web-SDM-19_ner_ens.json",
+        "canon_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-19/2017-Resume-Book-for-Web-SDM-19_spacy_canonical.json",
+        "canon_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-19/2017-Resume-Book-for-Web-SDM-19_hf_canonical.json",
+        "canon_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-19/2017-Resume-Book-for-Web-SDM-19_ens_canonical.json",
+        "compare_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-19/2017-Resume-Book-for-Web-SDM-19_ner_compare.json"
+      }
+    },
+    {
+      "input": "data/resumes/2017-Resume-Book-for-Web-SDM-2.pdf",
+      "outputs": {
+        "doc_dir": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-2",
+        "lines_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-2/2017-Resume-Book-for-Web-SDM-2_lines.json",
+        "text_txt": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-2/2017-Resume-Book-for-Web-SDM-2_text.txt",
+        "sections_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-2/2017-Resume-Book-for-Web-SDM-2_sections_nli.json",
+        "ner_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-2/2017-Resume-Book-for-Web-SDM-2_ner_spacy.json",
+        "ner_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-2/2017-Resume-Book-for-Web-SDM-2_ner_hf.json",
+        "ner_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-2/2017-Resume-Book-for-Web-SDM-2_ner_ens.json",
+        "canon_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-2/2017-Resume-Book-for-Web-SDM-2_spacy_canonical.json",
+        "canon_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-2/2017-Resume-Book-for-Web-SDM-2_hf_canonical.json",
+        "canon_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-2/2017-Resume-Book-for-Web-SDM-2_ens_canonical.json",
+        "compare_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-2/2017-Resume-Book-for-Web-SDM-2_ner_compare.json"
+      }
+    },
+    {
+      "input": "data/resumes/2017-Resume-Book-for-Web-SDM-20.pdf",
+      "outputs": {
+        "doc_dir": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-20",
+        "lines_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-20/2017-Resume-Book-for-Web-SDM-20_lines.json",
+        "text_txt": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-20/2017-Resume-Book-for-Web-SDM-20_text.txt",
+        "sections_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-20/2017-Resume-Book-for-Web-SDM-20_sections_nli.json",
+        "ner_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-20/2017-Resume-Book-for-Web-SDM-20_ner_spacy.json",
+        "ner_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-20/2017-Resume-Book-for-Web-SDM-20_ner_hf.json",
+        "ner_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-20/2017-Resume-Book-for-Web-SDM-20_ner_ens.json",
+        "canon_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-20/2017-Resume-Book-for-Web-SDM-20_spacy_canonical.json",
+        "canon_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-20/2017-Resume-Book-for-Web-SDM-20_hf_canonical.json",
+        "canon_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-20/2017-Resume-Book-for-Web-SDM-20_ens_canonical.json",
+        "compare_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-20/2017-Resume-Book-for-Web-SDM-20_ner_compare.json"
+      }
+    },
+    {
+      "input": "data/resumes/2017-Resume-Book-for-Web-SDM-23.pdf",
+      "outputs": {
+        "doc_dir": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-23",
+        "lines_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-23/2017-Resume-Book-for-Web-SDM-23_lines.json",
+        "text_txt": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-23/2017-Resume-Book-for-Web-SDM-23_text.txt",
+        "sections_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-23/2017-Resume-Book-for-Web-SDM-23_sections_nli.json",
+        "ner_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-23/2017-Resume-Book-for-Web-SDM-23_ner_spacy.json",
+        "ner_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-23/2017-Resume-Book-for-Web-SDM-23_ner_hf.json",
+        "ner_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-23/2017-Resume-Book-for-Web-SDM-23_ner_ens.json",
+        "canon_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-23/2017-Resume-Book-for-Web-SDM-23_spacy_canonical.json",
+        "canon_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-23/2017-Resume-Book-for-Web-SDM-23_hf_canonical.json",
+        "canon_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-23/2017-Resume-Book-for-Web-SDM-23_ens_canonical.json",
+        "compare_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-23/2017-Resume-Book-for-Web-SDM-23_ner_compare.json"
+      }
+    },
+    {
+      "input": "data/resumes/2017-Resume-Book-for-Web-SDM-24.pdf",
+      "outputs": {
+        "doc_dir": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-24",
+        "lines_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-24/2017-Resume-Book-for-Web-SDM-24_lines.json",
+        "text_txt": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-24/2017-Resume-Book-for-Web-SDM-24_text.txt",
+        "sections_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-24/2017-Resume-Book-for-Web-SDM-24_sections_nli.json",
+        "ner_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-24/2017-Resume-Book-for-Web-SDM-24_ner_spacy.json",
+        "ner_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-24/2017-Resume-Book-for-Web-SDM-24_ner_hf.json",
+        "ner_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-24/2017-Resume-Book-for-Web-SDM-24_ner_ens.json",
+        "canon_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-24/2017-Resume-Book-for-Web-SDM-24_spacy_canonical.json",
+        "canon_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-24/2017-Resume-Book-for-Web-SDM-24_hf_canonical.json",
+        "canon_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-24/2017-Resume-Book-for-Web-SDM-24_ens_canonical.json",
+        "compare_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-24/2017-Resume-Book-for-Web-SDM-24_ner_compare.json"
+      }
+    },
+    {
+      "input": "data/resumes/2017-Resume-Book-for-Web-SDM-25.pdf",
+      "outputs": {
+        "doc_dir": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-25",
+        "lines_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-25/2017-Resume-Book-for-Web-SDM-25_lines.json",
+        "text_txt": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-25/2017-Resume-Book-for-Web-SDM-25_text.txt",
+        "sections_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-25/2017-Resume-Book-for-Web-SDM-25_sections_nli.json",
+        "ner_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-25/2017-Resume-Book-for-Web-SDM-25_ner_spacy.json",
+        "ner_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-25/2017-Resume-Book-for-Web-SDM-25_ner_hf.json",
+        "ner_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-25/2017-Resume-Book-for-Web-SDM-25_ner_ens.json",
+        "canon_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-25/2017-Resume-Book-for-Web-SDM-25_spacy_canonical.json",
+        "canon_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-25/2017-Resume-Book-for-Web-SDM-25_hf_canonical.json",
+        "canon_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-25/2017-Resume-Book-for-Web-SDM-25_ens_canonical.json",
+        "compare_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-25/2017-Resume-Book-for-Web-SDM-25_ner_compare.json"
+      }
+    },
+    {
+      "input": "data/resumes/2017-Resume-Book-for-Web-SDM-26.pdf",
+      "outputs": {
+        "doc_dir": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-26",
+        "lines_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-26/2017-Resume-Book-for-Web-SDM-26_lines.json",
+        "text_txt": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-26/2017-Resume-Book-for-Web-SDM-26_text.txt",
+        "sections_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-26/2017-Resume-Book-for-Web-SDM-26_sections_nli.json",
+        "ner_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-26/2017-Resume-Book-for-Web-SDM-26_ner_spacy.json",
+        "ner_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-26/2017-Resume-Book-for-Web-SDM-26_ner_hf.json",
+        "ner_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-26/2017-Resume-Book-for-Web-SDM-26_ner_ens.json",
+        "canon_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-26/2017-Resume-Book-for-Web-SDM-26_spacy_canonical.json",
+        "canon_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-26/2017-Resume-Book-for-Web-SDM-26_hf_canonical.json",
+        "canon_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-26/2017-Resume-Book-for-Web-SDM-26_ens_canonical.json",
+        "compare_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-26/2017-Resume-Book-for-Web-SDM-26_ner_compare.json"
+      }
+    },
+    {
+      "input": "data/resumes/2017-Resume-Book-for-Web-SDM-27.pdf",
+      "outputs": {
+        "doc_dir": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-27",
+        "lines_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-27/2017-Resume-Book-for-Web-SDM-27_lines.json",
+        "text_txt": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-27/2017-Resume-Book-for-Web-SDM-27_text.txt",
+        "sections_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-27/2017-Resume-Book-for-Web-SDM-27_sections_nli.json",
+        "ner_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-27/2017-Resume-Book-for-Web-SDM-27_ner_spacy.json",
+        "ner_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-27/2017-Resume-Book-for-Web-SDM-27_ner_hf.json",
+        "ner_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-27/2017-Resume-Book-for-Web-SDM-27_ner_ens.json",
+        "canon_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-27/2017-Resume-Book-for-Web-SDM-27_spacy_canonical.json",
+        "canon_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-27/2017-Resume-Book-for-Web-SDM-27_hf_canonical.json",
+        "canon_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-27/2017-Resume-Book-for-Web-SDM-27_ens_canonical.json",
+        "compare_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-27/2017-Resume-Book-for-Web-SDM-27_ner_compare.json"
+      }
+    },
+    {
+      "input": "data/resumes/2017-Resume-Book-for-Web-SDM-3.pdf",
+      "outputs": {
+        "doc_dir": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-3",
+        "lines_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-3/2017-Resume-Book-for-Web-SDM-3_lines.json",
+        "text_txt": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-3/2017-Resume-Book-for-Web-SDM-3_text.txt",
+        "sections_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-3/2017-Resume-Book-for-Web-SDM-3_sections_nli.json",
+        "ner_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-3/2017-Resume-Book-for-Web-SDM-3_ner_spacy.json",
+        "ner_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-3/2017-Resume-Book-for-Web-SDM-3_ner_hf.json",
+        "ner_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-3/2017-Resume-Book-for-Web-SDM-3_ner_ens.json",
+        "canon_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-3/2017-Resume-Book-for-Web-SDM-3_spacy_canonical.json",
+        "canon_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-3/2017-Resume-Book-for-Web-SDM-3_hf_canonical.json",
+        "canon_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-3/2017-Resume-Book-for-Web-SDM-3_ens_canonical.json",
+        "compare_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-3/2017-Resume-Book-for-Web-SDM-3_ner_compare.json"
+      }
+    },
+    {
+      "input": "data/resumes/2017-Resume-Book-for-Web-SDM-4.pdf",
+      "outputs": {
+        "doc_dir": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-4",
+        "lines_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-4/2017-Resume-Book-for-Web-SDM-4_lines.json",
+        "text_txt": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-4/2017-Resume-Book-for-Web-SDM-4_text.txt",
+        "sections_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-4/2017-Resume-Book-for-Web-SDM-4_sections_nli.json",
+        "ner_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-4/2017-Resume-Book-for-Web-SDM-4_ner_spacy.json",
+        "ner_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-4/2017-Resume-Book-for-Web-SDM-4_ner_hf.json",
+        "ner_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-4/2017-Resume-Book-for-Web-SDM-4_ner_ens.json",
+        "canon_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-4/2017-Resume-Book-for-Web-SDM-4_spacy_canonical.json",
+        "canon_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-4/2017-Resume-Book-for-Web-SDM-4_hf_canonical.json",
+        "canon_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-4/2017-Resume-Book-for-Web-SDM-4_ens_canonical.json",
+        "compare_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-4/2017-Resume-Book-for-Web-SDM-4_ner_compare.json"
+      }
+    },
+    {
+      "input": "data/resumes/2017-Resume-Book-for-Web-SDM-5.pdf",
+      "outputs": {
+        "doc_dir": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-5",
+        "lines_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-5/2017-Resume-Book-for-Web-SDM-5_lines.json",
+        "text_txt": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-5/2017-Resume-Book-for-Web-SDM-5_text.txt",
+        "sections_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-5/2017-Resume-Book-for-Web-SDM-5_sections_nli.json",
+        "ner_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-5/2017-Resume-Book-for-Web-SDM-5_ner_spacy.json",
+        "ner_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-5/2017-Resume-Book-for-Web-SDM-5_ner_hf.json",
+        "ner_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-5/2017-Resume-Book-for-Web-SDM-5_ner_ens.json",
+        "canon_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-5/2017-Resume-Book-for-Web-SDM-5_spacy_canonical.json",
+        "canon_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-5/2017-Resume-Book-for-Web-SDM-5_hf_canonical.json",
+        "canon_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-5/2017-Resume-Book-for-Web-SDM-5_ens_canonical.json",
+        "compare_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-5/2017-Resume-Book-for-Web-SDM-5_ner_compare.json"
+      }
+    },
+    {
+      "input": "data/resumes/2017-Resume-Book-for-Web-SDM-6.pdf",
+      "outputs": {
+        "doc_dir": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-6",
+        "lines_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-6/2017-Resume-Book-for-Web-SDM-6_lines.json",
+        "text_txt": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-6/2017-Resume-Book-for-Web-SDM-6_text.txt",
+        "sections_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-6/2017-Resume-Book-for-Web-SDM-6_sections_nli.json",
+        "ner_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-6/2017-Resume-Book-for-Web-SDM-6_ner_spacy.json",
+        "ner_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-6/2017-Resume-Book-for-Web-SDM-6_ner_hf.json",
+        "ner_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-6/2017-Resume-Book-for-Web-SDM-6_ner_ens.json",
+        "canon_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-6/2017-Resume-Book-for-Web-SDM-6_spacy_canonical.json",
+        "canon_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-6/2017-Resume-Book-for-Web-SDM-6_hf_canonical.json",
+        "canon_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-6/2017-Resume-Book-for-Web-SDM-6_ens_canonical.json",
+        "compare_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-6/2017-Resume-Book-for-Web-SDM-6_ner_compare.json"
+      }
+    },
+    {
+      "input": "data/resumes/2017-Resume-Book-for-Web-SDM-7.pdf",
+      "outputs": {
+        "doc_dir": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-7",
+        "lines_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-7/2017-Resume-Book-for-Web-SDM-7_lines.json",
+        "text_txt": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-7/2017-Resume-Book-for-Web-SDM-7_text.txt",
+        "sections_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-7/2017-Resume-Book-for-Web-SDM-7_sections_nli.json",
+        "ner_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-7/2017-Resume-Book-for-Web-SDM-7_ner_spacy.json",
+        "ner_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-7/2017-Resume-Book-for-Web-SDM-7_ner_hf.json",
+        "ner_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-7/2017-Resume-Book-for-Web-SDM-7_ner_ens.json",
+        "canon_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-7/2017-Resume-Book-for-Web-SDM-7_spacy_canonical.json",
+        "canon_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-7/2017-Resume-Book-for-Web-SDM-7_hf_canonical.json",
+        "canon_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-7/2017-Resume-Book-for-Web-SDM-7_ens_canonical.json",
+        "compare_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-7/2017-Resume-Book-for-Web-SDM-7_ner_compare.json"
+      }
+    },
+    {
+      "input": "data/resumes/2017-Resume-Book-for-Web-SDM-8.pdf",
+      "outputs": {
+        "doc_dir": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-8",
+        "lines_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-8/2017-Resume-Book-for-Web-SDM-8_lines.json",
+        "text_txt": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-8/2017-Resume-Book-for-Web-SDM-8_text.txt",
+        "sections_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-8/2017-Resume-Book-for-Web-SDM-8_sections_nli.json",
+        "ner_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-8/2017-Resume-Book-for-Web-SDM-8_ner_spacy.json",
+        "ner_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-8/2017-Resume-Book-for-Web-SDM-8_ner_hf.json",
+        "ner_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-8/2017-Resume-Book-for-Web-SDM-8_ner_ens.json",
+        "canon_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-8/2017-Resume-Book-for-Web-SDM-8_spacy_canonical.json",
+        "canon_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-8/2017-Resume-Book-for-Web-SDM-8_hf_canonical.json",
+        "canon_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-8/2017-Resume-Book-for-Web-SDM-8_ens_canonical.json",
+        "compare_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-8/2017-Resume-Book-for-Web-SDM-8_ner_compare.json"
+      }
+    },
+    {
+      "input": "data/resumes/2017-Resume-Book-for-Web-SDM-9.pdf",
+      "outputs": {
+        "doc_dir": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-9",
+        "lines_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-9/2017-Resume-Book-for-Web-SDM-9_lines.json",
+        "text_txt": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-9/2017-Resume-Book-for-Web-SDM-9_text.txt",
+        "sections_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-9/2017-Resume-Book-for-Web-SDM-9_sections_nli.json",
+        "ner_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-9/2017-Resume-Book-for-Web-SDM-9_ner_spacy.json",
+        "ner_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-9/2017-Resume-Book-for-Web-SDM-9_ner_hf.json",
+        "ner_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-9/2017-Resume-Book-for-Web-SDM-9_ner_ens.json",
+        "canon_spacy": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-9/2017-Resume-Book-for-Web-SDM-9_spacy_canonical.json",
+        "canon_hf": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-9/2017-Resume-Book-for-Web-SDM-9_hf_canonical.json",
+        "canon_ens": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-9/2017-Resume-Book-for-Web-SDM-9_ens_canonical.json",
+        "compare_json": "outputs/resumes_20250818_124312/2017-Resume-Book-for-Web-SDM-9/2017-Resume-Book-for-Web-SDM-9_ner_compare.json"
+      }
+    },
+    {
+      "input": "data/resumes/ABHAY_20ME02040.pdf",
+      "outputs": {
+        "doc_dir": "outputs/resumes_20250818_124312/ABHAY_20ME02040",
+        "lines_json": "outputs/resumes_20250818_124312/ABHAY_20ME02040/ABHAY_20ME02040_lines.json",
+        "text_txt": "outputs/resumes_20250818_124312/ABHAY_20ME02040/ABHAY_20ME02040_text.txt",
+        "sections_json": "outputs/resumes_20250818_124312/ABHAY_20ME02040/ABHAY_20ME02040_sections_nli.json",
+        "ner_spacy": "outputs/resumes_20250818_124312/ABHAY_20ME02040/ABHAY_20ME02040_ner_spacy.json",
+        "ner_hf": "outputs/resumes_20250818_124312/ABHAY_20ME02040/ABHAY_20ME02040_ner_hf.json",
+        "ner_ens": "outputs/resumes_20250818_124312/ABHAY_20ME02040/ABHAY_20ME02040_ner_ens.json",
+        "canon_spacy": "outputs/resumes_20250818_124312/ABHAY_20ME02040/ABHAY_20ME02040_spacy_canonical.json",
+        "canon_hf": "outputs/resumes_20250818_124312/ABHAY_20ME02040/ABHAY_20ME02040_hf_canonical.json",
+        "canon_ens": "outputs/resumes_20250818_124312/ABHAY_20ME02040/ABHAY_20ME02040_ens_canonical.json",
+        "compare_json": "outputs/resumes_20250818_124312/ABHAY_20ME02040/ABHAY_20ME02040_ner_compare.json"
+      }
+    },
+    {
+      "input": "data/resumes/Abhishek_K_Ranjan_CSRE_Sysmex.pdf",
+      "outputs": {
+        "doc_dir": "outputs/resumes_20250818_124312/Abhishek_K_Ranjan_CSRE_Sysmex",
+        "lines_json": "outputs/resumes_20250818_124312/Abhishek_K_Ranjan_CSRE_Sysmex/Abhishek_K_Ranjan_CSRE_Sysmex_lines.json",
+        "text_txt": "outputs/resumes_20250818_124312/Abhishek_K_Ranjan_CSRE_Sysmex/Abhishek_K_Ranjan_CSRE_Sysmex_text.txt",
+        "sections_json": "outputs/resumes_20250818_124312/Abhishek_K_Ranjan_CSRE_Sysmex/Abhishek_K_Ranjan_CSRE_Sysmex_sections_nli.json",
+        "ner_spacy": "outputs/resumes_20250818_124312/Abhishek_K_Ranjan_CSRE_Sysmex/Abhishek_K_Ranjan_CSRE_Sysmex_ner_spacy.json",
+        "ner_hf": "outputs/resumes_20250818_124312/Abhishek_K_Ranjan_CSRE_Sysmex/Abhishek_K_Ranjan_CSRE_Sysmex_ner_hf.json",
+        "ner_ens": "outputs/resumes_20250818_124312/Abhishek_K_Ranjan_CSRE_Sysmex/Abhishek_K_Ranjan_CSRE_Sysmex_ner_ens.json",
+        "canon_spacy": "outputs/resumes_20250818_124312/Abhishek_K_Ranjan_CSRE_Sysmex/Abhishek_K_Ranjan_CSRE_Sysmex_spacy_canonical.json",
+        "canon_hf": "outputs/resumes_20250818_124312/Abhishek_K_Ranjan_CSRE_Sysmex/Abhishek_K_Ranjan_CSRE_Sysmex_hf_canonical.json",
+        "canon_ens": "outputs/resumes_20250818_124312/Abhishek_K_Ranjan_CSRE_Sysmex/Abhishek_K_Ranjan_CSRE_Sysmex_ens_canonical.json",
+        "compare_json": "outputs/resumes_20250818_124312/Abhishek_K_Ranjan_CSRE_Sysmex/Abhishek_K_Ranjan_CSRE_Sysmex_ner_compare.json"
+      }
+    },
+    {
+      "input": "data/resumes/Aditya_Pahariya_BTech_NIT_Bhopal_EDG_MathWorks.pdf",
+      "outputs": {
+        "doc_dir": "outputs/resumes_20250818_124312/Aditya_Pahariya_BTech_NIT_Bhopal_EDG_MathWorks",
+        "lines_json": "outputs/resumes_20250818_124312/Aditya_Pahariya_BTech_NIT_Bhopal_EDG_MathWorks/Aditya_Pahariya_BTech_NIT_Bhopal_EDG_MathWorks_lines.json",
+        "text_txt": "outputs/resumes_20250818_124312/Aditya_Pahariya_BTech_NIT_Bhopal_EDG_MathWorks/Aditya_Pahariya_BTech_NIT_Bhopal_EDG_MathWorks_text.txt",
+        "sections_json": "outputs/resumes_20250818_124312/Aditya_Pahariya_BTech_NIT_Bhopal_EDG_MathWorks/Aditya_Pahariya_BTech_NIT_Bhopal_EDG_MathWorks_sections_nli.json",
+        "ner_spacy": "outputs/resumes_20250818_124312/Aditya_Pahariya_BTech_NIT_Bhopal_EDG_MathWorks/Aditya_Pahariya_BTech_NIT_Bhopal_EDG_MathWorks_ner_spacy.json",
+        "ner_hf": "outputs/resumes_20250818_124312/Aditya_Pahariya_BTech_NIT_Bhopal_EDG_MathWorks/Aditya_Pahariya_BTech_NIT_Bhopal_EDG_MathWorks_ner_hf.json",
+        "ner_ens": "outputs/resumes_20250818_124312/Aditya_Pahariya_BTech_NIT_Bhopal_EDG_MathWorks/Aditya_Pahariya_BTech_NIT_Bhopal_EDG_MathWorks_ner_ens.json",
+        "canon_spacy": "outputs/resumes_20250818_124312/Aditya_Pahariya_BTech_NIT_Bhopal_EDG_MathWorks/Aditya_Pahariya_BTech_NIT_Bhopal_EDG_MathWorks_spacy_canonical.json",
+        "canon_hf": "outputs/resumes_20250818_124312/Aditya_Pahariya_BTech_NIT_Bhopal_EDG_MathWorks/Aditya_Pahariya_BTech_NIT_Bhopal_EDG_MathWorks_hf_canonical.json",
+        "canon_ens": "outputs/resumes_20250818_124312/Aditya_Pahariya_BTech_NIT_Bhopal_EDG_MathWorks/Aditya_Pahariya_BTech_NIT_Bhopal_EDG_MathWorks_ens_canonical.json",
+        "compare_json": "outputs/resumes_20250818_124312/Aditya_Pahariya_BTech_NIT_Bhopal_EDG_MathWorks/Aditya_Pahariya_BTech_NIT_Bhopal_EDG_MathWorks_ner_compare.json"
+      }
+    },
+    {
+      "input": "data/resumes/Akshay_Raj_MTech_Elec_Xilinx.pdf",
+      "outputs": {
+        "doc_dir": "outputs/resumes_20250818_124312/Akshay_Raj_MTech_Elec_Xilinx",
+        "lines_json": "outputs/resumes_20250818_124312/Akshay_Raj_MTech_Elec_Xilinx/Akshay_Raj_MTech_Elec_Xilinx_lines.json",
+        "text_txt": "outputs/resumes_20250818_124312/Akshay_Raj_MTech_Elec_Xilinx/Akshay_Raj_MTech_Elec_Xilinx_text.txt",
+        "sections_json": "outputs/resumes_20250818_124312/Akshay_Raj_MTech_Elec_Xilinx/Akshay_Raj_MTech_Elec_Xilinx_sections_nli.json",
+        "ner_spacy": "outputs/resumes_20250818_124312/Akshay_Raj_MTech_Elec_Xilinx/Akshay_Raj_MTech_Elec_Xilinx_ner_spacy.json",
+        "ner_hf": "outputs/resumes_20250818_124312/Akshay_Raj_MTech_Elec_Xilinx/Akshay_Raj_MTech_Elec_Xilinx_ner_hf.json",
+        "ner_ens": "outputs/resumes_20250818_124312/Akshay_Raj_MTech_Elec_Xilinx/Akshay_Raj_MTech_Elec_Xilinx_ner_ens.json",
+        "canon_spacy": "outputs/resumes_20250818_124312/Akshay_Raj_MTech_Elec_Xilinx/Akshay_Raj_MTech_Elec_Xilinx_spacy_canonical.json",
+        "canon_hf": "outputs/resumes_20250818_124312/Akshay_Raj_MTech_Elec_Xilinx/Akshay_Raj_MTech_Elec_Xilinx_hf_canonical.json",
+        "canon_ens": "outputs/resumes_20250818_124312/Akshay_Raj_MTech_Elec_Xilinx/Akshay_Raj_MTech_Elec_Xilinx_ens_canonical.json",
+        "compare_json": "outputs/resumes_20250818_124312/Akshay_Raj_MTech_Elec_Xilinx/Akshay_Raj_MTech_Elec_Xilinx_ner_compare.json"
+      }
+    },
+    {
+      "input": "data/resumes/Amanpreet Singh_BITS Pilani.pdf",
+      "outputs": {
+        "doc_dir": "outputs/resumes_20250818_124312/Amanpreet Singh_BITS Pilani",
+        "lines_json": "outputs/resumes_20250818_124312/Amanpreet Singh_BITS Pilani/Amanpreet Singh_BITS Pilani_lines.json",
+        "text_txt": "outputs/resumes_20250818_124312/Amanpreet Singh_BITS Pilani/Amanpreet Singh_BITS Pilani_text.txt",
+        "sections_json": "outputs/resumes_20250818_124312/Amanpreet Singh_BITS Pilani/Amanpreet Singh_BITS Pilani_sections_nli.json",
+        "ner_spacy": "outputs/resumes_20250818_124312/Amanpreet Singh_BITS Pilani/Amanpreet Singh_BITS Pilani_ner_spacy.json",
+        "ner_hf": "outputs/resumes_20250818_124312/Amanpreet Singh_BITS Pilani/Amanpreet Singh_BITS Pilani_ner_hf.json",
+        "ner_ens": "outputs/resumes_20250818_124312/Amanpreet Singh_BITS Pilani/Amanpreet Singh_BITS Pilani_ner_ens.json",
+        "canon_spacy": "outputs/resumes_20250818_124312/Amanpreet Singh_BITS Pilani/Amanpreet Singh_BITS Pilani_spacy_canonical.json",
+        "canon_hf": "outputs/resumes_20250818_124312/Amanpreet Singh_BITS Pilani/Amanpreet Singh_BITS Pilani_hf_canonical.json",
+        "canon_ens": "outputs/resumes_20250818_124312/Amanpreet Singh_BITS Pilani/Amanpreet Singh_BITS Pilani_ens_canonical.json",
+        "compare_json": "outputs/resumes_20250818_124312/Amanpreet Singh_BITS Pilani/Amanpreet Singh_BITS Pilani_ner_compare.json"
+      }
+    },
+    {
+      "input": "data/resumes/Aniket_Adsule_MTech_Mech_TSMC.pdf",
+      "outputs": {
+        "doc_dir": "outputs/resumes_20250818_124312/Aniket_Adsule_MTech_Mech_TSMC",
+        "lines_json": "outputs/resumes_20250818_124312/Aniket_Adsule_MTech_Mech_TSMC/Aniket_Adsule_MTech_Mech_TSMC_lines.json",
+        "text_txt": "outputs/resumes_20250818_124312/Aniket_Adsule_MTech_Mech_TSMC/Aniket_Adsule_MTech_Mech_TSMC_text.txt",
+        "sections_json": "outputs/resumes_20250818_124312/Aniket_Adsule_MTech_Mech_TSMC/Aniket_Adsule_MTech_Mech_TSMC_sections_nli.json",
+        "ner_spacy": "outputs/resumes_20250818_124312/Aniket_Adsule_MTech_Mech_TSMC/Aniket_Adsule_MTech_Mech_TSMC_ner_spacy.json",
+        "ner_hf": "outputs/resumes_20250818_124312/Aniket_Adsule_MTech_Mech_TSMC/Aniket_Adsule_MTech_Mech_TSMC_ner_hf.json",
+        "ner_ens": "outputs/resumes_20250818_124312/Aniket_Adsule_MTech_Mech_TSMC/Aniket_Adsule_MTech_Mech_TSMC_ner_ens.json",
+        "canon_spacy": "outputs/resumes_20250818_124312/Aniket_Adsule_MTech_Mech_TSMC/Aniket_Adsule_MTech_Mech_TSMC_spacy_canonical.json",
+        "canon_hf": "outputs/resumes_20250818_124312/Aniket_Adsule_MTech_Mech_TSMC/Aniket_Adsule_MTech_Mech_TSMC_hf_canonical.json",
+        "canon_ens": "outputs/resumes_20250818_124312/Aniket_Adsule_MTech_Mech_TSMC/Aniket_Adsule_MTech_Mech_TSMC_ens_canonical.json",
+        "compare_json": "outputs/resumes_20250818_124312/Aniket_Adsule_MTech_Mech_TSMC/Aniket_Adsule_MTech_Mech_TSMC_ner_compare.json"
+      }
+    },
+    {
+      "input": "data/resumes/Ashish_Resume_final.pdf",
+      "outputs": {
+        "doc_dir": "outputs/resumes_20250818_124312/Ashish_Resume_final",
+        "lines_json": "outputs/resumes_20250818_124312/Ashish_Resume_final/Ashish_Resume_final_lines.json",
+        "text_txt": "outputs/resumes_20250818_124312/Ashish_Resume_final/Ashish_Resume_final_text.txt",
+        "sections_json": "outputs/resumes_20250818_124312/Ashish_Resume_final/Ashish_Resume_final_sections_nli.json",
+        "ner_spacy": "outputs/resumes_20250818_124312/Ashish_Resume_final/Ashish_Resume_final_ner_spacy.json",
+        "ner_hf": "outputs/resumes_20250818_124312/Ashish_Resume_final/Ashish_Resume_final_ner_hf.json",
+        "ner_ens": "outputs/resumes_20250818_124312/Ashish_Resume_final/Ashish_Resume_final_ner_ens.json",
+        "canon_spacy": "outputs/resumes_20250818_124312/Ashish_Resume_final/Ashish_Resume_final_spacy_canonical.json",
+        "canon_hf": "outputs/resumes_20250818_124312/Ashish_Resume_final/Ashish_Resume_final_hf_canonical.json",
+        "canon_ens": "outputs/resumes_20250818_124312/Ashish_Resume_final/Ashish_Resume_final_ens_canonical.json",
+        "compare_json": "outputs/resumes_20250818_124312/Ashish_Resume_final/Ashish_Resume_final_ner_compare.json"
+      }
+    },
+    {
+      "input": "data/resumes/Industry manager resume.pdf",
+      "outputs": {
+        "doc_dir": "outputs/resumes_20250818_124312/Industry manager resume",
+        "lines_json": "outputs/resumes_20250818_124312/Industry manager resume/Industry manager resume_lines.json",
+        "text_txt": "outputs/resumes_20250818_124312/Industry manager resume/Industry manager resume_text.txt",
+        "sections_json": "outputs/resumes_20250818_124312/Industry manager resume/Industry manager resume_sections_nli.json",
+        "ner_spacy": "outputs/resumes_20250818_124312/Industry manager resume/Industry manager resume_ner_spacy.json",
+        "ner_hf": "outputs/resumes_20250818_124312/Industry manager resume/Industry manager resume_ner_hf.json",
+        "ner_ens": "outputs/resumes_20250818_124312/Industry manager resume/Industry manager resume_ner_ens.json",
+        "canon_spacy": "outputs/resumes_20250818_124312/Industry manager resume/Industry manager resume_spacy_canonical.json",
+        "canon_hf": "outputs/resumes_20250818_124312/Industry manager resume/Industry manager resume_hf_canonical.json",
+        "canon_ens": "outputs/resumes_20250818_124312/Industry manager resume/Industry manager resume_ens_canonical.json",
+        "compare_json": "outputs/resumes_20250818_124312/Industry manager resume/Industry manager resume_ner_compare.json"
+      }
+    },
+    {
+      "input": "data/resumes/Parhitosh_Sharma_MTech_MEMS_ANZ_Bank.pdf",
+      "outputs": {
+        "doc_dir": "outputs/resumes_20250818_124312/Parhitosh_Sharma_MTech_MEMS_ANZ_Bank",
+        "lines_json": "outputs/resumes_20250818_124312/Parhitosh_Sharma_MTech_MEMS_ANZ_Bank/Parhitosh_Sharma_MTech_MEMS_ANZ_Bank_lines.json",
+        "text_txt": "outputs/resumes_20250818_124312/Parhitosh_Sharma_MTech_MEMS_ANZ_Bank/Parhitosh_Sharma_MTech_MEMS_ANZ_Bank_text.txt",
+        "sections_json": "outputs/resumes_20250818_124312/Parhitosh_Sharma_MTech_MEMS_ANZ_Bank/Parhitosh_Sharma_MTech_MEMS_ANZ_Bank_sections_nli.json",
+        "ner_spacy": "outputs/resumes_20250818_124312/Parhitosh_Sharma_MTech_MEMS_ANZ_Bank/Parhitosh_Sharma_MTech_MEMS_ANZ_Bank_ner_spacy.json",
+        "ner_hf": "outputs/resumes_20250818_124312/Parhitosh_Sharma_MTech_MEMS_ANZ_Bank/Parhitosh_Sharma_MTech_MEMS_ANZ_Bank_ner_hf.json",
+        "ner_ens": "outputs/resumes_20250818_124312/Parhitosh_Sharma_MTech_MEMS_ANZ_Bank/Parhitosh_Sharma_MTech_MEMS_ANZ_Bank_ner_ens.json",
+        "canon_spacy": "outputs/resumes_20250818_124312/Parhitosh_Sharma_MTech_MEMS_ANZ_Bank/Parhitosh_Sharma_MTech_MEMS_ANZ_Bank_spacy_canonical.json",
+        "canon_hf": "outputs/resumes_20250818_124312/Parhitosh_Sharma_MTech_MEMS_ANZ_Bank/Parhitosh_Sharma_MTech_MEMS_ANZ_Bank_hf_canonical.json",
+        "canon_ens": "outputs/resumes_20250818_124312/Parhitosh_Sharma_MTech_MEMS_ANZ_Bank/Parhitosh_Sharma_MTech_MEMS_ANZ_Bank_ens_canonical.json",
+        "compare_json": "outputs/resumes_20250818_124312/Parhitosh_Sharma_MTech_MEMS_ANZ_Bank/Parhitosh_Sharma_MTech_MEMS_ANZ_Bank_ner_compare.json"
+      }
+    },
+    {
+      "input": "data/resumes/Resmi_M_MTech_Civil_ASEC_Inc.pdf",
+      "outputs": {
+        "doc_dir": "outputs/resumes_20250818_124312/Resmi_M_MTech_Civil_ASEC_Inc",
+        "lines_json": "outputs/resumes_20250818_124312/Resmi_M_MTech_Civil_ASEC_Inc/Resmi_M_MTech_Civil_ASEC_Inc_lines.json",
+        "text_txt": "outputs/resumes_20250818_124312/Resmi_M_MTech_Civil_ASEC_Inc/Resmi_M_MTech_Civil_ASEC_Inc_text.txt",
+        "sections_json": "outputs/resumes_20250818_124312/Resmi_M_MTech_Civil_ASEC_Inc/Resmi_M_MTech_Civil_ASEC_Inc_sections_nli.json",
+        "ner_spacy": "outputs/resumes_20250818_124312/Resmi_M_MTech_Civil_ASEC_Inc/Resmi_M_MTech_Civil_ASEC_Inc_ner_spacy.json",
+        "ner_hf": "outputs/resumes_20250818_124312/Resmi_M_MTech_Civil_ASEC_Inc/Resmi_M_MTech_Civil_ASEC_Inc_ner_hf.json",
+        "ner_ens": "outputs/resumes_20250818_124312/Resmi_M_MTech_Civil_ASEC_Inc/Resmi_M_MTech_Civil_ASEC_Inc_ner_ens.json",
+        "canon_spacy": "outputs/resumes_20250818_124312/Resmi_M_MTech_Civil_ASEC_Inc/Resmi_M_MTech_Civil_ASEC_Inc_spacy_canonical.json",
+        "canon_hf": "outputs/resumes_20250818_124312/Resmi_M_MTech_Civil_ASEC_Inc/Resmi_M_MTech_Civil_ASEC_Inc_hf_canonical.json",
+        "canon_ens": "outputs/resumes_20250818_124312/Resmi_M_MTech_Civil_ASEC_Inc/Resmi_M_MTech_Civil_ASEC_Inc_ens_canonical.json",
+        "compare_json": "outputs/resumes_20250818_124312/Resmi_M_MTech_Civil_ASEC_Inc/Resmi_M_MTech_Civil_ASEC_Inc_ner_compare.json"
+      }
+    },
+    {
+      "input": "data/resumes/Resume_August2015.pdf",
+      "outputs": {
+        "doc_dir": "outputs/resumes_20250818_124312/Resume_August2015",
+        "lines_json": "outputs/resumes_20250818_124312/Resume_August2015/Resume_August2015_lines.json",
+        "text_txt": "outputs/resumes_20250818_124312/Resume_August2015/Resume_August2015_text.txt",
+        "sections_json": "outputs/resumes_20250818_124312/Resume_August2015/Resume_August2015_sections_nli.json",
+        "ner_spacy": "outputs/resumes_20250818_124312/Resume_August2015/Resume_August2015_ner_spacy.json",
+        "ner_hf": "outputs/resumes_20250818_124312/Resume_August2015/Resume_August2015_ner_hf.json",
+        "ner_ens": "outputs/resumes_20250818_124312/Resume_August2015/Resume_August2015_ner_ens.json",
+        "canon_spacy": "outputs/resumes_20250818_124312/Resume_August2015/Resume_August2015_spacy_canonical.json",
+        "canon_hf": "outputs/resumes_20250818_124312/Resume_August2015/Resume_August2015_hf_canonical.json",
+        "canon_ens": "outputs/resumes_20250818_124312/Resume_August2015/Resume_August2015_ens_canonical.json",
+        "compare_json": "outputs/resumes_20250818_124312/Resume_August2015/Resume_August2015_ner_compare.json"
+      }
+    },
+    {
+      "input": "data/resumes/Shubham_Singhania_MTech_Elec_Oracle.pdf",
+      "outputs": {
+        "doc_dir": "outputs/resumes_20250818_124312/Shubham_Singhania_MTech_Elec_Oracle",
+        "lines_json": "outputs/resumes_20250818_124312/Shubham_Singhania_MTech_Elec_Oracle/Shubham_Singhania_MTech_Elec_Oracle_lines.json",
+        "text_txt": "outputs/resumes_20250818_124312/Shubham_Singhania_MTech_Elec_Oracle/Shubham_Singhania_MTech_Elec_Oracle_text.txt",
+        "sections_json": "outputs/resumes_20250818_124312/Shubham_Singhania_MTech_Elec_Oracle/Shubham_Singhania_MTech_Elec_Oracle_sections_nli.json",
+        "ner_spacy": "outputs/resumes_20250818_124312/Shubham_Singhania_MTech_Elec_Oracle/Shubham_Singhania_MTech_Elec_Oracle_ner_spacy.json",
+        "ner_hf": "outputs/resumes_20250818_124312/Shubham_Singhania_MTech_Elec_Oracle/Shubham_Singhania_MTech_Elec_Oracle_ner_hf.json",
+        "ner_ens": "outputs/resumes_20250818_124312/Shubham_Singhania_MTech_Elec_Oracle/Shubham_Singhania_MTech_Elec_Oracle_ner_ens.json",
+        "canon_spacy": "outputs/resumes_20250818_124312/Shubham_Singhania_MTech_Elec_Oracle/Shubham_Singhania_MTech_Elec_Oracle_spacy_canonical.json",
+        "canon_hf": "outputs/resumes_20250818_124312/Shubham_Singhania_MTech_Elec_Oracle/Shubham_Singhania_MTech_Elec_Oracle_hf_canonical.json",
+        "canon_ens": "outputs/resumes_20250818_124312/Shubham_Singhania_MTech_Elec_Oracle/Shubham_Singhania_MTech_Elec_Oracle_ens_canonical.json",
+        "compare_json": "outputs/resumes_20250818_124312/Shubham_Singhania_MTech_Elec_Oracle/Shubham_Singhania_MTech_Elec_Oracle_ner_compare.json"
+      }
+    },
+    {
+      "input": "data/resumes/Suranjan_Resume.pdf",
+      "outputs": {
+        "doc_dir": "outputs/resumes_20250818_124312/Suranjan_Resume",
+        "lines_json": "outputs/resumes_20250818_124312/Suranjan_Resume/Suranjan_Resume_lines.json",
+        "text_txt": "outputs/resumes_20250818_124312/Suranjan_Resume/Suranjan_Resume_text.txt",
+        "sections_json": "outputs/resumes_20250818_124312/Suranjan_Resume/Suranjan_Resume_sections_nli.json",
+        "ner_spacy": "outputs/resumes_20250818_124312/Suranjan_Resume/Suranjan_Resume_ner_spacy.json",
+        "ner_hf": "outputs/resumes_20250818_124312/Suranjan_Resume/Suranjan_Resume_ner_hf.json",
+        "ner_ens": "outputs/resumes_20250818_124312/Suranjan_Resume/Suranjan_Resume_ner_ens.json",
+        "canon_spacy": "outputs/resumes_20250818_124312/Suranjan_Resume/Suranjan_Resume_spacy_canonical.json",
+        "canon_hf": "outputs/resumes_20250818_124312/Suranjan_Resume/Suranjan_Resume_hf_canonical.json",
+        "canon_ens": "outputs/resumes_20250818_124312/Suranjan_Resume/Suranjan_Resume_ens_canonical.json",
+        "compare_json": "outputs/resumes_20250818_124312/Suranjan_Resume/Suranjan_Resume_ner_compare.json"
+      }
+    }
+  ]
+}

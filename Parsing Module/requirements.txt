@@ -1,0 +1,41 @@
+# Core
+pymupdf==1.24.10      # PDF parsing (fitz)
+python-docx==1.1.2    # DOCX reading
+# General utils
+regex==2024.9.11      # Better than re for patterns
+numpy==1.26.4         # Needed if any vector ops (embedding later)
+tqdm==4.66.5          # Progress bars for bulk runs
+rapidfuzz
+
+# --- NLI-based sectioner ---
+transformers==4.42.4
+torch==2.2.2           # CPU OK; if you have GPU/CUDA, install the matching torch build instead
+
+spacy==3.7.5
+dateparser==1.2.0
+
+supabase
+python-dotenv>=1.0.1
+
+langchain>=0.2.12
+langchain-openai>=0.1.23
+langchain-pinecone>=0.1.3
+langchain-community>=0.2.12
+pinecone-client>=5.0.0
+pypdf>=4.3.1
+streamlit>=1.37.0
+
+scikit-learn
+
+# API dependencies
+fastapi
+uvicorn
+requests
+fpdf2
+pyngrok
+pydantic>=2.7.0,<3.0.0
+email-validator>=2.1.0
+
+
+sentence-transformers 
+scikit-learn

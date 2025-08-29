@@ -1,0 +1,1132 @@
+{
+  "meta": {
+    "source_path": "data/resumes/2017-Resume-Book-for-Web-SDM-27.pdf",
+    "pages": 1
+  },
+  "lines": [
+    {
+      "page": 1,
+      "text": "ERDEM YILMAZ",
+      "bbox": [
+        266.4989929199219,
+        51.9466552734375,
+        366.5010070800781,
+        65.2357177734375
+      ],
+      "left_indent": 266.4989929199219,
+      "width": 100.00201416015625,
+      "is_bold": true,
+      "font_size": 12.0
+    },
+    {
+      "page": 1,
+      "text": "eyilmaz@mit.edu",
+      "bbox": [
+        272.3203125,
+        62.98663330078125,
+        360.6796875,
+        76.27569580078125
+      ],
+      "left_indent": 272.3203125,
+      "width": 88.359375,
+      "is_bold": false,
+      "font_size": 12.0
+    },
+    {
+      "page": 1,
+      "text": "Newton, MA",
+      "bbox": [
+        288.6133117675781,
+        75.951416015625,
+        343.8466796875,
+        86.84844970703125
+      ],
+      "left_indent": 288.6133117675781,
+      "width": 55.233367919921875,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "EDUCATION",
+      "bbox": [
+        72.0,
+        97.79144287109375,
+        135.5782012939453,
+        108.6884765625
+      ],
+      "left_indent": 72.0,
+      "width": 63.57820129394531,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Massachusetts Institute of Technology",
+      "bbox": [
+        72.0,
+        119.8714599609375,
+        234.92774963378906,
+        130.76849365234375
+      ],
+      "left_indent": 72.0,
+      "width": 162.92774963378906,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "School of Engineering & Sloan School of Management",
+      "bbox": [
+        72.0,
+        130.91143798828125,
+        294.15240478515625,
+        141.8084716796875
+      ],
+      "left_indent": 72.0,
+      "width": 222.15240478515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Master of Science in Engineering and Management",
+      "bbox": [
+        72.0,
+        141.951416015625,
+        283.0195007324219,
+        152.84844970703125
+      ],
+      "left_indent": 72.0,
+      "width": 211.01950073242188,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Focus on technology strategy, artificial intelligence and data mining systems",
+      "bbox": [
+        90.0,
+        152.991455078125,
+        396.5443115234375,
+        163.88848876953125
+      ],
+      "left_indent": 90.0,
+      "width": 306.5443115234375,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        154.8604736328125,
+        76.52601623535156,
+        164.7004852294922
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Cross registered to Harvard Business School to take classes on digital transformation and technology strategy",
+      "bbox": [
+        90.0,
+        163.79144287109375,
+        528.1983032226562,
+        174.6884765625
+      ],
+      "left_indent": 90.0,
+      "width": 438.19830322265625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        165.66046142578125,
+        76.52601623535156,
+        175.50047302246094
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "University of Massachusetts, Dartmouth",
+      "bbox": [
+        72.0,
+        185.8714599609375,
+        244.1159210205078,
+        196.76849365234375
+      ],
+      "left_indent": 72.0,
+      "width": 172.1159210205078,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Master of Science in Electrical and Computer Engineering",
+      "bbox": [
+        72.0,
+        196.91143798828125,
+        310.2411804199219,
+        207.8084716796875
+      ],
+      "left_indent": 72.0,
+      "width": 238.24118041992188,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Thesis on wireless system design",
+      "bbox": [
+        90.0,
+        207.951416015625,
+        227.7237091064453,
+        218.84844970703125
+      ],
+      "left_indent": 90.0,
+      "width": 137.7237091064453,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        209.8204345703125,
+        76.52601623535156,
+        219.6604461669922
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Awarded fully scholarship",
+      "bbox": [
+        90.0,
+        218.991455078125,
+        198.5489044189453,
+        229.88848876953125
+      ],
+      "left_indent": 90.0,
+      "width": 108.54890441894531,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        220.8604736328125,
+        76.52601623535156,
+        230.7004852294922
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Technical University of Yildiz",
+      "bbox": [
+        72.0,
+        240.8314208984375,
+        199.359619140625,
+        251.72845458984375
+      ],
+      "left_indent": 72.0,
+      "width": 127.359619140625,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Bachelor of Science in Electronics and Communication Engineering",
+      "bbox": [
+        72.0,
+        251.8714599609375,
+        348.56640625,
+        262.76849365234375
+      ],
+      "left_indent": 72.0,
+      "width": 276.56640625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Thesis on numerical analysis",
+      "bbox": [
+        90.0,
+        262.91143798828125,
+        208.2657012939453,
+        273.8084716796875
+      ],
+      "left_indent": 90.0,
+      "width": 118.26570129394531,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        264.78045654296875,
+        76.52601623535156,
+        274.6204528808594
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "EXPERIENCE",
+      "bbox": [
+        72.0,
+        284.991455078125,
+        140.0264129638672,
+        295.88848876953125
+      ],
+      "left_indent": 72.0,
+      "width": 68.02641296386719,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Cheryish Technology LLC, Cambridge",
+      "bbox": [
+        72.0,
+        306.8314514160156,
+        239.163818359375,
+        317.7284851074219
+      ],
+      "left_indent": 72.0,
+      "width": 167.163818359375,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Co-founder",
+      "bbox": [
+        72.0,
+        317.8714599609375,
+        122.24320220947266,
+        328.76849365234375
+      ],
+      "left_indent": 72.0,
+      "width": 50.243202209472656,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Cheryish provides technology consulting on AI powered unified communication services along with a portfolio of",
+      "bbox": [
+        72.0,
+        328.91143798828125,
+        531.5855712890625,
+        339.8084716796875
+      ],
+      "left_indent": 72.0,
+      "width": 459.5855712890625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "software products to improve customer engagement for enterprises. My focus is product and technology strategy.",
+      "bbox": [
+        72.0,
+        339.9514465332031,
+        530.1827392578125,
+        350.8484802246094
+      ],
+      "left_indent": 72.0,
+      "width": 458.1827392578125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Massachusetts Institute of Technology, Sloan School of Business",
+      "bbox": [
+        72.0,
+        361.79144287109375,
+        344.72991943359375,
+        372.6884765625
+      ],
+      "left_indent": 72.0,
+      "width": 272.72991943359375,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Graduate Fellow / Research Assistant",
+      "bbox": [
+        72.0,
+        372.8314514160156,
+        230.0362091064453,
+        383.7284851074219
+      ],
+      "left_indent": 72.0,
+      "width": 158.0362091064453,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Areas of interest are entrepreneurship, technology strategy and innovation management.",
+      "bbox": [
+        72.0,
+        383.8714599609375,
+        429.337890625,
+        394.76849365234375
+      ],
+      "left_indent": 72.0,
+      "width": 357.337890625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Research assistant to Prof. James Utterback (Sloan) – Prof. Calie Pistorious (University of Hull, UK)",
+      "bbox": [
+        72.0,
+        394.91143798828125,
+        478.5712890625,
+        405.8084716796875
+      ],
+      "left_indent": 72.0,
+      "width": 406.5712890625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Evolv Technology, Waltham, MA",
+      "bbox": [
+        72.0,
+        416.991455078125,
+        214.94805908203125,
+        427.88848876953125
+      ],
+      "left_indent": 72.0,
+      "width": 142.94805908203125,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "A high-tech startup that raised $19M to date, developing AI systems for public safety",
+      "bbox": [
+        72.0,
+        427.79144287109375,
+        416.05657958984375,
+        438.6884765625
+      ],
+      "left_indent": 72.0,
+      "width": 344.05657958984375,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Lead Engineer / (Consultant since 9/2016)",
+      "bbox": [
+        72.0,
+        438.8314514160156,
+        249.7530059814453,
+        449.7284851074219
+      ],
+      "left_indent": 72.0,
+      "width": 177.7530059814453,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Technical lead for new products, reporting to CTO and CEO. Wide range of responsibilities to develop products",
+      "bbox": [
+        90.0,
+        449.8714599609375,
+        541.813232421875,
+        460.76849365234375
+      ],
+      "left_indent": 90.0,
+      "width": 451.813232421875,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        451.740478515625,
+        76.52601623535156,
+        461.5804748535156
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "from idea phase to prototype and product phase.",
+      "bbox": [
+        90.0,
+        460.91143798828125,
+        285.1846008300781,
+        471.8084716796875
+      ],
+      "left_indent": 90.0,
+      "width": 195.18460083007812,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Managed contract engineers, technicians and designers in person or via crowdsourcing. Recruited undergrad",
+      "bbox": [
+        90.0,
+        471.9514465332031,
+        526.2579345703125,
+        482.8484802246094
+      ],
+      "left_indent": 90.0,
+      "width": 436.2579345703125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        473.8204650878906,
+        76.52601623535156,
+        483.66046142578125
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "engineering students from MIT for internships",
+      "bbox": [
+        90.0,
+        482.991455078125,
+        278.26568603515625,
+        493.88848876953125
+      ],
+      "left_indent": 90.0,
+      "width": 188.26568603515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Smiths Interconnect, Hudson, MA",
+      "bbox": [
+        72.0,
+        504.8314208984375,
+        218.2707061767578,
+        515.7284545898438
+      ],
+      "left_indent": 72.0,
+      "width": 146.2707061767578,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "An aerospace vendor providing embedded computer equipment",
+      "bbox": [
+        72.0,
+        515.8714599609375,
+        331.3204040527344,
+        526.7684936523438
+      ],
+      "left_indent": 72.0,
+      "width": 259.3204040527344,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Lead Engineer",
+      "bbox": [
+        72.0,
+        526.9114379882812,
+        135.84671020507812,
+        537.8084716796875
+      ],
+      "left_indent": 72.0,
+      "width": 63.846710205078125,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Senior Engineer",
+      "bbox": [
+        72.0,
+        537.951416015625,
+        142.53131103515625,
+        548.8484497070312
+      ],
+      "left_indent": 72.0,
+      "width": 70.53131103515625,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Interact with existing / new customers, understand their needs, create specifications, and utilize cross-function teams",
+      "bbox": [
+        90.0,
+        548.991455078125,
+        558.684326171875,
+        559.8884887695312
+      ],
+      "left_indent": 90.0,
+      "width": 468.684326171875,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        550.8604736328125,
+        76.52601623535156,
+        560.7005004882812
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "to deliver products that exceed the requirements. Work with Smiths Interconnect offices in Italy, UK, Germany and",
+      "bbox": [
+        90.0,
+        559.7914428710938,
+        554.841796875,
+        570.6884765625
+      ],
+      "left_indent": 90.0,
+      "width": 464.841796875,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "USA to deliver products on time.",
+      "bbox": [
+        90.0,
+        570.8314208984375,
+        225.21881103515625,
+        581.7284545898438
+      ],
+      "left_indent": 90.0,
+      "width": 135.21881103515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Technical lead of development of new value added product portfolio (KVPX, SATA for aerospace) with sales over",
+      "bbox": [
+        90.0,
+        581.8714599609375,
+        552.9252319335938,
+        592.7684936523438
+      ],
+      "left_indent": 90.0,
+      "width": 462.92523193359375,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        583.740478515625,
+        76.52601623535156,
+        593.5805053710938
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "$5M for first year",
+      "bbox": [
+        90.0,
+        592.9114379882812,
+        163.83700561523438,
+        603.8084716796875
+      ],
+      "left_indent": 90.0,
+      "width": 73.83700561523438,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Orbital Sciences (now Orbital ATK), Dulles, VA",
+      "bbox": [
+        72.0,
+        614.991455078125,
+        277.9886474609375,
+        625.8884887695312
+      ],
+      "left_indent": 72.0,
+      "width": 205.9886474609375,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Medium size communication satellite and launch vehicle vendor",
+      "bbox": [
+        72.0,
+        625.7914428710938,
+        332.43359375,
+        636.6884765625
+      ],
+      "left_indent": 72.0,
+      "width": 260.43359375,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Sub-system Lead Engineer and Cost Account Manager",
+      "bbox": [
+        72.0,
+        636.8314208984375,
+        301.1495056152344,
+        647.7284545898438
+      ],
+      "left_indent": 72.0,
+      "width": 229.14950561523438,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Senior Engineer",
+      "bbox": [
+        72.0,
+        647.8714599609375,
+        142.53131103515625,
+        658.7684936523438
+      ],
+      "left_indent": 72.0,
+      "width": 70.53131103515625,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Engineer",
+      "bbox": [
+        72.0,
+        658.9114379882812,
+        112.79979705810547,
+        669.8084716796875
+      ],
+      "left_indent": 72.0,
+      "width": 40.79979705810547,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Responsible of performance, budget and schedule of a communication sub-system. Lead a team of four engineers to",
+      "bbox": [
+        90.0,
+        669.951416015625,
+        556.8840942382812,
+        680.8484497070312
+      ],
+      "left_indent": 90.0,
+      "width": 466.88409423828125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.0,
+        671.8204345703125,
+        76.52601623535156,
+        681.6604614257812
+      ],
+      "left_indent": 72.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "successfully deliver the sub-system on time managing $1.2M subsystem budget",
+      "bbox": [
+        90.0,
+        680.991455078125,
+        408.8022766113281,
+        691.8884887695312
+      ],
+      "left_indent": 90.0,
+      "width": 318.8022766113281,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "PROFESSIONAL INTEREST",
+      "bbox": [
+        72.0,
+        702.8314208984375,
+        205.3291015625,
+        713.7284545898438
+      ],
+      "left_indent": 72.0,
+      "width": 133.3291015625,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Unified communication, digital transformation, business applications of artificial intelligence and data mining to",
+      "bbox": [
+        72.0,
+        724.9114379882812,
+        524.8560180664062,
+        735.8084716796875
+      ],
+      "left_indent": 72.0,
+      "width": 452.85601806640625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "improve services, technology consulting, technology research.",
+      "bbox": [
+        72.0,
+        735.951416015625,
+        323.830078125,
+        746.8484497070312
+      ],
+      "left_indent": 72.0,
+      "width": 251.830078125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Cambridge, MA",
+      "bbox": [
+        492.4530944824219,
+        119.8714599609375,
+        560.4600219726562,
+        130.76849365234375
+      ],
+      "left_indent": 492.4530944824219,
+      "width": 68.00692749023438,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Expected Graduation June 2017",
+      "bbox": [
+        429.9823913574219,
+        130.91143798828125,
+        560.4600219726562,
+        141.8084716796875
+      ],
+      "left_indent": 429.9823913574219,
+      "width": 130.47763061523438,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Dartmouth, MA",
+      "bbox": [
+        493.5614929199219,
+        185.8714599609375,
+        560.4600219726562,
+        196.76849365234375
+      ],
+      "left_indent": 493.5614929199219,
+      "width": 66.89852905273438,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "2007",
+      "bbox": [
+        538.0,
+        196.91143798828125,
+        560.4600219726562,
+        207.8084716796875
+      ],
+      "left_indent": 538.0,
+      "width": 22.46002197265625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Istanbul, Turkey",
+      "bbox": [
+        491.90618896484375,
+        240.8314208984375,
+        560.4600219726562,
+        251.72845458984375
+      ],
+      "left_indent": 491.90618896484375,
+      "width": 68.5538330078125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "2005",
+      "bbox": [
+        538.0,
+        251.8714599609375,
+        560.4600219726562,
+        262.76849365234375
+      ],
+      "left_indent": 538.0,
+      "width": 22.46002197265625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Cambridge, MA",
+      "bbox": [
+        492.4530944824219,
+        306.8314514160156,
+        560.4600219726562,
+        317.7284851074219
+      ],
+      "left_indent": 492.4530944824219,
+      "width": 68.00692749023438,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "November 2016-Present",
+      "bbox": [
+        460.5244140625,
+        317.8714599609375,
+        560.4600219726562,
+        328.76849365234375
+      ],
+      "left_indent": 460.5244140625,
+      "width": 99.93560791015625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Cambridge, MA",
+      "bbox": [
+        492.4530944824219,
+        361.79144287109375,
+        560.4600219726562,
+        372.6884765625
+      ],
+      "left_indent": 492.4530944824219,
+      "width": 68.00692749023438,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "September 2015-Present",
+      "bbox": [
+        459.96771240234375,
+        372.8314514160156,
+        560.4600219726562,
+        383.7284851074219
+      ],
+      "left_indent": 459.96771240234375,
+      "width": 100.4923095703125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Waltham, MA",
+      "bbox": [
+        500.2362976074219,
+        416.991455078125,
+        560.4600219726562,
+        427.88848876953125
+      ],
+      "left_indent": 500.2362976074219,
+      "width": 60.223724365234375,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "2014-September 2016",
+      "bbox": [
+        469.40618896484375,
+        438.8314514160156,
+        560.4600219726562,
+        449.7284851074219
+      ],
+      "left_indent": 469.40618896484375,
+      "width": 91.0538330078125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Hudson, MA",
+      "bbox": [
+        505.7734069824219,
+        504.8314208984375,
+        560.4600219726562,
+        515.7284545898438
+      ],
+      "left_indent": 505.7734069824219,
+      "width": 54.686614990234375,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "2013-2014",
+      "bbox": [
+        514.669921875,
+        526.9114379882812,
+        560.4600219726562,
+        537.8084716796875
+      ],
+      "left_indent": 514.669921875,
+      "width": 45.79010009765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "2011-2013",
+      "bbox": [
+        514.669921875,
+        537.951416015625,
+        560.4600219726562,
+        548.8484497070312
+      ],
+      "left_indent": 514.669921875,
+      "width": 45.79010009765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Dulles, VA",
+      "bbox": [
+        512.4481811523438,
+        614.991455078125,
+        560.4600219726562,
+        625.8884887695312
+      ],
+      "left_indent": 512.4481811523438,
+      "width": 48.0118408203125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "2010-2011",
+      "bbox": [
+        514.669921875,
+        636.8314208984375,
+        560.4600219726562,
+        647.7284545898438
+      ],
+      "left_indent": 514.669921875,
+      "width": 45.79010009765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "2009-2010",
+      "bbox": [
+        514.669921875,
+        647.8714599609375,
+        560.4600219726562,
+        658.7684936523438
+      ],
+      "left_indent": 514.669921875,
+      "width": 45.79010009765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "2007-2009",
+      "bbox": [
+        514.669921875,
+        658.9114379882812,
+        560.4600219726562,
+        669.8084716796875
+      ],
+      "left_indent": 514.669921875,
+      "width": 45.79010009765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    }
+  ],
+  "text_per_page": [
+    "ERDEM YILMAZ\neyilmaz@mit.edu\nNewton, MA\nEDUCATION\nMassachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nMaster of Science in Engineering and Management\nFocus on technology strategy, artificial intelligence and data mining systems\n•\nCross registered to Harvard Business School to take classes on digital transformation and technology strategy\n•\nUniversity of Massachusetts, Dartmouth\nMaster of Science in Electrical and Computer Engineering\nThesis on wireless system design\n•\nAwarded fully scholarship\n•\nTechnical University of Yildiz\nBachelor of Science in Electronics and Communication Engineering\nThesis on numerical analysis\n•\nEXPERIENCE\nCheryish Technology LLC, Cambridge\nCo-founder\nCheryish provides technology consulting on AI powered unified communication services along with a portfolio of\nsoftware products to improve customer engagement for enterprises. My focus is product and technology strategy.\nMassachusetts Institute of Technology, Sloan School of Business\nGraduate Fellow / Research Assistant\nAreas of interest are entrepreneurship, technology strategy and innovation management.\nResearch assistant to Prof. James Utterback (Sloan) – Prof. Calie Pistorious (University of Hull, UK)\nEvolv Technology, Waltham, MA\nA high-tech startup that raised $19M to date, developing AI systems for public safety\nLead Engineer / (Consultant since 9/2016)\nTechnical lead for new products, reporting to CTO and CEO. Wide range of responsibilities to develop products\n•\nfrom idea phase to prototype and product phase.\nManaged contract engineers, technicians and designers in person or via crowdsourcing. Recruited undergrad\n•\nengineering students from MIT for internships\nSmiths Interconnect, Hudson, MA\nAn aerospace vendor providing embedded computer equipment\nLead Engineer\nSenior Engineer\nInteract with existing / new customers, understand their needs, create specifications, and utilize cross-function teams\n•\nto deliver products that exceed the requirements. Work with Smiths Interconnect offices in Italy, UK, Germany and\nUSA to deliver products on time.\nTechnical lead of development of new value added product portfolio (KVPX, SATA for aerospace) with sales over\n•\n$5M for first year\nOrbital Sciences (now Orbital ATK), Dulles, VA\nMedium size communication satellite and launch vehicle vendor\nSub-system Lead Engineer and Cost Account Manager\nSenior Engineer\nEngineer\nResponsible of performance, budget and schedule of a communication sub-system. Lead a team of four engineers to\n•\nsuccessfully deliver the sub-system on time managing $1.2M subsystem budget\nPROFESSIONAL INTEREST\nUnified communication, digital transformation, business applications of artificial intelligence and data mining to\nimprove services, technology consulting, technology research.\nCambridge, MA\nExpected Graduation June 2017\nDartmouth, MA\n2007\nIstanbul, Turkey\n2005\nCambridge, MA\nNovember 2016-Present\nCambridge, MA\nSeptember 2015-Present\nWaltham, MA\n2014-September 2016\nHudson, MA\n2013-2014\n2011-2013\nDulles, VA\n2010-2011\n2009-2010\n2007-2009"
+  ],
+  "text_all": "ERDEM YILMAZ\neyilmaz@mit.edu\nNewton, MA\nEDUCATION\nMassachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nMaster of Science in Engineering and Management\nFocus on technology strategy, artificial intelligence and data mining systems\n•\nCross registered to Harvard Business School to take classes on digital transformation and technology strategy\n•\nUniversity of Massachusetts, Dartmouth\nMaster of Science in Electrical and Computer Engineering\nThesis on wireless system design\n•\nAwarded fully scholarship\n•\nTechnical University of Yildiz\nBachelor of Science in Electronics and Communication Engineering\nThesis on numerical analysis\n•\nEXPERIENCE\nCheryish Technology LLC, Cambridge\nCo-founder\nCheryish provides technology consulting on AI powered unified communication services along with a portfolio of\nsoftware products to improve customer engagement for enterprises. My focus is product and technology strategy.\nMassachusetts Institute of Technology, Sloan School of Business\nGraduate Fellow / Research Assistant\nAreas of interest are entrepreneurship, technology strategy and innovation management.\nResearch assistant to Prof. James Utterback (Sloan) – Prof. Calie Pistorious (University of Hull, UK)\nEvolv Technology, Waltham, MA\nA high-tech startup that raised $19M to date, developing AI systems for public safety\nLead Engineer / (Consultant since 9/2016)\nTechnical lead for new products, reporting to CTO and CEO. Wide range of responsibilities to develop products\n•\nfrom idea phase to prototype and product phase.\nManaged contract engineers, technicians and designers in person or via crowdsourcing. Recruited undergrad\n•\nengineering students from MIT for internships\nSmiths Interconnect, Hudson, MA\nAn aerospace vendor providing embedded computer equipment\nLead Engineer\nSenior Engineer\nInteract with existing / new customers, understand their needs, create specifications, and utilize cross-function teams\n•\nto deliver products that exceed the requirements. Work with Smiths Interconnect offices in Italy, UK, Germany and\nUSA to deliver products on time.\nTechnical lead of development of new value added product portfolio (KVPX, SATA for aerospace) with sales over\n•\n$5M for first year\nOrbital Sciences (now Orbital ATK), Dulles, VA\nMedium size communication satellite and launch vehicle vendor\nSub-system Lead Engineer and Cost Account Manager\nSenior Engineer\nEngineer\nResponsible of performance, budget and schedule of a communication sub-system. Lead a team of four engineers to\n•\nsuccessfully deliver the sub-system on time managing $1.2M subsystem budget\nPROFESSIONAL INTEREST\nUnified communication, digital transformation, business applications of artificial intelligence and data mining to\nimprove services, technology consulting, technology research.\nCambridge, MA\nExpected Graduation June 2017\nDartmouth, MA\n2007\nIstanbul, Turkey\n2005\nCambridge, MA\nNovember 2016-Present\nCambridge, MA\nSeptember 2015-Present\nWaltham, MA\n2014-September 2016\nHudson, MA\n2013-2014\n2011-2013\nDulles, VA\n2010-2011\n2009-2010\n2007-2009"
+}

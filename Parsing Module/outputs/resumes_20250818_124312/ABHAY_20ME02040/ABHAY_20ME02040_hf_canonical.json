@@ -1,0 +1,351 @@
+{
+  "candidate": {
+    "full_name": "Abhay Pratap Singh Patel",
+    "emails": [
+      "20me02040@iitbbs.ac.in"
+    ],
+    "phones": [
+      "+919695213908"
+    ],
+    "location": {
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null
+    },
+    "resume_text_hash": "sha256:2fc9d5b3d0d66cfa0183b25c5a450f07cf7af3d126795fd0a2342674ac485cd6",
+    "source_file_id": "ABHAY_20ME02040.pdf",
+    "parsed_at": "2025-08-18T08:50:12Z",
+    "parser_version": "v0.3.0"
+  },
+  "experience": [
+    {
+      "company_raw": "AdrenL",
+      "company_norm": "AdrenL",
+      "title_raw": "Technical Product Manager Intern | AdrenL",
+      "title_norm": "product manager",
+      "seniority": null,
+      "employment_type": "internship",
+      "location": null,
+      "start_date": "2023-08-01",
+      "end_date": "2024-03-01",
+      "is_current": false,
+      "extraction_confidence": 0.9,
+      "source_page": null,
+      "bullets": [
+        {
+          "bullet_text": "Aug, 2023 - March, 2024",
+          "metrics": {},
+          "skills_mentioned": [
+            "c"
+          ],
+          "source_page": null
+        },
+        {
+          "bullet_text": "Led the end-to-end development of a SaaS platform from concept to beta launch within 4 months, collaborating with the founder in Jordan and the",
+          "metrics": {},
+          "skills_mentioned": [
+            "c"
+          ],
+          "source_page": null
+        },
+        {
+          "bullet_text": "marketing team in Singapore, ensuring alignment with international business objectives.",
+          "metrics": {},
+          "skills_mentioned": [
+            "c"
+          ],
+          "source_page": null
+        },
+        {
+          "bullet_text": "Drove key feature development , including chat, review system, and secure payment integration with PhonePe, enhancing product offerings and effectively",
+          "metrics": {},
+          "skills_mentioned": [
+            "c",
+            "phonepe"
+          ],
+          "source_page": null
+        },
+        {
+          "bullet_text": "managing partnerships with stakeholders like PhonePe and Digio .",
+          "metrics": {},
+          "skills_mentioned": [
+            "phonepe"
+          ],
+          "source_page": null
+        },
+        {
+          "bullet_text": "Conducted market analysis by interviewing over 25 adventure service providers in Uttarakhand to identify market gaps and enhance platform offerings.",
+          "metrics": {},
+          "skills_mentioned": [
+            "c"
+          ],
+          "source_page": null
+        },
+        {
+          "bullet_text": "Implemented data-driven decision-making by integrating the Google Trends API to optimize homepage sorting, resulting in improved customer",
+          "metrics": {},
+          "skills_mentioned": [
+            "c"
+          ],
+          "source_page": null
+        },
+        {
+          "bullet_text": "engagement and a reduced bounce rate.",
+          "metrics": {},
+          "skills_mentioned": [
+            "c"
+          ],
+          "source_page": null
+        },
+        {
+          "bullet_text": "Designed Figma mockups, site maps , and layouts for better user retention, including SEO and Google Analytics integration. Implemented user-centric",
+          "metrics": {},
+          "skills_mentioned": [
+            "c",
+            "figma",
+            "google analytics"
+          ],
+          "source_page": null
+        },
+        {
+          "bullet_text": "policies like cancellation policy, enhancing satisfaction, and supporting profitability. Research Consultant | Worldquant Brain",
+          "metrics": {},
+          "skills_mentioned": [
+            "c"
+          ],
+          "source_page": null
+        },
+        {
+          "bullet_text": "Developed and implemented advanced trading strategies by formulating alpha models using a simulation-based platform and statistical analysis for",
+          "metrics": {},
+          "skills_mentioned": [
+            "c"
+          ],
+          "source_page": null
+        },
+        {
+          "bullet_text": "out-of-sample testing.",
+          "metrics": {},
+          "skills_mentioned": [],
+          "source_page": null
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree_raw": "Dual Degree",
+      "degree_level": "masters",
+      "field_raw": null,
+      "institution_raw": "Indian Institute of Technology",
+      "start_date": "2020-08-01",
+      "end_date": "2025-08-01",
+      "gpa": null,
+      "extraction_confidence": 0.6,
+      "source_page": null
+    }
+  ],
+  "skills": [
+    {
+      "name": "c",
+      "category": null
+    },
+    {
+      "name": "c++",
+      "category": null
+    },
+    {
+      "name": "excel",
+      "category": null
+    },
+    {
+      "name": "figma",
+      "category": null
+    },
+    {
+      "name": "google analytics",
+      "category": null
+    },
+    {
+      "name": "mixpanel",
+      "category": null
+    },
+    {
+      "name": "python",
+      "category": null
+    },
+    {
+      "name": "sql",
+      "category": null
+    },
+    {
+      "name": "tableau",
+      "category": null
+    }
+  ],
+  "projects": [
+    {
+      "name": "Cold Email Generator",
+      "summary": "• Developed a cold email generator tool using Groq, Langchain, and Streamlit to automate outreach by extracting job listings from company careers pages and generating personalized emails. • Integrated portfolio link sourcing from a vector database to align email content with job descriptions, improving relevance and personalization. • Deployed a user-friendly Streamlit app that assists business development teams in reaching out to potential clients, providing value propositions for dedicated software engineering services.",
+      "role": null,
+      "tech_stack": [
+        "c",
+        "langchain",
+        "streamlit"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Ride Demand Surge Price Prediction",
+      "summary": null,
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Collab",
+      "summary": "• Developed a predictive model to forecast surge pricing types, improving cab-to-customer matching efficiency. • Conducted exploratory data analysis (EDA), handled missing values, and encoded categorical variables to prepare the dataset for machine learning. • Built and tuned models, achieving 73% accuracy through feature selection and hyperparameter tuning. • Improved service efficiency during peak demand times by enabling proactive surge pricing predictions using Python, Pandas, and Scikit-learn",
+      "role": null,
+      "tech_stack": [
+        "c",
+        "pandas",
+        "python",
+        "scikit-learn"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {
+        "accuracy_pct": 73
+      },
+      "source_page": null
+    },
+    {
+      "name": "Human Activity Recognition",
+      "summary": "• Built machine learning models (Random Forest, LSTM) for classifying human activities from smartphone sensor data, achieving 90%+ accuracy. • Performed time-series preprocessing and feature extraction to enhance model performance. • Optimized deep learning models using TensorFlow for real-time activity recognition.",
+      "role": null,
+      "tech_stack": [
+        "c",
+        "tensorflow"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {
+        "accuracy_pct": 90
+      },
+      "source_page": null
+    }
+  ],
+  "certifications": [],
+  "publications": [],
+  "achievements": [
+    "88 Inter IIT Vice Captain | Medichain",
+    "Github",
+    "Originated the idea for a decentralized application to securely store patient medical histories, leading the team in a tech entrepreneurship competition at",
+    "the Inter IIT Tech Meet among 22 IITs to present this innovative concept.",
+    "Developed comprehensive Figma mockups to visualize the user interface and experience, and built a functional prototype using Solidity, leveraging crypto",
+    "for decentralization",
+    "Governor | Finance Society of IIT Bhubaneswar",
+    "Founded and led FEBS into a top finance society with 100+ members. Hosted events with 300+ attendees, featuring speakers like Zerodha Founder and",
+    "Anil Bhasan. Partnered with WorldQuant, ISB, and managed a Product Development Club. Conducted workshops in finance, math, statistics, and quant.",
+    "WebND Coordinator | Sports Fest IIT BBS",
+    "Github",
+    "Managed a 30+ member team to create a multifunctional website for registrations and event publicity, while overseeing sponsorship acquisition, organizing",
+    "offline events, and coordinating logistics, contributing to a successful fest with over 1,000 attendees across three days.",
+    "\\",
+    "Codeforces : Pupil on CodeForces (Max rating: 1334).",
+    "CodeRelay - Secured rank 1 out of 1600 participants on unstop in a 3-day software development hackathon",
+    "Secured a rank within the top 4% in JEE Advanced (2020) among more than 10 lakh students.",
+    "cause analysis, Problem-solving"
+  ],
+  "languages": [],
+  "sectioned_text": [
+    {
+      "section_type": "summary",
+      "text": "ABHAY PRATAP S INGH PATEL",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "patents",
+      "text": "LinkedIn |\n+91 9695213908 |\n20me02040@iitbbs.ac.in |\nGitHub",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "work_experience",
+      "text": "Technical Product Manager Intern | AdrenL\nAug, 2023 - March, 2024\n• Led the end-to-end development of a SaaS platform from concept to beta launch within 4 months, collaborating with the founder in Jordan and the\nmarketing team in Singapore, ensuring alignment with international business objectives.\n• Drove key feature development , including chat, review system, and secure payment integration with PhonePe, enhancing product offerings and effectively\nmanaging partnerships with stakeholders like PhonePe and Digio .\n• Conducted market analysis by interviewing over 25 adventure service providers in Uttarakhand to identify market gaps and enhance platform offerings.\n• Implemented data-driven decision-making by integrating the Google Trends API to optimize homepage sorting, resulting in improved customer\nengagement and a reduced bounce rate.\n• Designed Figma mockups, site maps , and layouts for better user retention, including SEO and Google Analytics integration. Implemented user-centric\npolicies like cancellation policy, enhancing satisfaction, and supporting profitability.\nResearch Consultant | Worldquant Brain\n• Developed and implemented advanced trading strategies by formulating alpha models using a simulation-based platform and statistical analysis for\nout-of-sample testing.",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "Cold Email Generator\n• Developed a cold email generator tool using Groq, Langchain, and Streamlit to automate outreach by extracting job listings from company careers pages and\ngenerating personalized emails.\n• Integrated portfolio link sourcing from a vector database to align email content with job descriptions, improving relevance and personalization.\n• Deployed a user-friendly Streamlit app that assists business development teams in reaching out to potential clients, providing value propositions for\ndedicated software engineering services.\nRide Demand Surge Price Prediction\nCollab\n• Developed a predictive model to forecast surge pricing types, improving cab-to-customer matching efficiency.\n• Conducted exploratory data analysis (EDA), handled missing values, and encoded categorical variables to prepare the dataset for machine learning.\n• Built and tuned models, achieving 73% accuracy through feature selection and hyperparameter tuning.\n• Improved service efficiency during peak demand times by enabling proactive surge pricing predictions using Python, Pandas, and Scikit-learn\nHuman Activity Recognition\n• Built machine learning models (Random Forest, LSTM) for classifying human activities from smartphone sensor data, achieving 90%+ accuracy.\n• Performed time-series preprocessing and feature extraction to enhance model performance.\n• Optimized deep learning models using TensorFlow for real-time activity recognition.",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "Dual Degree (B.Tech + M.Tech)\nIndian Institute of Technology (IIT)\nBhubaneswar, Odisha\n2020 - 2025\n• Major in Mechanical Engineering",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "responsibility",
+      "text": "88 Inter IIT Vice Captain | Medichain\nGithub\n• Originated the idea for a decentralized application to securely store patient medical histories, leading the team in a tech entrepreneurship competition at\nthe Inter IIT Tech Meet among 22 IITs to present this innovative concept.\n• Developed comprehensive Figma mockups to visualize the user interface and experience, and built a functional prototype using Solidity, leveraging crypto\nfor decentralization\nGovernor | Finance Society of IIT Bhubaneswar\n• Founded and led FEBS into a top finance society with 100+ members. Hosted events with 300+ attendees, featuring speakers like Zerodha Founder and\nAnil Bhasan. Partnered with WorldQuant, ISB, and managed a Product Development Club. Conducted workshops in finance, math, statistics, and quant.\nWebND Coordinator | Sports Fest IIT BBS\nGithub\n• Managed a 30+ member team to create a multifunctional website for registrations and event publicity, while overseeing sponsorship acquisition, organizing\noffline events, and coordinating logistics, contributing to a successful fest with over 1,000 attendees across three days.\n\\",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "achievements",
+      "text": "• Codeforces : Pupil on CodeForces (Max rating: 1334).\n• CodeRelay - Secured rank 1 out of 1600 participants on unstop in a 3-day software development hackathon\n• Secured a rank within the top 4% in JEE Advanced (2020) among more than 10 lakh students.",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "skills",
+      "text": "• Python, SQL, DBMS, C, C++, DataStructures and Algorithms, Tableau, Project Management, Excel, Google Analytics, Figma, Premier Pro, Mixpanel, Root",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "responsibility",
+      "text": "cause analysis, Problem-solving",
+      "page_range": [
+        1,
+        1
+      ]
+    }
+  ]
+}

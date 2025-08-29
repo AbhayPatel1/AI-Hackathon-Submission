@@ -1,0 +1,2085 @@
+{
+  "meta": {
+    "source_path": "data/resumes/Abhishek_K_Ranjan_CSRE_Sysmex.pdf",
+    "pages": 2
+  },
+  "lines": [
+    {
+      "page": 1,
+      "text": "Abhishek Kumar Ranjan",
+      "bbox": [
+        150.0,
+        39.55999755859375,
+        258.3500061035156,
+        53.40999984741211
+      ],
+      "left_indent": 150.0,
+      "width": 108.35000610351562,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "193310005",
+      "bbox": [
+        400.0,
+        39.55999755859375,
+        445.0,
+        53.40999984741211
+      ],
+      "left_indent": 400.0,
+      "width": 45.0,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Geoinformatics and Natural Resources Engineering",
+      "bbox": [
+        150.0,
+        54.55999755859375,
+        371.1000671386719,
+        68.41000366210938
+      ],
+      "left_indent": 150.0,
+      "width": 221.10006713867188,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "M.Tech.",
+      "bbox": [
+        400.0,
+        54.55999755859375,
+        435.5500183105469,
+        68.41000366210938
+      ],
+      "left_indent": 400.0,
+      "width": 35.550018310546875,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Indian Institute of Technology, Bombay",
+      "bbox": [
+        150.0,
+        69.55999755859375,
+        320.29998779296875,
+        83.41000366210938
+      ],
+      "left_indent": 150.0,
+      "width": 170.29998779296875,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Gender: Male",
+      "bbox": [
+        400.0,
+        69.55999755859375,
+        459.7099914550781,
+        83.41000366210938
+      ],
+      "left_indent": 400.0,
+      "width": 59.709991455078125,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "DOB: 18-07-1996",
+      "bbox": [
+        400.0,
+        84.55999755859375,
+        476.65997314453125,
+        98.41000366210938
+      ],
+      "left_indent": 400.0,
+      "width": 76.65997314453125,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Examination",
+      "bbox": [
+        50.0,
+        110.55999755859375,
+        105.00999450683594,
+        124.41000366210938
+      ],
+      "left_indent": 50.0,
+      "width": 55.00999450683594,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "University",
+      "bbox": [
+        150.0,
+        110.55999755859375,
+        194.44000244140625,
+        124.41000366210938
+      ],
+      "left_indent": 150.0,
+      "width": 44.44000244140625,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Institute",
+      "bbox": [
+        300.0,
+        110.55999755859375,
+        336.1099853515625,
+        124.41000366210938
+      ],
+      "left_indent": 300.0,
+      "width": 36.1099853515625,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Year",
+      "bbox": [
+        475.0,
+        110.55999755859375,
+        496.1000061035156,
+        124.41000366210938
+      ],
+      "left_indent": 475.0,
+      "width": 21.100006103515625,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "CPI / %",
+      "bbox": [
+        510.0,
+        110.55999755859375,
+        545.0,
+        124.41000366210938
+      ],
+      "left_indent": 510.0,
+      "width": 35.0,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Post Graduation",
+      "bbox": [
+        50.0,
+        127.47000122070312,
+        114.72000885009766,
+        140.80999755859375
+      ],
+      "left_indent": 50.0,
+      "width": 64.72000885009766,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "IIT Bombay",
+      "bbox": [
+        150.0,
+        127.47000122070312,
+        199.16000366210938,
+        140.80999755859375
+      ],
+      "left_indent": 150.0,
+      "width": 49.160003662109375,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "IIT Bombay",
+      "bbox": [
+        300.0,
+        127.47000122070312,
+        349.15997314453125,
+        140.80999755859375
+      ],
+      "left_indent": 300.0,
+      "width": 49.15997314453125,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "2021",
+      "bbox": [
+        475.0,
+        127.47000122070312,
+        495.0,
+        140.80999755859375
+      ],
+      "left_indent": 475.0,
+      "width": 20.0,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "9.5",
+      "bbox": [
+        510.0,
+        127.47000122070312,
+        522.5,
+        140.80999755859375
+      ],
+      "left_indent": 510.0,
+      "width": 12.5,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Graduation",
+      "bbox": [
+        50.0,
+        140.47000122070312,
+        94.99000549316406,
+        153.80999755859375
+      ],
+      "left_indent": 50.0,
+      "width": 44.99000549316406,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "NIT Trichy",
+      "bbox": [
+        150.0,
+        140.47000122070312,
+        195.82000732421875,
+        153.80999755859375
+      ],
+      "left_indent": 150.0,
+      "width": 45.82000732421875,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "NIT Trichy",
+      "bbox": [
+        300.0,
+        140.47000122070312,
+        345.8199462890625,
+        153.80999755859375
+      ],
+      "left_indent": 300.0,
+      "width": 45.8199462890625,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "2018",
+      "bbox": [
+        475.0,
+        140.47000122070312,
+        495.0,
+        153.80999755859375
+      ],
+      "left_indent": 475.0,
+      "width": 20.0,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "8.18",
+      "bbox": [
+        510.0,
+        140.47000122070312,
+        527.5,
+        153.80999755859375
+      ],
+      "left_indent": 510.0,
+      "width": 17.5,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Graduation Specialization: Civil Engineering",
+      "bbox": [
+        50.0,
+        153.47000122070312,
+        230.82000732421875,
+        166.80999755859375
+      ],
+      "left_indent": 50.0,
+      "width": 180.82000732421875,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Intermediate",
+      "bbox": [
+        50.0,
+        166.47000122070312,
+        100.54000854492188,
+        179.80999755859375
+      ],
+      "left_indent": 50.0,
+      "width": 50.540008544921875,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "CBSE",
+      "bbox": [
+        150.0,
+        166.47000122070312,
+        175.00999450683594,
+        179.80999755859375
+      ],
+      "left_indent": 150.0,
+      "width": 25.009994506835938,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "K.V. NO-1 A.F.S. Tambaram",
+      "bbox": [
+        300.0,
+        166.47000122070312,
+        418.8699645996094,
+        179.80999755859375
+      ],
+      "left_indent": 300.0,
+      "width": 118.86996459960938,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "2014",
+      "bbox": [
+        475.0,
+        166.47000122070312,
+        495.0,
+        179.80999755859375
+      ],
+      "left_indent": 475.0,
+      "width": 20.0,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "95.40%",
+      "bbox": [
+        510.0,
+        166.47000122070312,
+        540.8300170898438,
+        179.80999755859375
+      ],
+      "left_indent": 510.0,
+      "width": 30.83001708984375,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Matriculation",
+      "bbox": [
+        50.0,
+        179.47000122070312,
+        104.44000244140625,
+        192.80999755859375
+      ],
+      "left_indent": 50.0,
+      "width": 54.44000244140625,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "CBSE",
+      "bbox": [
+        150.0,
+        179.47000122070312,
+        175.00999450683594,
+        192.80999755859375
+      ],
+      "left_indent": 150.0,
+      "width": 25.009994506835938,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "K.V. NO-1 A.F.S. Tambaram",
+      "bbox": [
+        300.0,
+        179.47000122070312,
+        418.8699645996094,
+        192.80999755859375
+      ],
+      "left_indent": 300.0,
+      "width": 118.86996459960938,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "2012",
+      "bbox": [
+        475.0,
+        179.47000122070312,
+        495.0,
+        192.80999755859375
+      ],
+      "left_indent": 475.0,
+      "width": 20.0,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "9.8",
+      "bbox": [
+        510.0,
+        179.47000122070312,
+        522.5,
+        192.80999755859375
+      ],
+      "left_indent": 510.0,
+      "width": 12.5,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "AREAS OF INTEREST",
+      "bbox": [
+        238.28399658203125,
+        198.56906127929688,
+        360.833984375,
+        208.5316619873047
+      ],
+      "left_indent": 238.28399658203125,
+      "width": 122.54998779296875,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "o Deep Learning",
+      "bbox": [
+        38.82099914550781,
+        219.87203979492188,
+        109.69493865966797,
+        229.8346405029297
+      ],
+      "left_indent": 38.82099914550781,
+      "width": 70.87393951416016,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "o Machine Learning",
+      "bbox": [
+        119.65753936767578,
+        219.87203979492188,
+        204.70822143554688,
+        229.8346405029297
+      ],
+      "left_indent": 119.65753936767578,
+      "width": 85.0506820678711,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "o Image Processing",
+      "bbox": [
+        214.6708221435547,
+        219.87203979492188,
+        298.51605224609375,
+        229.8346405029297
+      ],
+      "left_indent": 214.6708221435547,
+      "width": 83.84523010253906,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "o Computer Vision",
+      "bbox": [
+        309.6642150878906,
+        219.87203979492188,
+        392.4932556152344,
+        229.8346405029297
+      ],
+      "left_indent": 309.6642150878906,
+      "width": 82.82904052734375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "o Statistical Data Analysis",
+      "bbox": [
+        404.6675720214844,
+        219.87203979492188,
+        521.489013671875,
+        229.8346405029297
+      ],
+      "left_indent": 404.6675720214844,
+      "width": 116.82144165039062,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "o GIS",
+      "bbox": [
+        533.7031860351562,
+        219.87203979492188,
+        558.9484252929688,
+        229.8346405029297
+      ],
+      "left_indent": 533.7031860351562,
+      "width": 25.2452392578125,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "SCHOLASTIC ACHIEVEMENTS",
+      "bbox": [
+        210.6929931640625,
+        242.69503784179688,
+        384.5902099609375,
+        252.6576385498047
+      ],
+      "left_indent": 210.6929931640625,
+      "width": 173.897216796875,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "• Achieved 98.81 percentile in GATE Civil Engineering among 0.15 million+ candidates",
+      "bbox": [
+        48.78498840332031,
+        263.68804931640625,
+        455.1583557128906,
+        276.22100830078125
+      ],
+      "left_indent": 48.78498840332031,
+      "width": 406.3733673095703,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "[2018]",
+      "bbox": [
+        533.9080200195312,
+        265.5510559082031,
+        560.378662109375,
+        275.513671875
+      ],
+      "left_indent": 533.9080200195312,
+      "width": 26.47064208984375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "• Secured 98.9 percentile in JEE Main among 1.3 million+ candidates",
+      "bbox": [
+        48.7850341796875,
+        278.632080078125,
+        375.139404296875,
+        291.1650390625
+      ],
+      "left_indent": 48.7850341796875,
+      "width": 326.3543701171875,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "[2014]",
+      "bbox": [
+        533.9080810546875,
+        280.4950866699219,
+        560.3787231445312,
+        290.45770263671875
+      ],
+      "left_indent": 533.9080810546875,
+      "width": 26.47064208984375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "• Received an honorable acknowledgement for contribution in research about “the application of remote sensing in",
+      "bbox": [
+        48.78509521484375,
+        293.5760498046875,
+        561.4797973632812,
+        306.1090087890625
+      ],
+      "left_indent": 48.78509521484375,
+      "width": 512.6947021484375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "water security and agriculture for food security” supported by The National Science Foundation, USA [2020]",
+      "bbox": [
+        58.747093200683594,
+        307.3940734863281,
+        560.3787231445312,
+        317.356689453125
+      ],
+      "left_indent": 58.747093200683594,
+      "width": 501.63162994384766,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "• Honoured with appreciation letter from former MHRD minister Smriti Irani & Awardee of CSSS (Central",
+      "bbox": [
+        48.78509521484375,
+        320.47509765625,
+        561.4418334960938,
+        333.008056640625
+      ],
+      "left_indent": 48.78509521484375,
+      "width": 512.65673828125,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "Sector Scholarship Scheme) worth 50k rupees for being among top 0.1 percent in CBSE Board exam [2014]",
+      "bbox": [
+        58.7470703125,
+        334.2930908203125,
+        560.3787231445312,
+        344.2557067871094
+      ],
+      "left_indent": 58.7470703125,
+      "width": 501.63165283203125,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "• Centum holder in subject MATHEMATICS in CBSE Board Examination 2014",
+      "bbox": [
+        48.78509521484375,
+        347.37408447265625,
+        420.9787292480469,
+        359.90704345703125
+      ],
+      "left_indent": 48.78509521484375,
+      "width": 372.1936340332031,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "[2020]",
+      "bbox": [
+        533.9080810546875,
+        349.2370910644531,
+        560.3787231445312,
+        359.19970703125
+      ],
+      "left_indent": 533.9080810546875,
+      "width": 26.47064208984375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "• Awarded 3k cash prize for securing AIR 28 & 3rd in Chennai region in Junior Mathematics Olympiad [2012]",
+      "bbox": [
+        48.78509521484375,
+        362.3180847167969,
+        560.3787231445312,
+        374.8510437011719
+      ],
+      "left_indent": 48.78509521484375,
+      "width": 511.5936279296875,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "• Achieved 100% scholarship worth 1.6 Lakh rupees in ANTHE Exam conducted by AAKASH Institute [2012]",
+      "bbox": [
+        48.78509521484375,
+        377.2620849609375,
+        560.3787231445312,
+        389.7950439453125
+      ],
+      "left_indent": 48.78509521484375,
+      "width": 511.5936279296875,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "MAJOR PROJECTS",
+      "bbox": [
+        245.9219970703125,
+        402.83807373046875,
+        353.1694030761719,
+        412.8006896972656
+      ],
+      "left_indent": 245.9219970703125,
+      "width": 107.24740600585938,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "• M.Tech Project: Incremental learning for land use-land cover classiﬁcation",
+      "bbox": [
+        48.785003662109375,
+        423.8310546875,
+        434.46636962890625,
+        436.364013671875
+      ],
+      "left_indent": 48.785003662109375,
+      "width": 385.6813659667969,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "[July’20-Present]",
+      "bbox": [
+        486.9129943847656,
+        425.6940612792969,
+        560.397216796875,
+        435.65667724609375
+      ],
+      "left_indent": 486.9129943847656,
+      "width": 73.48422241210938,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "Guide: Prof. Biplab Banerjee",
+      "bbox": [
+        58.74700927734375,
+        441.6340637207031,
+        191.91990661621094,
+        451.5966796875
+      ],
+      "left_indent": 58.74700927734375,
+      "width": 133.1728973388672,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "o Performed semantic segmentation on UCMerced and AID datasets using U-net Architecture",
+      "bbox": [
+        58.74700927734375,
+        453.58905029296875,
+        490.6842041015625,
+        463.5516662597656
+      ],
+      "left_indent": 58.74700927734375,
+      "width": 431.93719482421875,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "o Developing an improved model using attention U-net for End to End Incremental learning to add new classes",
+      "bbox": [
+        58.74700927734375,
+        465.5450439453125,
+        561.4281616210938,
+        475.5076599121094
+      ],
+      "left_indent": 58.74700927734375,
+      "width": 502.68115234375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "o Implementing GAN based Generative Feature Replay with Feature distillation to avoid Catastrophic forgetting",
+      "bbox": [
+        58.747039794921875,
+        477.5000305175781,
+        561.2776489257812,
+        487.462646484375
+      ],
+      "left_indent": 58.747039794921875,
+      "width": 502.5306091308594,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "• Real-Time Hand Gesture Tracking Using Deep Learning",
+      "bbox": [
+        48.7850341796875,
+        493.2610168457031,
+        342.5914611816406,
+        505.7939758300781
+      ],
+      "left_indent": 48.7850341796875,
+      "width": 293.8064270019531,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "[April’20-June’20]",
+      "bbox": [
+        481.17303466796875,
+        495.1240234375,
+        560.3956909179688,
+        505.0866394042969
+      ],
+      "left_indent": 481.17303466796875,
+      "width": 79.22265625,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "Summer of Science 2020",
+      "bbox": [
+        58.747039794921875,
+        511.0640563964844,
+        166.06414794921875,
+        521.0266723632812
+      ],
+      "left_indent": 58.747039794921875,
+      "width": 107.31710815429688,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "o Designed a model using OpenCV to detect hand gestures using basic mathematical and geometrical concepts",
+      "bbox": [
+        58.747039794921875,
+        523.02001953125,
+        549.5637817382812,
+        532.9826049804688
+      ],
+      "left_indent": 58.747039794921875,
+      "width": 490.8167419433594,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "o Developed a CNN model with TensorFlow using leapGestRecog dataset and achieved an accuracy of 95%",
+      "bbox": [
+        58.747039794921875,
+        534.9750366210938,
+        552.9552612304688,
+        544.9376220703125
+      ],
+      "left_indent": 58.747039794921875,
+      "width": 494.2082214355469,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "o Fine-tuned VGG-16 model using Transfer Learning concept to achieve 99% detection accuracy",
+      "bbox": [
+        58.747039794921875,
+        546.9300537109375,
+        500.3526611328125,
+        556.8926391601562
+      ],
+      "left_indent": 58.747039794921875,
+      "width": 441.6056213378906,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "• Show, Attend and Tell for Image to speech",
+      "bbox": [
+        48.785064697265625,
+        562.6909790039062,
+        274.63665771484375,
+        575.2239379882812
+      ],
+      "left_indent": 48.785064697265625,
+      "width": 225.85159301757812,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "[Aug’20-Present]",
+      "bbox": [
+        487.7930603027344,
+        564.5540161132812,
+        560.380615234375,
+        574.5166015625
+      ],
+      "left_indent": 487.7930603027344,
+      "width": 72.58755493164062,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "Guide: Prof. Biplab Banerjee",
+      "bbox": [
+        58.7470703125,
+        580.4949951171875,
+        191.92095947265625,
+        590.4575805664062
+      ],
+      "left_indent": 58.7470703125,
+      "width": 133.17388916015625,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "o Implemented Show, Attend and tell approach using InceptionV3 + Encoder-Decoder architecture",
+      "bbox": [
+        58.747066497802734,
+        592.4500122070312,
+        529.8465576171875,
+        602.41259765625
+      ],
+      "left_indent": 58.747066497802734,
+      "width": 471.09949111938477,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "o Output the generated caption in speech form to give the context of the scene using Google text to speech engine",
+      "bbox": [
+        58.7470703125,
+        604.405029296875,
+        561.4381713867188,
+        614.3676147460938
+      ],
+      "left_indent": 58.7470703125,
+      "width": 502.69110107421875,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "o Developing a Visual question answering System using the input image for Attention-based querying",
+      "bbox": [
+        58.7470703125,
+        616.3599853515625,
+        542.212646484375,
+        626.3225708007812
+      ],
+      "left_indent": 58.7470703125,
+      "width": 483.465576171875,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "• M.Tech Seminar: Context-aware CNN for Object Detection",
+      "bbox": [
+        48.785064697265625,
+        632.1219482421875,
+        360.0061340332031,
+        644.6549072265625
+      ],
+      "left_indent": 48.785064697265625,
+      "width": 311.2210693359375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "[Feb’20-June’20]",
+      "bbox": [
+        488.5680847167969,
+        633.9849853515625,
+        560.3885498046875,
+        643.9475708007812
+      ],
+      "left_indent": 488.5680847167969,
+      "width": 71.82046508789062,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "Guide: Guide- Prof. B. K. Mohan",
+      "bbox": [
+        58.7470703125,
+        649.925048828125,
+        213.4202423095703,
+        659.8876342773438
+      ],
+      "left_indent": 58.7470703125,
+      "width": 154.6731719970703,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "o Performed extensive literature study on diﬀerent Object detection algorithms for satellite images",
+      "bbox": [
+        58.747066497802734,
+        661.8800048828125,
+        508.5230407714844,
+        671.8425903320312
+      ],
+      "left_indent": 58.747066497802734,
+      "width": 449.77597427368164,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "o Achieved improved performance in Context-aware CNN over RCNN, Fast-RCNN and Faster-RCNN",
+      "bbox": [
+        58.7470703125,
+        673.8350219726562,
+        544.9627075195312,
+        683.797607421875
+      ],
+      "left_indent": 58.7470703125,
+      "width": 486.21563720703125,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "o Utilized Context ROI Mining Layer over Faster R-CNN Architecture to achieve enhanced detection accuracy",
+      "bbox": [
+        58.7470703125,
+        685.7900390625,
+        557.0386962890625,
+        695.7526245117188
+      ],
+      "left_indent": 58.7470703125,
+      "width": 498.2916259765625,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "• B.Tech Project: Accessibility Analysis of Primary Schools Using Geo-spatial Techniques",
+      "bbox": [
+        48.78507995605469,
+        701.552001953125,
+        502.15240478515625,
+        714.0849609375
+      ],
+      "left_indent": 48.78507995605469,
+      "width": 453.36732482910156,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "Guide: Prof. Nisha Radhakrishnan",
+      "bbox": [
+        58.74707794189453,
+        719.3550415039062,
+        215.4626007080078,
+        729.317626953125
+      ],
+      "left_indent": 58.74707794189453,
+      "width": 156.71552276611328,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "[Jan’18-May’18]",
+      "bbox": [
+        490.46026611328125,
+        719.3550415039062,
+        560.3877563476562,
+        729.317626953125
+      ],
+      "left_indent": 490.46026611328125,
+      "width": 69.927490234375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "o Conducted an extensive ﬁeld survey from students of 144 government primary schools across Trichy district",
+      "bbox": [
+        58.7470817565918,
+        731.31005859375,
+        540.1309204101562,
+        741.2726440429688
+      ],
+      "left_indent": 58.7470817565918,
+      "width": 481.38383865356445,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "o Calculated Spatial Accessibility Index using ArcGIS & Three-step ﬂoating catchment area model",
+      "bbox": [
+        58.747100830078125,
+        743.2660522460938,
+        537.16845703125,
+        753.2286376953125
+      ],
+      "left_indent": 58.747100830078125,
+      "width": 478.4213562011719,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "o Generated SPAI Thematic map of schools to identify the areas deprived of primary educational facilities",
+      "bbox": [
+        58.747100830078125,
+        755.2210083007812,
+        538.3571166992188,
+        765.18359375
+      ],
+      "left_indent": 58.747100830078125,
+      "width": 479.6100158691406,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "COURSE PROJECTS",
+      "bbox": [
+        243.16200256347656,
+        51.12204360961914,
+        355.9486083984375,
+        61.08464431762695
+      ],
+      "left_indent": 243.16200256347656,
+      "width": 112.78660583496094,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• One-shot learning for Human face mask detection for COVID-19",
+      "bbox": [
+        48.785003662109375,
+        69.81806182861328,
+        384.334716796875,
+        82.35101318359375
+      ],
+      "left_indent": 48.785003662109375,
+      "width": 335.5497131347656,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "o Simpliﬁed the problem statement as a Binary Classiﬁcation problem and identiﬁed anchor pairs",
+      "bbox": [
+        58.74700927734375,
+        83.6360855102539,
+        498.5996398925781,
+        93.59867858886719
+      ],
+      "left_indent": 58.74700927734375,
+      "width": 439.8526306152344,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "o Reduced training time signiﬁcantly by deploying Siamese Network & achieved accuracy of 77% with triplet loss",
+      "bbox": [
+        58.747039794921875,
+        95.59110260009766,
+        561.445556640625,
+        105.55369567871094
+      ],
+      "left_indent": 58.747039794921875,
+      "width": 502.6985168457031,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Gold Prospectivity using fuzzy logic and Artiﬁcial Neural network",
+      "bbox": [
+        48.785064697265625,
+        111.09809112548828,
+        392.5538330078125,
+        123.63104248046875
+      ],
+      "left_indent": 48.785064697265625,
+      "width": 343.7687683105469,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "o Generated prospectively maps of gold reserve of Arunta region from its geochemical properties in ArcMap",
+      "bbox": [
+        58.7470703125,
+        124.9161148071289,
+        536.2061157226562,
+        134.8787078857422
+      ],
+      "left_indent": 58.7470703125,
+      "width": 477.45904541015625,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "o Predicted optimum location of gold deposits with an accuracy of 75% using Artiﬁcial Neural Network",
+      "bbox": [
+        58.7470703125,
+        136.87112426757812,
+        533.1432495117188,
+        146.83372497558594
+      ],
+      "left_indent": 58.7470703125,
+      "width": 474.39617919921875,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "o Generated gold prospectivity map using Fuzzy Inference System in ArcGIS & obtained accuracy of 80%",
+      "bbox": [
+        58.747039794921875,
+        148.82614135742188,
+        545.102294921875,
+        158.7887420654297
+      ],
+      "left_indent": 58.747039794921875,
+      "width": 486.3552551269531,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• DNA sequence classiﬁer using machine learning",
+      "bbox": [
+        48.785064697265625,
+        164.3331298828125,
+        298.3675231933594,
+        176.8660888671875
+      ],
+      "left_indent": 48.785064697265625,
+      "width": 249.58245849609375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "o Developed Multinomial Naive Bayes classiﬁer from scratch using Bag-of-words language model",
+      "bbox": [
+        58.7470703125,
+        178.15115356445312,
+        512.3495483398438,
+        188.11375427246094
+      ],
+      "left_indent": 58.7470703125,
+      "width": 453.60247802734375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "o Achieved genome accuracy of 98.4% on human, 99.35% on chimpanzee and 92.56% on dog datasets",
+      "bbox": [
+        58.7470703125,
+        190.10617065429688,
+        514.5430908203125,
+        200.0687713623047
+      ],
+      "left_indent": 58.7470703125,
+      "width": 455.7960205078125,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Flight Delay Prediction on Bureau of Transportation Statistics Data using Julia",
+      "bbox": [
+        48.785064697265625,
+        205.6121826171875,
+        460.777587890625,
+        218.1451416015625
+      ],
+      "left_indent": 48.785064697265625,
+      "width": 411.9925231933594,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "o Analyzed underlying trends in Flight delay based on visualization & EDA (Exploratory Data Analysis)",
+      "bbox": [
+        58.7470703125,
+        219.43020629882812,
+        547.9159545898438,
+        229.39280700683594
+      ],
+      "left_indent": 58.7470703125,
+      "width": 489.16888427734375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "o Increased overall accuracy by 2.16 % by performing feature engineering to 90.68 % using Logistic Regression",
+      "bbox": [
+        58.7470703125,
+        231.38619995117188,
+        561.430908203125,
+        241.3488006591797
+      ],
+      "left_indent": 58.7470703125,
+      "width": 502.683837890625,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Statistical analysis of CWC streamﬂow Time series data over Ganga Basin",
+      "bbox": [
+        48.78509521484375,
+        246.94219970703125,
+        433.80908203125,
+        259.47515869140625
+      ],
+      "left_indent": 48.78509521484375,
+      "width": 385.02398681640625,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "o Preprocessed and formatted Time series data of over 45+ years and 20+ gauge stations in desired structure",
+      "bbox": [
+        58.747100830078125,
+        260.7602233886719,
+        554.0597534179688,
+        270.72283935546875
+      ],
+      "left_indent": 58.747100830078125,
+      "width": 495.3126525878906,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "o Utilized MATLAB & Numpy, Pandas, Matplotlib libraries of python for analysis, visualization of data",
+      "bbox": [
+        58.7470703125,
+        272.7152404785156,
+        539.2257690429688,
+        282.6778564453125
+      ],
+      "left_indent": 58.7470703125,
+      "width": 480.47869873046875,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• House pricing prediction using Linear/Non-linear and Regularized Regression",
+      "bbox": [
+        48.78509521484375,
+        288.22125244140625,
+        450.1177978515625,
+        300.75421142578125
+      ],
+      "left_indent": 48.78509521484375,
+      "width": 401.33270263671875,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "o Implemented Linear , Polynomial , Ridge and LASSO Regression model and compared their performance",
+      "bbox": [
+        58.747100830078125,
+        302.0402526855469,
+        552.0286254882812,
+        312.00286865234375
+      ],
+      "left_indent": 58.747100830078125,
+      "width": 493.2815246582031,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "o Achieved maximum R-square score of 0.5392 and minimum RMSE with LASSO regression in Julia",
+      "bbox": [
+        58.74713134765625,
+        313.9952697753906,
+        529.76318359375,
+        323.9578857421875
+      ],
+      "left_indent": 58.74713134765625,
+      "width": 471.01605224609375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Detection of Line features in images using Hough Transform",
+      "bbox": [
+        48.785125732421875,
+        329.5012512207031,
+        362.7458190917969,
+        342.0342102050781
+      ],
+      "left_indent": 48.785125732421875,
+      "width": 313.960693359375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "o Implemented feature extraction technique of Hough Transform from scratch using Matlab over Sobel detected edge",
+      "bbox": [
+        58.74713134765625,
+        343.3192443847656,
+        561.4698486328125,
+        353.2818603515625
+      ],
+      "left_indent": 58.74713134765625,
+      "width": 502.72271728515625,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "o Achieved comparable result with inbuilt function and developed a Graphics User Interface for this operation",
+      "bbox": [
+        58.74713134765625,
+        355.27423095703125,
+        561.4457397460938,
+        365.2368469238281
+      ],
+      "left_indent": 58.74713134765625,
+      "width": 502.6986083984375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Edge Detection package for Satellite images",
+      "bbox": [
+        48.78515625,
+        370.7812194824219,
+        278.552001953125,
+        383.3141784667969
+      ],
+      "left_indent": 48.78515625,
+      "width": 229.766845703125,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "o Implemented Canny Edge Detector from scratch in MATLAB and achieved similar result as inbuilt function",
+      "bbox": [
+        58.747161865234375,
+        384.5992126464844,
+        559.2964477539062,
+        394.56182861328125
+      ],
+      "left_indent": 58.747161865234375,
+      "width": 500.5492858886719,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "o Registered improvement over Sobel operator using NMS, Double threshold, Edge Tracking by Hysteresis",
+      "bbox": [
+        58.747161865234375,
+        396.55419921875,
+        532.3275146484375,
+        406.5168151855469
+      ],
+      "left_indent": 58.747161865234375,
+      "width": 473.5803527832031,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Deploying Solar Panel in IIT Bombay using GIS techniques",
+      "bbox": [
+        48.78515625,
+        412.0601806640625,
+        358.78076171875,
+        424.5931396484375
+      ],
+      "left_indent": 48.78515625,
+      "width": 309.99560546875,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "o Interpolated Irradiance surface using IDW of IITB campus using Solar DATA from PVGIS Database",
+      "bbox": [
+        58.747161865234375,
+        425.8791809082031,
+        523.56103515625,
+        435.841796875
+      ],
+      "left_indent": 58.747161865234375,
+      "width": 464.8138732910156,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "o Conducted cost-beneﬁt analysis of solar data in diﬀerent PV Systems to achieve optimum PV system",
+      "bbox": [
+        58.747161865234375,
+        437.83416748046875,
+        528.7606811523438,
+        447.7967834472656
+      ],
+      "left_indent": 58.747161865234375,
+      "width": 470.0135192871094,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "o Developed 3-D model in AUTOCAD of IITB campus, simulating the deployment of SOLAR grid",
+      "bbox": [
+        58.7471923828125,
+        449.7891540527344,
+        517.1389770507812,
+        459.75177001953125
+      ],
+      "left_indent": 58.7471923828125,
+      "width": 458.39178466796875,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "POSITIONS OF RESPONSIBILITY",
+      "bbox": [
+        204.58700561523438,
+        477.8360595703125,
+        390.4093933105469,
+        487.7986755371094
+      ],
+      "left_indent": 204.58700561523438,
+      "width": 185.8223876953125,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Teaching Assistant-CSRE, IIT Bombay",
+      "bbox": [
+        48.785003662109375,
+        496.53204345703125,
+        255.876953125,
+        509.06500244140625
+      ],
+      "left_indent": 48.785003662109375,
+      "width": 207.09194946289062,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "o Assisting in instructing a niche group of 113+ students by holding tutorials and helping with project realization",
+      "bbox": [
+        58.74700927734375,
+        510.3500671386719,
+        558.3153076171875,
+        520.3126831054688
+      ],
+      "left_indent": 58.74700927734375,
+      "width": 499.56829833984375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Department Coordinator CSRE ISCP 2020-21",
+      "bbox": [
+        48.785003662109375,
+        525.8560180664062,
+        291.4035339355469,
+        538.3889770507812
+      ],
+      "left_indent": 48.785003662109375,
+      "width": 242.6185302734375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "o Worked in a team of 177 people and coordinated the e-orientation at the department level for 30 new entrants",
+      "bbox": [
+        58.74700927734375,
+        539.675048828125,
+        561.4389038085938,
+        549.6376342773438
+      ],
+      "left_indent": 58.74700927734375,
+      "width": 502.69189453125,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "o Interviewed candidates to select a team of SCs & leading them to mentor 31 students throughout the year",
+      "bbox": [
+        58.74700927734375,
+        551.6300048828125,
+        553.5575561523438,
+        561.5925903320312
+      ],
+      "left_indent": 58.74700927734375,
+      "width": 494.810546875,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "o Compiled & Developed department’s Handbook with SCs that serves as informative manual to PG freshmen",
+      "bbox": [
+        58.746978759765625,
+        563.5850219726562,
+        558.0004272460938,
+        573.547607421875
+      ],
+      "left_indent": 58.746978759765625,
+      "width": 499.2534484863281,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "o Mentoring 8 students throughout the year helping them on academic as well as non-academic fronts",
+      "bbox": [
+        58.746978759765625,
+        575.5400390625,
+        518.4471435546875,
+        585.5026245117188
+      ],
+      "left_indent": 58.746978759765625,
+      "width": 459.7001647949219,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Volunteer for helping students from TEQIP-III institutions prepare for GATE Exam [Aug’20-Present]",
+      "bbox": [
+        48.78497314453125,
+        591.0459594726562,
+        560.3805541992188,
+        603.5789184570312
+      ],
+      "left_indent": 48.78497314453125,
+      "width": 511.5955810546875,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "o To help the UG students from TEQIP-III Institutions in Bihar, learn fundamental concepts & prepare for GATE",
+      "bbox": [
+        58.746978759765625,
+        604.864990234375,
+        561.4220581054688,
+        614.8275756835938
+      ],
+      "left_indent": 58.746978759765625,
+      "width": 502.6750793457031,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "o To encourage students to appear for GATE and make them aware of diﬀerent opportunities after GATE qualiﬁcation",
+      "bbox": [
+        58.7469482421875,
+        616.8200073242188,
+        561.4896240234375,
+        626.7825927734375
+      ],
+      "left_indent": 58.7469482421875,
+      "width": 502.74267578125,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "KEY RELEVANT COURSES",
+      "bbox": [
+        224.10800170898438,
+        637.68310546875,
+        375.0015869140625,
+        647.6456909179688
+      ],
+      "left_indent": 224.10800170898438,
+      "width": 150.89358520507812,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Machine Learning for Remote Sensing II (Transfer learning,R-CNN family,YOLO ) *",
+      "bbox": [
+        48.785003662109375,
+        656.3790283203125,
+        454.0022888183594,
+        668.9119873046875
+      ],
+      "left_indent": 48.785003662109375,
+      "width": 405.21728515625,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Machine Learning for Remote Sensing I (Linear Regression,Decision Trees,KNN,SVM )",
+      "bbox": [
+        48.785003662109375,
+        671.0680541992188,
+        468.6372985839844,
+        683.6010131835938
+      ],
+      "left_indent": 48.785003662109375,
+      "width": 419.852294921875,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Advanced Methods in Satellite Image Processing (Image classiﬁcation, change detection, ﬁlters)",
+      "bbox": [
+        48.78501892089844,
+        685.757080078125,
+        507.65655517578125,
+        698.2900390625
+      ],
+      "left_indent": 48.78501892089844,
+      "width": 458.8715362548828,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Principles of Geographic Information System (GIS applications,Spatial data ,Interpolation)",
+      "bbox": [
+        48.785003662109375,
+        700.446044921875,
+        482.691162109375,
+        712.97900390625
+      ],
+      "left_indent": 48.785003662109375,
+      "width": 433.9061584472656,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Geo-spatial Predictive Modelling ( Neuro-fuzzy inference system,SVM,Neural Nets, CNN,SVM) *",
+      "bbox": [
+        48.78498840332031,
+        715.134033203125,
+        500.7463073730469,
+        727.6669921875
+      ],
+      "left_indent": 48.78498840332031,
+      "width": 451.96131896972656,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "TECHNICAL SKILLS",
+      "bbox": [
+        242.781005859375,
+        736.4981079101562,
+        356.31475830078125,
+        746.460693359375
+      ],
+      "left_indent": 242.781005859375,
+      "width": 113.53375244140625,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Programming Languages : Python, R, SQL, MATLAB, C++, C, Julia",
+      "bbox": [
+        48.785003662109375,
+        756.195068359375,
+        384.8031311035156,
+        768.72802734375
+      ],
+      "left_indent": 48.785003662109375,
+      "width": 336.01812744140625,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Libraries/Frameworks : Keras, Scikit-Learn, PyTorch, TensorFlow,",
+      "bbox": [
+        48.785003662109375,
+        770.884033203125,
+        366.9515380859375,
+        783.4169921875
+      ],
+      "left_indent": 48.785003662109375,
+      "width": 318.1665344238281,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Software : ESRI ArcGIS Desktop, QGIS, ERDAS Imagine, ENVI, LATEX, Git",
+      "bbox": [
+        48.78498840332031,
+        785.5730590820312,
+        413.29718017578125,
+        798.1060180664062
+      ],
+      "left_indent": 48.78498840332031,
+      "width": 364.51219177246094,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "Scholastic achievements and extracurricular activities are not verified by the Placement Cell",
+      "bbox": [
+        130.65199279785156,
+        824.3309936523438,
+        465.8572998046875,
+        835.3200073242188
+      ],
+      "left_indent": 130.65199279785156,
+      "width": 335.20530700683594,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "[July’20-Aug’20]",
+      "bbox": [
+        489.1930236816406,
+        71.68106842041016,
+        560.395751953125,
+        81.64366149902344
+      ],
+      "left_indent": 489.1930236816406,
+      "width": 71.20272827148438,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "[Feb’20-May’20]",
+      "bbox": [
+        490.466064453125,
+        112.96109771728516,
+        560.3935546875,
+        122.92369079589844
+      ],
+      "left_indent": 490.466064453125,
+      "width": 69.927490234375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "[Feb’20-May’20]",
+      "bbox": [
+        490.466064453125,
+        166.19613647460938,
+        560.3935546875,
+        176.1587371826172
+      ],
+      "left_indent": 490.466064453125,
+      "width": 69.927490234375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "[Mar’20-Apr’20]",
+      "bbox": [
+        489.30908203125,
+        207.47518920898438,
+        560.3922729492188,
+        217.4377899169922
+      ],
+      "left_indent": 489.30908203125,
+      "width": 71.08319091796875,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "[July’19-Apr’20]",
+      "bbox": [
+        489.5751037597656,
+        248.80520629882812,
+        560.3992309570312,
+        258.767822265625
+      ],
+      "left_indent": 489.5751037597656,
+      "width": 70.82412719726562,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "[Jan’20–Feb’20]",
+      "bbox": [
+        492.8960876464844,
+        290.0842590332031,
+        560.3828125,
+        300.046875
+      ],
+      "left_indent": 492.8960876464844,
+      "width": 67.48672485351562,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "[Aug’19-Nov’19]",
+      "bbox": [
+        490.0731201171875,
+        331.3642578125,
+        560.3792114257812,
+        341.3268737792969
+      ],
+      "left_indent": 490.0731201171875,
+      "width": 70.30609130859375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "[Feb’20-May’20]",
+      "bbox": [
+        490.4661560058594,
+        372.64422607421875,
+        560.3936767578125,
+        382.6068420410156
+      ],
+      "left_indent": 490.4661560058594,
+      "width": 69.92752075195312,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "[Aug’19-Nov’19]",
+      "bbox": [
+        490.0731506347656,
+        413.9231872558594,
+        560.3792724609375,
+        423.88580322265625
+      ],
+      "left_indent": 490.0731506347656,
+      "width": 70.30612182617188,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "[July’20-Present]",
+      "bbox": [
+        486.9129943847656,
+        498.3950500488281,
+        560.397216796875,
+        508.357666015625
+      ],
+      "left_indent": 486.9129943847656,
+      "width": 73.48422241210938,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "[May’20-Present]",
+      "bbox": [
+        486.0110168457031,
+        527.7190551757812,
+        560.391845703125,
+        537.681640625
+      ],
+      "left_indent": 486.0110168457031,
+      "width": 74.38082885742188,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "*audit",
+      "bbox": [
+        542.47900390625,
+        721.6280517578125,
+        561.4378051757812,
+        726.6093139648438
+      ],
+      "left_indent": 542.47900390625,
+      "width": 18.95880126953125,
+      "is_bold": false,
+      "font_size": 4.981299877166748
+    }
+  ],
+  "text_per_page": [
+    "Abhishek Kumar Ranjan\n193310005\nGeoinformatics and Natural Resources Engineering\nM.Tech.\nIndian Institute of Technology, Bombay\nGender: Male\nDOB: 18-07-1996\nExamination\nUniversity\nInstitute\nYear\nCPI / %\nPost Graduation\nIIT Bombay\nIIT Bombay\n2021\n9.5\nGraduation\nNIT Trichy\nNIT Trichy\n2018\n8.18\nGraduation Specialization: Civil Engineering\nIntermediate\nCBSE\nK.V. NO-1 A.F.S. Tambaram\n2014\n95.40%\nMatriculation\nCBSE\nK.V. NO-1 A.F.S. Tambaram\n2012\n9.8\nAREAS OF INTEREST\no Deep Learning\no Machine Learning\no Image Processing\no Computer Vision\no Statistical Data Analysis\no GIS\nSCHOLASTIC ACHIEVEMENTS\n• Achieved 98.81 percentile in GATE Civil Engineering among 0.15 million+ candidates\n[2018]\n• Secured 98.9 percentile in JEE Main among 1.3 million+ candidates\n[2014]\n• Received an honorable acknowledgement for contribution in research about “the application of remote sensing in\nwater security and agriculture for food security” supported by The National Science Foundation, USA [2020]\n• Honoured with appreciation letter from former MHRD minister Smriti Irani & Awardee of CSSS (Central\nSector Scholarship Scheme) worth 50k rupees for being among top 0.1 percent in CBSE Board exam [2014]\n• Centum holder in subject MATHEMATICS in CBSE Board Examination 2014\n[2020]\n• Awarded 3k cash prize for securing AIR 28 & 3rd in Chennai region in Junior Mathematics Olympiad [2012]\n• Achieved 100% scholarship worth 1.6 Lakh rupees in ANTHE Exam conducted by AAKASH Institute [2012]\nMAJOR PROJECTS\n• M.Tech Project: Incremental learning for land use-land cover classiﬁcation\n[July’20-Present]\nGuide: Prof. Biplab Banerjee\no Performed semantic segmentation on UCMerced and AID datasets using U-net Architecture\no Developing an improved model using attention U-net for End to End Incremental learning to add new classes\no Implementing GAN based Generative Feature Replay with Feature distillation to avoid Catastrophic forgetting\n• Real-Time Hand Gesture Tracking Using Deep Learning\n[April’20-June’20]\nSummer of Science 2020\no Designed a model using OpenCV to detect hand gestures using basic mathematical and geometrical concepts\no Developed a CNN model with TensorFlow using leapGestRecog dataset and achieved an accuracy of 95%\no Fine-tuned VGG-16 model using Transfer Learning concept to achieve 99% detection accuracy\n• Show, Attend and Tell for Image to speech\n[Aug’20-Present]\nGuide: Prof. Biplab Banerjee\no Implemented Show, Attend and tell approach using InceptionV3 + Encoder-Decoder architecture\no Output the generated caption in speech form to give the context of the scene using Google text to speech engine\no Developing a Visual question answering System using the input image for Attention-based querying\n• M.Tech Seminar: Context-aware CNN for Object Detection\n[Feb’20-June’20]\nGuide: Guide- Prof. B. K. Mohan\no Performed extensive literature study on diﬀerent Object detection algorithms for satellite images\no Achieved improved performance in Context-aware CNN over RCNN, Fast-RCNN and Faster-RCNN\no Utilized Context ROI Mining Layer over Faster R-CNN Architecture to achieve enhanced detection accuracy\n• B.Tech Project: Accessibility Analysis of Primary Schools Using Geo-spatial Techniques\nGuide: Prof. Nisha Radhakrishnan\n[Jan’18-May’18]\no Conducted an extensive ﬁeld survey from students of 144 government primary schools across Trichy district\no Calculated Spatial Accessibility Index using ArcGIS & Three-step ﬂoating catchment area model\no Generated SPAI Thematic map of schools to identify the areas deprived of primary educational facilities",
+    "COURSE PROJECTS\n• One-shot learning for Human face mask detection for COVID-19\no Simpliﬁed the problem statement as a Binary Classiﬁcation problem and identiﬁed anchor pairs\no Reduced training time signiﬁcantly by deploying Siamese Network & achieved accuracy of 77% with triplet loss\n• Gold Prospectivity using fuzzy logic and Artiﬁcial Neural network\no Generated prospectively maps of gold reserve of Arunta region from its geochemical properties in ArcMap\no Predicted optimum location of gold deposits with an accuracy of 75% using Artiﬁcial Neural Network\no Generated gold prospectivity map using Fuzzy Inference System in ArcGIS & obtained accuracy of 80%\n• DNA sequence classiﬁer using machine learning\no Developed Multinomial Naive Bayes classiﬁer from scratch using Bag-of-words language model\no Achieved genome accuracy of 98.4% on human, 99.35% on chimpanzee and 92.56% on dog datasets\n• Flight Delay Prediction on Bureau of Transportation Statistics Data using Julia\no Analyzed underlying trends in Flight delay based on visualization & EDA (Exploratory Data Analysis)\no Increased overall accuracy by 2.16 % by performing feature engineering to 90.68 % using Logistic Regression\n• Statistical analysis of CWC streamﬂow Time series data over Ganga Basin\no Preprocessed and formatted Time series data of over 45+ years and 20+ gauge stations in desired structure\no Utilized MATLAB & Numpy, Pandas, Matplotlib libraries of python for analysis, visualization of data\n• House pricing prediction using Linear/Non-linear and Regularized Regression\no Implemented Linear , Polynomial , Ridge and LASSO Regression model and compared their performance\no Achieved maximum R-square score of 0.5392 and minimum RMSE with LASSO regression in Julia\n• Detection of Line features in images using Hough Transform\no Implemented feature extraction technique of Hough Transform from scratch using Matlab over Sobel detected edge\no Achieved comparable result with inbuilt function and developed a Graphics User Interface for this operation\n• Edge Detection package for Satellite images\no Implemented Canny Edge Detector from scratch in MATLAB and achieved similar result as inbuilt function\no Registered improvement over Sobel operator using NMS, Double threshold, Edge Tracking by Hysteresis\n• Deploying Solar Panel in IIT Bombay using GIS techniques\no Interpolated Irradiance surface using IDW of IITB campus using Solar DATA from PVGIS Database\no Conducted cost-beneﬁt analysis of solar data in diﬀerent PV Systems to achieve optimum PV system\no Developed 3-D model in AUTOCAD of IITB campus, simulating the deployment of SOLAR grid\nPOSITIONS OF RESPONSIBILITY\n• Teaching Assistant-CSRE, IIT Bombay\no Assisting in instructing a niche group of 113+ students by holding tutorials and helping with project realization\n• Department Coordinator CSRE ISCP 2020-21\no Worked in a team of 177 people and coordinated the e-orientation at the department level for 30 new entrants\no Interviewed candidates to select a team of SCs & leading them to mentor 31 students throughout the year\no Compiled & Developed department’s Handbook with SCs that serves as informative manual to PG freshmen\no Mentoring 8 students throughout the year helping them on academic as well as non-academic fronts\n• Volunteer for helping students from TEQIP-III institutions prepare for GATE Exam [Aug’20-Present]\no To help the UG students from TEQIP-III Institutions in Bihar, learn fundamental concepts & prepare for GATE\no To encourage students to appear for GATE and make them aware of diﬀerent opportunities after GATE qualiﬁcation\nKEY RELEVANT COURSES\n• Machine Learning for Remote Sensing II (Transfer learning,R-CNN family,YOLO ) *\n• Machine Learning for Remote Sensing I (Linear Regression,Decision Trees,KNN,SVM )\n• Advanced Methods in Satellite Image Processing (Image classiﬁcation, change detection, ﬁlters)\n• Principles of Geographic Information System (GIS applications,Spatial data ,Interpolation)\n• Geo-spatial Predictive Modelling ( Neuro-fuzzy inference system,SVM,Neural Nets, CNN,SVM) *\nTECHNICAL SKILLS\n• Programming Languages : Python, R, SQL, MATLAB, C++, C, Julia\n• Libraries/Frameworks : Keras, Scikit-Learn, PyTorch, TensorFlow,\n• Software : ESRI ArcGIS Desktop, QGIS, ERDAS Imagine, ENVI, LATEX, Git\nScholastic achievements and extracurricular activities are not verified by the Placement Cell\n[July’20-Aug’20]\n[Feb’20-May’20]\n[Feb’20-May’20]\n[Mar’20-Apr’20]\n[July’19-Apr’20]\n[Jan’20–Feb’20]\n[Aug’19-Nov’19]\n[Feb’20-May’20]\n[Aug’19-Nov’19]\n[July’20-Present]\n[May’20-Present]\n*audit"
+  ],
+  "text_all": "Abhishek Kumar Ranjan\n193310005\nGeoinformatics and Natural Resources Engineering\nM.Tech.\nIndian Institute of Technology, Bombay\nGender: Male\nDOB: 18-07-1996\nExamination\nUniversity\nInstitute\nYear\nCPI / %\nPost Graduation\nIIT Bombay\nIIT Bombay\n2021\n9.5\nGraduation\nNIT Trichy\nNIT Trichy\n2018\n8.18\nGraduation Specialization: Civil Engineering\nIntermediate\nCBSE\nK.V. NO-1 A.F.S. Tambaram\n2014\n95.40%\nMatriculation\nCBSE\nK.V. NO-1 A.F.S. Tambaram\n2012\n9.8\nAREAS OF INTEREST\no Deep Learning\no Machine Learning\no Image Processing\no Computer Vision\no Statistical Data Analysis\no GIS\nSCHOLASTIC ACHIEVEMENTS\n• Achieved 98.81 percentile in GATE Civil Engineering among 0.15 million+ candidates\n[2018]\n• Secured 98.9 percentile in JEE Main among 1.3 million+ candidates\n[2014]\n• Received an honorable acknowledgement for contribution in research about “the application of remote sensing in\nwater security and agriculture for food security” supported by The National Science Foundation, USA [2020]\n• Honoured with appreciation letter from former MHRD minister Smriti Irani & Awardee of CSSS (Central\nSector Scholarship Scheme) worth 50k rupees for being among top 0.1 percent in CBSE Board exam [2014]\n• Centum holder in subject MATHEMATICS in CBSE Board Examination 2014\n[2020]\n• Awarded 3k cash prize for securing AIR 28 & 3rd in Chennai region in Junior Mathematics Olympiad [2012]\n• Achieved 100% scholarship worth 1.6 Lakh rupees in ANTHE Exam conducted by AAKASH Institute [2012]\nMAJOR PROJECTS\n• M.Tech Project: Incremental learning for land use-land cover classiﬁcation\n[July’20-Present]\nGuide: Prof. Biplab Banerjee\no Performed semantic segmentation on UCMerced and AID datasets using U-net Architecture\no Developing an improved model using attention U-net for End to End Incremental learning to add new classes\no Implementing GAN based Generative Feature Replay with Feature distillation to avoid Catastrophic forgetting\n• Real-Time Hand Gesture Tracking Using Deep Learning\n[April’20-June’20]\nSummer of Science 2020\no Designed a model using OpenCV to detect hand gestures using basic mathematical and geometrical concepts\no Developed a CNN model with TensorFlow using leapGestRecog dataset and achieved an accuracy of 95%\no Fine-tuned VGG-16 model using Transfer Learning concept to achieve 99% detection accuracy\n• Show, Attend and Tell for Image to speech\n[Aug’20-Present]\nGuide: Prof. Biplab Banerjee\no Implemented Show, Attend and tell approach using InceptionV3 + Encoder-Decoder architecture\no Output the generated caption in speech form to give the context of the scene using Google text to speech engine\no Developing a Visual question answering System using the input image for Attention-based querying\n• M.Tech Seminar: Context-aware CNN for Object Detection\n[Feb’20-June’20]\nGuide: Guide- Prof. B. K. Mohan\no Performed extensive literature study on diﬀerent Object detection algorithms for satellite images\no Achieved improved performance in Context-aware CNN over RCNN, Fast-RCNN and Faster-RCNN\no Utilized Context ROI Mining Layer over Faster R-CNN Architecture to achieve enhanced detection accuracy\n• B.Tech Project: Accessibility Analysis of Primary Schools Using Geo-spatial Techniques\nGuide: Prof. Nisha Radhakrishnan\n[Jan’18-May’18]\no Conducted an extensive ﬁeld survey from students of 144 government primary schools across Trichy district\no Calculated Spatial Accessibility Index using ArcGIS & Three-step ﬂoating catchment area model\no Generated SPAI Thematic map of schools to identify the areas deprived of primary educational facilities\n\nCOURSE PROJECTS\n• One-shot learning for Human face mask detection for COVID-19\no Simpliﬁed the problem statement as a Binary Classiﬁcation problem and identiﬁed anchor pairs\no Reduced training time signiﬁcantly by deploying Siamese Network & achieved accuracy of 77% with triplet loss\n• Gold Prospectivity using fuzzy logic and Artiﬁcial Neural network\no Generated prospectively maps of gold reserve of Arunta region from its geochemical properties in ArcMap\no Predicted optimum location of gold deposits with an accuracy of 75% using Artiﬁcial Neural Network\no Generated gold prospectivity map using Fuzzy Inference System in ArcGIS & obtained accuracy of 80%\n• DNA sequence classiﬁer using machine learning\no Developed Multinomial Naive Bayes classiﬁer from scratch using Bag-of-words language model\no Achieved genome accuracy of 98.4% on human, 99.35% on chimpanzee and 92.56% on dog datasets\n• Flight Delay Prediction on Bureau of Transportation Statistics Data using Julia\no Analyzed underlying trends in Flight delay based on visualization & EDA (Exploratory Data Analysis)\no Increased overall accuracy by 2.16 % by performing feature engineering to 90.68 % using Logistic Regression\n• Statistical analysis of CWC streamﬂow Time series data over Ganga Basin\no Preprocessed and formatted Time series data of over 45+ years and 20+ gauge stations in desired structure\no Utilized MATLAB & Numpy, Pandas, Matplotlib libraries of python for analysis, visualization of data\n• House pricing prediction using Linear/Non-linear and Regularized Regression\no Implemented Linear , Polynomial , Ridge and LASSO Regression model and compared their performance\no Achieved maximum R-square score of 0.5392 and minimum RMSE with LASSO regression in Julia\n• Detection of Line features in images using Hough Transform\no Implemented feature extraction technique of Hough Transform from scratch using Matlab over Sobel detected edge\no Achieved comparable result with inbuilt function and developed a Graphics User Interface for this operation\n• Edge Detection package for Satellite images\no Implemented Canny Edge Detector from scratch in MATLAB and achieved similar result as inbuilt function\no Registered improvement over Sobel operator using NMS, Double threshold, Edge Tracking by Hysteresis\n• Deploying Solar Panel in IIT Bombay using GIS techniques\no Interpolated Irradiance surface using IDW of IITB campus using Solar DATA from PVGIS Database\no Conducted cost-beneﬁt analysis of solar data in diﬀerent PV Systems to achieve optimum PV system\no Developed 3-D model in AUTOCAD of IITB campus, simulating the deployment of SOLAR grid\nPOSITIONS OF RESPONSIBILITY\n• Teaching Assistant-CSRE, IIT Bombay\no Assisting in instructing a niche group of 113+ students by holding tutorials and helping with project realization\n• Department Coordinator CSRE ISCP 2020-21\no Worked in a team of 177 people and coordinated the e-orientation at the department level for 30 new entrants\no Interviewed candidates to select a team of SCs & leading them to mentor 31 students throughout the year\no Compiled & Developed department’s Handbook with SCs that serves as informative manual to PG freshmen\no Mentoring 8 students throughout the year helping them on academic as well as non-academic fronts\n• Volunteer for helping students from TEQIP-III institutions prepare for GATE Exam [Aug’20-Present]\no To help the UG students from TEQIP-III Institutions in Bihar, learn fundamental concepts & prepare for GATE\no To encourage students to appear for GATE and make them aware of diﬀerent opportunities after GATE qualiﬁcation\nKEY RELEVANT COURSES\n• Machine Learning for Remote Sensing II (Transfer learning,R-CNN family,YOLO ) *\n• Machine Learning for Remote Sensing I (Linear Regression,Decision Trees,KNN,SVM )\n• Advanced Methods in Satellite Image Processing (Image classiﬁcation, change detection, ﬁlters)\n• Principles of Geographic Information System (GIS applications,Spatial data ,Interpolation)\n• Geo-spatial Predictive Modelling ( Neuro-fuzzy inference system,SVM,Neural Nets, CNN,SVM) *\nTECHNICAL SKILLS\n• Programming Languages : Python, R, SQL, MATLAB, C++, C, Julia\n• Libraries/Frameworks : Keras, Scikit-Learn, PyTorch, TensorFlow,\n• Software : ESRI ArcGIS Desktop, QGIS, ERDAS Imagine, ENVI, LATEX, Git\nScholastic achievements and extracurricular activities are not verified by the Placement Cell\n[July’20-Aug’20]\n[Feb’20-May’20]\n[Feb’20-May’20]\n[Mar’20-Apr’20]\n[July’19-Apr’20]\n[Jan’20–Feb’20]\n[Aug’19-Nov’19]\n[Feb’20-May’20]\n[Aug’19-Nov’19]\n[July’20-Present]\n[May’20-Present]\n*audit"
+}

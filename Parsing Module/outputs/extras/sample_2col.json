@@ -1,0 +1,610 @@
+{
+  "meta": {
+    "source_path": "data/resume_single/two_column_resume.pdf",
+    "pages": 1,
+    "strategy": "two_column_first",
+    "interleave": false
+  },
+  "lines": [
+    {
+      "page": 1,
+      "text": "John Doe",
+      "bbox": [
+        36.0,
+        35.29999923706055,
+        81.55999755859375,
+        49.06999969482422
+      ],
+      "left_indent": 36.0,
+      "width": 45.55999755859375,
+      "is_bold": true,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "I New York, USA | I john.doe@email.com | I +1-555-123-4567 | I linkedin.com/in/johndoe",
+      "bbox": [
+        36.0,
+        47.25,
+        447.0499267578125,
+        60.9900016784668
+      ],
+      "left_indent": 36.0,
+      "width": 411.0499267578125,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Profile",
+      "bbox": [
+        57.63779830932617,
+        74.15997314453125,
+        94.98179626464844,
+        90.68396759033203
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 37.343997955322266,
+      "is_bold": true,
+      "font_size": 12.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Data-driven Product Analyst with 3+ years of",
+      "bbox": [
+        57.63779830932617,
+        94.24996948242188,
+        255.2177734375,
+        107.9899673461914
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 197.57997512817383,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "experience in",
+      "bbox": [
+        57.63779830932617,
+        106.24996948242188,
+        251.0577850341797,
+        119.9899673461914
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 193.41998672485352,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "product analytics, SQL-based",
+      "bbox": [
+        57.63779830932617,
+        106.24996948242188,
+        251.0577850341797,
+        119.9899673461914
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 193.41998672485352,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "reporting, and",
+      "bbox": [
+        57.63779830932617,
+        118.24996948242188,
+        279.40777587890625,
+        131.98997497558594
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 221.76997756958008,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "machine learning model evaluation.",
+      "bbox": [
+        57.63779830932617,
+        118.24996948242188,
+        279.40777587890625,
+        131.98997497558594
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 221.76997756958008,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Skilled at translating business needs into actionable",
+      "bbox": [
+        57.63779830932617,
+        130.24996948242188,
+        286.63775634765625,
+        143.98997497558594
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 228.99995803833008,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "insights.",
+      "bbox": [
+        57.63779830932617,
+        142.24996948242188,
+        94.31779479980469,
+        155.98997497558594
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 36.679996490478516,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Skills",
+      "bbox": [
+        57.63779830932617,
+        162.15997314453125,
+        88.9937973022461,
+        178.68397521972656
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 31.355998992919922,
+      "is_bold": true,
+      "font_size": 12.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "- Analytics Tools: SQL, Python, R",
+      "bbox": [
+        57.63779830932617,
+        182.24996948242188,
+        206.0277862548828,
+        195.98997497558594
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 148.38998794555664,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "- Visualization: Tableau, Power BI",
+      "bbox": [
+        57.63779830932617,
+        194.24996948242188,
+        207.69778442382812,
+        207.98997497558594
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 150.05998611450195,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "- ML Techniques: Regression, Classification, LSTM",
+      "bbox": [
+        57.63779830932617,
+        206.24996948242188,
+        284.9277648925781,
+        219.98997497558594
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 227.28996658325195,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "- Other: A/B Testing, Statistics, Excel",
+      "bbox": [
+        57.63779830932617,
+        218.24996948242188,
+        221.58779907226562,
+        231.98997497558594
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 163.95000076293945,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Education",
+      "bbox": [
+        57.63779830932617,
+        238.15997314453125,
+        115.64579772949219,
+        254.68397521972656
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 58.007999420166016,
+      "is_bold": true,
+      "font_size": 12.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "M.Tech, Structural Engineering",
+      "bbox": [
+        57.63779830932617,
+        258.2499694824219,
+        195.46778869628906,
+        271.9899597167969
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 137.8299903869629,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "IIT Bhubaneswar (2023–2025)",
+      "bbox": [
+        57.63779830932617,
+        270.2499694824219,
+        192.70779418945312,
+        283.9899597167969
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 135.06999588012695,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "B.Tech, Civil Engineering",
+      "bbox": [
+        57.63779830932617,
+        286.2499694824219,
+        169.89779663085938,
+        299.9899597167969
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 112.2599983215332,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "XYZ University (2019–2023)",
+      "bbox": [
+        57.63779830932617,
+        298.2499694824219,
+        183.23777770996094,
+        311.9899597167969
+      ],
+      "left_indent": 57.63779830932617,
+      "width": 125.59997940063477,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Experience",
+      "bbox": [
+        307.6377868652344,
+        74.15997314453125,
+        371.6697998046875,
+        90.68396759033203
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 64.03201293945312,
+      "is_bold": true,
+      "font_size": 12.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Product Analyst – Zomato",
+      "bbox": [
+        307.6377868652344,
+        94.29997253417969,
+        431.54779052734375,
+        108.0699691772461
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 123.91000366210938,
+      "is_bold": true,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Aug 2025 – Present",
+      "bbox": [
+        307.6377868652344,
+        106.29997253417969,
+        396.0278015136719,
+        119.8399658203125
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 88.3900146484375,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "- Built SQL pipelines for real-time restaurant performance monitoring.",
+      "bbox": [
+        307.6377868652344,
+        118.24996948242188,
+        502.1477966308594,
+        143.98997497558594
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 194.510009765625,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "- Conducted A/B tests for feature rollouts, improving CTR by 15%.",
+      "bbox": [
+        307.6377868652344,
+        142.24996948242188,
+        537.1777954101562,
+        167.98997497558594
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 229.54000854492188,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "- Automated weekly business reports using Python, reducing manual effort by 30%.",
+      "bbox": [
+        307.6377868652344,
+        166.24996948242188,
+        534.957763671875,
+        191.98997497558594
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 227.31997680664062,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Data Analyst Intern – ABC Corp",
+      "bbox": [
+        307.6377868652344,
+        196.2999725341797,
+        457.65777587890625,
+        210.06997680664062
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 150.01998901367188,
+      "is_bold": true,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Jan 2024 – Jul 2024",
+      "bbox": [
+        307.6377868652344,
+        208.2999725341797,
+        397.6977844238281,
+        221.8399658203125
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 90.05999755859375,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "- Designed Tableau dashboards tracking revenue trends across regions.",
+      "bbox": [
+        307.6377868652344,
+        220.24996948242188,
+        526.6277465820312,
+        245.98997497558594
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 218.98995971679688,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "- Applied LSTM models to classify structural health (damaged vs. undamaged).",
+      "bbox": [
+        307.6377868652344,
+        244.24996948242188,
+        532.1577758789062,
+        269.9899597167969
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 224.51998901367188,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "- Supported cross-functional teams with",
+      "bbox": [
+        307.6377868652344,
+        268.2499694824219,
+        536.0578002929688,
+        293.9899597167969
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 228.42001342773438,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "data-driven decision-making.",
+      "bbox": [
+        307.6377868652344,
+        268.2499694824219,
+        536.0578002929688,
+        293.9899597167969
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 228.42001342773438,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Projects",
+      "bbox": [
+        307.6377868652344,
+        298.15997314453125,
+        354.9897766113281,
+        314.6839599609375
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 47.35198974609375,
+      "is_bold": true,
+      "font_size": 12.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "- Fire Dynamics Prediction (2025): Built ConvLSTM-based models for future fire frame prediction using PyroSim/FDS simulations.",
+      "bbox": [
+        307.6377868652344,
+        318.2499694824219,
+        481.5677795410156,
+        355.9899597167969
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 173.92999267578125,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "- 3D-Printable Concrete (2025): Thesis project optimizing mix design with lightweight sintered flyash aggregates.",
+      "bbox": [
+        307.6377868652344,
+        354.2499694824219,
+        512.1477661132812,
+        391.9899597167969
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 204.50997924804688,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "- HR Agentic",
+      "bbox": [
+        307.6377868652344,
+        390.2499694824219,
+        537.6377563476562,
+        403.9899597167969
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 229.99996948242188,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "AI System (2025): Developed modules",
+      "bbox": [
+        307.6377868652344,
+        390.2499694824219,
+        537.6377563476562,
+        403.9899597167969
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 229.99996948242188,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "for resume parsing, onboarding automation, and",
+      "bbox": [
+        307.6377868652344,
+        402.2499694824219,
+        521.0777587890625,
+        415.9899597167969
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 213.43997192382812,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "company-specific chatbots.",
+      "bbox": [
+        307.6377868652344,
+        414.2499694824219,
+        428.2377624511719,
+        427.9899597167969
+      ],
+      "left_indent": 307.6377868652344,
+      "width": 120.5999755859375,
+      "is_bold": false,
+      "font_size": 10.0,
+      "column": 2
+    }
+  ],
+  "text_per_page": [
+    "John Doe\nI New York, USA | I john.doe@email.com | I +1-555-123-4567 | I linkedin.com/in/johndoe\nProfile\nData-driven Product Analyst with 3+ years of\nexperience in\nproduct analytics, SQL-based\nreporting, and\nmachine learning model evaluation.\nSkilled at translating business needs into actionable\ninsights.\nSkills\n- Analytics Tools: SQL, Python, R\n- Visualization: Tableau, Power BI\n- ML Techniques: Regression, Classification, LSTM\n- Other: A/B Testing, Statistics, Excel\nEducation\nM.Tech, Structural Engineering\nIIT Bhubaneswar (2023–2025)\nB.Tech, Civil Engineering\nXYZ University (2019–2023)\nExperience\nProduct Analyst – Zomato\nAug 2025 – Present\n- Built SQL pipelines for real-time restaurant performance monitoring.\n- Conducted A/B tests for feature rollouts, improving CTR by 15%.\n- Automated weekly business reports using Python, reducing manual effort by 30%.\nData Analyst Intern – ABC Corp\nJan 2024 – Jul 2024\n- Designed Tableau dashboards tracking revenue trends across regions.\n- Applied LSTM models to classify structural health (damaged vs. undamaged).\n- Supported cross-functional teams with\ndata-driven decision-making.\nProjects\n- Fire Dynamics Prediction (2025): Built ConvLSTM-based models for future fire frame prediction using PyroSim/FDS simulations.\n- 3D-Printable Concrete (2025): Thesis project optimizing mix design with lightweight sintered flyash aggregates.\n- HR Agentic\nAI System (2025): Developed modules\nfor resume parsing, onboarding automation, and\ncompany-specific chatbots."
+  ],
+  "text_all": "John Doe\nI New York, USA | I john.doe@email.com | I +1-555-123-4567 | I linkedin.com/in/johndoe\nProfile\nData-driven Product Analyst with 3+ years of\nexperience in\nproduct analytics, SQL-based\nreporting, and\nmachine learning model evaluation.\nSkilled at translating business needs into actionable\ninsights.\nSkills\n- Analytics Tools: SQL, Python, R\n- Visualization: Tableau, Power BI\n- ML Techniques: Regression, Classification, LSTM\n- Other: A/B Testing, Statistics, Excel\nEducation\nM.Tech, Structural Engineering\nIIT Bhubaneswar (2023–2025)\nB.Tech, Civil Engineering\nXYZ University (2019–2023)\nExperience\nProduct Analyst – Zomato\nAug 2025 – Present\n- Built SQL pipelines for real-time restaurant performance monitoring.\n- Conducted A/B tests for feature rollouts, improving CTR by 15%.\n- Automated weekly business reports using Python, reducing manual effort by 30%.\nData Analyst Intern – ABC Corp\nJan 2024 – Jul 2024\n- Designed Tableau dashboards tracking revenue trends across regions.\n- Applied LSTM models to classify structural health (damaged vs. undamaged).\n- Supported cross-functional teams with\ndata-driven decision-making.\nProjects\n- Fire Dynamics Prediction (2025): Built ConvLSTM-based models for future fire frame prediction using PyroSim/FDS simulations.\n- 3D-Printable Concrete (2025): Thesis project optimizing mix design with lightweight sintered flyash aggregates.\n- HR Agentic\nAI System (2025): Developed modules\nfor resume parsing, onboarding automation, and\ncompany-specific chatbots.",
+  "_debug": {
+    "per_page_cuts": {
+      "1": 256.46652966958504
+    },
+    "per_page_counts": {
+      "1": {
+        "left": 18,
+        "right": 27
+      }
+    }
+  }
+}

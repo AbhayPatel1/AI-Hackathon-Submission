@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "source_path": "data/resumes/Akshay_Raj_MTech_Elec_Xilinx.pdf",
+    "pages": 2,
+    "model": "facebook/bart-large-mnli"
+  },
+  "candidate": {
+    "full_name": "Akshay Raj",
+    "emails": [],
+    "phones": [],
+    "links": {
+      "linkedin": null,
+      "github": null
+    }
+  },
+  "sectioned_text": [
+    {
+      "section_type": "other",
+      "text": "Akshay Raj\n193070076\nElectrical Engineering\nM.Tech.\nIndian Institute of Technology, Bombay\nGender: Male\nSpecialization: Solid State Devices\nDOB: 17-12-1997\nExamination\nUniversity\nInstitute\nYear\nCPI / %\nPost Graduation\nIIT Bombay\nIIT Bombay\n2021\n8.54\nGraduation\nNIT Uttarakhand\nNIT Uttarakhand\n2018\n8.54",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "Graduation Specialization: ECE\nIntermediate\nISC\nBrooklyn School, Dehradun\n2014\n93.80%\nMatriculation\nICSE\nCarmel School, Chamba\n2012\n89.28%",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "interests",
+      "text": "Digital VLSI Design, Hardware Description, VLSI Technology, Reliability in VLSI",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "achievements",
+      "text": "• Secured 99.68%ile in GATE 2019 (EC) among 1,04,782 appeared candidates\n[2019]\n• Secured 1st position among 62 students in 12th std.\n[2014]\n• Secured 1st position in class and 21 state rank in International Olympiad of Mathematics\n[2012]",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "MAJOR PROJECTS AND SEMINAR\n• M.Tech Project: Negative Bias Temperature Instability (NBTI) aging framework for analog and\ndigital circuits\n[May’20 - Present]\nGuide: Prof. Souvik Mahapatra, Department of Electrical Engineering, IIT Bombay\nCompleted Work:\n◦ Study of causes of various subcomponents of NBTI and their impact on circuit aging\n◦ Implemented the compact model and auto parameter extraction for various subcomponents of NBTI\n◦ Implementation was done using Python\nOngoing & Future Work:",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "other",
+      "text": "◦ Developing Circuit Aging Reliability Analysis Tool (CARAT) that can be integrated with commercial",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "EDA tools for reliability analysis\n◦ Modiﬁcation in the current compact model to design a Universal Model\n◦ Developing Dynamic Voltage Frequency Scaling (DVFS) compatible cycle by cycle compact model\n• M.Tech Seminar : Overview of NBTI from Device to Circuit Level\n[Jan’20 - May’20]\nGuide: Prof. Souvik Mahapatra, Department of Electrical Engineering, IIT Bombay\n◦ Studied the eﬀect of NBTI in p-FETs\n◦ Learned to use CARAT (Circuit Aging Reliability Analysis Tool), which is currently in development phase\n◦ Simulated CARAT for various circuits like inverter, Sense Ampliﬁer, seven stage ring oscillator, etc.",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "• B.Tech Project: Liquid Level Indicator\n[Autumn’16]\nGuide: Prof. M. Raja, NIT Uttarakhand, Srinagar (Garhwal)\n◦ Made use of ultrasonic sensor, bluetooth module and Arduino board to predict the liquid level\n◦ Eﬃcient and fast system which can be buzzer alarm enabled\n◦ The system can be controlled using mobile phone",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "courses",
+      "text": "- VLSI Design (Digital)\n- Processor Design\n- VLSI Design Lab\n- VLSI Technology\n- Solid State Devices\n- Physics of Transistors\n- Microelectronics Simulation Lab\n- Microelectronics Lab (Fab)",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "Tools & Hardware Platforms :\nProgramming Languages:\nAltera Quartus Prime, Xilinx Vivado HLS, NGSpice,\nVerilog\nHDL,\nPython,\nMATLAB,\nVHDL,\nC,\nHSpice, MATLAB, TCAD, Cadence\n8085(assembly)",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "workshops",
+      "text": "• Summer Trainee at IRDE (DRDO)\n[May’17 - June’17]\n◦ Implemented 8051 microcontroller on FPGA using Verilog HDL\n• Training at BSNL Exchange\n[May’16 - June’16]\n• Attended introductory workshop on ”Nanofabrication Technologies” at Centre for Nano Science\nand Engineering, IISc Bangalore\n[Apr’17]\n• Attended 7 day workshop on ”FPGA based SoC Design” organized by E&ICT Academy, IIT\nRoorkee\n[Dec’16]",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "courses",
+      "text": "KEY COURSE PROJECTS & ASSIGNMENTS\n• 32-bit Brent Kung adder\nGuide: Prof. Dinesh Kumar Sharma, VLSI Design\n◦ Designed 32-bit Brent Kung adder with its hardware description in synthisizable VHDL\n• 16-bit Dadda Multiplier\nGuide: Prof. Dinesh Kumar Sharma, VLSI Design\n◦ Designed a Dadda multiplier for unsigned 16x16 bit multiplication using VHDL\n◦ Identiﬁed the critical paths and computed the critical path delay\n• Layout of 16-bit Brent Kung adder\nGuide: Prof. Dinesh Kumar Sharma, VLSI Design\n◦ Implemented the design of 16-bit Brent Kung adder in Cadence\n◦ Implemented its layout, back-extracted and simulated (at circuit level) using Cadence\n• 32-bit Floating-point multiplier\nGuide: Prof. Sachin Patkar, VLSI Design Lab\n◦ Designed a purely combinational 32-bit ﬂoating-point multiplier using Verilog HDL\n◦ Performed RTL and Gate-level simulation in ModelSim and tested the design on Altera DE0 Nano FPGA\n• Fabricated diode, BJT and MOSFET\nGuide: Prof. Saurabh Lodha, Microelectronics Lab\n◦ Fabricated diode, BJT and MOSFET on 2 inch wafer\n◦ Used 4 diﬀerent masks to fabricate the devices\n• MOSFET Characterization\nGuide: Prof. Saurabh Lodha, Microelectronics Lab\n◦ Characterized MOSFETs with varying W/L ratios\n◦ Observed various short-channel eﬀects like Gate Induced Drain Leakage (GIDL) , Drain Induced\nBarrier Lowering (DIBL) and mobility degradation\n• Pao-Sah and Brews models for MOSFET\nGuide: Prof. Souvik Mahapatra, Physics of Transistors\n◦ Implemented the Pao-Sah and Brews models for MOSFET in MATLAB\n◦ Observed Id-Vd characteristics for Pao-Sah, Brews and Compact model for MOSFET\n• TCAD simulation (sprocess and sdevice) for fabrication of pn junction\nGuide: Prof. Swaroop Ganguly, Microelectronics Simulations Lab\n◦ Created a n + p junction of 100nm depth and 150nm width with uniform n-side doping\n◦ Observed the eﬀect of implant energy and implant dose on peak concentration and junction depth",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "responsibility",
+      "text": "• Department Coordinator (DC), Institute Student Companion Programme (ISCP) [Apr’20 - Present]\n◦ Selected one amongst 31 DCs out of 89 applicants based on Interviews, Peer Review and SOP\n◦ Leading a team of 19 Student Companions to organize formal and informal sessions for 161 new entrants\nin the department to help them on academic and non academic fronts\n◦ Mentoring 10 students throughout the year helping them on academic and non-academic fronts during\nthe Covid-19 pandemic\n• Teaching Assistant, Microprocessors (EE309) course\n◦ Assisting the instructor in smooth functioning of online classes, conducting and evaluating online tests\n• Teaching Assistant, Introduction to Electrical and Electronic Circuits (EE101) course [Autumn’19]\n◦ Assisted & apprised course work for better learning of students\n◦ Responsible for evaluation of examination papers & assignments, invigilation in tests etc in the course\n• Training and Placement Coordinator (ECE), NIT Uttarakhand\n◦ Responsible for contacting various companies for campus recruitment drive\n◦ Responsible for maintaining Corporate Relations of the institute\n• Group Leader in Community Project, NIT Uttarakhand\n◦ Conducted a free Dental Checkup Camp in a village Supana, near Srinagar (Garhwal)\n• Head Boy of the School, XII std.(Brooklyn School, Dehradun)\nEXTRA CURRICULAR ACTIVITIES AND HOBBIES\n• Participated in Streetplay General Championship (GC) , and the team secured 2nd position\n• Participated in Freshie Fashion Fiesta fashion show organized by StypeUp Club , IIT Bombay\n• Social Events Coordinator , Cliﬀesto’17, NIT Uttarakhand\n• Participated in e-Yantra Robotics competition, IIT Bombay",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "interests",
+      "text": "• Hobbies: Playing guitar, role-playing PC games, cycling",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "other",
+      "text": "Scholastic achievements and extracurricular activities are not verified by the Placement Cell\n[Autumn’19]\n[Autumn’19]\n[Autumn’19]\n[Spring’20]\n[Spring’20]\n[Spring’20]\n[Spring’20]\n[Autumn’19]\n[Autumn’20]\n[Aug’17 - May’18]\n[Spring’16]\n[Apr’13 - Mar’14]\n[March’20]\n[Aug’19]\n[Aug’16 - Feb’17]\n[Nov’16 - Jan’17]",
+      "page_range": [
+        2,
+        2
+      ]
+    }
+  ],
+  "stats": {
+    "sections": 15,
+    "contacts_found": {
+      "name": true,
+      "email": false,
+      "phone": false
+    }
+  }
+}

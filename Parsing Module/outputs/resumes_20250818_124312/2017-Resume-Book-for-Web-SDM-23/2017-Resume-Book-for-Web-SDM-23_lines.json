@@ -1,0 +1,1286 @@
+{
+  "meta": {
+    "source_path": "data/resumes/2017-Resume-Book-for-Web-SDM-23.pdf",
+    "pages": 1
+  },
+  "lines": [
+    {
+      "page": 1,
+      "text": "AMARDEEP SIDHU",
+      "bbox": [
+        250.8311004638672,
+        69.9466552734375,
+        361.17071533203125,
+        83.2357177734375
+      ],
+      "left_indent": 250.8311004638672,
+      "width": 110.33961486816406,
+      "is_bold": true,
+      "font_size": 12.0
+    },
+    {
+      "page": 1,
+      "text": "https://www.linkedin.com/in/ad7pm2",
+      "bbox": [
+        231.00489807128906,
+        82.91143798828125,
+        383.455078125,
+        93.8084716796875
+      ],
+      "left_indent": 231.00489807128906,
+      "width": 152.45018005371094,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "EDUCATION",
+      "bbox": [
+        54.0,
+        105.2314453125,
+        115.00375366210938,
+        116.12847900390625
+      ],
+      "left_indent": 54.0,
+      "width": 61.003753662109375,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Massachusetts Institute of Technology",
+      "bbox": [
+        54.0,
+        117.471435546875,
+        216.96224975585938,
+        128.36846923828125
+      ],
+      "left_indent": 54.0,
+      "width": 162.96224975585938,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "School of Engineering & Sloan School of Management",
+      "bbox": [
+        54.0,
+        128.27142333984375,
+        276.15240478515625,
+        139.16845703125
+      ],
+      "left_indent": 54.0,
+      "width": 222.15240478515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "M.S., System Design and Management",
+      "bbox": [
+        54.0,
+        139.31146240234375,
+        212.8321075439453,
+        150.20849609375
+      ],
+      "left_indent": 54.0,
+      "width": 158.8321075439453,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Purdue University",
+      "bbox": [
+        54.0,
+        150.3514404296875,
+        132.50155639648438,
+        161.24847412109375
+      ],
+      "left_indent": 54.0,
+      "width": 78.50155639648438,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "School of Engineering",
+      "bbox": [
+        54.0,
+        161.39141845703125,
+        145.88870239257812,
+        172.2884521484375
+      ],
+      "left_indent": 54.0,
+      "width": 91.88870239257812,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "M. S., Mechanical Engineering (Mechatronics)",
+      "bbox": [
+        54.0,
+        172.43145751953125,
+        245.0098114013672,
+        183.3284912109375
+      ],
+      "left_indent": 54.0,
+      "width": 191.0098114013672,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Pune University",
+      "bbox": [
+        54.0,
+        183.471435546875,
+        122.49820709228516,
+        194.36846923828125
+      ],
+      "left_indent": 54.0,
+      "width": 68.49820709228516,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Post Graduate Certification",
+      "bbox": [
+        54.0,
+        194.27142333984375,
+        165.87890625,
+        205.16845703125
+      ],
+      "left_indent": 54.0,
+      "width": 111.87890625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "CAD CAM & CAE",
+      "bbox": [
+        54.0,
+        205.31146240234375,
+        133.0687255859375,
+        216.20849609375
+      ],
+      "left_indent": 54.0,
+      "width": 79.0687255859375,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Pune University",
+      "bbox": [
+        54.0,
+        216.3514404296875,
+        122.49820709228516,
+        227.24847412109375
+      ],
+      "left_indent": 54.0,
+      "width": 68.49820709228516,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "AISSMS College of Engineering",
+      "bbox": [
+        54.0,
+        227.39141845703125,
+        185.04400634765625,
+        238.2884521484375
+      ],
+      "left_indent": 54.0,
+      "width": 131.04400634765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "B. S., Mechanical Engineering",
+      "bbox": [
+        54.0,
+        238.43145751953125,
+        179.2041015625,
+        249.3284912109375
+      ],
+      "left_indent": 54.0,
+      "width": 125.2041015625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "RELEVANTSKILLS",
+      "bbox": [
+        54.0,
+        249.71142578125,
+        148.1641082763672,
+        260.60845947265625
+      ],
+      "left_indent": 54.0,
+      "width": 94.16410827636719,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Software : SolidWorks, Simulink, LabVIEW, Python, ANSYS, PTC Creo, SysML, Vensim, JMP Pro",
+      "bbox": [
+        54.0,
+        262.67144775390625,
+        462.8661804199219,
+        273.5684814453125
+      ],
+      "left_indent": 54.0,
+      "width": 408.8661804199219,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Courses : Project Management, System Architecture, Systems Engineering, Data Mining, Product Design and Development",
+      "bbox": [
+        54.0,
+        275.8714599609375,
+        551.9189453125,
+        286.76849365234375
+      ],
+      "left_indent": 54.0,
+      "width": 497.9189453125,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "EXPERIENCE",
+      "bbox": [
+        54.0,
+        288.5914306640625,
+        119.45757293701172,
+        299.48846435546875
+      ],
+      "left_indent": 54.0,
+      "width": 65.45757293701172,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "APTIMA INC.",
+      "bbox": [
+        54.0,
+        300.8314514160156,
+        120.3467025756836,
+        311.7284851074219
+      ],
+      "left_indent": 54.0,
+      "width": 66.3467025756836,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Capability Management Extern",
+      "bbox": [
+        54.0,
+        311.8714599609375,
+        186.4698028564453,
+        322.76849365234375
+      ],
+      "left_indent": 54.0,
+      "width": 132.4698028564453,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Gained gain better understanding of project management, business development, research, and division leadership",
+      "bbox": [
+        72.0,
+        322.91143798828125,
+        531.2715454101562,
+        333.8084716796875
+      ],
+      "left_indent": 72.0,
+      "width": 459.27154541015625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        54.0,
+        324.78045654296875,
+        58.52601623535156,
+        334.6204528808594
+      ],
+      "left_indent": 54.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Leveraged data mining to analyze and provide feedback on real world multi-class classification opportunity",
+      "bbox": [
+        72.0,
+        333.7114562988281,
+        505.15338134765625,
+        344.6084899902344
+      ],
+      "left_indent": 72.0,
+      "width": 433.15338134765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        54.0,
+        335.5804748535156,
+        58.52601623535156,
+        345.42047119140625
+      ],
+      "left_indent": 54.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "SERVO TECH INC. ON-SITE AT CATERPILLAR INC.",
+      "bbox": [
+        54.0,
+        344.7514343261719,
+        301.2779846191406,
+        355.6484680175781
+      ],
+      "left_indent": 54.0,
+      "width": 247.27798461914062,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Test Engineer",
+      "bbox": [
+        54.0,
+        355.79144287109375,
+        114.5166015625,
+        366.6884765625
+      ],
+      "left_indent": 54.0,
+      "width": 60.5166015625,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Supported system level machine software testing with focus on powertrain, implements, engine, display, and telematics",
+      "bbox": [
+        72.0,
+        368.03143310546875,
+        552.6875,
+        378.928466796875
+      ],
+      "left_indent": 72.0,
+      "width": 480.6875,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        54.0,
+        369.90045166015625,
+        58.52601623535156,
+        379.7404479980469
+      ],
+      "left_indent": 54.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "subsystems",
+      "bbox": [
+        72.0,
+        379.55145263671875,
+        120.02149963378906,
+        390.448486328125
+      ],
+      "left_indent": 72.0,
+      "width": 48.02149963378906,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Developed plant and I/O models to support real time testing of Electronic Control Modules (ECMs)",
+      "bbox": [
+        72.0,
+        391.79144287109375,
+        473.830078125,
+        402.6884765625
+      ],
+      "left_indent": 72.0,
+      "width": 401.830078125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        54.0,
+        393.66046142578125,
+        58.52601623535156,
+        403.5004577636719
+      ],
+      "left_indent": 54.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Designed, developed, and maintained machine software test procedures for existing and future requirements",
+      "bbox": [
+        72.0,
+        404.03143310546875,
+        507.1015930175781,
+        414.928466796875
+      ],
+      "left_indent": 72.0,
+      "width": 435.1015930175781,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        54.0,
+        405.90045166015625,
+        58.52601623535156,
+        415.7404479980469
+      ],
+      "left_indent": 54.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Developed expertise in vehicle communication system – Controller Area Network (CAN) - J1939 data transfer protocols",
+      "bbox": [
+        72.0,
+        416.2714538574219,
+        557.9365234375,
+        427.1684875488281
+      ],
+      "left_indent": 72.0,
+      "width": 485.9365234375,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        54.0,
+        418.1404724121094,
+        58.52601623535156,
+        427.98046875
+      ],
+      "left_indent": 54.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "and Caterpillar proprietary Cat Data Link",
+      "bbox": [
+        72.0,
+        427.55145263671875,
+        240.23150634765625,
+        438.448486328125
+      ],
+      "left_indent": 72.0,
+      "width": 168.23150634765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "SORTIMAT TECHNOLOGIES INDIA LTD.",
+      "bbox": [
+        54.0,
+        438.5914306640625,
+        250.14263916015625,
+        449.48846435546875
+      ],
+      "left_indent": 54.0,
+      "width": 196.14263916015625,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Assembly Engineer",
+      "bbox": [
+        54.0,
+        449.6314392089844,
+        136.1865997314453,
+        460.5284729003906
+      ],
+      "left_indent": 54.0,
+      "width": 82.18659973144531,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Led a team of 9 for engineering, assembly and installation of industrial automation machinery",
+      "bbox": [
+        72.0,
+        461.8714599609375,
+        450.4755859375,
+        472.76849365234375
+      ],
+      "left_indent": 72.0,
+      "width": 378.4755859375,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        54.0,
+        463.740478515625,
+        58.52601623535156,
+        473.5804748535156
+      ],
+      "left_indent": 54.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Conducted feasibility analysis of machinery specifications and assisted sales team in setting client expectations",
+      "bbox": [
+        72.0,
+        474.1114501953125,
+        519.07421875,
+        485.00848388671875
+      ],
+      "left_indent": 72.0,
+      "width": 447.07421875,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        54.0,
+        475.98046875,
+        58.52601623535156,
+        485.8204650878906
+      ],
+      "left_indent": 54.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Leveraged and enhanced industry standard German designs for developing assembly line feeding solutions, oversaw",
+      "bbox": [
+        72.0,
+        486.3514404296875,
+        540.4463500976562,
+        497.24847412109375
+      ],
+      "left_indent": 72.0,
+      "width": 468.44635009765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        54.0,
+        488.220458984375,
+        58.52601623535156,
+        498.0604553222656
+      ],
+      "left_indent": 54.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "manufacturing of individual parts, assembled, installed and troubleshot machinery",
+      "bbox": [
+        72.0,
+        497.8714599609375,
+        403.27349853515625,
+        508.76849365234375
+      ],
+      "left_indent": 72.0,
+      "width": 331.27349853515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Delivered high quality solutions for over 7 major machine orders along with multiple minor products to the diverse",
+      "bbox": [
+        72.0,
+        510.1114501953125,
+        535.2021484375,
+        521.0084838867188
+      ],
+      "left_indent": 72.0,
+      "width": 463.2021484375,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        54.0,
+        511.98046875,
+        58.52601623535156,
+        521.8204956054688
+      ],
+      "left_indent": 54.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "clients in FMCG, automotive, and medical industry",
+      "bbox": [
+        72.0,
+        521.6314697265625,
+        280.54400634765625,
+        532.5285034179688
+      ],
+      "left_indent": 72.0,
+      "width": 208.54400634765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "REL-METH ENGINEERS & CONSULTANTS",
+      "bbox": [
+        54.0,
+        532.4314575195312,
+        258.15606689453125,
+        543.3284912109375
+      ],
+      "left_indent": 54.0,
+      "width": 204.15606689453125,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Design Engineer",
+      "bbox": [
+        54.0,
+        543.471435546875,
+        126.19139862060547,
+        554.3684692382812
+      ],
+      "left_indent": 54.0,
+      "width": 72.19139862060547,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Designing, component sizing and assembly of industrial automation machinery based on customer requirements",
+      "bbox": [
+        72.0,
+        555.71142578125,
+        522.970703125,
+        566.6084594726562
+      ],
+      "left_indent": 72.0,
+      "width": 450.970703125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        54.0,
+        557.5804443359375,
+        58.52601623535156,
+        567.4204711914062
+      ],
+      "left_indent": 54.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Sourced standard parts and raw materials to ensure cost effective design, manufacturing, and assembly",
+      "bbox": [
+        72.0,
+        567.951416015625,
+        485.1679992675781,
+        578.8484497070312
+      ],
+      "left_indent": 72.0,
+      "width": 413.1679992675781,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        54.0,
+        569.8204345703125,
+        58.52601623535156,
+        579.6604614257812
+      ],
+      "left_indent": 54.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Leveraged in house expertise to design and support custom linkages and actuators",
+      "bbox": [
+        72.0,
+        580.1914672851562,
+        402.42388916015625,
+        591.0885009765625
+      ],
+      "left_indent": 72.0,
+      "width": 330.42388916015625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        54.0,
+        582.0604858398438,
+        58.52601623535156,
+        591.9005126953125
+      ],
+      "left_indent": 54.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Supported 4 tailor made machines from design to installation and operator training for a major international consumer",
+      "bbox": [
+        72.0,
+        592.4314575195312,
+        546.5645141601562,
+        603.3284912109375
+      ],
+      "left_indent": 72.0,
+      "width": 474.56451416015625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        54.0,
+        594.3004760742188,
+        58.52601623535156,
+        604.1405029296875
+      ],
+      "left_indent": 54.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "product manufacturer",
+      "bbox": [
+        72.0,
+        603.951416015625,
+        160.8125,
+        614.8484497070312
+      ],
+      "left_indent": 72.0,
+      "width": 88.8125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "CADBURY INDIA LTD",
+      "bbox": [
+        54.0,
+        614.991455078125,
+        158.90000915527344,
+        625.8884887695312
+      ],
+      "left_indent": 54.0,
+      "width": 104.90000915527344,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Trainee Engineer - Plant Maintenance",
+      "bbox": [
+        54.0,
+        626.0314331054688,
+        217.02149963378906,
+        636.928466796875
+      ],
+      "left_indent": 54.0,
+      "width": 163.02149963378906,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Scheduled preventive maintenance and promptly addressed and resolved machine breakdowns",
+      "bbox": [
+        72.0,
+        638.0314331054688,
+        452.3847961425781,
+        648.928466796875
+      ],
+      "left_indent": 72.0,
+      "width": 380.3847961425781,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        54.0,
+        639.9004516601562,
+        58.52601623535156,
+        649.740478515625
+      ],
+      "left_indent": 54.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Implemented safety measures including machine guards, lock and tag to enforce accident prevention",
+      "bbox": [
+        72.0,
+        650.2714233398438,
+        476.8183898925781,
+        661.16845703125
+      ],
+      "left_indent": 72.0,
+      "width": 404.8183898925781,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        54.0,
+        652.1404418945312,
+        58.52601623535156,
+        661.98046875
+      ],
+      "left_indent": 54.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Applied lean methodology for eliminating resource wastage and continuous improvement in the factory",
+      "bbox": [
+        72.0,
+        662.511474609375,
+        489.35260009765625,
+        673.4085083007812
+      ],
+      "left_indent": 72.0,
+      "width": 417.35260009765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        54.0,
+        664.3804931640625,
+        58.52601623535156,
+        674.2205200195312
+      ],
+      "left_indent": 54.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Participated in major production enhancement initiatives by setting up cutting edge machinery in the factory",
+      "bbox": [
+        72.0,
+        674.75146484375,
+        507.6728820800781,
+        685.6484985351562
+      ],
+      "left_indent": 72.0,
+      "width": 435.6728820800781,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        54.0,
+        676.6204833984375,
+        58.52601623535156,
+        686.4605102539062
+      ],
+      "left_indent": 54.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "PUBLICATIONS",
+      "bbox": [
+        54.0,
+        686.5114135742188,
+        130.04306030273438,
+        697.408447265625
+      ],
+      "left_indent": 54.0,
+      "width": 76.04306030273438,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "5 first author, 1 poster",
+      "bbox": [
+        72.0,
+        699.2314453125,
+        160.53887939453125,
+        710.1284790039062
+      ],
+      "left_indent": 72.0,
+      "width": 88.53887939453125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        54.0,
+        701.7736206054688,
+        58.08445358276367,
+        710.653564453125
+      ],
+      "left_indent": 54.0,
+      "width": 4.084453582763672,
+      "is_bold": false,
+      "font_size": 8.880000114440918
+    },
+    {
+      "page": 1,
+      "text": "Cambridge, MA",
+      "bbox": [
+        474.4530944824219,
+        117.471435546875,
+        542.4600219726562,
+        128.36846923828125
+      ],
+      "left_indent": 474.4530944824219,
+      "width": 68.00692749023438,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Fall 2016 - Current",
+      "bbox": [
+        463.06640625,
+        128.27142333984375,
+        542.4600219726562,
+        139.16845703125
+      ],
+      "left_indent": 463.06640625,
+      "width": 79.39361572265625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Indianapolis, IN",
+      "bbox": [
+        475.01458740234375,
+        150.3514404296875,
+        542.4600219726562,
+        161.24847412109375
+      ],
+      "left_indent": 475.01458740234375,
+      "width": 67.4454345703125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "July 2011 – Dec 2013",
+      "bbox": [
+        452.2314147949219,
+        161.39141845703125,
+        542.4600219726562,
+        172.2884521484375
+      ],
+      "left_indent": 452.2314147949219,
+      "width": 90.22860717773438,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Pune, INDIA",
+      "bbox": [
+        486.6748046875,
+        183.471435546875,
+        542.4600219726562,
+        194.36846923828125
+      ],
+      "left_indent": 486.6748046875,
+      "width": 55.78521728515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Oct 2008– July 2009",
+      "bbox": [
+        456.3916015625,
+        194.27142333984375,
+        542.4600219726562,
+        205.16845703125
+      ],
+      "left_indent": 456.3916015625,
+      "width": 86.06842041015625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Pune, INDIA",
+      "bbox": [
+        486.6748046875,
+        216.3514404296875,
+        542.4600219726562,
+        227.24847412109375
+      ],
+      "left_indent": 486.6748046875,
+      "width": 55.78521728515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "July 2004– July 2007",
+      "bbox": [
+        454.1601867675781,
+        227.39141845703125,
+        542.4600219726562,
+        238.2884521484375
+      ],
+      "left_indent": 454.1601867675781,
+      "width": 88.29983520507812,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Woburn, MA",
+      "bbox": [
+        486.11810302734375,
+        300.8314514160156,
+        542.4600219726562,
+        311.7284851074219
+      ],
+      "left_indent": 486.11810302734375,
+      "width": 56.3419189453125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Jan 2017-Jan 2017",
+      "bbox": [
+        465.00970458984375,
+        311.8714599609375,
+        542.4600219726562,
+        322.76849365234375
+      ],
+      "left_indent": 465.00970458984375,
+      "width": 77.4503173828125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Peoria, IL",
+      "bbox": [
+        500.01458740234375,
+        344.7514343261719,
+        542.4600219726562,
+        355.6484680175781
+      ],
+      "left_indent": 500.01458740234375,
+      "width": 42.4454345703125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Dec 2013-July 2016",
+      "bbox": [
+        458.90130615234375,
+        355.79144287109375,
+        542.4600219726562,
+        366.6884765625
+      ],
+      "left_indent": 458.90130615234375,
+      "width": 83.5587158203125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Pune, INDIA",
+      "bbox": [
+        486.6748046875,
+        438.5914306640625,
+        542.4600219726562,
+        449.48846435546875
+      ],
+      "left_indent": 486.6748046875,
+      "width": 55.78521728515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "July 2010 – June 2011",
+      "bbox": [
+        450.0,
+        449.6314392089844,
+        542.4600219726562,
+        460.5284729003906
+      ],
+      "left_indent": 450.0,
+      "width": 92.46002197265625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Pune, INDIA",
+      "bbox": [
+        486.6748046875,
+        532.4314575195312,
+        542.4600219726562,
+        543.3284912109375
+      ],
+      "left_indent": 486.6748046875,
+      "width": 55.78521728515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Aug 2009 – June 2010",
+      "bbox": [
+        449.4482116699219,
+        543.471435546875,
+        542.4600219726562,
+        554.3684692382812
+      ],
+      "left_indent": 449.4482116699219,
+      "width": 93.01181030273438,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Pune, INDIA",
+      "bbox": [
+        486.6748046875,
+        614.991455078125,
+        542.4600219726562,
+        625.8884887695312
+      ],
+      "left_indent": 486.6748046875,
+      "width": 55.78521728515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Aug 2007 – Sep 2008",
+      "bbox": [
+        452.7782897949219,
+        626.0314331054688,
+        542.4600219726562,
+        636.928466796875
+      ],
+      "left_indent": 452.7782897949219,
+      "width": 89.68173217773438,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    }
+  ],
+  "text_per_page": [
+    "AMARDEEP SIDHU\nhttps://www.linkedin.com/in/ad7pm2\nEDUCATION\nMassachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nM.S., System Design and Management\nPurdue University\nSchool of Engineering\nM. S., Mechanical Engineering (Mechatronics)\nPune University\nPost Graduate Certification\nCAD CAM & CAE\nPune University\nAISSMS College of Engineering\nB. S., Mechanical Engineering\nRELEVANTSKILLS\nSoftware : SolidWorks, Simulink, LabVIEW, Python, ANSYS, PTC Creo, SysML, Vensim, JMP Pro\nCourses : Project Management, System Architecture, Systems Engineering, Data Mining, Product Design and Development\nEXPERIENCE\nAPTIMA INC.\nCapability Management Extern\nGained gain better understanding of project management, business development, research, and division leadership\n•\nLeveraged data mining to analyze and provide feedback on real world multi-class classification opportunity\n•\nSERVO TECH INC. ON-SITE AT CATERPILLAR INC.\nTest Engineer\nSupported system level machine software testing with focus on powertrain, implements, engine, display, and telematics\n•\nsubsystems\nDeveloped plant and I/O models to support real time testing of Electronic Control Modules (ECMs)\n•\nDesigned, developed, and maintained machine software test procedures for existing and future requirements\n•\nDeveloped expertise in vehicle communication system – Controller Area Network (CAN) - J1939 data transfer protocols\n•\nand Caterpillar proprietary Cat Data Link\nSORTIMAT TECHNOLOGIES INDIA LTD.\nAssembly Engineer\nLed a team of 9 for engineering, assembly and installation of industrial automation machinery\n•\nConducted feasibility analysis of machinery specifications and assisted sales team in setting client expectations\n•\nLeveraged and enhanced industry standard German designs for developing assembly line feeding solutions, oversaw\n•\nmanufacturing of individual parts, assembled, installed and troubleshot machinery\nDelivered high quality solutions for over 7 major machine orders along with multiple minor products to the diverse\n•\nclients in FMCG, automotive, and medical industry\nREL-METH ENGINEERS & CONSULTANTS\nDesign Engineer\nDesigning, component sizing and assembly of industrial automation machinery based on customer requirements\n•\nSourced standard parts and raw materials to ensure cost effective design, manufacturing, and assembly\n•\nLeveraged in house expertise to design and support custom linkages and actuators\n•\nSupported 4 tailor made machines from design to installation and operator training for a major international consumer\n•\nproduct manufacturer\nCADBURY INDIA LTD\nTrainee Engineer - Plant Maintenance\nScheduled preventive maintenance and promptly addressed and resolved machine breakdowns\n•\nImplemented safety measures including machine guards, lock and tag to enforce accident prevention\n•\nApplied lean methodology for eliminating resource wastage and continuous improvement in the factory\n•\nParticipated in major production enhancement initiatives by setting up cutting edge machinery in the factory\n•\nPUBLICATIONS\n5 first author, 1 poster\n•\nCambridge, MA\nFall 2016 - Current\nIndianapolis, IN\nJuly 2011 – Dec 2013\nPune, INDIA\nOct 2008– July 2009\nPune, INDIA\nJuly 2004– July 2007\nWoburn, MA\nJan 2017-Jan 2017\nPeoria, IL\nDec 2013-July 2016\nPune, INDIA\nJuly 2010 – June 2011\nPune, INDIA\nAug 2009 – June 2010\nPune, INDIA\nAug 2007 – Sep 2008"
+  ],
+  "text_all": "AMARDEEP SIDHU\nhttps://www.linkedin.com/in/ad7pm2\nEDUCATION\nMassachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nM.S., System Design and Management\nPurdue University\nSchool of Engineering\nM. S., Mechanical Engineering (Mechatronics)\nPune University\nPost Graduate Certification\nCAD CAM & CAE\nPune University\nAISSMS College of Engineering\nB. S., Mechanical Engineering\nRELEVANTSKILLS\nSoftware : SolidWorks, Simulink, LabVIEW, Python, ANSYS, PTC Creo, SysML, Vensim, JMP Pro\nCourses : Project Management, System Architecture, Systems Engineering, Data Mining, Product Design and Development\nEXPERIENCE\nAPTIMA INC.\nCapability Management Extern\nGained gain better understanding of project management, business development, research, and division leadership\n•\nLeveraged data mining to analyze and provide feedback on real world multi-class classification opportunity\n•\nSERVO TECH INC. ON-SITE AT CATERPILLAR INC.\nTest Engineer\nSupported system level machine software testing with focus on powertrain, implements, engine, display, and telematics\n•\nsubsystems\nDeveloped plant and I/O models to support real time testing of Electronic Control Modules (ECMs)\n•\nDesigned, developed, and maintained machine software test procedures for existing and future requirements\n•\nDeveloped expertise in vehicle communication system – Controller Area Network (CAN) - J1939 data transfer protocols\n•\nand Caterpillar proprietary Cat Data Link\nSORTIMAT TECHNOLOGIES INDIA LTD.\nAssembly Engineer\nLed a team of 9 for engineering, assembly and installation of industrial automation machinery\n•\nConducted feasibility analysis of machinery specifications and assisted sales team in setting client expectations\n•\nLeveraged and enhanced industry standard German designs for developing assembly line feeding solutions, oversaw\n•\nmanufacturing of individual parts, assembled, installed and troubleshot machinery\nDelivered high quality solutions for over 7 major machine orders along with multiple minor products to the diverse\n•\nclients in FMCG, automotive, and medical industry\nREL-METH ENGINEERS & CONSULTANTS\nDesign Engineer\nDesigning, component sizing and assembly of industrial automation machinery based on customer requirements\n•\nSourced standard parts and raw materials to ensure cost effective design, manufacturing, and assembly\n•\nLeveraged in house expertise to design and support custom linkages and actuators\n•\nSupported 4 tailor made machines from design to installation and operator training for a major international consumer\n•\nproduct manufacturer\nCADBURY INDIA LTD\nTrainee Engineer - Plant Maintenance\nScheduled preventive maintenance and promptly addressed and resolved machine breakdowns\n•\nImplemented safety measures including machine guards, lock and tag to enforce accident prevention\n•\nApplied lean methodology for eliminating resource wastage and continuous improvement in the factory\n•\nParticipated in major production enhancement initiatives by setting up cutting edge machinery in the factory\n•\nPUBLICATIONS\n5 first author, 1 poster\n•\nCambridge, MA\nFall 2016 - Current\nIndianapolis, IN\nJuly 2011 – Dec 2013\nPune, INDIA\nOct 2008– July 2009\nPune, INDIA\nJuly 2004– July 2007\nWoburn, MA\nJan 2017-Jan 2017\nPeoria, IL\nDec 2013-July 2016\nPune, INDIA\nJuly 2010 – June 2011\nPune, INDIA\nAug 2009 – June 2010\nPune, INDIA\nAug 2007 – Sep 2008"
+}

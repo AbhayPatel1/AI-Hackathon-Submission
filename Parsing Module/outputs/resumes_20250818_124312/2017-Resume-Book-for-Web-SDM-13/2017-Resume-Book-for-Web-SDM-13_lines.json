@@ -1,0 +1,1426 @@
+{
+  "meta": {
+    "source_path": "data/resumes/2017-Resume-Book-for-Web-SDM-13.pdf",
+    "pages": 1
+  },
+  "lines": [
+    {
+      "page": 1,
+      "text": "Ben Linville-Engler | linkedin.com/in/ben-l-e",
+      "bbox": [
+        54.0,
+        53.355712890625,
+        294.8827819824219,
+        68.77102661132812
+      ],
+      "left_indent": 54.0,
+      "width": 240.88278198242188,
+      "is_bold": true,
+      "font_size": 12.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "EDUCATION",
+      "bbox": [
+        54.0,
+        78.8314208984375,
+        117.57820129394531,
+        89.72845458984375
+      ],
+      "left_indent": 54.0,
+      "width": 63.57820129394531,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Massachusetts Institute of Technology",
+      "bbox": [
+        54.0,
+        89.8714599609375,
+        216.92774963378906,
+        100.76849365234375
+      ],
+      "left_indent": 54.0,
+      "width": 162.92774963378906,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Cambridge, MA",
+      "bbox": [
+        492.4530944824219,
+        89.8714599609375,
+        560.4600219726562,
+        100.76849365234375
+      ],
+      "left_indent": 492.4530944824219,
+      "width": 68.00692749023438,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "School of Engineering & Sloan School of Management",
+      "bbox": [
+        54.0,
+        100.91143798828125,
+        276.15240478515625,
+        111.8084716796875
+      ],
+      "left_indent": 54.0,
+      "width": 222.15240478515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Aug 2016 – Jan 2018 (expected)",
+      "bbox": [
+        425.2558898925781,
+        100.91143798828125,
+        560.4600219726562,
+        111.8084716796875
+      ],
+      "left_indent": 425.2558898925781,
+      "width": 135.20413208007812,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "M.S., System Design and Management",
+      "bbox": [
+        54.0,
+        111.951416015625,
+        212.8321075439453,
+        122.84844970703125
+      ],
+      "left_indent": 54.0,
+      "width": 158.8321075439453,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "MIT/The Engine Working Group, Sloan Senate, GEL Program Mentor, BloomerTech Advisor, Hacking Medicine",
+      "bbox": [
+        72.0,
+        122.991455078125,
+        532.1309204101562,
+        133.88848876953125
+      ],
+      "left_indent": 72.0,
+      "width": 460.13092041015625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        54.0,
+        124.86048126220703,
+        58.52601623535156,
+        134.7004852294922
+      ],
+      "left_indent": 54.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "University of Colorado",
+      "bbox": [
+        54.0,
+        139.79144287109375,
+        151.6708526611328,
+        150.6884765625
+      ],
+      "left_indent": 54.0,
+      "width": 97.67085266113281,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Boulder, CO",
+      "bbox": [
+        506.8916015625,
+        139.79144287109375,
+        560.4600219726562,
+        150.6884765625
+      ],
+      "left_indent": 506.8916015625,
+      "width": 53.56842041015625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "School of Engineering",
+      "bbox": [
+        54.0,
+        150.8314208984375,
+        145.88870239257812,
+        161.72845458984375
+      ],
+      "left_indent": 54.0,
+      "width": 91.88870239257812,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Aug 2003 – May 2007",
+      "bbox": [
+        467.4482116699219,
+        150.8314208984375,
+        560.4600219726562,
+        161.72845458984375
+      ],
+      "left_indent": 467.4482116699219,
+      "width": 93.01181030273438,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "B.S., Mechanical Engineering, Biomedical Option",
+      "bbox": [
+        54.0,
+        161.8714599609375,
+        258.0810852050781,
+        172.76849365234375
+      ],
+      "left_indent": 54.0,
+      "width": 204.08108520507812,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Minor Biochemistry",
+      "bbox": [
+        54.0,
+        172.91143798828125,
+        137.84181213378906,
+        183.8084716796875
+      ],
+      "left_indent": 54.0,
+      "width": 83.84181213378906,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "EXPERIENCE",
+      "bbox": [
+        54.0,
+        189.951416015625,
+        122.02639770507812,
+        200.84844970703125
+      ],
+      "left_indent": 54.0,
+      "width": 68.02639770507812,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Applied Medical",
+      "bbox": [
+        54.0,
+        200.991455078125,
+        124.75385284423828,
+        211.88848876953125
+      ],
+      "left_indent": 54.0,
+      "width": 70.75385284423828,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "A new generation medical device company committed to improving the quality, affordability, and accessibility of healthcare .",
+      "bbox": [
+        54.0,
+        210.66714477539062,
+        559.5540771484375,
+        222.6884765625
+      ],
+      "left_indent": 54.0,
+      "width": 505.5540771484375,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Applied Medical Europe | Amersfoort, Netherlands",
+      "bbox": [
+        54.0,
+        228.8314208984375,
+        267.8808898925781,
+        239.72845458984375
+      ],
+      "left_indent": 54.0,
+      "width": 213.88088989257812,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Vice President, Product Development and Engineering - Europe",
+      "bbox": [
+        54.0,
+        239.8714599609375,
+        329.775390625,
+        250.76849365234375
+      ],
+      "left_indent": 54.0,
+      "width": 275.775390625,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "January 2015 – August 2016",
+      "bbox": [
+        436.8721008300781,
+        239.8714599609375,
+        557.9190673828125,
+        250.76849365234375
+      ],
+      "left_indent": 436.8721008300781,
+      "width": 121.04696655273438,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Enabled the expansion of Applied Medical Europe from a sales and distribution organization to include medical device",
+      "bbox": [
+        72.0,
+        250.91143798828125,
+        551.1202392578125,
+        261.8084716796875
+      ],
+      "left_indent": 72.0,
+      "width": 479.1202392578125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        54.0,
+        252.78045654296875,
+        58.52601623535156,
+        262.6204528808594
+      ],
+      "left_indent": 54.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "design, equipment service, and manufacturing in coordination with US teams.",
+      "bbox": [
+        72.0,
+        261.951416015625,
+        386.05657958984375,
+        272.84844970703125
+      ],
+      "left_indent": 72.0,
+      "width": 314.05657958984375,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Supported the European sales teams by working directly with surgeons, nurses, biomedical engineers, and other decision",
+      "bbox": [
+        72.0,
+        272.991455078125,
+        557.5986938476562,
+        283.88848876953125
+      ],
+      "left_indent": 72.0,
+      "width": 485.59869384765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        54.0,
+        274.8604736328125,
+        58.52601623535156,
+        284.7004699707031
+      ],
+      "left_indent": 54.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "makers within hospitals and group purchasing organizations to enable new, and maintain existing, sales.",
+      "bbox": [
+        72.0,
+        283.79144287109375,
+        491.03228759765625,
+        294.6884765625
+      ],
+      "left_indent": 72.0,
+      "width": 419.03228759765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Defined and implemented field data collection process to establish analysis of qualitative usage data and quantitative",
+      "bbox": [
+        72.0,
+        294.8314514160156,
+        541.81103515625,
+        305.7284851074219
+      ],
+      "left_indent": 72.0,
+      "width": 469.81103515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        54.0,
+        296.7004699707031,
+        58.52601623535156,
+        306.54046630859375
+      ],
+      "left_indent": 54.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "system performance data for the Voyant product line, leading to significant product improvements.",
+      "bbox": [
+        72.0,
+        305.8714599609375,
+        470.470703125,
+        316.76849365234375
+      ],
+      "left_indent": 72.0,
+      "width": 398.470703125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Applied Medical Resources | Rancho Santa Margarita, CA",
+      "bbox": [
+        54.0,
+        322.91143798828125,
+        296.19140625,
+        333.8084716796875
+      ],
+      "left_indent": 54.0,
+      "width": 242.19140625,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Vice President, Technology and Development – Electrical Systems",
+      "bbox": [
+        54.0,
+        333.9514465332031,
+        338.09088134765625,
+        344.8484802246094
+      ],
+      "left_indent": 54.0,
+      "width": 284.09088134765625,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "September 2011",
+      "bbox": [
+        489.4013977050781,
+        333.9514465332031,
+        557.9190673828125,
+        344.8484802246094
+      ],
+      "left_indent": 489.4013977050781,
+      "width": 68.51766967773438,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Defined, built, and led a new organization focused on the development of medical electrical systems resulting in the",
+      "bbox": [
+        72.0,
+        344.991455078125,
+        538.4881591796875,
+        355.88848876953125
+      ],
+      "left_indent": 72.0,
+      "width": 466.4881591796875,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        54.0,
+        346.8604736328125,
+        58.52601623535156,
+        356.7004699707031
+      ],
+      "left_indent": 54.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "hiring of 50 new team members in approximately 2 years.",
+      "bbox": [
+        72.0,
+        355.79144287109375,
+        306.06640625,
+        366.6884765625
+      ],
+      "left_indent": 72.0,
+      "width": 234.06640625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Defined and led the expansion effort of the existing quality system (ISO 13485) to include medical electrical equipment",
+      "bbox": [
+        72.0,
+        366.8314514160156,
+        554.1015014648438,
+        377.7284851074219
+      ],
+      "left_indent": 72.0,
+      "width": 482.10150146484375,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        54.0,
+        368.7004699707031,
+        58.52601623535156,
+        378.54046630859375
+      ],
+      "left_indent": 54.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "product development and manufacturing.",
+      "bbox": [
+        72.0,
+        377.8714599609375,
+        239.4112091064453,
+        388.76849365234375
+      ],
+      "left_indent": 72.0,
+      "width": 167.4112091064453,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Maintained the division budget ($15M), resource plans, and organizational plans. Including resource matrix",
+      "bbox": [
+        72.0,
+        388.91143798828125,
+        508.25262451171875,
+        399.8084716796875
+      ],
+      "left_indent": 72.0,
+      "width": 436.25262451171875,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        54.0,
+        390.78045654296875,
+        58.52601623535156,
+        400.6204528808594
+      ],
+      "left_indent": 54.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "assignments, project/product prioritization, product development timelines, cost estimates, facilities planning, and",
+      "bbox": [
+        72.0,
+        399.9514465332031,
+        530.0878295898438,
+        410.8484802246094
+      ],
+      "left_indent": 72.0,
+      "width": 458.08782958984375,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "product/feature feasibility studies.",
+      "bbox": [
+        72.0,
+        410.991455078125,
+        215.81741333007812,
+        421.88848876953125
+      ],
+      "left_indent": 72.0,
+      "width": 143.81741333007812,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Coordinated cross-functional product development between Engineering, Clinical Marketing, Regulatory, and Quality",
+      "bbox": [
+        72.0,
+        421.79144287109375,
+        547.3794555664062,
+        432.6884765625
+      ],
+      "left_indent": 72.0,
+      "width": 475.37945556640625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        54.0,
+        423.66046142578125,
+        58.52601623535156,
+        433.5004577636719
+      ],
+      "left_indent": 54.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Systems teams by providing project management, direction, and leadership for product lifecycle.",
+      "bbox": [
+        72.0,
+        432.8314514160156,
+        461.5791015625,
+        443.7284851074219
+      ],
+      "left_indent": 72.0,
+      "width": 389.5791015625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Culminated in launch of the Voyant Electrosurgical System; targeted at a $3B market segment with potential revenue",
+      "bbox": [
+        72.0,
+        443.8714599609375,
+        544.0861206054688,
+        454.76849365234375
+      ],
+      "left_indent": 72.0,
+      "width": 472.08612060546875,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        54.0,
+        445.740478515625,
+        58.52601623535156,
+        455.5804748535156
+      ],
+      "left_indent": 54.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "gains of up to 5 times company’s annual revenue.",
+      "bbox": [
+        72.0,
+        454.91143798828125,
+        273.0245056152344,
+        465.8084716796875
+      ],
+      "left_indent": 72.0,
+      "width": 201.02450561523438,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Director, Technology and Development",
+      "bbox": [
+        54.0,
+        471.9514465332031,
+        224.2139129638672,
+        482.8484802246094
+      ],
+      "left_indent": 54.0,
+      "width": 170.2139129638672,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "February 2010",
+      "bbox": [
+        494.9530944824219,
+        471.9514465332031,
+        557.9190673828125,
+        482.8484802246094
+      ],
+      "left_indent": 494.9530944824219,
+      "width": 62.965972900390625,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Led team design of new products and development of prototype electrosurgical generator with contract developer.",
+      "bbox": [
+        72.0,
+        482.991455078125,
+        531.2470092773438,
+        493.88848876953125
+      ],
+      "left_indent": 72.0,
+      "width": 459.24700927734375,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        54.0,
+        484.8604736328125,
+        58.52601623535156,
+        494.7004699707031
+      ],
+      "left_indent": 54.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Continuously grew and trained team with focus on electrosurgical product development for laparoscopic procedures.",
+      "bbox": [
+        72.0,
+        493.79144287109375,
+        541.544921875,
+        504.6884765625
+      ],
+      "left_indent": 72.0,
+      "width": 469.544921875,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        54.0,
+        495.66046142578125,
+        58.52601623535156,
+        505.5004577636719
+      ],
+      "left_indent": 54.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Manager, Technology and Development",
+      "bbox": [
+        54.0,
+        510.8314208984375,
+        227.0069122314453,
+        521.7284545898438
+      ],
+      "left_indent": 54.0,
+      "width": 173.0069122314453,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "August 2008",
+      "bbox": [
+        504.93359375,
+        510.8314208984375,
+        557.9190673828125,
+        521.7284545898438
+      ],
+      "left_indent": 504.93359375,
+      "width": 52.9854736328125,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Coordinated the implementation of product development plans, schedules, and designs throughout product lifecycle.",
+      "bbox": [
+        72.0,
+        521.8714599609375,
+        540.1875,
+        532.7684936523438
+      ],
+      "left_indent": 72.0,
+      "width": 468.1875,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        54.0,
+        523.740478515625,
+        58.52601623535156,
+        533.5805053710938
+      ],
+      "left_indent": 54.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Reorganized development team structure to better utilize resources and enable technical development of less experienced",
+      "bbox": [
+        72.0,
+        532.9114379882812,
+        559.286376953125,
+        543.8084716796875
+      ],
+      "left_indent": 72.0,
+      "width": 487.286376953125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        54.0,
+        534.7804565429688,
+        58.52601623535156,
+        544.6204833984375
+      ],
+      "left_indent": 54.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "engineers by redistributing experienced engineers across development teams.",
+      "bbox": [
+        72.0,
+        543.951416015625,
+        383.2392883300781,
+        554.8484497070312
+      ],
+      "left_indent": 72.0,
+      "width": 311.2392883300781,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Product Development Engineer, Technology and Development",
+      "bbox": [
+        54.0,
+        560.991455078125,
+        322.5538024902344,
+        571.8884887695312
+      ],
+      "left_indent": 54.0,
+      "width": 268.5538024902344,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "February 2008",
+      "bbox": [
+        494.9530944824219,
+        560.991455078125,
+        557.9190673828125,
+        571.8884887695312
+      ],
+      "left_indent": 494.9530944824219,
+      "width": 62.965972900390625,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Worked within a mechanical engineering team responsible for the design of laparoscopic instruments.",
+      "bbox": [
+        72.0,
+        571.7914428710938,
+        487.3945007324219,
+        582.6884765625
+      ],
+      "left_indent": 72.0,
+      "width": 415.3945007324219,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        54.0,
+        573.6604614257812,
+        58.52601623535156,
+        583.50048828125
+      ],
+      "left_indent": 54.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Coordinated with material vendors, tooling designers, manufacturing, and planning to bring designs into production.",
+      "bbox": [
+        72.0,
+        582.8314208984375,
+        542.7120361328125,
+        593.7284545898438
+      ],
+      "left_indent": 72.0,
+      "width": 470.7120361328125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        54.0,
+        584.700439453125,
+        58.52601623535156,
+        594.5404663085938
+      ],
+      "left_indent": 54.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "MANUFACTURING TRAINING",
+      "bbox": [
+        54.0,
+        599.8714599609375,
+        201.73831176757812,
+        610.7684936523438
+      ],
+      "left_indent": 54.0,
+      "width": 147.73831176757812,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Injection molding, plastic and metal extrusion, sheet metal forming, progressive die stamping, and CNC machining",
+      "bbox": [
+        72.0,
+        610.9114379882812,
+        535.4854125976562,
+        621.8084716796875
+      ],
+      "left_indent": 72.0,
+      "width": 463.48541259765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        54.0,
+        612.7804565429688,
+        58.52601623535156,
+        622.6204833984375
+      ],
+      "left_indent": 54.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "PCB/PCBA processes, electronics product assembly, automated assembly, and cleanroom production.",
+      "bbox": [
+        72.0,
+        621.951416015625,
+        482.99029541015625,
+        632.8484497070312
+      ],
+      "left_indent": 72.0,
+      "width": 410.99029541015625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        54.0,
+        623.8204345703125,
+        58.52601623535156,
+        633.6604614257812
+      ],
+      "left_indent": 54.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Capital equipment post-production service management and customer preventive maintenance",
+      "bbox": [
+        72.0,
+        632.991455078125,
+        452.10650634765625,
+        643.8884887695312
+      ],
+      "left_indent": 72.0,
+      "width": 380.10650634765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        54.0,
+        634.8604736328125,
+        58.52601623535156,
+        644.7005004882812
+      ],
+      "left_indent": 54.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "REGULATORY TRAINING AND SOFTWARE TOOLS",
+      "bbox": [
+        54.0,
+        649.7914428710938,
+        302.6123046875,
+        660.6884765625
+      ],
+      "left_indent": 54.0,
+      "width": 248.6123046875,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "IEC 60601-1 3 rd Ed. Family (UL)",
+      "bbox": [
+        72.0,
+        660.465576171875,
+        208.74661254882812,
+        672.928466796875
+      ],
+      "left_indent": 72.0,
+      "width": 136.74661254882812,
+      "is_bold": false,
+      "font_size": 8.72000010808309
+    },
+    {
+      "page": 1,
+      "text": "Solidworks (MCAD), Altium (ECAD)",
+      "bbox": [
+        255.60009765625,
+        662.0314331054688,
+        412.50347900390625,
+        672.928466796875
+      ],
+      "left_indent": 255.60009765625,
+      "width": 156.90338134765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Software Development/Build",
+      "bbox": [
+        443.2799987792969,
+        662.0314331054688,
+        563.2203979492188,
+        672.928466796875
+      ],
+      "left_indent": 443.2799987792969,
+      "width": 119.94039916992188,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        54.0,
+        663.9004516601562,
+        58.52601623535156,
+        673.740478515625
+      ],
+      "left_indent": 54.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        237.60009765625,
+        663.9004516601562,
+        242.12611389160156,
+        673.740478515625
+      ],
+      "left_indent": 237.60009765625,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        425.2799987792969,
+        663.9004516601562,
+        429.8059997558594,
+        673.740478515625
+      ],
+      "left_indent": 425.2799987792969,
+      "width": 4.5260009765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "ISO 14971 Risk Management (UL)",
+      "bbox": [
+        72.0,
+        674.2714233398438,
+        216.10549926757812,
+        685.16845703125
+      ],
+      "left_indent": 72.0,
+      "width": 144.10549926757812,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "SAP (ERP, MRP, PLM)",
+      "bbox": [
+        255.60009765625,
+        674.2714233398438,
+        355.5893859863281,
+        685.16845703125
+      ],
+      "left_indent": 255.60009765625,
+      "width": 99.98928833007812,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "IAR Workbench",
+      "bbox": [
+        461.2799987792969,
+        674.2714233398438,
+        530.1072387695312,
+        685.16845703125
+      ],
+      "left_indent": 461.2799987792969,
+      "width": 68.82723999023438,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        54.0,
+        676.1404418945312,
+        58.52601623535156,
+        685.98046875
+      ],
+      "left_indent": 54.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        237.60009765625,
+        676.1404418945312,
+        242.12611389160156,
+        685.98046875
+      ],
+      "left_indent": 237.60009765625,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        443.2799987792969,
+        676.1404418945312,
+        447.8059997558594,
+        685.98046875
+      ],
+      "left_indent": 443.2799987792969,
+      "width": 4.5260009765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "IEC 62366 Usability (UL)",
+      "bbox": [
+        72.0,
+        686.5114135742188,
+        179.7237091064453,
+        697.408447265625
+      ],
+      "left_indent": 72.0,
+      "width": 107.72370910644531,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "PTC Integrity (Client and Admin)",
+      "bbox": [
+        255.60009765625,
+        686.5114135742188,
+        394.1537780761719,
+        697.408447265625
+      ],
+      "left_indent": 255.60009765625,
+      "width": 138.55368041992188,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Parasoft, Coverity",
+      "bbox": [
+        461.2799987792969,
+        686.5114135742188,
+        536.5086059570312,
+        697.408447265625
+      ],
+      "left_indent": 461.2799987792969,
+      "width": 75.22860717773438,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        54.0,
+        688.3804321289062,
+        58.52601623535156,
+        698.220458984375
+      ],
+      "left_indent": 54.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        237.60009765625,
+        688.3804321289062,
+        242.12611389160156,
+        698.220458984375
+      ],
+      "left_indent": 237.60009765625,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        443.2799987792969,
+        688.3804321289062,
+        447.8059997558594,
+        698.220458984375
+      ],
+      "left_indent": 443.2799987792969,
+      "width": 4.5260009765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "IEC 62304 Software Development for",
+      "bbox": [
+        72.0,
+        698.7514038085938,
+        227.26141357421875,
+        709.6484375
+      ],
+      "left_indent": 72.0,
+      "width": 155.26141357421875,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Microsoft Office, Projects, and Visio",
+      "bbox": [
+        255.60009765625,
+        698.7514038085938,
+        406.3804016113281,
+        709.6484375
+      ],
+      "left_indent": 255.60009765625,
+      "width": 150.78030395507812,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Jenkins",
+      "bbox": [
+        461.2799987792969,
+        698.7514038085938,
+        493.739990234375,
+        709.6484375
+      ],
+      "left_indent": 461.2799987792969,
+      "width": 32.459991455078125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        54.0,
+        700.6204223632812,
+        58.52601623535156,
+        710.46044921875
+      ],
+      "left_indent": 54.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        237.60009765625,
+        700.6204223632812,
+        242.12611389160156,
+        710.46044921875
+      ],
+      "left_indent": 237.60009765625,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        443.2799987792969,
+        700.6204223632812,
+        447.8059997558594,
+        710.46044921875
+      ],
+      "left_indent": 443.2799987792969,
+      "width": 4.5260009765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Medical Devices",
+      "bbox": [
+        72.0,
+        710.2714233398438,
+        141.9307098388672,
+        721.16845703125
+      ],
+      "left_indent": 72.0,
+      "width": 69.93070983886719,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    }
+  ],
+  "text_per_page": [
+    "Ben Linville-Engler | linkedin.com/in/ben-l-e\nEDUCATION\nMassachusetts Institute of Technology\nCambridge, MA\nSchool of Engineering & Sloan School of Management\nAug 2016 – Jan 2018 (expected)\nM.S., System Design and Management\nMIT/The Engine Working Group, Sloan Senate, GEL Program Mentor, BloomerTech Advisor, Hacking Medicine\n•\nUniversity of Colorado\nBoulder, CO\nSchool of Engineering\nAug 2003 – May 2007\nB.S., Mechanical Engineering, Biomedical Option\nMinor Biochemistry\nEXPERIENCE\nApplied Medical\nA new generation medical device company committed to improving the quality, affordability, and accessibility of healthcare .\nApplied Medical Europe | Amersfoort, Netherlands\nVice President, Product Development and Engineering - Europe\nJanuary 2015 – August 2016\nEnabled the expansion of Applied Medical Europe from a sales and distribution organization to include medical device\n•\ndesign, equipment service, and manufacturing in coordination with US teams.\nSupported the European sales teams by working directly with surgeons, nurses, biomedical engineers, and other decision\n•\nmakers within hospitals and group purchasing organizations to enable new, and maintain existing, sales.\nDefined and implemented field data collection process to establish analysis of qualitative usage data and quantitative\n•\nsystem performance data for the Voyant product line, leading to significant product improvements.\nApplied Medical Resources | Rancho Santa Margarita, CA\nVice President, Technology and Development – Electrical Systems\nSeptember 2011\nDefined, built, and led a new organization focused on the development of medical electrical systems resulting in the\n•\nhiring of 50 new team members in approximately 2 years.\nDefined and led the expansion effort of the existing quality system (ISO 13485) to include medical electrical equipment\n•\nproduct development and manufacturing.\nMaintained the division budget ($15M), resource plans, and organizational plans. Including resource matrix\n•\nassignments, project/product prioritization, product development timelines, cost estimates, facilities planning, and\nproduct/feature feasibility studies.\nCoordinated cross-functional product development between Engineering, Clinical Marketing, Regulatory, and Quality\n•\nSystems teams by providing project management, direction, and leadership for product lifecycle.\nCulminated in launch of the Voyant Electrosurgical System; targeted at a $3B market segment with potential revenue\n•\ngains of up to 5 times company’s annual revenue.\nDirector, Technology and Development\nFebruary 2010\nLed team design of new products and development of prototype electrosurgical generator with contract developer.\n•\nContinuously grew and trained team with focus on electrosurgical product development for laparoscopic procedures.\n•\nManager, Technology and Development\nAugust 2008\nCoordinated the implementation of product development plans, schedules, and designs throughout product lifecycle.\n•\nReorganized development team structure to better utilize resources and enable technical development of less experienced\n•\nengineers by redistributing experienced engineers across development teams.\nProduct Development Engineer, Technology and Development\nFebruary 2008\nWorked within a mechanical engineering team responsible for the design of laparoscopic instruments.\n•\nCoordinated with material vendors, tooling designers, manufacturing, and planning to bring designs into production.\n•\nMANUFACTURING TRAINING\nInjection molding, plastic and metal extrusion, sheet metal forming, progressive die stamping, and CNC machining\n•\nPCB/PCBA processes, electronics product assembly, automated assembly, and cleanroom production.\n•\nCapital equipment post-production service management and customer preventive maintenance\n•\nREGULATORY TRAINING AND SOFTWARE TOOLS\nIEC 60601-1 3 rd Ed. Family (UL)\nSolidworks (MCAD), Altium (ECAD)\nSoftware Development/Build\n•\n•\n•\nISO 14971 Risk Management (UL)\nSAP (ERP, MRP, PLM)\nIAR Workbench\n•\n•\n•\nIEC 62366 Usability (UL)\nPTC Integrity (Client and Admin)\nParasoft, Coverity\n•\n•\n•\nIEC 62304 Software Development for\nMicrosoft Office, Projects, and Visio\nJenkins\n•\n•\n•\nMedical Devices"
+  ],
+  "text_all": "Ben Linville-Engler | linkedin.com/in/ben-l-e\nEDUCATION\nMassachusetts Institute of Technology\nCambridge, MA\nSchool of Engineering & Sloan School of Management\nAug 2016 – Jan 2018 (expected)\nM.S., System Design and Management\nMIT/The Engine Working Group, Sloan Senate, GEL Program Mentor, BloomerTech Advisor, Hacking Medicine\n•\nUniversity of Colorado\nBoulder, CO\nSchool of Engineering\nAug 2003 – May 2007\nB.S., Mechanical Engineering, Biomedical Option\nMinor Biochemistry\nEXPERIENCE\nApplied Medical\nA new generation medical device company committed to improving the quality, affordability, and accessibility of healthcare .\nApplied Medical Europe | Amersfoort, Netherlands\nVice President, Product Development and Engineering - Europe\nJanuary 2015 – August 2016\nEnabled the expansion of Applied Medical Europe from a sales and distribution organization to include medical device\n•\ndesign, equipment service, and manufacturing in coordination with US teams.\nSupported the European sales teams by working directly with surgeons, nurses, biomedical engineers, and other decision\n•\nmakers within hospitals and group purchasing organizations to enable new, and maintain existing, sales.\nDefined and implemented field data collection process to establish analysis of qualitative usage data and quantitative\n•\nsystem performance data for the Voyant product line, leading to significant product improvements.\nApplied Medical Resources | Rancho Santa Margarita, CA\nVice President, Technology and Development – Electrical Systems\nSeptember 2011\nDefined, built, and led a new organization focused on the development of medical electrical systems resulting in the\n•\nhiring of 50 new team members in approximately 2 years.\nDefined and led the expansion effort of the existing quality system (ISO 13485) to include medical electrical equipment\n•\nproduct development and manufacturing.\nMaintained the division budget ($15M), resource plans, and organizational plans. Including resource matrix\n•\nassignments, project/product prioritization, product development timelines, cost estimates, facilities planning, and\nproduct/feature feasibility studies.\nCoordinated cross-functional product development between Engineering, Clinical Marketing, Regulatory, and Quality\n•\nSystems teams by providing project management, direction, and leadership for product lifecycle.\nCulminated in launch of the Voyant Electrosurgical System; targeted at a $3B market segment with potential revenue\n•\ngains of up to 5 times company’s annual revenue.\nDirector, Technology and Development\nFebruary 2010\nLed team design of new products and development of prototype electrosurgical generator with contract developer.\n•\nContinuously grew and trained team with focus on electrosurgical product development for laparoscopic procedures.\n•\nManager, Technology and Development\nAugust 2008\nCoordinated the implementation of product development plans, schedules, and designs throughout product lifecycle.\n•\nReorganized development team structure to better utilize resources and enable technical development of less experienced\n•\nengineers by redistributing experienced engineers across development teams.\nProduct Development Engineer, Technology and Development\nFebruary 2008\nWorked within a mechanical engineering team responsible for the design of laparoscopic instruments.\n•\nCoordinated with material vendors, tooling designers, manufacturing, and planning to bring designs into production.\n•\nMANUFACTURING TRAINING\nInjection molding, plastic and metal extrusion, sheet metal forming, progressive die stamping, and CNC machining\n•\nPCB/PCBA processes, electronics product assembly, automated assembly, and cleanroom production.\n•\nCapital equipment post-production service management and customer preventive maintenance\n•\nREGULATORY TRAINING AND SOFTWARE TOOLS\nIEC 60601-1 3 rd Ed. Family (UL)\nSolidworks (MCAD), Altium (ECAD)\nSoftware Development/Build\n•\n•\n•\nISO 14971 Risk Management (UL)\nSAP (ERP, MRP, PLM)\nIAR Workbench\n•\n•\n•\nIEC 62366 Usability (UL)\nPTC Integrity (Client and Admin)\nParasoft, Coverity\n•\n•\n•\nIEC 62304 Software Development for\nMicrosoft Office, Projects, and Visio\nJenkins\n•\n•\n•\nMedical Devices"
+}

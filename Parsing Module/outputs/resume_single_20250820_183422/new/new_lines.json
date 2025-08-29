@@ -1,0 +1,1034 @@
+{
+  "meta": {
+    "source_path": "data/resume_single/new.pdf",
+    "pages": 1,
+    "strategy": "two_column_first",
+    "interleave": true
+  },
+  "lines": [
+    {
+      "page": 1,
+      "text": "Taro Tanaka",
+      "bbox": [
+        229.11399841308594,
+        28.41006088256836,
+        366.18670654296875,
+        59.04691696166992
+      ],
+      "left_indent": 229.11399841308594,
+      "width": 137.0727081298828,
+      "is_bold": true,
+      "font_size": 24.787099838256836,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Tokyo, Japan",
+      "bbox": [
+        266.3240051269531,
+        54.847721099853516,
+        328.9422302246094,
+        68.22227478027344
+      ],
+      "left_indent": 266.3240051269531,
+      "width": 62.61822509765625,
+      "is_bold": false,
+      "font_size": 10.909099578857422,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "a XXXXXX@gmail.com",
+      "bbox": [
+        58.75,
+        75.20172119140625,
+        179.3641815185547,
+        88.5762710571289
+      ],
+      "left_indent": 58.75,
+      "width": 120.61418151855469,
+      "is_bold": false,
+      "font_size": 10.435849666595459,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Ȳ (+81) XXXXXXXXXX",
+      "bbox": [
+        236.66299438476562,
+        75.20172119140625,
+        358.60296630859375,
+        88.5762710571289
+      ],
+      "left_indent": 236.66299438476562,
+      "width": 121.93997192382812,
+      "is_bold": false,
+      "font_size": 10.435849666595459,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "] linkedin.com/in/XXXXXX",
+      "bbox": [
+        403.8489990234375,
+        75.20172119140625,
+        548.5908813476562,
+        88.5762710571289
+      ],
+      "left_indent": 403.8489990234375,
+      "width": 144.74188232421875,
+      "is_bold": false,
+      "font_size": 10.909099578857422,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "EXPERIENCE",
+      "bbox": [
+        29.76599884033203,
+        103.56430053710938,
+        121.4095230102539,
+        121.29620361328125
+      ],
+      "left_indent": 29.76599884033203,
+      "width": 91.64352416992188,
+      "is_bold": true,
+      "font_size": 14.346199989318848,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "SUMMARY",
+      "bbox": [
+        377.9960021972656,
+        103.56430053710938,
+        456.9288024902344,
+        121.29620361328125
+      ],
+      "left_indent": 377.9960021972656,
+      "width": 78.93280029296875,
+      "is_bold": true,
+      "font_size": 14.346199989318848,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "AAA Company . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "bbox": [
+        29.76599884033203,
+        128.52989196777344,
+        360.0365905761719,
+        143.3065185546875
+      ],
+      "left_indent": 29.76599884033203,
+      "width": 330.27059173583984,
+      "is_bold": true,
+      "font_size": 9.962650060653687,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Skilled data scientist specializing in machine learning and financial engi-",
+      "bbox": [
+        377.9960021972656,
+        129.4207305908203,
+        567.3126220703125,
+        156.3442840576172
+      ],
+      "left_indent": 377.9960021972656,
+      "width": 187.51669311523438,
+      "is_bold": false,
+      "font_size": 10.909099578857422,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Data Scientist and Engineer",
+      "bbox": [
+        29.76599884033203,
+        142.29454040527344,
+        154.5115509033203,
+        155.88726806640625
+      ],
+      "left_indent": 29.76599884033203,
+      "width": 124.74555206298828,
+      "is_bold": false,
+      "font_size": 10.909099578857422,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Jul 2020 - Jun 2023, Tokyo, Japan",
+      "bbox": [
+        214.06399536132812,
+        142.29454040527344,
+        361.9150085449219,
+        155.88726806640625
+      ],
+      "left_indent": 214.06399536132812,
+      "width": 147.85101318359375,
+      "is_bold": false,
+      "font_size": 10.909099578857422,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "neering with 4 years of experience. Per-",
+      "bbox": [
+        377.9960021972656,
+        156.5197296142578,
+        567.3344116210938,
+        169.894287109375
+      ],
+      "left_indent": 377.9960021972656,
+      "width": 189.33840942382812,
+      "is_bold": false,
+      "font_size": 10.909099578857422,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Acceleration of Multivariate Testing",
+      "bbox": [
+        29.339996337890625,
+        160.177978515625,
+        209.02377319335938,
+        173.66163635253906
+      ],
+      "left_indent": 29.339996337890625,
+      "width": 179.68377685546875,
+      "is_bold": true,
+      "font_size": 10.909099578857422,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "sistent dedication, analytical prowess",
+      "bbox": [
+        377.9960021972656,
+        170.0687255859375,
+        565.5234985351562,
+        183.4432830810547
+      ],
+      "left_indent": 377.9960021972656,
+      "width": 187.52749633789062,
+      "is_bold": false,
+      "font_size": 10.909099578857422,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "- Led team of 7 in collaborative project with the UI/UX team to enhance multivariate testing processes. and strong soft skills for fostering collaborative work relationships.",
+      "bbox": [
+        31.58700180053711,
+        173.64073181152344,
+        363.7370300292969,
+        210.54127502441406
+      ],
+      "left_indent": 31.58700180053711,
+      "width": 332.15002822875977,
+      "is_bold": false,
+      "font_size": 10.909099578857422,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "- Developed and implemented mathematical models to address UI/UX challenges, translating academic research into Python code.",
+      "bbox": [
+        31.58700180053711,
+        200.7387237548828,
+        361.9370422363281,
+        227.6622772216797
+      ],
+      "left_indent": 31.58700180053711,
+      "width": 330.350040435791,
+      "is_bold": false,
+      "font_size": 10.909099578857422,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "SKILLS",
+      "bbox": [
+        377.9960021972656,
+        224.76429748535156,
+        429.8001403808594,
+        242.49620056152344
+      ],
+      "left_indent": 377.9960021972656,
+      "width": 51.80413818359375,
+      "is_bold": true,
+      "font_size": 14.346199989318848,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "- Optimized web application testing by applying \"best arm identification\" algorithm from multiarmed bandit theory, reducing the number of test patterns and improving conversion rates by 8%. Python, C++",
+      "bbox": [
+        31.58700180053711,
+        227.8367156982422,
+        363.737060546875,
+        268.3102722167969
+      ],
+      "left_indent": 31.58700180053711,
+      "width": 332.1500587463379,
+      "is_bold": false,
+      "font_size": 10.909099578857422,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Back End",
+      "bbox": [
+        377.9960021972656,
+        247.63897705078125,
+        424.9596862792969,
+        261.12261962890625
+      ],
+      "left_indent": 377.9960021972656,
+      "width": 46.96368408203125,
+      "is_bold": true,
+      "font_size": 10.909099578857422,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "HTML, CSS, JavaScript",
+      "bbox": [
+        440.3240051269531,
+        261.1017150878906,
+        552.0440673828125,
+        274.4762878417969
+      ],
+      "left_indent": 440.3240051269531,
+      "width": 111.72006225585938,
+      "is_bold": false,
+      "font_size": 10.909099578857422,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Front End",
+      "bbox": [
+        377.9960021972656,
+        261.1889953613281,
+        427.3924255371094,
+        274.6726379394531
+      ],
+      "left_indent": 377.9960021972656,
+      "width": 49.39642333984375,
+      "is_bold": true,
+      "font_size": 10.909099578857422,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Recommendation System for Real Estate Webpages",
+      "bbox": [
+        29.76599884033203,
+        271.406982421875,
+        284.99530029296875,
+        284.890625
+      ],
+      "left_indent": 29.76599884033203,
+      "width": 255.22930145263672,
+      "is_bold": true,
+      "font_size": 10.909099578857422,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "BigQuery, Oracle",
+      "bbox": [
+        440.3240051269531,
+        274.65069580078125,
+        522.8077392578125,
+        288.0252685546875
+      ],
+      "left_indent": 440.3240051269531,
+      "width": 82.48373413085938,
+      "is_bold": false,
+      "font_size": 10.909099578857422,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "DBMS",
+      "bbox": [
+        377.9960021972656,
+        274.73797607421875,
+        411.9342041015625,
+        288.22161865234375
+      ],
+      "left_indent": 377.9960021972656,
+      "width": 33.938201904296875,
+      "is_bold": true,
+      "font_size": 10.909099578857422,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "- Developed machine learning API to provide personalized property recommendations on real estate webpages, enhancing user experience by aligning suggestions with customer preferences. macOS, Linux(CentOS)",
+      "bbox": [
+        31.58700180053711,
+        284.86871337890625,
+        362.36248779296875,
+        325.3412780761719
+      ],
+      "left_indent": 31.58700180053711,
+      "width": 330.77548599243164,
+      "is_bold": false,
+      "font_size": 10.909099578857422,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "OS",
+      "bbox": [
+        377.9960021972656,
+        288.2869873046875,
+        393.7487487792969,
+        301.7706298828125
+      ],
+      "left_indent": 377.9960021972656,
+      "width": 15.75274658203125,
+      "is_bold": true,
+      "font_size": 10.909099578857422,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Docker, GitLab, GitLab CI",
+      "bbox": [
+        440.3240051269531,
+        301.74871826171875,
+        565.5059814453125,
+        315.123291015625
+      ],
+      "left_indent": 440.3240051269531,
+      "width": 125.18197631835938,
+      "is_bold": false,
+      "font_size": 10.909099578857422,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "DevOps",
+      "bbox": [
+        377.9960021972656,
+        301.83599853515625,
+        419.1996765136719,
+        315.31964111328125
+      ],
+      "left_indent": 377.9960021972656,
+      "width": 41.20367431640625,
+      "is_bold": true,
+      "font_size": 10.909099578857422,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "AWS, GCP, L A TEX",
+      "bbox": [
+        440.3240051269531,
+        315.29766845703125,
+        521.5383911132812,
+        331.23126220703125
+      ],
+      "left_indent": 440.3240051269531,
+      "width": 81.21438598632812,
+      "is_bold": false,
+      "font_size": 9.929433027903238,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Misc.",
+      "bbox": [
+        377.9960021972656,
+        315.3849792480469,
+        404.95233154296875,
+        328.8686218261719
+      ],
+      "left_indent": 377.9960021972656,
+      "width": 26.956329345703125,
+      "is_bold": true,
+      "font_size": 10.909099578857422,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "- Chose LightGBM for the recommendation engine due to its compatibility with BigQuery data, achieving 5% increase in recall@5 compared to existing models. Resilience, Attentiveness",
+      "bbox": [
+        31.58700180053711,
+        325.5157165527344,
+        363.737060546875,
+        365.9892883300781
+      ],
+      "left_indent": 31.58700180053711,
+      "width": 332.1500587463379,
+      "is_bold": false,
+      "font_size": 10.909099578857422,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Soft Skills",
+      "bbox": [
+        377.99603271484375,
+        328.9349670410156,
+        430.4033203125,
+        342.4186096191406
+      ],
+      "left_indent": 377.99603271484375,
+      "width": 52.40728759765625,
+      "is_bold": true,
+      "font_size": 10.909099578857422,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "EDUCATION",
+      "bbox": [
+        377.9960021972656,
+        353.61529541015625,
+        469.13739013671875,
+        371.3471984863281
+      ],
+      "left_indent": 377.9960021972656,
+      "width": 91.14138793945312,
+      "is_bold": true,
+      "font_size": 14.346199989318848,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Data Validation System",
+      "bbox": [
+        29.76599884033203,
+        369.08599853515625,
+        147.31155395507812,
+        382.56964111328125
+      ],
+      "left_indent": 29.76599884033203,
+      "width": 117.5455551147461,
+      "is_bold": true,
+      "font_size": 10.909099578857422,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "AAA University",
+      "bbox": [
+        377.9960021972656,
+        379.5409851074219,
+        458.90875244140625,
+        393.0246276855469
+      ],
+      "left_indent": 377.9960021972656,
+      "width": 80.91275024414062,
+      "is_bold": true,
+      "font_size": 10.909099578857422,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Tokyo, Japan",
+      "bbox": [
+        500.64501953125,
+        379.5409851074219,
+        565.5105590820312,
+        393.0246276855469
+      ],
+      "left_indent": 500.64501953125,
+      "width": 64.86553955078125,
+      "is_bold": true,
+      "font_size": 10.909099578857422,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "- Participated in developing system to detect data anomalies that could impair machine learning models, including recommendation systems, preventing significant profit loss. Master of Science - Mathematics GPA: 3.75/4.00, BBB University",
+      "bbox": [
+        31.58700180053711,
+        382.5476989746094,
+        361.9261779785156,
+        443.5936279296875
+      ],
+      "left_indent": 31.58700180053711,
+      "width": 330.3391761779785,
+      "is_bold": false,
+      "font_size": 10.909099578857422,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "- Implemented wrapper interfacefor AWS Deequ, the core module of system, and developed extensions for various use cases in Scala.",
+      "bbox": [
+        31.58700180053711,
+        423.1947021484375,
+        361.92620849609375,
+        450.1192626953125
+      ],
+      "left_indent": 31.58700180053711,
+      "width": 330.33920669555664,
+      "is_bold": false,
+      "font_size": 10.909099578857422,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Tokyo, Japan",
+      "bbox": [
+        500.64501953125,
+        430.1099853515625,
+        565.5105590820312,
+        443.5936279296875
+      ],
+      "left_indent": 500.64501953125,
+      "width": 64.86553955078125,
+      "is_bold": true,
+      "font_size": 10.909099578857422,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Bachelor of Science - Mathematics",
+      "bbox": [
+        377.65802001953125,
+        443.61151123046875,
+        527.527099609375,
+        457.2042541503906
+      ],
+      "left_indent": 377.65802001953125,
+      "width": 149.86907958984375,
+      "is_bold": false,
+      "font_size": 10.909099578857422,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "BBB company . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "bbox": [
+        29.76599884033203,
+        460.1878967285156,
+        360.0420227050781,
+        474.9645080566406
+      ],
+      "left_indent": 29.76599884033203,
+      "width": 330.2760238647461,
+      "is_bold": true,
+      "font_size": 9.962650060653687,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "SCORES",
+      "bbox": [
+        377.9960021972656,
+        471.1863098144531,
+        436.95892333984375,
+        488.918212890625
+      ],
+      "left_indent": 377.9960021972656,
+      "width": 58.962921142578125,
+      "is_bold": true,
+      "font_size": 14.346199989318848,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Web Engineer and Math Teacher",
+      "bbox": [
+        29.76599884033203,
+        473.9525146484375,
+        173.5806427001953,
+        487.5452575683594
+      ],
+      "left_indent": 29.76599884033203,
+      "width": 143.81464385986328,
+      "is_bold": false,
+      "font_size": 10.909099578857422,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Apr 2019 - Mar 2020, Kyoto, Japan",
+      "bbox": [
+        204.98794555664062,
+        473.9525146484375,
+        361.9261779785156,
+        487.5452575683594
+      ],
+      "left_indent": 204.98794555664062,
+      "width": 156.938232421875,
+      "is_bold": false,
+      "font_size": 10.909099578857422,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Web Page Development and Maintenance",
+      "bbox": [
+        29.21999740600586,
+        491.83697509765625,
+        237.48561096191406,
+        505.32061767578125
+      ],
+      "left_indent": 29.21999740600586,
+      "width": 208.2656135559082,
+      "is_bold": true,
+      "font_size": 10.909099578857422,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "IELTS (General Training)",
+      "bbox": [
+        377.9960021972656,
+        497.1309814453125,
+        503.8543395996094,
+        510.6146240234375
+      ],
+      "left_indent": 377.9960021972656,
+      "width": 125.85833740234375,
+      "is_bold": true,
+      "font_size": 10.909099578857422,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "- Deployed websites to promote the founder’s initiatives, attracting prospective students and enhancing online visibility. Overall: 7.5",
+      "bbox": [
+        31.58700180053711,
+        505.2987060546875,
+        361.9261779785156,
+        532.2222900390625
+      ],
+      "left_indent": 31.58700180053711,
+      "width": 330.3391761779785,
+      "is_bold": false,
+      "font_size": 10.909099578857422,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "AtCoder",
+      "bbox": [
+        377.5710144042969,
+        531.3159790039062,
+        419.99652099609375,
+        544.7996215820312
+      ],
+      "left_indent": 377.5710144042969,
+      "width": 42.425506591796875,
+      "is_bold": true,
+      "font_size": 10.909099578857422,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "- Built the websites using 3tier architecture, implemented in Python with Flask framework; containerized with Docker for streamlined maintenance and deployed on GCP to optimize costs. Rate: 1800+, Solved problems: 1800+",
+      "bbox": [
+        31.58700180053711,
+        532.3966674804688,
+        361.9261474609375,
+        572.8702392578125
+      ],
+      "left_indent": 31.58700180053711,
+      "width": 330.3391456604004,
+      "is_bold": false,
+      "font_size": 10.909099578857422,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "LeetCode",
+      "bbox": [
+        377.9960021972656,
+        565.5009765625,
+        425.2651672363281,
+        578.984619140625
+      ],
+      "left_indent": 377.9960021972656,
+      "width": 47.2691650390625,
+      "is_bold": true,
+      "font_size": 10.909099578857422,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Rate: 2400+, Solved problems: 800+",
+      "bbox": [
+        377.6360168457031,
+        578.9845581054688,
+        542.4725341796875,
+        592.5772705078125
+      ],
+      "left_indent": 377.6360168457031,
+      "width": 164.83651733398438,
+      "is_bold": false,
+      "font_size": 10.909099578857422,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "CCC company . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "bbox": [
+        29.76599884033203,
+        582.9389038085938,
+        360.07196044921875,
+        597.7155151367188
+      ],
+      "left_indent": 29.76599884033203,
+      "width": 330.3059616088867,
+      "is_bold": true,
+      "font_size": 9.962650060653687,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Quantitative",
+      "bbox": [
+        29.76599884033203,
+        596.7035522460938,
+        186.43157958984375,
+        610.2962646484375
+      ],
+      "left_indent": 29.76599884033203,
+      "width": 156.66558074951172,
+      "is_bold": false,
+      "font_size": 10.909099578857422,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Analyst and Engineer",
+      "bbox": [
+        29.76599884033203,
+        596.7035522460938,
+        186.43157958984375,
+        610.2962646484375
+      ],
+      "left_indent": 29.76599884033203,
+      "width": 156.66558074951172,
+      "is_bold": false,
+      "font_size": 10.909099578857422,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Apr 2018 - Mar 2019, Tokyo, Japan",
+      "bbox": [
+        205.59886169433594,
+        596.7035522460938,
+        361.92620849609375,
+        610.2962646484375
+      ],
+      "left_indent": 205.59886169433594,
+      "width": 156.3273468017578,
+      "is_bold": false,
+      "font_size": 10.909099578857422,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "LANGUAGES",
+      "bbox": [
+        377.9960021972656,
+        606.559326171875,
+        473.6277770996094,
+        624.2911987304688
+      ],
+      "left_indent": 377.9960021972656,
+      "width": 95.63177490234375,
+      "is_bold": true,
+      "font_size": 14.346199989318848,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Price Calculation Module for Binary Options",
+      "bbox": [
+        29.76599884033203,
+        614.5879516601562,
+        253.6643829345703,
+        628.0715942382812
+      ],
+      "left_indent": 29.76599884033203,
+      "width": 223.89838409423828,
+      "is_bold": true,
+      "font_size": 10.909099578857422,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "- Led development of price calculation library, collaborating with IT system department to launch new binary options products (type of financial derivative).",
+      "bbox": [
+        31.58700180053711,
+        628.0496826171875,
+        362.26434326171875,
+        668.5222778320312
+      ],
+      "left_indent": 31.58700180053711,
+      "width": 330.67734146118164,
+      "is_bold": false,
+      "font_size": 10.909099578857422,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "- Japanese (Native)",
+      "bbox": [
+        379.8179931640625,
+        632.4166870117188,
+        473.86553955078125,
+        645.791259765625
+      ],
+      "left_indent": 379.8179931640625,
+      "width": 94.04754638671875,
+      "is_bold": false,
+      "font_size": 10.909099578857422,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "- English (Advanced)",
+      "bbox": [
+        379.8179931640625,
+        645.9656982421875,
+        485.1559753417969,
+        659.3402709960938
+      ],
+      "left_indent": 379.8179931640625,
+      "width": 105.33798217773438,
+      "is_bold": false,
+      "font_size": 10.909099578857422,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "- Developed Python library from scratch based on the BlackScholes model to accurately price binary options.",
+      "bbox": [
+        31.58700180053711,
+        668.6976928710938,
+        361.9261474609375,
+        695.6212768554688
+      ],
+      "left_indent": 31.58700180053711,
+      "width": 330.3391456604004,
+      "is_bold": false,
+      "font_size": 10.909099578857422,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "INTERESTS",
+      "bbox": [
+        377.9960021972656,
+        673.5623168945312,
+        460.0849609375,
+        691.294189453125
+      ],
+      "left_indent": 377.9960021972656,
+      "width": 82.08895874023438,
+      "is_bold": true,
+      "font_size": 14.346199989318848,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "- Replaced outsourced system, enhancing work efficiency and reducing operational time by 3 hours weekly.",
+      "bbox": [
+        31.58700180053711,
+        695.7957153320312,
+        363.7479553222656,
+        722.7192993164062
+      ],
+      "left_indent": 31.58700180053711,
+      "width": 332.1609535217285,
+      "is_bold": false,
+      "font_size": 10.909099578857422,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "- Learning Languages",
+      "bbox": [
+        379.8179931640625,
+        699.419677734375,
+        487.708740234375,
+        712.7942504882812
+      ],
+      "left_indent": 379.8179931640625,
+      "width": 107.8907470703125,
+      "is_bold": false,
+      "font_size": 10.909099578857422,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "- Fitness",
+      "bbox": [
+        379.8179931640625,
+        712.9686889648438,
+        422.52685546875,
+        726.34326171875
+      ],
+      "left_indent": 379.8179931640625,
+      "width": 42.7088623046875,
+      "is_bold": false,
+      "font_size": 10.909099578857422,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Monitoring of CFDs (Contract for Differences)",
+      "bbox": [
+        29.76599884033203,
+        725.8159790039062,
+        261.3661804199219,
+        739.2996215820312
+      ],
+      "left_indent": 29.76599884033203,
+      "width": 231.60018157958984,
+      "is_bold": true,
+      "font_size": 10.909099578857422,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "- Classical Piano",
+      "bbox": [
+        379.8179931640625,
+        726.5177001953125,
+        461.4178466796875,
+        739.8922729492188
+      ],
+      "left_indent": 379.8179931640625,
+      "width": 81.599853515625,
+      "is_bold": false,
+      "font_size": 10.909099578857422,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "- Developed batch processing system to visualize bid prices, trade records, and revenues of CFDs by extracting transaction data from Oracle and creating plots using Python.",
+      "bbox": [
+        31.58700180053711,
+        739.2777099609375,
+        361.9261779785156,
+        779.7512817382812
+      ],
+      "left_indent": 31.58700180053711,
+      "width": 330.3391761779785,
+      "is_bold": false,
+      "font_size": 10.909099578857422,
+      "column": 1
+    }
+  ],
+  "text_per_page": [
+    "Taro Tanaka\nTokyo, Japan\na XXXXXX@gmail.com\nȲ (+81) XXXXXXXXXX\n] linkedin.com/in/XXXXXX\nEXPERIENCE\nSUMMARY\nAAA Company . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\nSkilled data scientist specializing in machine learning and financial engi-\nData Scientist and Engineer\nJul 2020 - Jun 2023, Tokyo, Japan\nneering with 4 years of experience. Per-\nAcceleration of Multivariate Testing\nsistent dedication, analytical prowess\n- Led team of 7 in collaborative project with the UI/UX team to enhance multivariate testing processes. and strong soft skills for fostering collaborative work relationships.\n- Developed and implemented mathematical models to address UI/UX challenges, translating academic research into Python code.\nSKILLS\n- Optimized web application testing by applying \"best arm identification\" algorithm from multiarmed bandit theory, reducing the number of test patterns and improving conversion rates by 8%. Python, C++\nBack End\nHTML, CSS, JavaScript\nFront End\nRecommendation System for Real Estate Webpages\nBigQuery, Oracle\nDBMS\n- Developed machine learning API to provide personalized property recommendations on real estate webpages, enhancing user experience by aligning suggestions with customer preferences. macOS, Linux(CentOS)\nOS\nDocker, GitLab, GitLab CI\nDevOps\nAWS, GCP, L A TEX\nMisc.\n- Chose LightGBM for the recommendation engine due to its compatibility with BigQuery data, achieving 5% increase in recall@5 compared to existing models. Resilience, Attentiveness\nSoft Skills\nEDUCATION\nData Validation System\nAAA University\nTokyo, Japan\n- Participated in developing system to detect data anomalies that could impair machine learning models, including recommendation systems, preventing significant profit loss. Master of Science - Mathematics GPA: 3.75/4.00, BBB University\n- Implemented wrapper interfacefor AWS Deequ, the core module of system, and developed extensions for various use cases in Scala.\nTokyo, Japan\nBachelor of Science - Mathematics\nBBB company . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\nSCORES\nWeb Engineer and Math Teacher\nApr 2019 - Mar 2020, Kyoto, Japan\nWeb Page Development and Maintenance\nIELTS (General Training)\n- Deployed websites to promote the founder’s initiatives, attracting prospective students and enhancing online visibility. Overall: 7.5\nAtCoder\n- Built the websites using 3tier architecture, implemented in Python with Flask framework; containerized with Docker for streamlined maintenance and deployed on GCP to optimize costs. Rate: 1800+, Solved problems: 1800+\nLeetCode\nRate: 2400+, Solved problems: 800+\nCCC company . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\nQuantitative\nAnalyst and Engineer\nApr 2018 - Mar 2019, Tokyo, Japan\nLANGUAGES\nPrice Calculation Module for Binary Options\n- Led development of price calculation library, collaborating with IT system department to launch new binary options products (type of financial derivative).\n- Japanese (Native)\n- English (Advanced)\n- Developed Python library from scratch based on the BlackScholes model to accurately price binary options.\nINTERESTS\n- Replaced outsourced system, enhancing work efficiency and reducing operational time by 3 hours weekly.\n- Learning Languages\n- Fitness\nMonitoring of CFDs (Contract for Differences)\n- Classical Piano\n- Developed batch processing system to visualize bid prices, trade records, and revenues of CFDs by extracting transaction data from Oracle and creating plots using Python."
+  ],
+  "text_all": "Taro Tanaka\nTokyo, Japan\na XXXXXX@gmail.com\nȲ (+81) XXXXXXXXXX\n] linkedin.com/in/XXXXXX\nEXPERIENCE\nSUMMARY\nAAA Company . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\nSkilled data scientist specializing in machine learning and financial engi-\nData Scientist and Engineer\nJul 2020 - Jun 2023, Tokyo, Japan\nneering with 4 years of experience. Per-\nAcceleration of Multivariate Testing\nsistent dedication, analytical prowess\n- Led team of 7 in collaborative project with the UI/UX team to enhance multivariate testing processes. and strong soft skills for fostering collaborative work relationships.\n- Developed and implemented mathematical models to address UI/UX challenges, translating academic research into Python code. SKILLS\n- Optimized web application testing by applying \"best arm identification\" algorithm from multiarmed bandit theory, reducing the number of test patterns and improving conversion rates by 8%. Python, C++ Back End\nHTML, CSS, JavaScript\nFront End\nRecommendation System for Real Estate Webpages\nBigQuery, Oracle\nDBMS\n- Developed machine learning API to provide personalized property recommendations on real estate webpages, enhancing user experience by aligning suggestions with customer preferences. macOS, Linux(CentOS) OS\nDocker, GitLab, GitLab CI\nDevOps\nAWS, GCP, L A TEX\nMisc.\n- Chose LightGBM for the recommendation engine due to its compatibility with BigQuery data, achieving 5% increase in recall@5 compared to existing models. Resilience, Attentiveness Soft Skills\nEDUCATION\nData Validation System\nAAA University\nTokyo, Japan\n- Participated in developing system to detect data anomalies that could impair machine learning models, including recommendation systems, preventing significant profit loss. Master of Science - Mathematics GPA: 3.75/4.00, BBB University\n- Implemented wrapper interfacefor AWS Deequ, the core module of system, and developed extensions for various use cases in Scala. Tokyo, Japan\nBachelor of Science - Mathematics\nBBB company . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\nSCORES\nWeb Engineer and Math Teacher\nApr 2019 - Mar 2020, Kyoto, Japan\nWeb Page Development and Maintenance\nIELTS (General Training)\n- Deployed websites to promote the founder’s initiatives, attracting prospective students and enhancing online visibility. Overall: 7.5 AtCoder\n- Built the websites using 3tier architecture, implemented in Python with Flask framework; containerized with Docker for streamlined maintenance and deployed on GCP to optimize costs. Rate: 1800+, Solved problems: 1800+ LeetCode\nRate: 2400+, Solved problems: 800+\nCCC company . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\nQuantitative\nAnalyst and Engineer\nApr 2018 - Mar 2019, Tokyo, Japan\nLANGUAGES\nPrice Calculation Module for Binary Options\n- Led development of price calculation library, collaborating with IT system department to launch new binary options products (type of financial derivative).\n- Japanese (Native)\n- English (Advanced)\n- Developed Python library from scratch based on the BlackScholes model to accurately price binary options. INTERESTS\n- Replaced outsourced system, enhancing work efficiency and reducing operational time by 3 hours weekly.\n- Learning Languages\n- Fitness Monitoring of CFDs (Contract for Differences)\n- Classical Piano\n- Developed batch processing system to visualize bid prices, trade records, and revenues of CFDs by extracting transaction data from Oracle and creating plots using Python."
+}

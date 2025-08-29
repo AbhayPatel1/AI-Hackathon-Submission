@@ -1,0 +1,420 @@
+{
+  "candidate": {
+    "full_name": "Profile",
+    "emails": [
+      "alice.smith@email.com",
+      "david.kim@email.com",
+      "rahul.verma@email.com",
+      "sophia.lee@email.com"
+    ],
+    "phones": [
+      "+15552223333",
+      "+15557779999",
+      "+821012345678",
+      "+919876543210"
+    ],
+    "location": {
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": "linkedin.com/in/alicesmith",
+      "github": null
+    },
+    "resume_text_hash": "sha256:05806d579593ac48f4b95a2d2ccc66f390ab7db3522b6556b817a09f93034bad",
+    "source_file_id": "four_two_column_resumes.pdf",
+    "parsed_at": "2025-08-20T13:33:17Z",
+    "parser_version": "v0.3.0"
+  },
+  "experience": [],
+  "education": [
+    {
+      "degree_raw": null,
+      "degree_level": null,
+      "field_raw": null,
+      "institution_raw": "Education M.Sc",
+      "start_date": "2021-08-01",
+      "end_date": "2023-08-01",
+      "gpa": null,
+      "extraction_confidence": 0.6,
+      "source_page": null
+    },
+    {
+      "degree_raw": "B.Tech",
+      "degree_level": "bachelors",
+      "field_raw": null,
+      "institution_raw": "IIM Bangalore",
+      "start_date": "2019-08-01",
+      "end_date": "2021-08-01",
+      "gpa": null,
+      "extraction_confidence": 0.6,
+      "source_page": null
+    },
+    {
+      "degree_raw": null,
+      "degree_level": null,
+      "field_raw": null,
+      "institution_raw": "Human- Computer Interaction University of Toronto",
+      "start_date": "2016-08-01",
+      "end_date": "2018-08-01",
+      "gpa": null,
+      "extraction_confidence": 0.6,
+      "source_page": null
+    },
+    {
+      "degree_raw": null,
+      "degree_level": null,
+      "field_raw": null,
+      "institution_raw": "Education M.Sc",
+      "start_date": "2016-08-01",
+      "end_date": "2018-08-01",
+      "gpa": null,
+      "extraction_confidence": 0.6,
+      "source_page": null
+    }
+  ],
+  "skills": [
+    {
+      "name": "c",
+      "category": null
+    },
+    {
+      "name": "python",
+      "category": null
+    },
+    {
+      "name": "pytorch",
+      "category": null
+    },
+    {
+      "name": "sql",
+      "category": null
+    },
+    {
+      "name": "tableau",
+      "category": null
+    },
+    {
+      "name": "tensorflow",
+      "category": null
+    },
+    {
+      "name": "c",
+      "category": null
+    },
+    {
+      "name": "sql",
+      "category": null
+    },
+    {
+      "name": "c",
+      "category": null
+    },
+    {
+      "name": "figma",
+      "category": null
+    },
+    {
+      "name": "aws",
+      "category": null
+    },
+    {
+      "name": "c",
+      "category": null
+    },
+    {
+      "name": "docker",
+      "category": null
+    },
+    {
+      "name": "java",
+      "category": null
+    },
+    {
+      "name": "javascript",
+      "category": null
+    },
+    {
+      "name": "kubernetes",
+      "category": null
+    }
+  ],
+  "projects": [
+    {
+      "name": "Projects",
+      "summary": "- Movie Recommendation Engine: Collaborative + contentbased hybrid model. - NLP Chatbot: Built intentbased chatbot using Rasa framework.",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Rahul Verma",
+      "summary": null,
+      "role": null,
+      "tech_stack": [],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Profile",
+      "summary": null,
+      "role": null,
+      "tech_stack": [],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Product Manager with 5+ years of experience in SaaS product lifecycle management and",
+      "summary": "crossfunctional leadership.",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Projects",
+      "summary": "- Customer Churn Prediction: Built ML pipeline to predict churn. - Workflow Automation Tool: Reduced manual reporting by 40%.",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Sophia Lee",
+      "summary": null,
+      "role": null,
+      "tech_stack": [],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Profile",
+      "summary": null,
+      "role": null,
+      "tech_stack": [],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "UX Designer with 6 years of experience crafting",
+      "summary": "intuitive interfacesfor fintech and ecommerce applications.",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "- Prototyping",
+      "summary": "- Usability Testing",
+      "role": null,
+      "tech_stack": [],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Projects",
+      "summary": "- Ecommerce Mobile App Redesign: Boosted engagement by 20%. - Fintech Dashboard UI: Simplified complex workflows.",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "David Kim",
+      "summary": null,
+      "role": null,
+      "tech_stack": [],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Profile",
+      "summary": "FullStack Developer with 7 years of experience in cloudnative applications, microservices, and DevOps.",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Projects",
+      "summary": "- IoT Device Management Platform: Integrated 100k+ devices. - Cloud Migration Project: Modernized enterprise applications.",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    }
+  ],
+  "certifications": [],
+  "publications": [],
+  "achievements": [],
+  "languages": [],
+  "sectioned_text": [
+    {
+      "section_type": "other",
+      "text": "Alice Smith\nProfile\nDetailoriented\nData Scientist with 4 years of experience in NLP, recommendation systems, and\nproduct analytics.",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "skills",
+      "text": "Skills\n- Python\n- SQL\n- TensorFlow\n- PyTorch\n- Tableau\n- Data Wrangling\n- A/B Testing",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "Education\nM.Sc,\nData Science Stanford University (2021–2023)\nB.Sc,\nComputer Science UCLA (2017–2021)\nI San Francisco, USA | I alice.smith@email.com | I +15552223333 | I linkedin.com/in/alicesmith\nExperience\nData Scientist – Netflix\n2023–Present\n- Built recommendation pipelines improving watchtime by 12%.\n- Deployed\nNLP models for personalized search results.\nML Intern – Google\n2021–2022\n- Developed classification models with 89% accuracy.\n- Optimized data preprocessing pipelines, reducing runtime by 25%.",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "Projects\n- Movie Recommendation Engine: Collaborative + contentbased hybrid model.\n- NLP Chatbot: Built intentbased chatbot using Rasa framework.\nRahul Verma\nProfile\nProduct Manager with 5+ years of experience in SaaS product lifecycle management and\ncrossfunctional leadership.",
+      "page_range": [
+        1,
+        2
+      ]
+    },
+    {
+      "section_type": "skills",
+      "text": "Skills\n- Product Strategy\n- Agile\n- JIRA\n- SQL\n- Wireframing\n- Stakeholder Management",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "Education\nMBA, IIM Bangalore (2019–2021)\nB.Tech, Information Technology NIT Trichy (2013–2017)\nExperience\nProduct Manager – Freshworks\n2021–Present\n- Led SaaS CRM product roadmap, boosting adoption by 30%.\n- Launched integrations with thirdparty apps (Slack, Jira).\nBusiness\nAnalyst – Infosys\n2017–2019\n- Created SQL dashboards for enterprise clients.\n- Worked with UX teams to streamline user onboarding flows.",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "Projects\n- Customer Churn Prediction: Built\nML pipeline to predict churn.\n- Workflow Automation Tool: Reduced manual reporting by 40%.\nSophia Lee\nProfile\nUX Designer with 6 years of experience crafting\nintuitive interfacesfor fintech and ecommerce\napplications.",
+      "page_range": [
+        2,
+        3
+      ]
+    },
+    {
+      "section_type": "skills",
+      "text": "Skills\n- Figma\n- Sketch\n- Adobe XD\n- User\nResearch",
+      "page_range": [
+        3,
+        3
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "- Prototyping\n- Usability Testing",
+      "page_range": [
+        3,
+        3
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "Education\nM.Des, Human-\nComputer Interaction\nUniversity of Toronto (2016–2018)\nB.Des, Communication Design\nOCAD University (2012–2016)\nExperience\nSenior UX Designer – Shopify\n2019–Present\n- Redesigned checkout flow increasing conversion rate by 18%.\n- Conducted usability studies across international markets.\nUX Designer – PayPal\n2016–2019\n- Designed responsive dashboards for merchant tools.\n- Collaborated with product managers for roadmap alignment.",
+      "page_range": [
+        3,
+        3
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "Projects\n- Ecommerce Mobile App Redesign: Boosted engagement by 20%.\n- Fintech Dashboard UI: Simplified complex workflows.\nDavid Kim\nProfile\nFullStack Developer with 7 years of experience in cloudnative applications, microservices, and\nDevOps.",
+      "page_range": [
+        3,
+        4
+      ]
+    },
+    {
+      "section_type": "skills",
+      "text": "Skills\n- JavaScript\n- React\n- Node.js\n- Docker\n- Kubernetes\n- AWS",
+      "page_range": [
+        4,
+        4
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "Education\nM.Sc,\nSoftware Engineering KAIST (2016–2018)\nB.Sc,\nComputer Engineering Yonsei University (2012–2016)\nExperience\nSenior FullStack Developer – Samsung\n2018–Present\n- Built scalable microservices with Node.js and Kubernetes.\n- Migrated legacy systems to AWS cloud, reducing costs by 20%.\nSoftware Engineer – LG Electronics\n2016–2018\n- Developed internal APIs and automation tools.\n- Implemented CI/CD pipelines to accelerate releases.",
+      "page_range": [
+        4,
+        4
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "Projects\n- IoT Device Management Platform: Integrated 100k+ devices.\n- Cloud Migration Project: Modernized enterprise applications.",
+      "page_range": [
+        4,
+        4
+      ]
+    }
+  ]
+}

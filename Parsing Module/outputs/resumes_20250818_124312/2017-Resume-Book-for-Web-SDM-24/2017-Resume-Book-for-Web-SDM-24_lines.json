@@ -1,0 +1,1020 @@
+{
+  "meta": {
+    "source_path": "data/resumes/2017-Resume-Book-for-Web-SDM-24.pdf",
+    "pages": 1
+  },
+  "lines": [
+    {
+      "page": 1,
+      "text": "ASHLEY WHITNEY",
+      "bbox": [
+        259.2930908203125,
+        52.1998291015625,
+        370.9923095703125,
+        65.4888916015625
+      ],
+      "left_indent": 259.2930908203125,
+      "width": 111.69921875,
+      "is_bold": true,
+      "font_size": 12.0
+    },
+    {
+      "page": 1,
+      "text": "ashwhit@mit.edu",
+      "bbox": [
+        279.8463134765625,
+        65.1646728515625,
+        352.8970947265625,
+        76.06170654296875
+      ],
+      "left_indent": 279.8463134765625,
+      "width": 73.05078125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "EDUCATION",
+      "bbox": [
+        72.1417007446289,
+        87.24462890625,
+        135.71990966796875,
+        98.14166259765625
+      ],
+      "left_indent": 72.1417007446289,
+      "width": 63.578208923339844,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Massachusetts Institute of Technology",
+      "bbox": [
+        72.1417007446289,
+        109.08465576171875,
+        235.1039581298828,
+        119.981689453125
+      ],
+      "left_indent": 72.1417007446289,
+      "width": 162.9622573852539,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "School of Engineering & Sloan School of Management",
+      "bbox": [
+        72.1417007446289,
+        120.1246337890625,
+        294.2940979003906,
+        131.02166748046875
+      ],
+      "left_indent": 72.1417007446289,
+      "width": 222.15239715576172,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "M.S., System Design and Management",
+      "bbox": [
+        72.1417007446289,
+        131.1646728515625,
+        230.9738006591797,
+        142.06170654296875
+      ],
+      "left_indent": 72.1417007446289,
+      "width": 158.83209991455078,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "University of Illinois",
+      "bbox": [
+        72.1417007446289,
+        153.24462890625,
+        161.82830810546875,
+        164.14166259765625
+      ],
+      "left_indent": 72.1417007446289,
+      "width": 89.68660736083984,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "School of Engineering",
+      "bbox": [
+        72.1417007446289,
+        164.04461669921875,
+        164.03041076660156,
+        174.941650390625
+      ],
+      "left_indent": 72.1417007446289,
+      "width": 91.88871002197266,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "B.S., Mechanical Engineering (with honors)",
+      "bbox": [
+        72.1417007446289,
+        175.08465576171875,
+        248.92529296875,
+        185.981689453125
+      ],
+      "left_indent": 72.1417007446289,
+      "width": 176.7835922241211,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "EXPERIENCE",
+      "bbox": [
+        72.1417007446289,
+        197.1646728515625,
+        140.16810607910156,
+        208.06170654296875
+      ],
+      "left_indent": 72.1417007446289,
+      "width": 68.02640533447266,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Cambridge Consultants",
+      "bbox": [
+        72.1417007446289,
+        219.24462890625,
+        174.0266571044922,
+        230.14166259765625
+      ],
+      "left_indent": 72.1417007446289,
+      "width": 101.88495635986328,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Cambridge Consultants is a global product development and technology consultancy providing outsourced research and",
+      "bbox": [
+        72.1417007446289,
+        230.524658203125,
+        560.5735473632812,
+        241.42169189453125
+      ],
+      "left_indent": 72.1417007446289,
+      "width": 488.43184661865234,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "development services to start-ups and blue-chip companies.",
+      "bbox": [
+        72.1417007446289,
+        242.04461669921875,
+        313.1416931152344,
+        252.941650390625
+      ],
+      "left_indent": 72.1417007446289,
+      "width": 240.99999237060547,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Principal Mechanical Engineer – Medical Technologies",
+      "bbox": [
+        72.1417007446289,
+        253.08465576171875,
+        305.9834899902344,
+        263.981689453125
+      ],
+      "left_indent": 72.1417007446289,
+      "width": 233.84178924560547,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Led technical design efforts in development of a portable, reliable, low-cost laparoscopic surgical platform",
+      "bbox": [
+        90.1417007446289,
+        265.32464599609375,
+        560.5728759765625,
+        276.2216796875
+      ],
+      "left_indent": 90.1417007446289,
+      "width": 470.4311752319336,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.1417007446289,
+        267.19366455078125,
+        76.66771697998047,
+        277.0336608886719
+      ],
+      "left_indent": 72.1417007446289,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "prototype targeted to address unique needs of surgery in emerging markets.",
+      "bbox": [
+        90.1417007446289,
+        278.0446472167969,
+        393.9053955078125,
+        288.9416809082031
+      ],
+      "left_indent": 90.1417007446289,
+      "width": 303.7636947631836,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Managed program to explore feasibility of integrating energy harvesting technology into a drug delivery device for",
+      "bbox": [
+        90.1417007446289,
+        291.2446594238281,
+        560.5800170898438,
+        302.1416931152344
+      ],
+      "left_indent": 90.1417007446289,
+      "width": 470.43831634521484,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.1417007446289,
+        293.1136779785156,
+        76.66771697998047,
+        302.95367431640625
+      ],
+      "left_indent": 72.1417007446289,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "dose compliance tracking.",
+      "bbox": [
+        90.1417007446289,
+        302.7646484375,
+        197.2843017578125,
+        313.66168212890625
+      ],
+      "left_indent": 90.1417007446289,
+      "width": 107.1426010131836,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Actively contributed to helping build the company’s drug delivery service offering in the US office through",
+      "bbox": [
+        90.1417007446289,
+        315.004638671875,
+        560.4993286132812,
+        325.90167236328125
+      ],
+      "left_indent": 90.1417007446289,
+      "width": 470.35762786865234,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.1417007446289,
+        316.8736572265625,
+        76.66771697998047,
+        326.7136535644531
+      ],
+      "left_indent": 72.1417007446289,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "recruitment, employee mentoring, and demonstrated thought leadership.",
+      "bbox": [
+        90.1417007446289,
+        326.524658203125,
+        381.1271057128906,
+        337.42169189453125
+      ],
+      "left_indent": 90.1417007446289,
+      "width": 290.9854049682617,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Designed and implemented design verification training curriculum within organization.",
+      "bbox": [
+        90.1417007446289,
+        338.7646484375,
+        442.2305908203125,
+        349.66168212890625
+      ],
+      "left_indent": 90.1417007446289,
+      "width": 352.0888900756836,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.1417007446289,
+        340.6336669921875,
+        76.66771697998047,
+        350.4736633300781
+      ],
+      "left_indent": 72.1417007446289,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Senior Mechanical Engineer – Medical Technologies",
+      "bbox": [
+        72.1417007446289,
+        349.8046569824219,
+        294.8800048828125,
+        360.7016906738281
+      ],
+      "left_indent": 72.1417007446289,
+      "width": 222.7383041381836,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Managed program to support first combination product launch for pharmaceutical company.",
+      "bbox": [
+        90.1417007446289,
+        362.0446472167969,
+        461.6641845703125,
+        372.9416809082031
+      ],
+      "left_indent": 90.1417007446289,
+      "width": 371.5224838256836,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.1417007446289,
+        363.9136657714844,
+        76.66771697998047,
+        373.753662109375
+      ],
+      "left_indent": 72.1417007446289,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Led mechanical engineering efforts on a multi-disciplinary team redesigning a complex fluidic management system",
+      "bbox": [
+        90.1417007446289,
+        375.2446594238281,
+        560.5509643554688,
+        386.1416931152344
+      ],
+      "left_indent": 90.1417007446289,
+      "width": 470.40926361083984,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.1417007446289,
+        377.1136779785156,
+        76.66771697998047,
+        386.95367431640625
+      ],
+      "left_indent": 72.1417007446289,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "used in surgical procedures from concept generation to product launch.",
+      "bbox": [
+        90.1417007446289,
+        387.9646301269531,
+        376.9523010253906,
+        398.8616638183594
+      ],
+      "left_indent": 90.1417007446289,
+      "width": 286.8106002807617,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Led mechanical engineering efforts on a multi-disciplinary team to design a home healthcare monitor device",
+      "bbox": [
+        90.1417007446289,
+        401.4046325683594,
+        560.594482421875,
+        412.3016662597656
+      ],
+      "left_indent": 90.1417007446289,
+      "width": 470.4527816772461,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.1417007446289,
+        403.2736511230469,
+        76.66771697998047,
+        413.1136474609375
+      ],
+      "left_indent": 72.1417007446289,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "currently on the market in the US.",
+      "bbox": [
+        90.1417007446289,
+        414.1246337890625,
+        228.95420837402344,
+        425.02166748046875
+      ],
+      "left_indent": 90.1417007446289,
+      "width": 138.81250762939453,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Baxter Healthcare",
+      "bbox": [
+        72.1417007446289,
+        437.1646423339844,
+        150.61224365234375,
+        448.0616760253906
+      ],
+      "left_indent": 72.1417007446289,
+      "width": 78.47054290771484,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Baxter Healthcare is a globally diversified healthcare company providing products and expertise in medical devices,",
+      "bbox": [
+        72.1417007446289,
+        448.20465087890625,
+        560.6163940429688,
+        459.1016845703125
+      ],
+      "left_indent": 72.1417007446289,
+      "width": 488.47469329833984,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "pharmaceuticals, and biotechnologies that save and sustain lives.",
+      "bbox": [
+        72.1417007446289,
+        459.2446594238281,
+        333.6934814453125,
+        470.1416931152344
+      ],
+      "left_indent": 72.1417007446289,
+      "width": 261.5517807006836,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Senior Mechanical Engineer – Electromechanical Devices",
+      "bbox": [
+        72.1417007446289,
+        470.2846374511719,
+        315.9737854003906,
+        481.1816711425781
+      ],
+      "left_indent": 72.1417007446289,
+      "width": 243.83208465576172,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Created a simulation model to quantify the effects of critical environmental and usage factors on infusion pump flow",
+      "bbox": [
+        90.1417007446289,
+        482.2846374511719,
+        560.6060791015625,
+        493.1816711425781
+      ],
+      "left_indent": 90.1417007446289,
+      "width": 470.4643783569336,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.1417007446289,
+        484.1536560058594,
+        76.66771697998047,
+        493.99365234375
+      ],
+      "left_indent": 72.1417007446289,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "rate accuracy. Earned DFSS green belt certification in conjunction with project.",
+      "bbox": [
+        90.1417007446289,
+        493.8046569824219,
+        413.8858947753906,
+        504.7016906738281
+      ],
+      "left_indent": 90.1417007446289,
+      "width": 323.7441940307617,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Supported requirement generation and concept generation activities for a next generation infusion pump.",
+      "bbox": [
+        90.1417007446289,
+        506.044677734375,
+        511.6398010253906,
+        516.9417114257812
+      ],
+      "left_indent": 90.1417007446289,
+      "width": 421.4981002807617,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        72.1417007446289,
+        507.9136962890625,
+        76.66771697998047,
+        517.7537231445312
+      ],
+      "left_indent": 72.1417007446289,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Mechanical Engineer - Engineering Development Program",
+      "bbox": [
+        72.1417007446289,
+        517.0846557617188,
+        319.8800048828125,
+        527.981689453125
+      ],
+      "left_indent": 72.1417007446289,
+      "width": 247.7383041381836,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "• Developed and evaluated multiple iterations of prototypes for anesthetic container closure project.",
+      "bbox": [
+        72.1417007446289,
+        529.3246459960938,
+        480.7530822753906,
+        541.03369140625
+      ],
+      "left_indent": 72.1417007446289,
+      "width": 408.6113815307617,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "• Led product verification efforts including test planning and management of test team for multiple products.",
+      "bbox": [
+        72.1417007446289,
+        541.5646362304688,
+        517.1690063476562,
+        553.273681640625
+      ],
+      "left_indent": 72.1417007446289,
+      "width": 445.02730560302734,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "• Managed implementation of infusion pump rework related to remediation efforts, including component redesign,",
+      "bbox": [
+        72.1417007446289,
+        553.8046264648438,
+        560.6466064453125,
+        565.513671875
+      ],
+      "left_indent": 72.1417007446289,
+      "width": 488.5049057006836,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "procedure creation, personnel training, and troubleshooting.",
+      "bbox": [
+        85.6417007446289,
+        565.3246459960938,
+        327.4718017578125,
+        576.2216796875
+      ],
+      "left_indent": 85.6417007446289,
+      "width": 241.8301010131836,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Ethicon Endo-Surgery",
+      "bbox": [
+        72.1417007446289,
+        587.1646728515625,
+        168.4678497314453,
+        598.0617065429688
+      ],
+      "left_indent": 72.1417007446289,
+      "width": 96.3261489868164,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Ethicon Endo-Surgery is a Johnson & Johnson family company that develops medical devices for minimally invasive",
+      "bbox": [
+        72.1417007446289,
+        598.6846313476562,
+        560.545166015625,
+        609.5816650390625
+      ],
+      "left_indent": 72.1417007446289,
+      "width": 488.4034652709961,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "and open surgical procedures.",
+      "bbox": [
+        72.1417007446289,
+        610.2046508789062,
+        194.00111389160156,
+        621.1016845703125
+      ],
+      "left_indent": 72.1417007446289,
+      "width": 121.85941314697266,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Research & Development Co-op",
+      "bbox": [
+        72.1417007446289,
+        621.24462890625,
+        207.0821990966797,
+        632.1416625976562
+      ],
+      "left_indent": 72.1417007446289,
+      "width": 134.94049835205078,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "• Managed concept development and selection process for key component of medical device prototype.",
+      "bbox": [
+        72.1417007446289,
+        633.484619140625,
+        495.4649963378906,
+        645.1936645507812
+      ],
+      "left_indent": 72.1417007446289,
+      "width": 423.3232955932617,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "• Performed tolerance stack-up analysis on multiple surgical device components.",
+      "bbox": [
+        72.1417007446289,
+        645.724609375,
+        404.9523010253906,
+        657.4336547851562
+      ],
+      "left_indent": 72.1417007446289,
+      "width": 332.8106002807617,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "• Performed finite element analysis to optimize design of vibration simulation test fixture.",
+      "bbox": [
+        72.1417007446289,
+        657.9646606445312,
+        441.3731994628906,
+        669.6737060546875
+      ],
+      "left_indent": 72.1417007446289,
+      "width": 369.2314987182617,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "OTHER QUALIFICATIONS_______________________________________________________________________",
+      "bbox": [
+        72.1417007446289,
+        679.8046264648438,
+        556.5693969726562,
+        690.70166015625
+      ],
+      "left_indent": 72.1417007446289,
+      "width": 484.42769622802734,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Medical device regulations (ISO 13485), deign controls, requirement management, risk management, system",
+      "bbox": [
+        72.1417007446289,
+        701.8846435546875,
+        560.611572265625,
+        712.7816772460938
+      ],
+      "left_indent": 72.1417007446289,
+      "width": 488.4698715209961,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "architecture, system design, program management, program design, design for six sigma, mechanical design, CAD",
+      "bbox": [
+        72.1417007446289,
+        712.9246215820312,
+        560.6453247070312,
+        723.8216552734375
+      ],
+      "left_indent": 72.1417007446289,
+      "width": 488.50362396240234,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "modeling (Solidworks), design for manufacture and assembly, tolerance analysis, statistical analysis (Minitab), test",
+      "bbox": [
+        72.1417007446289,
+        723.9646606445312,
+        560.5907592773438,
+        734.8616943359375
+      ],
+      "left_indent": 72.1417007446289,
+      "width": 488.44905853271484,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "design, product verification, root cause analysis.",
+      "bbox": [
+        72.1417007446289,
+        735.004638671875,
+        265.3829040527344,
+        745.9016723632812
+      ],
+      "left_indent": 72.1417007446289,
+      "width": 193.24120330810547,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Cambridge, MA",
+      "bbox": [
+        492.59478759765625,
+        109.08465576171875,
+        560.6017456054688,
+        119.981689453125
+      ],
+      "left_indent": 492.59478759765625,
+      "width": 68.0069580078125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "9/2015 – 6/2017 (anticipated)",
+      "bbox": [
+        439.5577087402344,
+        120.1246337890625,
+        560.6017456054688,
+        131.02166748046875
+      ],
+      "left_indent": 439.5577087402344,
+      "width": 121.04403686523438,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Urbana-Champaign, IL",
+      "bbox": [
+        464.8409118652344,
+        153.24462890625,
+        560.6017456054688,
+        164.14166259765625
+      ],
+      "left_indent": 464.8409118652344,
+      "width": 95.76083374023438,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "9/2004-5/2009",
+      "bbox": [
+        499.2550048828125,
+        164.04461669921875,
+        560.6017456054688,
+        174.941650390625
+      ],
+      "left_indent": 499.2550048828125,
+      "width": 61.34674072265625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Boston, MA",
+      "bbox": [
+        508.6885986328125,
+        219.24462890625,
+        560.6017456054688,
+        230.14166259765625
+      ],
+      "left_indent": 508.6885986328125,
+      "width": 51.91314697265625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "1/2016 – 9/2016",
+      "bbox": [
+        492.5851135253906,
+        253.08465576171875,
+        560.6017456054688,
+        263.981689453125
+      ],
+      "left_indent": 492.5851135253906,
+      "width": 68.01663208007812,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "1/2012 – 1/2016",
+      "bbox": [
+        492.5851135253906,
+        349.8046569824219,
+        558.0580444335938,
+        360.7016906738281
+      ],
+      "left_indent": 492.5851135253906,
+      "width": 65.47293090820312,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Round Lake, IL",
+      "bbox": [
+        494.54791259765625,
+        437.1646423339844,
+        560.6017456054688,
+        448.0616760253906
+      ],
+      "left_indent": 494.54791259765625,
+      "width": 66.0538330078125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "7/2011-1/2012",
+      "bbox": [
+        499.2550048828125,
+        470.2846374511719,
+        558.0580444335938,
+        481.1816711425781
+      ],
+      "left_indent": 499.2550048828125,
+      "width": 58.80303955078125,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "7/2009-7/2011",
+      "bbox": [
+        499.2550048828125,
+        517.0846557617188,
+        558.0580444335938,
+        527.981689453125
+      ],
+      "left_indent": 499.2550048828125,
+      "width": 58.80303955078125,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Cincinnati, OH",
+      "bbox": [
+        497.0382080078125,
+        587.1646728515625,
+        560.6017456054688,
+        598.0617065429688
+      ],
+      "left_indent": 497.0382080078125,
+      "width": 63.56353759765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "8/2006-6/2008",
+      "bbox": [
+        499.2550048828125,
+        621.24462890625,
+        558.0580444335938,
+        632.1416625976562
+      ],
+      "left_indent": 499.2550048828125,
+      "width": 58.80303955078125,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    }
+  ],
+  "text_per_page": [
+    "ASHLEY WHITNEY\nashwhit@mit.edu\nEDUCATION\nMassachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nM.S., System Design and Management\nUniversity of Illinois\nSchool of Engineering\nB.S., Mechanical Engineering (with honors)\nEXPERIENCE\nCambridge Consultants\nCambridge Consultants is a global product development and technology consultancy providing outsourced research and\ndevelopment services to start-ups and blue-chip companies.\nPrincipal Mechanical Engineer – Medical Technologies\nLed technical design efforts in development of a portable, reliable, low-cost laparoscopic surgical platform\n•\nprototype targeted to address unique needs of surgery in emerging markets.\nManaged program to explore feasibility of integrating energy harvesting technology into a drug delivery device for\n•\ndose compliance tracking.\nActively contributed to helping build the company’s drug delivery service offering in the US office through\n•\nrecruitment, employee mentoring, and demonstrated thought leadership.\nDesigned and implemented design verification training curriculum within organization.\n•\nSenior Mechanical Engineer – Medical Technologies\nManaged program to support first combination product launch for pharmaceutical company.\n•\nLed mechanical engineering efforts on a multi-disciplinary team redesigning a complex fluidic management system\n•\nused in surgical procedures from concept generation to product launch.\nLed mechanical engineering efforts on a multi-disciplinary team to design a home healthcare monitor device\n•\ncurrently on the market in the US.\nBaxter Healthcare\nBaxter Healthcare is a globally diversified healthcare company providing products and expertise in medical devices,\npharmaceuticals, and biotechnologies that save and sustain lives.\nSenior Mechanical Engineer – Electromechanical Devices\nCreated a simulation model to quantify the effects of critical environmental and usage factors on infusion pump flow\n•\nrate accuracy. Earned DFSS green belt certification in conjunction with project.\nSupported requirement generation and concept generation activities for a next generation infusion pump.\n•\nMechanical Engineer - Engineering Development Program\n• Developed and evaluated multiple iterations of prototypes for anesthetic container closure project.\n• Led product verification efforts including test planning and management of test team for multiple products.\n• Managed implementation of infusion pump rework related to remediation efforts, including component redesign,\nprocedure creation, personnel training, and troubleshooting.\nEthicon Endo-Surgery\nEthicon Endo-Surgery is a Johnson & Johnson family company that develops medical devices for minimally invasive\nand open surgical procedures.\nResearch & Development Co-op\n• Managed concept development and selection process for key component of medical device prototype.\n• Performed tolerance stack-up analysis on multiple surgical device components.\n• Performed finite element analysis to optimize design of vibration simulation test fixture.\nOTHER QUALIFICATIONS_______________________________________________________________________\nMedical device regulations (ISO 13485), deign controls, requirement management, risk management, system\narchitecture, system design, program management, program design, design for six sigma, mechanical design, CAD\nmodeling (Solidworks), design for manufacture and assembly, tolerance analysis, statistical analysis (Minitab), test\ndesign, product verification, root cause analysis.\nCambridge, MA\n9/2015 – 6/2017 (anticipated)\nUrbana-Champaign, IL\n9/2004-5/2009\nBoston, MA\n1/2016 – 9/2016\n1/2012 – 1/2016\nRound Lake, IL\n7/2011-1/2012\n7/2009-7/2011\nCincinnati, OH\n8/2006-6/2008"
+  ],
+  "text_all": "ASHLEY WHITNEY\nashwhit@mit.edu\nEDUCATION\nMassachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nM.S., System Design and Management\nUniversity of Illinois\nSchool of Engineering\nB.S., Mechanical Engineering (with honors)\nEXPERIENCE\nCambridge Consultants\nCambridge Consultants is a global product development and technology consultancy providing outsourced research and\ndevelopment services to start-ups and blue-chip companies.\nPrincipal Mechanical Engineer – Medical Technologies\nLed technical design efforts in development of a portable, reliable, low-cost laparoscopic surgical platform\n•\nprototype targeted to address unique needs of surgery in emerging markets.\nManaged program to explore feasibility of integrating energy harvesting technology into a drug delivery device for\n•\ndose compliance tracking.\nActively contributed to helping build the company’s drug delivery service offering in the US office through\n•\nrecruitment, employee mentoring, and demonstrated thought leadership.\nDesigned and implemented design verification training curriculum within organization.\n•\nSenior Mechanical Engineer – Medical Technologies\nManaged program to support first combination product launch for pharmaceutical company.\n•\nLed mechanical engineering efforts on a multi-disciplinary team redesigning a complex fluidic management system\n•\nused in surgical procedures from concept generation to product launch.\nLed mechanical engineering efforts on a multi-disciplinary team to design a home healthcare monitor device\n•\ncurrently on the market in the US.\nBaxter Healthcare\nBaxter Healthcare is a globally diversified healthcare company providing products and expertise in medical devices,\npharmaceuticals, and biotechnologies that save and sustain lives.\nSenior Mechanical Engineer – Electromechanical Devices\nCreated a simulation model to quantify the effects of critical environmental and usage factors on infusion pump flow\n•\nrate accuracy. Earned DFSS green belt certification in conjunction with project.\nSupported requirement generation and concept generation activities for a next generation infusion pump.\n•\nMechanical Engineer - Engineering Development Program\n• Developed and evaluated multiple iterations of prototypes for anesthetic container closure project.\n• Led product verification efforts including test planning and management of test team for multiple products.\n• Managed implementation of infusion pump rework related to remediation efforts, including component redesign,\nprocedure creation, personnel training, and troubleshooting.\nEthicon Endo-Surgery\nEthicon Endo-Surgery is a Johnson & Johnson family company that develops medical devices for minimally invasive\nand open surgical procedures.\nResearch & Development Co-op\n• Managed concept development and selection process for key component of medical device prototype.\n• Performed tolerance stack-up analysis on multiple surgical device components.\n• Performed finite element analysis to optimize design of vibration simulation test fixture.\nOTHER QUALIFICATIONS_______________________________________________________________________\nMedical device regulations (ISO 13485), deign controls, requirement management, risk management, system\narchitecture, system design, program management, program design, design for six sigma, mechanical design, CAD\nmodeling (Solidworks), design for manufacture and assembly, tolerance analysis, statistical analysis (Minitab), test\ndesign, product verification, root cause analysis.\nCambridge, MA\n9/2015 – 6/2017 (anticipated)\nUrbana-Champaign, IL\n9/2004-5/2009\nBoston, MA\n1/2016 – 9/2016\n1/2012 – 1/2016\nRound Lake, IL\n7/2011-1/2012\n7/2009-7/2011\nCincinnati, OH\n8/2006-6/2008"
+}

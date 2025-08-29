@@ -1,0 +1,80 @@
+TAYLOR H. ANDREWS
+EDUCATION
+Massachusetts Institute of Technology
+School of Engineering & Sloan School of Management
+M.S., System Design and Management
+Worcester Polytechnic Institute
+School of Engineering
+B.S., Computer Science, Minor in Music
+Graduated with Highest Distinction, Upsilon Pi Epsilon (Computer Science Honor Society) Vice President
+•
+EXPERIENCE
+VMware
+Core Hypervisor / Virtual Machine Monitor group
+System Software Engineer II
+Implemented virtual x86 Graphics Address Remapping Table (GART) hardware
+•
+Lead contributor to virtual x86 performance counter hardware platform
+•
+Active contributor to hardware virtualization drivers and virtualization hardware virtualization (nested VM support)
+•
+Led bring your kids to work day’s server disassembly / reassembly event
+•
+Microsoft
+App-V (Application Virtualization) group
+MQP Intern
+Selected for WPI’s first capstone project collaboration with Microsoft
+•
+Member of three-person team that created prototype JS/HTML5 webapp (under NDA)
+•
+VMware
+Core Hypervisor / Virtual Machine Monitor group
+Intern
+Designed and implemented k-means clustering algorithm based guest operating system performance analysis tool
+•
+Worcester Polytechnic Institute
+Computer Science Department
+Undergraduate TA
+CS lab/conference TA for Operating Systems, Software Engineering, and Scheme classes
+•
+Stratus Technologies
+Windows ftServer (fault tolerant hardware) group
+Co-op / Part-time Software Engineer
+Member of four-person team that successfully designed and prototyped PCI-e non-transparent bridge FPGA
+•
+implementation for tripling memory copy speeds in Stratus ftServer
+Rewrote some WinDBG extensions for reverse x86 page walks
+•
+NOTABLE PROJECTS AND ACCOMPLISHMENTS
+Douglas High School Class of 2008 Valedictorian
+•
+Awards for individual contributions as well as team leadership in undergraduate Software Engineering classes
+•
+Java-like language undergraduate compiler – member of one of two teams to receive full score
+•
+Recycled Arcade Machine – full-size, backlit arcade machine with full case art, built from 100% salvaged materials
+•
+Algorithmic Music Composition and Large-Scale Sound Installation Design – wrote software to compose music
+•
+from real-time data (such as stock market values) and constructed full-scale psychoacoustic art installation (WPI)
+Douglas High School 3D Walkthrough – High school senior project; a customizable, first person, 3D virtual model
+•
+of the high school http://tinyurl.com/q7xrnxz
+Franken-VM - A 36-hour VMware hackathon featured project: “Distributed Memory Hypervisor”
+•
+HOBBIES____________________________________________________________________________________
+Technology, home automation, guitar, ukulele, darts, cards, table tennis, fishing, hiking
+Cambridge, MA
+September 2016 - Present
+Worcester, MA
+September 2008 – May 2012
+Cambridge, MA
+May 2012 - Present
+Cambridge, MA
+September 2011 – December 2011
+Palo Alto, CA
+May 2011 – August 2011
+Worcester, MA
+September 2010 – May 2012
+Maynard, MA
+May 2010 – February 2011

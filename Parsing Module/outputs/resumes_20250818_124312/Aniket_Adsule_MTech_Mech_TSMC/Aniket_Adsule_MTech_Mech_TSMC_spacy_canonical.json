@@ -1,0 +1,374 @@
+{
+  "candidate": {
+    "full_name": "Aniket Shashikant Adsule",
+    "emails": [],
+    "phones": [],
+    "location": {
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null
+    },
+    "resume_text_hash": "sha256:75bbe67a4cb9c8911f3801f3cf56a117a404a5c5257598b27db4ea03c095d5dd",
+    "source_file_id": "Aniket_Adsule_MTech_Mech_TSMC.pdf",
+    "parsed_at": "2025-08-18T09:17:39Z",
+    "parser_version": "v0.3.0"
+  },
+  "experience": [],
+  "education": [],
+  "skills": [
+    {
+      "name": "aws",
+      "category": null
+    },
+    {
+      "name": "c",
+      "category": null
+    },
+    {
+      "name": "c++",
+      "category": null
+    },
+    {
+      "name": "css",
+      "category": null
+    },
+    {
+      "name": "django",
+      "category": null
+    },
+    {
+      "name": "html",
+      "category": null
+    },
+    {
+      "name": "python",
+      "category": null
+    },
+    {
+      "name": "pytorch",
+      "category": null
+    },
+    {
+      "name": "sql",
+      "category": null
+    },
+    {
+      "name": "tensorflow",
+      "category": null
+    }
+  ],
+  "projects": [
+    {
+      "name": "Machine Intelligence Program (Project Research Assistant | Dept: IoT and Data Analytics | IIT Bombay) [Aug’19 - Present]",
+      "summary": "• Leading a team of 7 people with diverse backgrounds - Mechanical, Electronics and CS for ML and IoT based projects • Mentored 10+ interns for ML, computer vision & IoT projects; Prepared stepwise course content for initial training",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Digitization Solution for Gold Assaying & Hallmarking Process to Enhance Credibility & Efficiency (Industrial Project)",
+      "summary": "• Integrated IoT at each process stage, CNN & object detection for surveillance & display reading • Developed authority wise dashboards with a combination of local server & cloud computing • Achieved traceability of jewellery using RFID & blockchain with unique hash-code containing metadata",
+      "role": null,
+      "tech_stack": [
+        "c",
+        "git"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Generic IoT Device & Platform Development (Research Project)",
+      "summary": "• Features: Analog, digital, I2C & SPI sensor communication protocols, on the air update, onboard FFT, local data storage on SD card, RTC, access point to set up a device, GPS, OLED, HTTPS & MQTT communication, 4 treads for simultaneous processing • Customizable dashboard & analytics engine with machine learning algorithm – MLR, LR, KNN, SVM, Tree-based algorithms National Centre for Aerospace Innovation and Research (Research Assistant | Dept: IoT & Data Analytics) [Jun’17 - Jul’19] Remote, Secure & Real-Time Machine Effectiveness & Status Monitoring Solution, Deployed in HAL, Bengaluru (Industrial Project) • Developed ESP32 based IoT device, firmware for data collection, its conditioning & transmission to the server using HTTPS • Developed Random Forest Classifier as back-end ML algorithm with cross-validation & hyperparameter tuning • Developed an interactive dashboard with PHP, HTML Bootstrap, JS & AJAX which generates real-time SMS & email alerts",
+      "role": null,
+      "tech_stack": [
+        "c",
+        "git",
+        "html"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Furnace Automation with Remote Intelligent Control (Industrial Project)",
+      "summary": "• Developed a cyber-physical system using regression data model & deployed over ESP32 development board • Implemented IoT solution for real-time monitoring & remote control; Developed an interactive dashboard M.Tech Research Project Development & Demonstration of Service-Based Industry 4.0 Architecture with Digital Twin & Analytics (Guide: Prof. Asim Tewari & Prof. Makarand Kulkarni) [July’19 - Present] Objective : Develop service-based Industry 4.0 architecture to cater the manufacturing ecosystem in achieving interoperability Methodology : o Transform conventional 3-axis CNC milling machine into a smart machine using ZVIE’s smart product criteria o Develop machine’s digital twin for condition-based maintenance & production system’s digital twin for optimized scheduling o Secure M2M communication with OPC-UA, edge devices & IoT with sensors o Demonstrate communication between machine, digital twin, service & product to achieve their own & global objectives o Use of Analytics viz. ML, DL, RL & computer vision to achieve overall operations planning Impact : Transforming existing facilities into a smart factory while achieving overall organizational objective",
+      "role": null,
+      "tech_stack": [
+        "c",
+        "git"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Machine Learning & Computer Vision Projects",
+      "summary": null,
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Reinforcement Learning for Optimal Policy Learning in Condition Based Maintenance (CBM)",
+      "summary": "(Research Project | Guide: Prof. Makarand Kulkarni) [Oct’19 - Feb’20] • Objective: Develop an agent for CBM, which prescribe maintenance action & inspection interval for long term cost optimization • Modelled multi-objective optimization problem using Semi MDP with 100 states, 4 maintenance actions & 19 inspection intervals • Developed Reinforcement Learning based Q-learning algorithm (SMART algorithm) to prescribe optimal policy Personal Protective Equipment (PPE) Conformity Detection using YOLO (Research Project | Guide: Prof. Asim Tewari) [Jan’20 - Jun’20] • Objective: To ensure workers wear PPE on the shop floor using real-time application based on YOLO & transfer learning • Trained YOLO on custom labelled data and achieved 83% mAP with parameter tuning",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Machine Learning-Based Image Classification System to Predict Changing Fashion Trends",
+      "summary": "(Course Project | Machine Learning for Remote Sensing-I | Guide: Prof. Biplab Banerjee) [Apr’20 - Jun’20] • Objective: To classify garment into a full sleeve, half sleeve and ¾ th sleeve using ML algorithms • Utilized OpenCV for image pre-processing like background removal & thresholding; Employed KNN, SVM, Decision Tree, Gradient",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Boosting classifier using scikit-learn python libraries along with hyperparameter tuning & cross-validation technique",
+      "summary": "• Compared their performance using accuracy, ROC & confusion matrix; Got the best accuracy of 95% using KNN",
+      "role": null,
+      "tech_stack": [
+        "c",
+        "python",
+        "scikit-learn"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Digital Twin Based on ML Data Model for Electronic Chip Cooling System",
+      "summary": "(Course Project | Computational Tools for Process Modeling | Guide: Prof. Shyam Karagadde) [Mar’20 - Jun’20] • Objective: To develop a digital twin of the processor’s cooling system to control cooling parameters in real-time • Developed physics-based 2D transient heat transfer model using a finite difference method (FDM) • Developed a digital twin using a regression model with 0.9919 R 2 , trained on large simulation data generated by the FDM model",
+      "role": null,
+      "tech_stack": [
+        "c",
+        "git"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Flight Delay Classification Model for the Airport Authorities",
+      "summary": "(Course Project | Machine Learning for Remote Sensing-I | Guide: Prof. Biplab Banerjee) [Feb’20 - Mar’20] • Performed EDA, one-hot encoding, data engineering, feature selection, hyperparameter tuning & cross-validation • Developed a Decision Tree Classifier as the best model with 92.5% accuracy compared to KNN, RBF SVM & Logistic Regression Industry 4.0, Automation & Social Responsibility Projects Automatic Internal Thread Inspection Machine – 3 rd prize in IMTEX-17, Bengaluru (Industrial Project | SS Controls) [Jun’18 & Jun’16] • Achieved ROI: 642.85%; Developed a novel method based on monitoring the current data of inspection gauge motor • Deployed in Dekson Castings Ltd & Accrete Electromech Pvt Ltd to inspect respective daily 1500 & 5500 components • Updates inspection data of each thread using IoT and employed dashboard for process monitoring Analytics & IoT Implementation in Powder Coating Plant & Assembly Line (Industrial Project | SS Controls) [Jun’18 - Oct’19]",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "(Course Project | Collaborative Engineering | Guide: Prof. B. Ravi) [Jan’20 - Jun’20]",
+      "summary": "• Analyzed shortcomings of the existing system by attending the live surgery and visiting the manufacturing facility • Improved performance of an existing system with features: compact size, modularity, 180-degree adjustable camera, 10x optical zoom, auto-white balance, rechargeable battery, sterilizable cover, wireless 1080p video transmission • Appreciated by doctors of Nanavati Super Speciality Hospital & Reliance Hospital, Mumbai",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Project Title: Internal Tread Inspection using IoT",
+      "summary": "• Best Demonstration Award in International Conference on Precision, Meso, Micro & Nano Engineering, IITI [’19] Demonstration Entitled: Condition Based Maintenance Learning using SMART Algorithm",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    }
+  ],
+  "certifications": [],
+  "publications": [],
+  "achievements": [
+    "Objective: Achieve JIT & kitting process, product tracing, OEE calculation & utility monitoring",
+    "Installed proximity & temperature sensors at powder coating plant & RFID for Job tracking along with ERP data integration",
+    "Provided HMI to each worker for monitoring & action execution",
+    "Economical & Easily Manufacturable Face Shield Development (Social Responsibility Project) [Mar’20 - Apr’20]",
+    "Designed economical, easily scalable and manufacturable face shield following WHO guidelines amid COVID-19 pandemic, which",
+    "requires simple tailoring equipment & consists only 2 components",
+    "Achieved 3000+ sales to industries with unit manufacturing cost of ₹ 4.0 whereas 1000+ face shields donated to hospital & police",
+    "Modular Camera Recording System in Hospital Operation Theatre (OT) for Clinical Training & Legal Evidence",
+    "Positions of Responsibility",
+    "Teaching Assistant (ME 781 Engineering Data Mining & Applications | Guide: Prof. Vinay Kulkarni) [Jan’19 - May’19]",
+    "Assisted in organizing exams, correction of answer sheets & mentored 30 student groups for their course projects",
+    "Institute Student Companion (Institute Student Companion Programme, IIT Bombay)",
+    "[Apr’19 - Arp’20]",
+    "Got trained from Student Wellness Centre & Gender Cell; Mentored 8 PG freshmen on academic & non-academic fronts",
+    "Key Achievements",
+    "2 nd rank at University in B.Tech Mechanical Engineering (Dr BAMU University, Aurangabad) [’17]",
+    "Awards",
+    "3rd Prize in IMTEX-2017, Bengaluru (Among 70 national-level participants) [’17]"
+  ],
+  "languages": [],
+  "sectioned_text": [
+    {
+      "section_type": "other",
+      "text": "Aniket Shashikant Adsule\n183106003\nMechanical Engineering\nM.Tech.\nIndian Institute of Technology, Bombay\nGender: Male\nSpecialization: Manufacturing Engineering\nDOB: 20-12-1994\nExamination\nUniversity\nInstitute\nYear\nCPI / %\nPost Graduation\nIIT Bombay\nIIT Bombay\n2021\n9.19\nGraduation\nDr BAMU, Aurangabad\nMIT, Aurangabad\n2017\n9.35\nGraduation Specialization: Mechanical Engineering\nIntermediate\nMSBTE\nMIT, Aurangabad\n2014\n83.16%\nMatriculation\nMaharashtra State Board\nShri Saraswati Bhuwan, Aurangabad\n2011\n89.27%",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "skills",
+      "text": "Technical Skills\n• Programming Languages & Databases : Python, C++, MATLAB, PHP, HTML, CSS, JS, AJAX, SQL, NoSQL, AutoIT\n• Hardware : Arduino, ESP32, Raspberry Pi, Intel NCS2\n• CAD/CAE Packages : PTC Creo, Ansys\n• Libraries & Platforms : OpenCV, TensorFlow Keras, PyTorch, Darknet, Django, AWS\nProfessional Experience",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "Machine Intelligence Program (Project Research Assistant | Dept: IoT and Data Analytics | IIT Bombay) [Aug’19 - Present]\n• Leading a team of 7 people with diverse backgrounds - Mechanical, Electronics and CS for ML and IoT based projects\n• Mentored 10+ interns for ML, computer vision & IoT projects; Prepared stepwise course content for initial training\nDigitization Solution for Gold Assaying & Hallmarking Process to Enhance Credibility & Efficiency (Industrial Project)\n• Integrated IoT at each process stage, CNN & object detection for surveillance & display reading\n• Developed authority wise dashboards with a combination of local server & cloud computing\n• Achieved traceability of jewellery using RFID & blockchain with unique hash-code containing metadata\nGeneric IoT Device & Platform Development (Research Project)\n• Features: Analog, digital, I2C & SPI sensor communication protocols, on the air update, onboard FFT, local data storage on SD\ncard, RTC, access point to set up a device, GPS, OLED, HTTPS & MQTT communication, 4 treads for simultaneous processing\n• Customizable dashboard & analytics engine with machine learning algorithm – MLR, LR, KNN, SVM, Tree-based algorithms\nNational Centre for Aerospace Innovation and Research (Research Assistant | Dept: IoT & Data Analytics) [Jun’17 - Jul’19]\nRemote, Secure & Real-Time Machine Effectiveness & Status Monitoring Solution, Deployed in HAL, Bengaluru (Industrial Project)\n• Developed ESP32 based IoT device, firmware for data collection, its conditioning & transmission to the server using HTTPS\n• Developed Random Forest Classifier as back-end ML algorithm with cross-validation & hyperparameter tuning\n• Developed an interactive dashboard with PHP, HTML Bootstrap, JS & AJAX which generates real-time SMS & email alerts\nFurnace Automation with Remote Intelligent Control (Industrial Project)\n• Developed a cyber-physical system using regression data model & deployed over ESP32 development board\n• Implemented IoT solution for real-time monitoring & remote control; Developed an interactive dashboard\nM.Tech Research Project\nDevelopment & Demonstration of Service-Based Industry 4.0 Architecture with Digital Twin & Analytics\n(Guide: Prof. Asim Tewari & Prof. Makarand Kulkarni) [July’19 - Present]\nObjective : Develop service-based Industry 4.0 architecture to cater the manufacturing ecosystem in achieving interoperability\nMethodology :\no Transform conventional 3-axis CNC milling machine into a smart machine using ZVIE’s smart product criteria\no Develop machine’s digital twin for condition-based maintenance & production system’s digital twin for optimized scheduling\no Secure M2M communication with OPC-UA, edge devices & IoT with sensors\no Demonstrate communication between machine, digital twin, service & product to achieve their own & global objectives\no Use of Analytics viz. ML, DL, RL & computer vision to achieve overall operations planning\nImpact : Transforming existing facilities into a smart factory while achieving overall organizational objective\nMachine Learning & Computer Vision Projects\nReinforcement Learning for Optimal Policy Learning in Condition Based Maintenance (CBM)\n(Research Project | Guide: Prof. Makarand Kulkarni) [Oct’19 - Feb’20]\n• Objective: Develop an agent for CBM, which prescribe maintenance action & inspection interval for long term cost optimization\n• Modelled multi-objective optimization problem using Semi MDP with 100 states, 4 maintenance actions & 19 inspection intervals\n• Developed Reinforcement Learning based Q-learning algorithm (SMART algorithm) to prescribe optimal policy\nPersonal Protective Equipment (PPE) Conformity Detection using YOLO (Research Project | Guide: Prof. Asim Tewari) [Jan’20 - Jun’20]\n• Objective: To ensure workers wear PPE on the shop floor using real-time application based on YOLO & transfer learning\n• Trained YOLO on custom labelled data and achieved 83% mAP with parameter tuning\nMachine Learning-Based Image Classification System to Predict Changing Fashion Trends\n(Course Project | Machine Learning for Remote Sensing-I | Guide: Prof. Biplab Banerjee) [Apr’20 - Jun’20]\n• Objective: To classify garment into a full sleeve, half sleeve and ¾ th sleeve using ML algorithms\n• Utilized OpenCV for image pre-processing like background removal & thresholding; Employed KNN, SVM, Decision Tree, Gradient\nBoosting classifier using scikit-learn python libraries along with hyperparameter tuning & cross-validation technique\n• Compared their performance using accuracy, ROC & confusion matrix; Got the best accuracy of 95% using KNN\nDigital Twin Based on ML Data Model for Electronic Chip Cooling System\n(Course Project | Computational Tools for Process Modeling | Guide: Prof. Shyam Karagadde) [Mar’20 - Jun’20]\n• Objective: To develop a digital twin of the processor’s cooling system to control cooling parameters in real-time\n• Developed physics-based 2D transient heat transfer model using a finite difference method (FDM)\n• Developed a digital twin using a regression model with 0.9919 R 2 , trained on large simulation data generated by the FDM model\nFlight Delay Classification Model for the Airport Authorities\n(Course Project | Machine Learning for Remote Sensing-I | Guide: Prof. Biplab Banerjee) [Feb’20 - Mar’20]\n• Performed EDA, one-hot encoding, data engineering, feature selection, hyperparameter tuning & cross-validation\n• Developed a Decision Tree Classifier as the best model with 92.5% accuracy compared to KNN, RBF SVM & Logistic Regression\nIndustry 4.0, Automation & Social Responsibility Projects\nAutomatic Internal Thread Inspection Machine – 3 rd prize in IMTEX-17, Bengaluru (Industrial Project | SS Controls) [Jun’18 & Jun’16]\n• Achieved ROI: 642.85%; Developed a novel method based on monitoring the current data of inspection gauge motor\n• Deployed in Dekson Castings Ltd & Accrete Electromech Pvt Ltd to inspect respective daily 1500 & 5500 components\n• Updates inspection data of each thread using IoT and employed dashboard for process monitoring\nAnalytics & IoT Implementation in Powder Coating Plant & Assembly Line (Industrial Project | SS Controls) [Jun’18 - Oct’19]",
+      "page_range": [
+        1,
+        2
+      ]
+    },
+    {
+      "section_type": "achievements",
+      "text": "• Objective: Achieve JIT & kitting process, product tracing, OEE calculation & utility monitoring\n• Installed proximity & temperature sensors at powder coating plant & RFID for Job tracking along with ERP data integration\n• Provided HMI to each worker for monitoring & action execution",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "responsibility",
+      "text": "Economical & Easily Manufacturable Face Shield Development (Social Responsibility Project) [Mar’20 - Apr’20]\n• Designed economical, easily scalable and manufacturable face shield following WHO guidelines amid COVID-19 pandemic, which\nrequires simple tailoring equipment & consists only 2 components\n• Achieved 3000+ sales to industries with unit manufacturing cost of ₹ 4.0 whereas 1000+ face shields donated to hospital & police\nModular Camera Recording System in Hospital Operation Theatre (OT) for Clinical Training & Legal Evidence",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "(Course Project | Collaborative Engineering | Guide: Prof. B. Ravi) [Jan’20 - Jun’20]\n• Analyzed shortcomings of the existing system by attending the live surgery and visiting the manufacturing facility\n• Improved performance of an existing system with features: compact size, modularity, 180-degree adjustable camera, 10x optical\nzoom, auto-white balance, rechargeable battery, sterilizable cover, wireless 1080p video transmission\n• Appreciated by doctors of Nanavati Super Speciality Hospital & Reliance Hospital, Mumbai",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "courses",
+      "text": "Key Courses\n• Machine Learning for Remote Sensing-I [AU]\n• Engineering Data Mining and Applications\n• Foundations of Intelligent and Learning Agents [AU]\n• Computer Integrated Manufacturing\n• Reliability Modelling & Analysis for Engineering Systems\n• Computational Tools for Process Modeling",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "publications",
+      "text": "International Journal Publication\nTitle: Reinforcement Learning for Optimal Policy Learning in Condition Based Maintenance [’20]\nStatus: Provisionally accepted in IET Collaborative Intelligent Manufacturing Journal",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "responsibility",
+      "text": "Positions of Responsibility\nTeaching Assistant (ME 781 Engineering Data Mining & Applications | Guide: Prof. Vinay Kulkarni) [Jan’19 - May’19]\n• Assisted in organizing exams, correction of answer sheets & mentored 30 student groups for their course projects\nInstitute Student Companion (Institute Student Companion Programme, IIT Bombay)\n[Apr’19 - Arp’20]\n• Got trained from Student Wellness Centre & Gender Cell; Mentored 8 PG freshmen on academic & non-academic fronts",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "achievements",
+      "text": "Key Achievements\n• 2 nd rank at University in B.Tech Mechanical Engineering (Dr BAMU University, Aurangabad) [’17]\nAwards\n• 3rd Prize in IMTEX-2017, Bengaluru (Among 70 national-level participants) [’17]",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "Project Title: Internal Tread Inspection using IoT\n• Best Demonstration Award in International Conference on Precision, Meso, Micro & Nano Engineering, IITI [’19]\nDemonstration Entitled: Condition Based Maintenance Learning using SMART Algorithm",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "courses",
+      "text": "• Deep Learning Specialization of 5 courses on Coursera [‘20]",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "certifications",
+      "text": "• Online Certifications - Blockchain, Big Data &\nCertifications\n• Green Belt - Lean Six Sigma Certification [’19]\nComputer Vision\n• Gold Medal in Inter Dept. Kho-Kho Competition, IITB [’19]\n• Hampta pass trekking, (14100 ft Altitude) [‘19]",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "courses",
+      "text": "Sports &",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "other",
+      "text": "• Love to travel new places\nTravel\nScholastic achievements and extracurricular activities are not verified by the Placement Cell",
+      "page_range": [
+        2,
+        2
+      ]
+    }
+  ]
+}

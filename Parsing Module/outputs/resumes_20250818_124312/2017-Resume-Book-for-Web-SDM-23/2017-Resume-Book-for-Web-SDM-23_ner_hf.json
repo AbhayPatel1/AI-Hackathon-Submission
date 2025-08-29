@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "source_path": "data/resumes/2017-Resume-Book-for-Web-SDM-23.pdf",
+    "pages": 1,
+    "model": "facebook/bart-large-mnli"
+  },
+  "candidate": {
+    "full_name": "Amardeep Sidhu",
+    "emails": [],
+    "phones": [],
+    "links": {
+      "linkedin": "linkedin.com/in/ad7pm2",
+      "github": null
+    }
+  },
+  "experience": [],
+  "education": [
+    {
+      "degree_raw": null,
+      "degree_level": null,
+      "field_raw": null,
+      "institution_raw": "Massachusetts Institute of Technology School of Engineering & Sloan School of Management",
+      "start_date": null,
+      "end_date": null,
+      "gpa": null,
+      "extraction_confidence": 0.6,
+      "source_page": null
+    }
+  ],
+  "skills": [],
+  "projects": [],
+  "certifications": [],
+  "publications": [],
+  "achievements": [],
+  "languages": [],
+  "sectioned_text": [
+    {
+      "section_type": "other",
+      "text": "AMARDEEP SIDHU",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "Massachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nM.S., System Design and Management\nPurdue University\nSchool of Engineering\nM. S., Mechanical Engineering (Mechatronics)\nPune University",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "certifications",
+      "text": "Post Graduate Certification\nCAD CAM & CAE\nPune University\nAISSMS College of Engineering\nB. S., Mechanical Engineering\nRELEVANTSKILLS\nSoftware : SolidWorks, Simulink, LabVIEW, Python, ANSYS, PTC Creo, SysML, Vensim, JMP Pro",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "courses",
+      "text": "Courses : Project Management, System Architecture, Systems Engineering, Data Mining, Product Design and Development",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "other",
+      "text": "EXPERIENCE\nAPTIMA INC.\nCapability Management Extern\nGained gain better understanding of project management, business development, research, and division leadership\nLeveraged data mining to analyze and provide feedback on real world multi-class classification opportunity\nSERVO TECH INC. ON-SITE AT CATERPILLAR INC.\nTest Engineer\nSupported system level machine software testing with focus on powertrain, implements, engine, display, and telematics\nsubsystems\nDeveloped plant and I/O models to support real time testing of Electronic Control Modules (ECMs)\nDesigned, developed, and maintained machine software test procedures for existing and future requirements\nDeveloped expertise in vehicle communication system – Controller Area Network (CAN) - J1939 data transfer protocols\nand Caterpillar proprietary Cat Data Link\nSORTIMAT TECHNOLOGIES INDIA LTD.\nAssembly Engineer\nLed a team of 9 for engineering, assembly and installation of industrial automation machinery\nConducted feasibility analysis of machinery specifications and assisted sales team in setting client expectations\nLeveraged and enhanced industry standard German designs for developing assembly line feeding solutions, oversaw\nmanufacturing of individual parts, assembled, installed and troubleshot machinery\nDelivered high quality solutions for over 7 major machine orders along with multiple minor products to the diverse\nclients in FMCG, automotive, and medical industry\nREL-METH ENGINEERS & CONSULTANTS\nDesign Engineer\nDesigning, component sizing and assembly of industrial automation machinery based on customer requirements\nSourced standard parts and raw materials to ensure cost effective design, manufacturing, and assembly\nLeveraged in house expertise to design and support custom linkages and actuators\nSupported 4 tailor made machines from design to installation and operator training for a major international consumer\nproduct manufacturer\nCADBURY INDIA LTD\nTrainee Engineer - Plant Maintenance\nScheduled preventive maintenance and promptly addressed and resolved machine breakdowns\nImplemented safety measures including machine guards, lock and tag to enforce accident prevention\nApplied lean methodology for eliminating resource wastage and continuous improvement in the factory\nParticipated in major production enhancement initiatives by setting up cutting edge machinery in the factory\nPUBLICATIONS\n5 first author, 1 poster\nCambridge, MA\nFall 2016 - Current\nIndianapolis, IN\nJuly 2011 – Dec 2013\nPune, INDIA\nOct 2008– July 2009\nPune, INDIA\nJuly 2004– July 2007\nWoburn, MA\nJan 2017-Jan 2017\nPeoria, IL\nDec 2013-July 2016\nPune, INDIA\nJuly 2010 – June 2011\nPune, INDIA\nAug 2009 – June 2010\nPune, INDIA\nAug 2007 – Sep 2008",
+      "page_range": [
+        1,
+        1
+      ]
+    }
+  ]
+}

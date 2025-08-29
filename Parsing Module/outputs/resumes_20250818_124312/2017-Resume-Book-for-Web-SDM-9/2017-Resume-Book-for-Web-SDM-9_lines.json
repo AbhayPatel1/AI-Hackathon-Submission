@@ -1,0 +1,950 @@
+{
+  "meta": {
+    "source_path": "data/resumes/2017-Resume-Book-for-Web-SDM-9.pdf",
+    "pages": 1
+  },
+  "lines": [
+    {
+      "page": 1,
+      "text": "JOHN Y GILMORE",
+      "bbox": [
+        261.2900085449219,
+        14.232009887695312,
+        368.510009765625,
+        30.852008819580078
+      ],
+      "left_indent": 261.2900085449219,
+      "width": 107.22000122070312,
+      "is_bold": true,
+      "font_size": 12.0
+    },
+    {
+      "page": 1,
+      "text": "21 Sciarappa St Unit 1",
+      "bbox": [
+        269.69000244140625,
+        27.31210708618164,
+        362.79998779296875,
+        40.59874725341797
+      ],
+      "left_indent": 269.69000244140625,
+      "width": 93.1099853515625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Cambridge, MA 02141",
+      "bbox": [
+        268.489990234375,
+        38.23208999633789,
+        364.0,
+        51.51873016357422
+      ],
+      "left_indent": 268.489990234375,
+      "width": 95.510009765625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "+1 (646) 745-0167",
+      "bbox": [
+        277.25,
+        49.27212905883789,
+        355.3599853515625,
+        62.55876922607422
+      ],
+      "left_indent": 277.25,
+      "width": 78.1099853515625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "jyg@mit.edu",
+      "bbox": [
+        288.8900146484375,
+        60.31210708618164,
+        343.7200012207031,
+        73.59874725341797
+      ],
+      "left_indent": 288.8900146484375,
+      "width": 54.829986572265625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "https://www.linkedin.com/in/gilmorej",
+      "bbox": [
+        239.2100067138672,
+        71.23209381103516,
+        393.3999938964844,
+        84.51873016357422
+      ],
+      "left_indent": 239.2100067138672,
+      "width": 154.1899871826172,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "EDUCATION",
+      "bbox": [
+        72.02400207519531,
+        82.38179016113281,
+        135.5900115966797,
+        96.1763916015625
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 63.566009521484375,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Massachusetts Institute of Technology",
+      "bbox": [
+        72.02400207519531,
+        104.34175109863281,
+        234.87802124023438,
+        118.1363525390625
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 162.85401916503906,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "School of Engineering & Sloan School of Management",
+      "bbox": [
+        72.02400207519531,
+        116.30806732177734,
+        294.2599792480469,
+        128.46922302246094
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 222.23597717285156,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "M.S. System Design and Management",
+      "bbox": [
+        72.02400207519531,
+        126.3321304321289,
+        230.90000915527344,
+        139.6187744140625
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 158.87600708007812,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Finance Club, Member of Sloan Senate, Cohort Social Officer",
+      "bbox": [
+        72.02400207519531,
+        137.25210571289062,
+        324.0199890136719,
+        150.53875732421875
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 251.99598693847656,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "West Point, United States Military Academy",
+      "bbox": [
+        72.02400207519531,
+        159.42176818847656,
+        261.1743469238281,
+        173.21636962890625
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 189.1503448486328,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Systems Engineering",
+      "bbox": [
+        72.02400207519531,
+        171.26803588867188,
+        158.15000915527344,
+        183.42918395996094
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 86.12600708007812,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "B.S. Engineering Management",
+      "bbox": [
+        72.02400207519531,
+        181.29214477539062,
+        200.3000030517578,
+        194.57879638671875
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 128.2760009765625,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Regiment Commander for Summer Military Exercises (400 cadets), Alpine Ski Team 4 years",
+      "bbox": [
+        72.02400207519531,
+        192.33212280273438,
+        448.1199951171875,
+        205.6187744140625
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 376.0959930419922,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "EXPERIENCE",
+      "bbox": [
+        72.02400207519531,
+        214.3817901611328,
+        140.02999877929688,
+        228.1763916015625
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 68.00599670410156,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "U.S. Army Corps of Engineers, Middle East District",
+      "bbox": [
+        72.02400207519531,
+        236.3417510986328,
+        292.8525695800781,
+        250.1363525390625
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 220.8285675048828,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Project/Program Manager: Saudi Arabia, Yemen and Oman",
+      "bbox": [
+        72.02400207519531,
+        248.09890747070312,
+        323.7799987792969,
+        261.007080078125
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 251.75599670410156,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": " As the youngest Project Manager for the Army in the Middle East, successfully sold the first of construction case in",
+      "bbox": [
+        72.02400207519531,
+        261.7221374511719,
+        546.6691284179688,
+        275.0087890625
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 474.64512634277344,
+      "is_bold": false,
+      "font_size": 9.909948825836182
+    },
+    {
+      "page": 1,
+      "text": "32 years, an Apache airbase to the Kingdom of Saudi Arabia, budgeted at $209 million— then sold two more cases",
+      "bbox": [
+        72.02400207519531,
+        273.0021057128906,
+        535.989990234375,
+        286.28875732421875
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 463.9659881591797,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": " Prepared, presented and signed a new advising contract with the Saudi Arabian Interior Ministry, allowing the US",
+      "bbox": [
+        72.02400207519531,
+        285.9621276855469,
+        539.4788818359375,
+        299.248779296875
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 467.4548797607422,
+      "is_bold": false,
+      "font_size": 9.909948825836182
+    },
+    {
+      "page": 1,
+      "text": "Government to bid on security contracts contracts valued at over $5 billion",
+      "bbox": [
+        72.02400207519531,
+        297.24212646484375,
+        374.1999816894531,
+        310.5287780761719
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 302.1759796142578,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": " Established a new regional office in Saudi Arabia, including establishing business relationships with senior Saudi",
+      "bbox": [
+        72.02400207519531,
+        309.72210693359375,
+        537.3372192382812,
+        323.0087585449219
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 465.31321716308594,
+      "is_bold": false,
+      "font_size": 9.909948825836182
+    },
+    {
+      "page": 1,
+      "text": "Leaders, creating initial protocols, negotiating for property and renovation of office and living buildings, and selling",
+      "bbox": [
+        72.02400207519531,
+        321.0021057128906,
+        539.0050048828125,
+        334.28875732421875
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 466.9810028076172,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "new construction and advisory contracts worth $550 million",
+      "bbox": [
+        72.02400207519531,
+        332.2821044921875,
+        315.3800048828125,
+        345.5687561035156
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 243.3560028076172,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": " Successfully managed the budget and schedule for the Military Construction (MILCON) program in Oman, meeting",
+      "bbox": [
+        72.02400207519531,
+        344.7621154785156,
+        549.1232299804688,
+        358.04876708984375
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 477.09922790527344,
+      "is_bold": false,
+      "font_size": 9.909948825836182
+    },
+    {
+      "page": 1,
+      "text": "contract award timelines and customer requested changes resulting in the completion of a critical portion of a U.S.",
+      "bbox": [
+        72.02400207519531,
+        356.0421142578125,
+        531.8887939453125,
+        369.3287658691406
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 459.8647918701172,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Military air base on time",
+      "bbox": [
+        72.02400207519531,
+        367.4421081542969,
+        173.38999938964844,
+        380.728759765625
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 101.36599731445312,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": " Led a technical team in acquiring funding and in designing a Yemen Coast Guard base project, despite substantial",
+      "bbox": [
+        72.02400207519531,
+        378.48211669921875,
+        539.3526611328125,
+        391.7687683105469
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 467.3286590576172,
+      "is_bold": false,
+      "font_size": 9.909948825836182
+    },
+    {
+      "page": 1,
+      "text": "security hurdles, and despite limited technical knowledge within the host country",
+      "bbox": [
+        72.02400207519531,
+        389.8821105957031,
+        399.1600036621094,
+        403.16876220703125
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 327.13600158691406,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "U.S. Army Corps of Engineers, Transatlantic Division",
+      "bbox": [
+        72.02400207519531,
+        412.8917541503906,
+        301.3698425292969,
+        426.6863708496094
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 229.34584045410156,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Aide-de-Camp for Division Commander (2-star General)",
+      "bbox": [
+        72.02400207519531,
+        424.54888916015625,
+        308.05999755859375,
+        437.4570617675781
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 236.03599548339844,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": " Successfully carried out the Commander’s agenda from strategic priorities to daily business, working as a junior",
+      "bbox": [
+        72.02400207519531,
+        438.1421203613281,
+        532.989990234375,
+        451.42877197265625
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 460.9659881591797,
+      "is_bold": false,
+      "font_size": 9.909948825836182
+    },
+    {
+      "page": 1,
+      "text": "officer among a high-powered staff, and a diverse group of stakeholders",
+      "bbox": [
+        72.02400207519531,
+        449.422119140625,
+        363.03997802734375,
+        462.7087707519531
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 291.01597595214844,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": " officer with a high-powered staff, and diverse group of stakeholders.",
+      "bbox": [
+        72.02400207519531,
+        460.7021179199219,
+        358.239990234375,
+        473.98876953125
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 286.2159881591797,
+      "is_bold": false,
+      "font_size": 9.909948825836182
+    },
+    {
+      "page": 1,
+      "text": " Planned, prioritized and executed strategic reoccurring engagements with principle decision throughout the Middle",
+      "bbox": [
+        72.02400207519531,
+        461.9021301269531,
+        543.7899780273438,
+        475.18878173828125
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 471.76597595214844,
+      "is_bold": false,
+      "font_size": 9.909948825836182
+    },
+    {
+      "page": 1,
+      "text": "East and Central Asia that included visits to 8 countries while engaging with foreign governments, U.S. governmental",
+      "bbox": [
+        72.02400207519531,
+        473.18212890625,
+        546.2694091796875,
+        486.4687805175781
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 474.2454071044922,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "agencies and Allied Militaries",
+      "bbox": [
+        72.02400207519531,
+        484.4621276855469,
+        197.27000427246094,
+        497.748779296875
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 125.24600219726562,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": " Ranked as the #1 Captain of over 100 Company Grade Officers during General’s command",
+      "bbox": [
+        72.02400207519531,
+        496.9421081542969,
+        449.79998779296875,
+        510.228759765625
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 377.77598571777344,
+      "is_bold": false,
+      "font_size": 9.909948825836182
+    },
+    {
+      "page": 1,
+      "text": "U.S. Army, 1 st Cavalry Division",
+      "bbox": [
+        72.02400207519531,
+        522.1117553710938,
+        206.3699188232422,
+        535.9063720703125
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 134.34591674804688,
+      "is_bold": true,
+      "font_size": 8.800000031789144
+    },
+    {
+      "page": 1,
+      "text": "Combat Engineer Company Executive Officer",
+      "bbox": [
+        72.02400207519531,
+        533.7489013671875,
+        264.5,
+        546.6570434570312
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 192.4759979248047,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": " Planned and implemented a maintenance plan for over 70 tactical vehicles, leading 180 soldiers in logistics and supply",
+      "bbox": [
+        72.26399993896484,
+        547.3421630859375,
+        558.4369506835938,
+        560.6287841796875
+      ],
+      "left_indent": 72.26399993896484,
+      "width": 486.1729507446289,
+      "is_bold": false,
+      "font_size": 9.909948825836182
+    },
+    {
+      "page": 1,
+      "text": "chain management with a budget of $7 million annually, achieving the second-best readiness level of 36 companies",
+      "bbox": [
+        72.26399993896484,
+        558.6221313476562,
+        537.1900024414062,
+        571.9087524414062
+      ],
+      "left_indent": 72.26399993896484,
+      "width": 464.9260025024414,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": " Equipped, trained and maintained the company’s 17 Bradley fighting vehicles and its crews for the Annual Combat",
+      "bbox": [
+        72.26399993896484,
+        569.9021606445312,
+        545.3492431640625,
+        583.1887817382812
+      ],
+      "left_indent": 72.26399993896484,
+      "width": 473.08524322509766,
+      "is_bold": false,
+      "font_size": 9.909948825836182
+    },
+    {
+      "page": 1,
+      "text": "Readiness Evaluation (Bradley Gunnery): the most important armored vehicle evaluation",
+      "bbox": [
+        72.26399993896484,
+        581.3021240234375,
+        434.3199768066406,
+        594.5887451171875
+      ],
+      "left_indent": 72.26399993896484,
+      "width": 362.0559768676758,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": " Selected over other senior Officers to take company Executive Officer position, and later brigade headquarters",
+      "bbox": [
+        72.26399993896484,
+        592.5821533203125,
+        525.9854125976562,
+        605.8687744140625
+      ],
+      "left_indent": 72.26399993896484,
+      "width": 453.7214126586914,
+      "is_bold": false,
+      "font_size": 9.909948825836182
+    },
+    {
+      "page": 1,
+      "text": "company Executive Officer position",
+      "bbox": [
+        72.26399993896484,
+        603.8921508789062,
+        219.98001098632812,
+        617.1787719726562
+      ],
+      "left_indent": 72.26399993896484,
+      "width": 147.71601104736328,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Platoon Leader",
+      "bbox": [
+        72.26399993896484,
+        615.7388916015625,
+        138.35000610351562,
+        628.6470336914062
+      ],
+      "left_indent": 72.26399993896484,
+      "width": 66.08600616455078,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": " Led a 35-man Combat Engineer Platoon (Sappers) in north and central Iraq on over 125 combat patrols to disrupt",
+      "bbox": [
+        72.26399993896484,
+        626.3321533203125,
+        537.5499877929688,
+        639.6187744140625
+      ],
+      "left_indent": 72.26399993896484,
+      "width": 465.2859878540039,
+      "is_bold": false,
+      "font_size": 9.909948825836182
+    },
+    {
+      "page": 1,
+      "text": "enemy attacks and movements in the battle space",
+      "bbox": [
+        72.26399993896484,
+        637.6121215820312,
+        271.6999816894531,
+        650.8987426757812
+      ],
+      "left_indent": 72.26399993896484,
+      "width": 199.43598175048828,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Assistant Operations Officer",
+      "bbox": [
+        72.26399993896484,
+        649.3389282226562,
+        189.303955078125,
+        662.2470703125
+      ],
+      "left_indent": 72.26399993896484,
+      "width": 117.03995513916016,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": " As the Officer in charge of planning operations for a battalion, built the plan used for base defense at Forward",
+      "bbox": [
+        72.26399993896484,
+        659.8121337890625,
+        523.510009765625,
+        673.0987548828125
+      ],
+      "left_indent": 72.26399993896484,
+      "width": 451.24600982666016,
+      "is_bold": false,
+      "font_size": 9.909948825836182
+    },
+    {
+      "page": 1,
+      "text": "Operating Base Warhorse resulting in 75% reduction in enemy artillery attacks",
+      "bbox": [
+        72.26399993896484,
+        671.0921630859375,
+        393.3999938964844,
+        684.3787841796875
+      ],
+      "left_indent": 72.26399993896484,
+      "width": 321.13599395751953,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "ADDITIONAL____________________________________________________________________________________",
+      "bbox": [
+        72.02400207519531,
+        693.1377563476562,
+        559.6300048828125,
+        706.932373046875
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 487.6060028076172,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": " Captain of West Point Ski Team for two years, current MIT Ski Team Assistant Coach",
+      "bbox": [
+        72.02400207519531,
+        705.2881469726562,
+        430.9599914550781,
+        718.5747680664062
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 358.9359893798828,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": " Enlisted Infantryman for 2.5 years prior attending West Point; 82 nd Airborne Division, Fort Bragg, NC",
+      "bbox": [
+        72.02400207519531,
+        716.5125732421875,
+        485.3499755859375,
+        730.6947631835938
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 413.3259735107422,
+      "is_bold": false,
+      "font_size": 9.090000033378601
+    },
+    {
+      "page": 1,
+      "text": " Interests: Scuba Diving, Hiking, Tennis, Cycling",
+      "bbox": [
+        72.02400207519531,
+        729.5281372070312,
+        281.6600036621094,
+        742.8147583007812
+      ],
+      "left_indent": 72.02400207519531,
+      "width": 209.63600158691406,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Cambridge, MA",
+      "bbox": [
+        492.5799865722656,
+        104.25211334228516,
+        560.5899658203125,
+        117.53874969482422
+      ],
+      "left_indent": 492.5799865722656,
+      "width": 68.00997924804688,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Aug 2016 - May 2018",
+      "bbox": [
+        469.17999267578125,
+        115.29215240478516,
+        560.5899658203125,
+        128.57879638671875
+      ],
+      "left_indent": 469.17999267578125,
+      "width": 91.40997314453125,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "West Point, NY",
+      "bbox": [
+        494.5,
+        159.33212280273438,
+        560.5899658203125,
+        172.6187744140625
+      ],
+      "left_indent": 494.5,
+      "width": 66.0899658203125,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Jun 2006 - May 2010",
+      "bbox": [
+        472.5400085449219,
+        170.25210571289062,
+        560.5899658203125,
+        183.53875732421875
+      ],
+      "left_indent": 472.5400085449219,
+      "width": 88.04995727539062,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Winchester, VA/ Riyadh, Saudi Arabia",
+      "bbox": [
+        401.4700012207031,
+        236.25210571289062,
+        560.5899658203125,
+        249.53875732421875
+      ],
+      "left_indent": 401.4700012207031,
+      "width": 159.11996459960938,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Jul 2014 - Aug 2016",
+      "bbox": [
+        475.8999938964844,
+        247.29214477539062,
+        560.5899658203125,
+        260.57879638671875
+      ],
+      "left_indent": 475.8999938964844,
+      "width": 84.68997192382812,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Winchester, VA/ Kabul Afghanistan",
+      "bbox": [
+        412.0299987792969,
+        412.8021240234375,
+        560.5899658203125,
+        426.0887756347656
+      ],
+      "left_indent": 412.0299987792969,
+      "width": 148.55996704101562,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Feb 2013 - Jul 2014",
+      "bbox": [
+        478.05999755859375,
+        423.74212646484375,
+        560.5899658203125,
+        437.0287780761719
+      ],
+      "left_indent": 478.05999755859375,
+      "width": 82.52996826171875,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Fort Hood, TX",
+      "bbox": [
+        498.3399963378906,
+        522.0221557617188,
+        560.5899658203125,
+        535.3087768554688
+      ],
+      "left_indent": 498.3399963378906,
+      "width": 62.249969482421875,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "May 2010 - Feb 2013",
+      "bbox": [
+        471.4599914550781,
+        532.942138671875,
+        560.5899658203125,
+        546.228759765625
+      ],
+      "left_indent": 471.4599914550781,
+      "width": 89.12997436523438,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    }
+  ],
+  "text_per_page": [
+    "JOHN Y GILMORE\n21 Sciarappa St Unit 1\nCambridge, MA 02141\n+1 (646) 745-0167\njyg@mit.edu\nhttps://www.linkedin.com/in/gilmorej\nEDUCATION\nMassachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nM.S. System Design and Management\nFinance Club, Member of Sloan Senate, Cohort Social Officer\nWest Point, United States Military Academy\nSystems Engineering\nB.S. Engineering Management\nRegiment Commander for Summer Military Exercises (400 cadets), Alpine Ski Team 4 years\nEXPERIENCE\nU.S. Army Corps of Engineers, Middle East District\nProject/Program Manager: Saudi Arabia, Yemen and Oman\n As the youngest Project Manager for the Army in the Middle East, successfully sold the first of construction case in\n32 years, an Apache airbase to the Kingdom of Saudi Arabia, budgeted at $209 million— then sold two more cases\n Prepared, presented and signed a new advising contract with the Saudi Arabian Interior Ministry, allowing the US\nGovernment to bid on security contracts contracts valued at over $5 billion\n Established a new regional office in Saudi Arabia, including establishing business relationships with senior Saudi\nLeaders, creating initial protocols, negotiating for property and renovation of office and living buildings, and selling\nnew construction and advisory contracts worth $550 million\n Successfully managed the budget and schedule for the Military Construction (MILCON) program in Oman, meeting\ncontract award timelines and customer requested changes resulting in the completion of a critical portion of a U.S.\nMilitary air base on time\n Led a technical team in acquiring funding and in designing a Yemen Coast Guard base project, despite substantial\nsecurity hurdles, and despite limited technical knowledge within the host country\nU.S. Army Corps of Engineers, Transatlantic Division\nAide-de-Camp for Division Commander (2-star General)\n Successfully carried out the Commander’s agenda from strategic priorities to daily business, working as a junior\nofficer among a high-powered staff, and a diverse group of stakeholders\n officer with a high-powered staff, and diverse group of stakeholders.\n Planned, prioritized and executed strategic reoccurring engagements with principle decision throughout the Middle\nEast and Central Asia that included visits to 8 countries while engaging with foreign governments, U.S. governmental\nagencies and Allied Militaries\n Ranked as the #1 Captain of over 100 Company Grade Officers during General’s command\nU.S. Army, 1 st Cavalry Division\nCombat Engineer Company Executive Officer\n Planned and implemented a maintenance plan for over 70 tactical vehicles, leading 180 soldiers in logistics and supply\nchain management with a budget of $7 million annually, achieving the second-best readiness level of 36 companies\n Equipped, trained and maintained the company’s 17 Bradley fighting vehicles and its crews for the Annual Combat\nReadiness Evaluation (Bradley Gunnery): the most important armored vehicle evaluation\n Selected over other senior Officers to take company Executive Officer position, and later brigade headquarters\ncompany Executive Officer position\nPlatoon Leader\n Led a 35-man Combat Engineer Platoon (Sappers) in north and central Iraq on over 125 combat patrols to disrupt\nenemy attacks and movements in the battle space\nAssistant Operations Officer\n As the Officer in charge of planning operations for a battalion, built the plan used for base defense at Forward\nOperating Base Warhorse resulting in 75% reduction in enemy artillery attacks\nADDITIONAL____________________________________________________________________________________\n Captain of West Point Ski Team for two years, current MIT Ski Team Assistant Coach\n Enlisted Infantryman for 2.5 years prior attending West Point; 82 nd Airborne Division, Fort Bragg, NC\n Interests: Scuba Diving, Hiking, Tennis, Cycling\nCambridge, MA\nAug 2016 - May 2018\nWest Point, NY\nJun 2006 - May 2010\nWinchester, VA/ Riyadh, Saudi Arabia\nJul 2014 - Aug 2016\nWinchester, VA/ Kabul Afghanistan\nFeb 2013 - Jul 2014\nFort Hood, TX\nMay 2010 - Feb 2013"
+  ],
+  "text_all": "JOHN Y GILMORE\n21 Sciarappa St Unit 1\nCambridge, MA 02141\n+1 (646) 745-0167\njyg@mit.edu\nhttps://www.linkedin.com/in/gilmorej\nEDUCATION\nMassachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nM.S. System Design and Management\nFinance Club, Member of Sloan Senate, Cohort Social Officer\nWest Point, United States Military Academy\nSystems Engineering\nB.S. Engineering Management\nRegiment Commander for Summer Military Exercises (400 cadets), Alpine Ski Team 4 years\nEXPERIENCE\nU.S. Army Corps of Engineers, Middle East District\nProject/Program Manager: Saudi Arabia, Yemen and Oman\n As the youngest Project Manager for the Army in the Middle East, successfully sold the first of construction case in\n32 years, an Apache airbase to the Kingdom of Saudi Arabia, budgeted at $209 million— then sold two more cases\n Prepared, presented and signed a new advising contract with the Saudi Arabian Interior Ministry, allowing the US\nGovernment to bid on security contracts contracts valued at over $5 billion\n Established a new regional office in Saudi Arabia, including establishing business relationships with senior Saudi\nLeaders, creating initial protocols, negotiating for property and renovation of office and living buildings, and selling\nnew construction and advisory contracts worth $550 million\n Successfully managed the budget and schedule for the Military Construction (MILCON) program in Oman, meeting\ncontract award timelines and customer requested changes resulting in the completion of a critical portion of a U.S.\nMilitary air base on time\n Led a technical team in acquiring funding and in designing a Yemen Coast Guard base project, despite substantial\nsecurity hurdles, and despite limited technical knowledge within the host country\nU.S. Army Corps of Engineers, Transatlantic Division\nAide-de-Camp for Division Commander (2-star General)\n Successfully carried out the Commander’s agenda from strategic priorities to daily business, working as a junior\nofficer among a high-powered staff, and a diverse group of stakeholders\n officer with a high-powered staff, and diverse group of stakeholders.\n Planned, prioritized and executed strategic reoccurring engagements with principle decision throughout the Middle\nEast and Central Asia that included visits to 8 countries while engaging with foreign governments, U.S. governmental\nagencies and Allied Militaries\n Ranked as the #1 Captain of over 100 Company Grade Officers during General’s command\nU.S. Army, 1 st Cavalry Division\nCombat Engineer Company Executive Officer\n Planned and implemented a maintenance plan for over 70 tactical vehicles, leading 180 soldiers in logistics and supply\nchain management with a budget of $7 million annually, achieving the second-best readiness level of 36 companies\n Equipped, trained and maintained the company’s 17 Bradley fighting vehicles and its crews for the Annual Combat\nReadiness Evaluation (Bradley Gunnery): the most important armored vehicle evaluation\n Selected over other senior Officers to take company Executive Officer position, and later brigade headquarters\ncompany Executive Officer position\nPlatoon Leader\n Led a 35-man Combat Engineer Platoon (Sappers) in north and central Iraq on over 125 combat patrols to disrupt\nenemy attacks and movements in the battle space\nAssistant Operations Officer\n As the Officer in charge of planning operations for a battalion, built the plan used for base defense at Forward\nOperating Base Warhorse resulting in 75% reduction in enemy artillery attacks\nADDITIONAL____________________________________________________________________________________\n Captain of West Point Ski Team for two years, current MIT Ski Team Assistant Coach\n Enlisted Infantryman for 2.5 years prior attending West Point; 82 nd Airborne Division, Fort Bragg, NC\n Interests: Scuba Diving, Hiking, Tennis, Cycling\nCambridge, MA\nAug 2016 - May 2018\nWest Point, NY\nJun 2006 - May 2010\nWinchester, VA/ Riyadh, Saudi Arabia\nJul 2014 - Aug 2016\nWinchester, VA/ Kabul Afghanistan\nFeb 2013 - Jul 2014\nFort Hood, TX\nMay 2010 - Feb 2013"
+}

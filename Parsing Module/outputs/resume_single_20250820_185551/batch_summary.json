@@ -1,0 +1,73 @@
+{
+  "batch_dir": "outputs/resume_single_20250820_185551",
+  "items": [
+    {
+      "input": "data/resume_single/Rohith-Katta-Resume_(1).pdf",
+      "outputs": {
+        "doc_dir": "outputs/resume_single_20250820_185551/Rohith-Katta-Resume_(1)",
+        "layout_json": "outputs/resume_single_20250820_185551/Rohith-Katta-Resume_(1)/Rohith-Katta-Resume_(1)_layout.json",
+        "lines_json": "outputs/resume_single_20250820_185551/Rohith-Katta-Resume_(1)/Rohith-Katta-Resume_(1)_lines.json",
+        "text_txt": "outputs/resume_single_20250820_185551/Rohith-Katta-Resume_(1)/Rohith-Katta-Resume_(1)_text.txt",
+        "sections_json": "outputs/resume_single_20250820_185551/Rohith-Katta-Resume_(1)/Rohith-Katta-Resume_(1)_sections_nli.json",
+        "ner_spacy": "outputs/resume_single_20250820_185551/Rohith-Katta-Resume_(1)/Rohith-Katta-Resume_(1)_ner_spacy.json",
+        "ner_hf": "outputs/resume_single_20250820_185551/Rohith-Katta-Resume_(1)/Rohith-Katta-Resume_(1)_ner_hf.json",
+        "ner_ens": "outputs/resume_single_20250820_185551/Rohith-Katta-Resume_(1)/Rohith-Katta-Resume_(1)_ner_ens.json",
+        "canon_spacy": "outputs/resume_single_20250820_185551/Rohith-Katta-Resume_(1)/Rohith-Katta-Resume_(1)_spacy_canonical.json",
+        "canon_hf": "outputs/resume_single_20250820_185551/Rohith-Katta-Resume_(1)/Rohith-Katta-Resume_(1)_hf_canonical.json",
+        "canon_ens": "outputs/resume_single_20250820_185551/Rohith-Katta-Resume_(1)/Rohith-Katta-Resume_(1)_ens_canonical.json",
+        "compare_json": "outputs/resume_single_20250820_185551/Rohith-Katta-Resume_(1)/Rohith-Katta-Resume_(1)_ner_compare.json"
+      }
+    },
+    {
+      "input": "data/resume_single/four_two_column_resumes.pdf",
+      "outputs": {
+        "doc_dir": "outputs/resume_single_20250820_185551/four_two_column_resumes",
+        "layout_json": "outputs/resume_single_20250820_185551/four_two_column_resumes/four_two_column_resumes_layout.json",
+        "lines_json": "outputs/resume_single_20250820_185551/four_two_column_resumes/four_two_column_resumes_lines.json",
+        "text_txt": "outputs/resume_single_20250820_185551/four_two_column_resumes/four_two_column_resumes_text.txt",
+        "sections_json": "outputs/resume_single_20250820_185551/four_two_column_resumes/four_two_column_resumes_sections_nli.json",
+        "ner_spacy": "outputs/resume_single_20250820_185551/four_two_column_resumes/four_two_column_resumes_ner_spacy.json",
+        "ner_hf": "outputs/resume_single_20250820_185551/four_two_column_resumes/four_two_column_resumes_ner_hf.json",
+        "ner_ens": "outputs/resume_single_20250820_185551/four_two_column_resumes/four_two_column_resumes_ner_ens.json",
+        "canon_spacy": "outputs/resume_single_20250820_185551/four_two_column_resumes/four_two_column_resumes_spacy_canonical.json",
+        "canon_hf": "outputs/resume_single_20250820_185551/four_two_column_resumes/four_two_column_resumes_hf_canonical.json",
+        "canon_ens": "outputs/resume_single_20250820_185551/four_two_column_resumes/four_two_column_resumes_ens_canonical.json",
+        "compare_json": "outputs/resume_single_20250820_185551/four_two_column_resumes/four_two_column_resumes_ner_compare.json"
+      }
+    },
+    {
+      "input": "data/resume_single/new.pdf",
+      "outputs": {
+        "doc_dir": "outputs/resume_single_20250820_185551/new",
+        "layout_json": "outputs/resume_single_20250820_185551/new/new_layout.json",
+        "lines_json": "outputs/resume_single_20250820_185551/new/new_lines.json",
+        "text_txt": "outputs/resume_single_20250820_185551/new/new_text.txt",
+        "sections_json": "outputs/resume_single_20250820_185551/new/new_sections_nli.json",
+        "ner_spacy": "outputs/resume_single_20250820_185551/new/new_ner_spacy.json",
+        "ner_hf": "outputs/resume_single_20250820_185551/new/new_ner_hf.json",
+        "ner_ens": "outputs/resume_single_20250820_185551/new/new_ner_ens.json",
+        "canon_spacy": "outputs/resume_single_20250820_185551/new/new_spacy_canonical.json",
+        "canon_hf": "outputs/resume_single_20250820_185551/new/new_hf_canonical.json",
+        "canon_ens": "outputs/resume_single_20250820_185551/new/new_ens_canonical.json",
+        "compare_json": "outputs/resume_single_20250820_185551/new/new_ner_compare.json"
+      }
+    },
+    {
+      "input": "data/resume_single/two_column_resume.pdf",
+      "outputs": {
+        "doc_dir": "outputs/resume_single_20250820_185551/two_column_resume",
+        "layout_json": "outputs/resume_single_20250820_185551/two_column_resume/two_column_resume_layout.json",
+        "lines_json": "outputs/resume_single_20250820_185551/two_column_resume/two_column_resume_lines.json",
+        "text_txt": "outputs/resume_single_20250820_185551/two_column_resume/two_column_resume_text.txt",
+        "sections_json": "outputs/resume_single_20250820_185551/two_column_resume/two_column_resume_sections_nli.json",
+        "ner_spacy": "outputs/resume_single_20250820_185551/two_column_resume/two_column_resume_ner_spacy.json",
+        "ner_hf": "outputs/resume_single_20250820_185551/two_column_resume/two_column_resume_ner_hf.json",
+        "ner_ens": "outputs/resume_single_20250820_185551/two_column_resume/two_column_resume_ner_ens.json",
+        "canon_spacy": "outputs/resume_single_20250820_185551/two_column_resume/two_column_resume_spacy_canonical.json",
+        "canon_hf": "outputs/resume_single_20250820_185551/two_column_resume/two_column_resume_hf_canonical.json",
+        "canon_ens": "outputs/resume_single_20250820_185551/two_column_resume/two_column_resume_ens_canonical.json",
+        "compare_json": "outputs/resume_single_20250820_185551/two_column_resume/two_column_resume_ner_compare.json"
+      }
+    }
+  ]
+}

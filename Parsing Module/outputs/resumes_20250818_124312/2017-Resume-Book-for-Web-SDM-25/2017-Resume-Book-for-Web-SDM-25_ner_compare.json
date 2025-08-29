@@ -1,0 +1,341 @@
+{
+  "systems": [
+    "spacy",
+    "hf",
+    "ens"
+  ],
+  "candidate": {
+    "emails": {
+      "sizes": {
+        "spacy": 1,
+        "hf": 1,
+        "ens": 1
+      },
+      "jaccard": {
+        "spacy__hf": 1.0,
+        "spacy__ens": 1.0,
+        "hf__ens": 1.0
+      },
+      "sample_diffs": {
+        "spacy_minus_hf": [],
+        "hf_minus_spacy": [],
+        "spacy_minus_ens": [],
+        "ens_minus_spacy": [],
+        "hf_minus_ens": [],
+        "ens_minus_hf": []
+      },
+      "union_count": 1
+    },
+    "phones": {
+      "sizes": {
+        "spacy": 1,
+        "hf": 1,
+        "ens": 1
+      },
+      "jaccard": {
+        "spacy__hf": 1.0,
+        "spacy__ens": 1.0,
+        "hf__ens": 1.0
+      },
+      "sample_diffs": {
+        "spacy_minus_hf": [],
+        "hf_minus_spacy": [],
+        "spacy_minus_ens": [],
+        "ens_minus_spacy": [],
+        "hf_minus_ens": [],
+        "ens_minus_hf": []
+      },
+      "union_count": 1
+    },
+    "links": {
+      "sizes": {
+        "spacy": 0,
+        "hf": 0,
+        "ens": 0
+      },
+      "jaccard": {
+        "spacy__hf": 1.0,
+        "spacy__ens": 1.0,
+        "hf__ens": 1.0
+      },
+      "sample_diffs": {
+        "spacy_minus_hf": [],
+        "hf_minus_spacy": [],
+        "spacy_minus_ens": [],
+        "ens_minus_spacy": [],
+        "hf_minus_ens": [],
+        "ens_minus_hf": []
+      },
+      "union_count": 0
+    }
+  },
+  "experience": {
+    "companies": {
+      "sizes": {
+        "spacy": 0,
+        "hf": 1,
+        "ens": 1
+      },
+      "jaccard": {
+        "spacy__hf": 0.0,
+        "spacy__ens": 0.0,
+        "hf__ens": 1.0
+      },
+      "sample_diffs": {
+        "spacy_minus_hf": [],
+        "hf_minus_spacy": [
+          "pathways operations internship"
+        ],
+        "spacy_minus_ens": [],
+        "ens_minus_spacy": [
+          "pathways operations internship"
+        ],
+        "hf_minus_ens": [],
+        "ens_minus_hf": []
+      },
+      "union_count": 1
+    },
+    "titles": {
+      "sizes": {
+        "spacy": 1,
+        "hf": 1,
+        "ens": 1
+      },
+      "jaccard": {
+        "spacy__hf": 1.0,
+        "spacy__ens": 1.0,
+        "hf__ens": 1.0
+      },
+      "sample_diffs": {
+        "spacy_minus_hf": [],
+        "hf_minus_spacy": [],
+        "spacy_minus_ens": [],
+        "ens_minus_spacy": [],
+        "hf_minus_ens": [],
+        "ens_minus_hf": []
+      },
+      "union_count": 1
+    },
+    "locations": {
+      "sizes": {
+        "spacy": 0,
+        "hf": 0,
+        "ens": 0
+      },
+      "jaccard": {
+        "spacy__hf": 1.0,
+        "spacy__ens": 1.0,
+        "hf__ens": 1.0
+      },
+      "sample_diffs": {
+        "spacy_minus_hf": [],
+        "hf_minus_spacy": [],
+        "spacy_minus_ens": [],
+        "ens_minus_spacy": [],
+        "hf_minus_ens": [],
+        "ens_minus_hf": []
+      },
+      "union_count": 0
+    },
+    "start_dates": {
+      "sizes": {
+        "spacy": 0,
+        "hf": 0,
+        "ens": 0
+      },
+      "jaccard": {
+        "spacy__hf": 1.0,
+        "spacy__ens": 1.0,
+        "hf__ens": 1.0
+      },
+      "sample_diffs": {
+        "spacy_minus_hf": [],
+        "hf_minus_spacy": [],
+        "spacy_minus_ens": [],
+        "ens_minus_spacy": [],
+        "hf_minus_ens": [],
+        "ens_minus_hf": []
+      },
+      "union_count": 0
+    },
+    "end_dates": {
+      "sizes": {
+        "spacy": 0,
+        "hf": 0,
+        "ens": 0
+      },
+      "jaccard": {
+        "spacy__hf": 1.0,
+        "spacy__ens": 1.0,
+        "hf__ens": 1.0
+      },
+      "sample_diffs": {
+        "spacy_minus_hf": [],
+        "hf_minus_spacy": [],
+        "spacy_minus_ens": [],
+        "ens_minus_spacy": [],
+        "hf_minus_ens": [],
+        "ens_minus_hf": []
+      },
+      "union_count": 0
+    }
+  },
+  "education": {
+    "degrees": {
+      "sizes": {
+        "spacy": 0,
+        "hf": 0,
+        "ens": 0
+      },
+      "jaccard": {
+        "spacy__hf": 1.0,
+        "spacy__ens": 1.0,
+        "hf__ens": 1.0
+      },
+      "sample_diffs": {
+        "spacy_minus_hf": [],
+        "hf_minus_spacy": [],
+        "spacy_minus_ens": [],
+        "ens_minus_spacy": [],
+        "hf_minus_ens": [],
+        "ens_minus_hf": []
+      },
+      "union_count": 0
+    },
+    "fields": {
+      "sizes": {
+        "spacy": 0,
+        "hf": 0,
+        "ens": 0
+      },
+      "jaccard": {
+        "spacy__hf": 1.0,
+        "spacy__ens": 1.0,
+        "hf__ens": 1.0
+      },
+      "sample_diffs": {
+        "spacy_minus_hf": [],
+        "hf_minus_spacy": [],
+        "spacy_minus_ens": [],
+        "ens_minus_spacy": [],
+        "hf_minus_ens": [],
+        "ens_minus_hf": []
+      },
+      "union_count": 0
+    },
+    "institutions": {
+      "sizes": {
+        "spacy": 1,
+        "hf": 1,
+        "ens": 1
+      },
+      "jaccard": {
+        "spacy__hf": 0.0,
+        "spacy__ens": 0.0,
+        "hf__ens": 1.0
+      },
+      "sample_diffs": {
+        "spacy_minus_hf": [
+          "massachusetts institute of technology school of engineering & sloan school of management m.s."
+        ],
+        "hf_minus_spacy": [
+          "massachusetts institute of technology school of engineering & sloan school of management"
+        ],
+        "spacy_minus_ens": [
+          "massachusetts institute of technology school of engineering & sloan school of management m.s."
+        ],
+        "ens_minus_spacy": [
+          "massachusetts institute of technology school of engineering & sloan school of management"
+        ],
+        "hf_minus_ens": [],
+        "ens_minus_hf": []
+      },
+      "union_count": 2
+    },
+    "dates": {
+      "sizes": {
+        "spacy": 0,
+        "hf": 0,
+        "ens": 0
+      },
+      "jaccard": {
+        "spacy__hf": 1.0,
+        "spacy__ens": 1.0,
+        "hf__ens": 1.0
+      },
+      "sample_diffs": {
+        "spacy_minus_hf": [],
+        "hf_minus_spacy": [],
+        "spacy_minus_ens": [],
+        "ens_minus_spacy": [],
+        "hf_minus_ens": [],
+        "ens_minus_hf": []
+      },
+      "union_count": 0
+    }
+  },
+  "projects": {
+    "names": {
+      "sizes": {
+        "spacy": 0,
+        "hf": 0,
+        "ens": 0
+      },
+      "jaccard": {
+        "spacy__hf": 1.0,
+        "spacy__ens": 1.0,
+        "hf__ens": 1.0
+      },
+      "sample_diffs": {
+        "spacy_minus_hf": [],
+        "hf_minus_spacy": [],
+        "spacy_minus_ens": [],
+        "ens_minus_spacy": [],
+        "hf_minus_ens": [],
+        "ens_minus_hf": []
+      },
+      "union_count": 0
+    }
+  },
+  "skills": {
+    "sizes": {
+      "spacy": 0,
+      "hf": 0,
+      "ens": 0
+    },
+    "jaccard": {
+      "spacy__hf": 1.0,
+      "spacy__ens": 1.0,
+      "hf__ens": 1.0
+    },
+    "sample_diffs": {
+      "spacy_minus_hf": [],
+      "hf_minus_spacy": [],
+      "spacy_minus_ens": [],
+      "ens_minus_spacy": [],
+      "hf_minus_ens": [],
+      "ens_minus_hf": []
+    },
+    "union_count": 0
+  },
+  "winners_most_items": {
+    "emails": "spacy",
+    "phones": "spacy",
+    "links": "spacy",
+    "companies": "hf",
+    "titles": "spacy",
+    "locations": "spacy",
+    "start_dates": "spacy",
+    "end_dates": "spacy",
+    "degrees": "spacy",
+    "fields": "spacy",
+    "institutions": "spacy",
+    "dates": "spacy",
+    "names": "spacy",
+    "skills": {
+      "spacy": 0,
+      "hf": 0,
+      "ens": 0
+    }
+  }
+}

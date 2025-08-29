@@ -1,0 +1,2183 @@
+{
+  "meta": {
+    "source_path": "data/resumes/Shubham_Singhania_MTech_Elec_Oracle.pdf",
+    "pages": 2
+  },
+  "lines": [
+    {
+      "page": 1,
+      "text": "Shubham Singhania",
+      "bbox": [
+        150.0,
+        39.55999755859375,
+        236.4299774169922,
+        53.40999984741211
+      ],
+      "left_indent": 150.0,
+      "width": 86.42997741699219,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "183079025",
+      "bbox": [
+        400.0,
+        39.55999755859375,
+        445.0,
+        53.40999984741211
+      ],
+      "left_indent": 400.0,
+      "width": 45.0,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Electrical Engineering",
+      "bbox": [
+        150.0,
+        54.55999755859375,
+        245.8300018310547,
+        68.41000366210938
+      ],
+      "left_indent": 150.0,
+      "width": 95.83000183105469,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "M.Tech.",
+      "bbox": [
+        400.0,
+        54.55999755859375,
+        435.5500183105469,
+        68.41000366210938
+      ],
+      "left_indent": 400.0,
+      "width": 35.550018310546875,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Indian Institute of Technology, Bombay",
+      "bbox": [
+        150.0,
+        69.55999755859375,
+        320.29998779296875,
+        83.41000366210938
+      ],
+      "left_indent": 150.0,
+      "width": 170.29998779296875,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Gender: Male",
+      "bbox": [
+        400.0,
+        69.55999755859375,
+        459.7099914550781,
+        83.41000366210938
+      ],
+      "left_indent": 400.0,
+      "width": 59.709991455078125,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Specialization: Electronic Systems",
+      "bbox": [
+        150.0,
+        84.55999755859375,
+        296.1000061035156,
+        98.41000366210938
+      ],
+      "left_indent": 150.0,
+      "width": 146.10000610351562,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "DOB: 19-12-1995",
+      "bbox": [
+        400.0,
+        84.55999755859375,
+        476.65997314453125,
+        98.41000366210938
+      ],
+      "left_indent": 400.0,
+      "width": 76.65997314453125,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Examination",
+      "bbox": [
+        50.0,
+        110.55999755859375,
+        105.00999450683594,
+        124.41000366210938
+      ],
+      "left_indent": 50.0,
+      "width": 55.00999450683594,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "University",
+      "bbox": [
+        150.0,
+        110.55999755859375,
+        194.44000244140625,
+        124.41000366210938
+      ],
+      "left_indent": 150.0,
+      "width": 44.44000244140625,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Institute",
+      "bbox": [
+        300.0,
+        110.55999755859375,
+        336.1099853515625,
+        124.41000366210938
+      ],
+      "left_indent": 300.0,
+      "width": 36.1099853515625,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Year",
+      "bbox": [
+        475.0,
+        110.55999755859375,
+        496.1000061035156,
+        124.41000366210938
+      ],
+      "left_indent": 475.0,
+      "width": 21.100006103515625,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "CPI / %",
+      "bbox": [
+        510.0,
+        110.55999755859375,
+        545.0,
+        124.41000366210938
+      ],
+      "left_indent": 510.0,
+      "width": 35.0,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Post Graduation",
+      "bbox": [
+        50.0,
+        127.47000122070312,
+        114.72000885009766,
+        140.80999755859375
+      ],
+      "left_indent": 50.0,
+      "width": 64.72000885009766,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "IIT Bombay",
+      "bbox": [
+        150.0,
+        127.47000122070312,
+        199.16000366210938,
+        140.80999755859375
+      ],
+      "left_indent": 150.0,
+      "width": 49.160003662109375,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "IIT Bombay",
+      "bbox": [
+        300.0,
+        127.47000122070312,
+        349.15997314453125,
+        140.80999755859375
+      ],
+      "left_indent": 300.0,
+      "width": 49.15997314453125,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "2021",
+      "bbox": [
+        475.0,
+        127.47000122070312,
+        495.0,
+        140.80999755859375
+      ],
+      "left_indent": 475.0,
+      "width": 20.0,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "8.5",
+      "bbox": [
+        510.0,
+        127.47000122070312,
+        522.5,
+        140.80999755859375
+      ],
+      "left_indent": 510.0,
+      "width": 12.5,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Graduation",
+      "bbox": [
+        50.0,
+        140.47000122070312,
+        94.99000549316406,
+        153.80999755859375
+      ],
+      "left_indent": 50.0,
+      "width": 44.99000549316406,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "MAKAUT, West Bengal",
+      "bbox": [
+        150.0,
+        140.47000122070312,
+        250.260009765625,
+        153.80999755859375
+      ],
+      "left_indent": 150.0,
+      "width": 100.260009765625,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Haldia Institute of Technology",
+      "bbox": [
+        300.0,
+        140.47000122070312,
+        423.03997802734375,
+        153.80999755859375
+      ],
+      "left_indent": 300.0,
+      "width": 123.03997802734375,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "2018",
+      "bbox": [
+        475.0,
+        140.47000122070312,
+        495.0,
+        153.80999755859375
+      ],
+      "left_indent": 475.0,
+      "width": 20.0,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "9.1",
+      "bbox": [
+        510.0,
+        140.47000122070312,
+        522.5,
+        153.80999755859375
+      ],
+      "left_indent": 510.0,
+      "width": 12.5,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Graduation Specialization: Computer Science & Engineering",
+      "bbox": [
+        50.0,
+        153.47000122070312,
+        294.69000244140625,
+        166.80999755859375
+      ],
+      "left_indent": 50.0,
+      "width": 244.69000244140625,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "AREA OF INTEREST",
+      "bbox": [
+        44.518001556396484,
+        188.08421325683594,
+        145.53875732421875,
+        198.34568786621094
+      ],
+      "left_indent": 44.518001556396484,
+      "width": 101.02075576782227,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "• Algorithms",
+      "bbox": [
+        51.78099822998047,
+        203.15301513671875,
+        105.05416870117188,
+        220.43812561035156
+      ],
+      "left_indent": 51.78099822998047,
+      "width": 53.273170471191406,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "• Database Management",
+      "bbox": [
+        115.01599884033203,
+        203.15301513671875,
+        219.12832641601562,
+        220.43812561035156
+      ],
+      "left_indent": 115.01599884033203,
+      "width": 104.1123275756836,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "• Operating System",
+      "bbox": [
+        229.08900451660156,
+        203.15301513671875,
+        312.0806579589844,
+        220.43812561035156
+      ],
+      "left_indent": 229.08900451660156,
+      "width": 82.99165344238281,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "• Machine Learning",
+      "bbox": [
+        322.0460205078125,
+        203.15301513671875,
+        404.11114501953125,
+        220.43812561035156
+      ],
+      "left_indent": 322.0460205078125,
+      "width": 82.06512451171875,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "• Deep Learning",
+      "bbox": [
+        414.06201171875,
+        203.15301513671875,
+        482.2890625,
+        220.43812561035156
+      ],
+      "left_indent": 414.06201171875,
+      "width": 68.22705078125,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "SCHOLASTIC ACHIEVEMENTS",
+      "bbox": [
+        44.518001556396484,
+        220.8271942138672,
+        196.6469268798828,
+        231.0886688232422
+      ],
+      "left_indent": 44.518001556396484,
+      "width": 152.12892532348633,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "• Secured an All India Rank 475 ( 99.56 percentile) in GATE in Computer Science and Information Technology. ( 2018 )",
+      "bbox": [
+        48.17499923706055,
+        237.03416442871094,
+        554.2264404296875,
+        254.3690948486328
+      ],
+      "left_indent": 48.17499923706055,
+      "width": 506.05144119262695,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "• Talk on Edge Computing and its Challenges in Fourth Indo-Japanese Joint Research Laboratory",
+      "bbox": [
+        48.174957275390625,
+        251.02317810058594,
+        484.27264404296875,
+        268.35809326171875
+      ],
+      "left_indent": 48.174957275390625,
+      "width": 436.0976867675781,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "( Nov’19 )",
+      "bbox": [
+        516.0333862304688,
+        251.23239135742188,
+        554.2263793945312,
+        261.28466796875
+      ],
+      "left_indent": 516.0333862304688,
+      "width": 38.1929931640625,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "Project (2017–2022) Workshop on Intelligent Cyber Physical Systems held at IIT Bombay.",
+      "bbox": [
+        58.137908935546875,
+        263.1874084472656,
+        435.322021484375,
+        273.23968505859375
+      ],
+      "left_indent": 58.137908935546875,
+      "width": 377.1841125488281,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "• Got half freeship as Department Topper (AY 2014-2015) in 3rd and 4th semester (BTech).",
+      "bbox": [
+        48.17490768432617,
+        276.96722412109375,
+        449.79656982421875,
+        294.3021240234375
+      ],
+      "left_indent": 48.17490768432617,
+      "width": 401.6216621398926,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "MAJOR PROJECTS AND SEMINAR",
+      "bbox": [
+        44.518001556396484,
+        296.42919921875,
+        217.38905334472656,
+        306.690673828125
+      ],
+      "left_indent": 44.518001556396484,
+      "width": 172.87105178833008,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "• M.Tech Project: Machine Learning based Task Scheduling approach for Edge Computing Systems.",
+      "bbox": [
+        48.17499923706055,
+        312.63623046875,
+        509.503662109375,
+        329.97113037109375
+      ],
+      "left_indent": 48.17499923706055,
+      "width": 461.32866287231445,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "Guide: Prof. Virendra Singh, IIT Bombay",
+      "bbox": [
+        58.13800048828125,
+        324.8014221191406,
+        231.76620483398438,
+        334.85369873046875
+      ],
+      "left_indent": 58.13800048828125,
+      "width": 173.62820434570312,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "( Jul’2020 - Ongoing )",
+      "bbox": [
+        465.5669860839844,
+        324.8014221191406,
+        554.2264404296875,
+        334.85369873046875
+      ],
+      "left_indent": 465.5669860839844,
+      "width": 88.65945434570312,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "◦ Objective: Design of a Machine learning-based task scheduling algorithm in Edge Computing Systems taking into",
+      "bbox": [
+        59.51397705078125,
+        336.5472106933594,
+        554.2692260742188,
+        353.8821105957031
+      ],
+      "left_indent": 59.51397705078125,
+      "width": 494.7552490234375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "consideration task deadline , optimal resource utilization , energy requirement and other dynamic system constraints.",
+      "bbox": [
+        69.47697448730469,
+        348.502197265625,
+        554.2230834960938,
+        358.763671875
+      ],
+      "left_indent": 69.47697448730469,
+      "width": 484.74610900878906,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "◦ Explored various literature using heuristic as well as Machine Learning-based approaches for Scheduling tasks at Edge.",
+      "bbox": [
+        59.51397705078125,
+        361.92401123046875,
+        554.277099609375,
+        379.2091064453125
+      ],
+      "left_indent": 59.51397705078125,
+      "width": 494.76312255859375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "◦ Investigating scheduling using Deep Reinforcement Learning where the system learns from experience.",
+      "bbox": [
+        59.513973236083984,
+        375.2471923828125,
+        506.63604736328125,
+        392.58209228515625
+      ],
+      "left_indent": 59.513973236083984,
+      "width": 447.12207412719727,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "◦ Future Work: Deploying the Machine Learning-based algorithm on real-time Edge Computing System and",
+      "bbox": [
+        59.51397705078125,
+        388.61920166015625,
+        530.97216796875,
+        405.9541015625
+      ],
+      "left_indent": 59.51397705078125,
+      "width": 471.45819091796875,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "comparing the performance with existing heuristic based and other scheduling approaches.",
+      "bbox": [
+        69.47695922851562,
+        400.5751953125,
+        456.7695007324219,
+        410.836669921875
+      ],
+      "left_indent": 69.47695922851562,
+      "width": 387.29254150390625,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "• Seminar: Edge Computing and its challenges",
+      "bbox": [
+        48.174957275390625,
+        416.7821960449219,
+        263.1782531738281,
+        434.1170959472656
+      ],
+      "left_indent": 48.174957275390625,
+      "width": 215.0032958984375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "( Jul’19 - Dec’19 )",
+      "bbox": [
+        481.6689758300781,
+        416.99139404296875,
+        554.2264404296875,
+        427.0436706542969
+      ],
+      "left_indent": 481.6689758300781,
+      "width": 72.55746459960938,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "Guide: Prof. Virendra Singh, IIT Bombay",
+      "bbox": [
+        58.137969970703125,
+        428.9463806152344,
+        231.76617431640625,
+        438.9986572265625
+      ],
+      "left_indent": 58.137969970703125,
+      "width": 173.62820434570312,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "◦ Conducted an extensive literature survey on Edge computing and its various computing paradigm and how it is diﬀerent",
+      "bbox": [
+        59.51396942138672,
+        440.7419738769531,
+        554.2669067382812,
+        458.0270690917969
+      ],
+      "left_indent": 59.51396942138672,
+      "width": 494.75293731689453,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "from existing Cloud Computing approach .",
+      "bbox": [
+        69.47696685791016,
+        452.64715576171875,
+        254.12460327148438,
+        462.90863037109375
+      ],
+      "left_indent": 69.47696685791016,
+      "width": 184.64763641357422,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "◦ Explored various security challenges in secure data analytics in Edge , Computing and task Scheduling challenges",
+      "bbox": [
+        59.51396179199219,
+        466.0201416015625,
+        554.26416015625,
+        483.35504150390625
+      ],
+      "left_indent": 59.51396179199219,
+      "width": 494.7501983642578,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "for heterogenous tasks in the Edge requiring real-time response, Quality of Service, and Veriﬁable Computation.",
+      "bbox": [
+        69.47695922851562,
+        478.184326171875,
+        535.5075073242188,
+        488.2366027832031
+      ],
+      "left_indent": 69.47695922851562,
+      "width": 466.0305480957031,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "WORK EXPERIENCE",
+      "bbox": [
+        44.518001556396484,
+        496.8832092285156,
+        145.85757446289062,
+        507.1446838378906
+      ],
+      "left_indent": 44.518001556396484,
+      "width": 101.33957290649414,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "• System Administrator | Electrical Department, IIT Bombay",
+      "bbox": [
+        48.17499923706055,
+        513.0902099609375,
+        313.3144836425781,
+        530.4251098632812
+      ],
+      "left_indent": 48.17499923706055,
+      "width": 265.1394844055176,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "( Jul’18 - Present )",
+      "bbox": [
+        479.65301513671875,
+        513.2994384765625,
+        554.2265014648438,
+        523.3516845703125
+      ],
+      "left_indent": 479.65301513671875,
+      "width": 74.573486328125,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "◦ Development and maintenance of EE department website, Dashboard, and other internal portals like faculty search",
+      "bbox": [
+        59.5140380859375,
+        525.0462036132812,
+        554.276123046875,
+        542.381103515625
+      ],
+      "left_indent": 59.5140380859375,
+      "width": 494.7620849609375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "committee, meeting room booking system, and other portals.",
+      "bbox": [
+        69.47703552246094,
+        537.2103881835938,
+        325.0774230957031,
+        547.2626342773438
+      ],
+      "left_indent": 69.47703552246094,
+      "width": 255.6003875732422,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "◦ Provide mail service, storage space, computing, and network facilities to the Department.",
+      "bbox": [
+        59.514034271240234,
+        550.4230346679688,
+        441.60009765625,
+        567.7081298828125
+      ],
+      "left_indent": 59.514034271240234,
+      "width": 382.08606338500977,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "◦ Automation of M.Tech/PhD admission process for Electrical Engineering Department for 800+ candidates.",
+      "bbox": [
+        59.514034271240234,
+        563.7461547851562,
+        520.8274536132812,
+        581.0810546875
+      ],
+      "left_indent": 59.514034271240234,
+      "width": 461.313419342041,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "KEY COURSE PROJECTS",
+      "bbox": [
+        44.518001556396484,
+        583.2081909179688,
+        169.04054260253906,
+        593.4696655273438
+      ],
+      "left_indent": 44.518001556396484,
+      "width": 124.52254104614258,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "• Implementation of PAXOS algorithm in Python | Priciples of Concurrent & Parallel Programming (Jul’19-Dec’19)",
+      "bbox": [
+        48.17499923706055,
+        599.4152221679688,
+        553.9933471679688,
+        616.7501220703125
+      ],
+      "left_indent": 48.17499923706055,
+      "width": 505.8183479309082,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "Instructor: Prof. R.K.Shyamsundar, IIT Bombay",
+      "bbox": [
+        58.13798522949219,
+        611.5794067382812,
+        259.950439453125,
+        621.6316528320312
+      ],
+      "left_indent": 58.13798522949219,
+      "width": 201.8124542236328,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "◦ Ensures consensus is reached from a bunch of proposed values in a distributed system.",
+      "bbox": [
+        59.51398468017578,
+        623.3251953125,
+        434.0018310546875,
+        640.6600952148438
+      ],
+      "left_indent": 59.51398468017578,
+      "width": 374.4878463745117,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "◦ The algorithm uses three roles, proposers, acceptors & learners and does not need a centralized coordinator node.",
+      "bbox": [
+        59.51397705078125,
+        636.6981811523438,
+        554.256103515625,
+        654.0330810546875
+      ],
+      "left_indent": 59.51397705078125,
+      "width": 494.74212646484375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "• Document Scanner Application in Python | Computer Vision",
+      "bbox": [
+        48.17498779296875,
+        652.9052124023438,
+        327.9394836425781,
+        670.2401123046875
+      ],
+      "left_indent": 48.17498779296875,
+      "width": 279.7644958496094,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "(Jan’20)",
+      "bbox": [
+        518.8727416992188,
+        653.1144409179688,
+        553.9908447265625,
+        663.1666870117188
+      ],
+      "left_indent": 518.8727416992188,
+      "width": 35.11810302734375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "Instructor: Prof. Sharat Chandran, IIT Bombay",
+      "bbox": [
+        58.13798522949219,
+        665.0694580078125,
+        256.44354248046875,
+        675.1217041015625
+      ],
+      "left_indent": 58.13798522949219,
+      "width": 198.30555725097656,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "◦ Implemented a document scanner to obtain the undistorted image of the largest convex quadrilateral object present",
+      "bbox": [
+        59.51398468017578,
+        676.8650512695312,
+        554.2572631835938,
+        694.150146484375
+      ],
+      "left_indent": 59.51398468017578,
+      "width": 494.74327850341797,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "in the input image and to automate the task of choosing the largest convex quadrilateral.",
+      "bbox": [
+        69.47698211669922,
+        688.7702026367188,
+        450.86407470703125,
+        699.0316772460938
+      ],
+      "left_indent": 69.47698211669922,
+      "width": 381.38709259033203,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "◦ A set of image operations such as Edge and Contour Detection , Corner Point Extraction and Perspective",
+      "bbox": [
+        59.51399230957031,
+        702.1432495117188,
+        554.2369995117188,
+        719.4781494140625
+      ],
+      "left_indent": 59.51399230957031,
+      "width": 494.72300720214844,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "Transformation was carried out to obtain an undistorted rectangular image of the convex quadrilateral.",
+      "bbox": [
+        69.47695922851562,
+        714.0982055664062,
+        503.81951904296875,
+        724.3596801757812
+      ],
+      "left_indent": 69.47695922851562,
+      "width": 434.3425598144531,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "• Real Time Target Tracking | DSP -System Design & Implementation",
+      "bbox": [
+        48.174964904785156,
+        730.3052368164062,
+        356.52398681640625,
+        747.64013671875
+      ],
+      "left_indent": 48.174964904785156,
+      "width": 308.3490219116211,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "( Jul’19 - Nov’19 )",
+      "bbox": [
+        481.0879821777344,
+        730.5144653320312,
+        554.2264404296875,
+        740.5667114257812
+      ],
+      "left_indent": 481.0879821777344,
+      "width": 73.13845825195312,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "Instructor: Prof. Rajbabu Velmurugan, IIT Bombay",
+      "bbox": [
+        58.137969970703125,
+        742.4694213867188,
+        273.3301696777344,
+        752.5216674804688
+      ],
+      "left_indent": 58.137969970703125,
+      "width": 215.19219970703125,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "◦ Designed and developed an object tracking system using image segmentation in TI DSP EVM 6678.",
+      "bbox": [
+        59.51396942138672,
+        754.2162475585938,
+        496.569091796875,
+        771.5511474609375
+      ],
+      "left_indent": 59.51396942138672,
+      "width": 437.0551223754883,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "◦ Video signal obtained from USB camera was sent frame by frame to the DSP board using UDP connection.",
+      "bbox": [
+        59.51397705078125,
+        767.5881958007812,
+        527.7059326171875,
+        784.923095703125
+      ],
+      "left_indent": 59.51397705078125,
+      "width": 468.19195556640625,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 1,
+      "text": "◦ Target was tracked with a laser pointer mounted on a base with 2 DOF and controlled via Tiva C board.",
+      "bbox": [
+        59.513946533203125,
+        781.0110473632812,
+        507.3532409667969,
+        798.296142578125
+      ],
+      "left_indent": 59.513946533203125,
+      "width": 447.83929443359375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Augmented Reality: Augmenting a book on the wall surface | Computer Vision",
+      "bbox": [
+        48.17499923706055,
+        52.59220886230469,
+        412.7965087890625,
+        69.92713165283203
+      ],
+      "left_indent": 48.17499923706055,
+      "width": 364.62150955200195,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "(Feb’20)",
+      "bbox": [
+        518.53955078125,
+        52.801422119140625,
+        553.9765014648438,
+        62.85368728637695
+      ],
+      "left_indent": 518.53955078125,
+      "width": 35.43695068359375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "Instructor: Prof. Sharat Chandran, IIT Bombay",
+      "bbox": [
+        58.13800048828125,
+        64.75643920898438,
+        256.4435729980469,
+        74.80870056152344
+      ],
+      "left_indent": 58.13800048828125,
+      "width": 198.30557250976562,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "◦ The aim of the project was to stick a book on the wall surface which represents reality being augmented.",
+      "bbox": [
+        59.513999938964844,
+        76.55205535888672,
+        508.08056640625,
+        93.83716583251953
+      ],
+      "left_indent": 59.513999938964844,
+      "width": 448.56656646728516,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "◦ A set of image operations such as Projecting 3D points on the 2D image plane , Perspective Transformations",
+      "bbox": [
+        59.51399612426758,
+        89.87522888183594,
+        554.2236328125,
+        107.21015167236328
+      ],
+      "left_indent": 59.51399612426758,
+      "width": 494.7096366882324,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "and Mask Generation was carried out to stick the book on the wall surface.",
+      "bbox": [
+        69.47698974609375,
+        101.83024597167969,
+        391.3382568359375,
+        112.09172058105469
+      ],
+      "left_indent": 69.47698974609375,
+      "width": 321.86126708984375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Implementation of Fiduccia Mattheyses Partitioning Algorithm in Python | VLSI CAD",
+      "bbox": [
+        48.17499542236328,
+        118.03727722167969,
+        446.0192565917969,
+        135.37220764160156
+      ],
+      "left_indent": 48.17499542236328,
+      "width": 397.8442611694336,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "(Jul’18 - Nov’18)",
+      "bbox": [
+        481.9643249511719,
+        118.24649047851562,
+        553.9840698242188,
+        128.2987518310547
+      ],
+      "left_indent": 481.9643249511719,
+      "width": 72.01974487304688,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "Instructor: Prof. Virendra Singh, IIT Bombay",
+      "bbox": [
+        58.13800048828125,
+        130.20150756835938,
+        248.04507446289062,
+        140.25376892089844
+      ],
+      "left_indent": 58.13800048828125,
+      "width": 189.90707397460938,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "◦ Implemented Fiduccia Mattheyses partitioning algorithm to partition a circuit assuming distributed systems, such",
+      "bbox": [
+        59.513999938964844,
+        141.9473114013672,
+        554.2056274414062,
+        159.28224182128906
+      ],
+      "left_indent": 59.513999938964844,
+      "width": 494.6916275024414,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "that the number of connections (external wires) is minimized.",
+      "bbox": [
+        69.47702026367188,
+        154.11154174804688,
+        326.66162109375,
+        164.16380310058594
+      ],
+      "left_indent": 69.47702026367188,
+      "width": 257.1846008300781,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "◦ Inputs are netlist along with area information needed by the sub-circuits, and the outputs are mapping of the subcircuits",
+      "bbox": [
+        59.51401901245117,
+        167.32513427734375,
+        554.2869262695312,
+        184.61024475097656
+      ],
+      "left_indent": 59.51401901245117,
+      "width": 494.7729072570801,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "to nodes and the number of crossings.",
+      "bbox": [
+        69.47702026367188,
+        179.43954467773438,
+        229.0679168701172,
+        189.49180603027344
+      ],
+      "left_indent": 69.47702026367188,
+      "width": 159.5908966064453,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Image Stiching | Image Processing",
+      "bbox": [
+        48.175018310546875,
+        195.4373016357422,
+        208.36990356445312,
+        212.77223205566406
+      ],
+      "left_indent": 48.175018310546875,
+      "width": 160.19488525390625,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "( Jul’18 - Nov’18 )",
+      "bbox": [
+        481.0880126953125,
+        195.64651489257812,
+        554.2265014648438,
+        205.6987762451172
+      ],
+      "left_indent": 481.0880126953125,
+      "width": 73.13848876953125,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "Instructor: Prof. Amit Sethi, IIT Bombay",
+      "bbox": [
+        58.138031005859375,
+        207.60153198242188,
+        231.1087188720703,
+        217.65379333496094
+      ],
+      "left_indent": 58.138031005859375,
+      "width": 172.97068786621094,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "◦ Developed a feature based image stitching GUI application in python.",
+      "bbox": [
+        59.51403045654297,
+        219.39813232421875,
+        359.3787841796875,
+        236.68324279785156
+      ],
+      "left_indent": 59.51403045654297,
+      "width": 299.86475372314453,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "◦ Applied Scale Invariant Feature Transform ( SIFT ) algorithm for feature detection, Fast Library for Approximate",
+      "bbox": [
+        59.5140266418457,
+        232.72032165527344,
+        554.2747802734375,
+        250.0552520751953
+      ],
+      "left_indent": 59.5140266418457,
+      "width": 494.7607536315918,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "Nearest Neighbors ( FLANN ) for matching and RANdom Sample Consensus ( RANSAC ) for homography computation.",
+      "bbox": [
+        69.47702026367188,
+        244.6753387451172,
+        554.2516479492188,
+        254.9368133544922
+      ],
+      "left_indent": 69.47702026367188,
+      "width": 484.7746276855469,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Vowel Detection: Feature Extraction and Multi-Class Classiﬁcation | Machine Learning",
+      "bbox": [
+        48.175018310546875,
+        260.88238525390625,
+        447.76519775390625,
+        278.21728515625
+      ],
+      "left_indent": 48.175018310546875,
+      "width": 399.5901794433594,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "(Jan’19 - Apr’19)",
+      "bbox": [
+        481.2694091796875,
+        261.0915832519531,
+        554.0064697265625,
+        271.14385986328125
+      ],
+      "left_indent": 481.2694091796875,
+      "width": 72.737060546875,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "Instructor: Prof. Biplab Banerjee, IIT Bombay",
+      "bbox": [
+        58.138031005859375,
+        273.0475769042969,
+        251.91061401367188,
+        283.099853515625
+      ],
+      "left_indent": 58.138031005859375,
+      "width": 193.7725830078125,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "◦ Trained a multi-class classiﬁer using Softmax function from features obtained from input voice samples.",
+      "bbox": [
+        59.51403045654297,
+        284.79339599609375,
+        512.98388671875,
+        302.1282958984375
+      ],
+      "left_indent": 59.51403045654297,
+      "width": 453.46985626220703,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "◦ Obtained a mean test accuracy of 68% on ﬁve classes classiﬁcation.",
+      "bbox": [
+        59.5140380859375,
+        298.2152099609375,
+        352.454833984375,
+        315.50030517578125
+      ],
+      "left_indent": 59.5140380859375,
+      "width": 292.9407958984375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Clustering Images using Metric Learning | Computer Vision",
+      "bbox": [
+        48.17503356933594,
+        314.37237548828125,
+        322.1115417480469,
+        331.707275390625
+      ],
+      "left_indent": 48.17503356933594,
+      "width": 273.93650817871094,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "(Mar’20)",
+      "bbox": [
+        516.88037109375,
+        314.5815734863281,
+        553.9910888671875,
+        324.63385009765625
+      ],
+      "left_indent": 516.88037109375,
+      "width": 37.1107177734375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "Instructor: Prof. Sharat Chandran, IIT Bombay",
+      "bbox": [
+        58.138031005859375,
+        326.5375671386719,
+        256.443603515625,
+        336.58984375
+      ],
+      "left_indent": 58.138031005859375,
+      "width": 198.30557250976562,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "◦ Trained a Siamese network with Contrastive Loss to better separate and visualize the two-dimensional embeddings",
+      "bbox": [
+        59.51403045654297,
+        338.2833557128906,
+        554.2374877929688,
+        355.6182556152344
+      ],
+      "left_indent": 59.51403045654297,
+      "width": 494.7234573364258,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "of two classes of the MNIST Dataset.",
+      "bbox": [
+        69.47702026367188,
+        350.4475402832031,
+        226.76654052734375,
+        360.49981689453125
+      ],
+      "left_indent": 69.47702026367188,
+      "width": 157.28952026367188,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "◦ Analysed performance of the obtained model on augmented dataset i.e., images augmented using Euclidean transfor-",
+      "bbox": [
+        59.51401901245117,
+        363.66015625,
+        554.2672119140625,
+        380.94525146484375
+      ],
+      "left_indent": 59.51401901245117,
+      "width": 494.7531929016113,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "mations and trained a new model robust to such data augmentations .",
+      "bbox": [
+        69.47702026367188,
+        375.56634521484375,
+        380.49566650390625,
+        385.82781982421875
+      ],
+      "left_indent": 69.47702026367188,
+      "width": 311.0186462402344,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Design of 6 Stage Pipelined Processor using VHDL | Processor Design",
+      "bbox": [
+        48.175018310546875,
+        391.7733459472656,
+        373.00689697265625,
+        409.1082458496094
+      ],
+      "left_indent": 48.175018310546875,
+      "width": 324.8318786621094,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "( Jan’19 - Apr’19 )",
+      "bbox": [
+        480.3960266113281,
+        391.9825439453125,
+        554.2265014648438,
+        402.0348205566406
+      ],
+      "left_indent": 480.3960266113281,
+      "width": 73.83047485351562,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "Instructor: Prof. Virendra Singh, IIT Bombay",
+      "bbox": [
+        58.138031005859375,
+        403.9375305175781,
+        248.04510498046875,
+        413.98980712890625
+      ],
+      "left_indent": 58.138031005859375,
+      "width": 189.90707397460938,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "◦ Designed RISC Architecture processor using 8 registers to execute 15 instructions of type R, I and J.",
+      "bbox": [
+        59.51403045654297,
+        415.6833190917969,
+        491.1396484375,
+        433.0182189941406
+      ],
+      "left_indent": 59.51403045654297,
+      "width": 431.62561798095703,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "◦ Implemented hazard mitigation technique and data forwarding to optimize performance. Design also includes some",
+      "bbox": [
+        59.51402282714844,
+        429.0563049316406,
+        554.2235717773438,
+        446.3912048339844
+      ],
+      "left_indent": 59.51402282714844,
+      "width": 494.7095489501953,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "advanced instructions like Load multiple (LM) and Store multiple (SM).",
+      "bbox": [
+        69.47698974609375,
+        441.01129150390625,
+        381.1550598144531,
+        451.27276611328125
+      ],
+      "left_indent": 69.47698974609375,
+      "width": 311.6780700683594,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "TECHNICAL SKILLS",
+      "bbox": [
+        44.518001556396484,
+        460.47320556640625,
+        142.7592010498047,
+        470.73468017578125
+      ],
+      "left_indent": 44.518001556396484,
+      "width": 98.2411994934082,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "Languages",
+      "bbox": [
+        52.46900177001953,
+        476.67620849609375,
+        100.1400375366211,
+        486.93768310546875
+      ],
+      "left_indent": 52.46900177001953,
+      "width": 47.67103576660156,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": ":",
+      "bbox": [
+        164.60699462890625,
+        476.8854064941406,
+        167.36663818359375,
+        486.93768310546875
+      ],
+      "left_indent": 164.60699462890625,
+      "width": 2.7596435546875,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "C, Python, VHDL, PHP, Java, SQL, HTML/JS/CSS, Bash.",
+      "bbox": [
+        190.35035705566406,
+        476.8854064941406,
+        440.3419189453125,
+        486.93768310546875
+      ],
+      "left_indent": 190.35035705566406,
+      "width": 249.99156188964844,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "Tools",
+      "bbox": [
+        52.468994140625,
+        491.4662170410156,
+        76.86739349365234,
+        501.7276916503906
+      ],
+      "left_indent": 52.468994140625,
+      "width": 24.398399353027344,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": ":",
+      "bbox": [
+        164.60699462890625,
+        491.6754150390625,
+        167.36663818359375,
+        501.7276916503906
+      ],
+      "left_indent": 164.60699462890625,
+      "width": 2.7596435546875,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "Git, L A TEX, Code Composite Studio, Altera Quartus II.",
+      "bbox": [
+        190.35035705566406,
+        491.6754150390625,
+        414.9057922363281,
+        503.9416809082031
+      ],
+      "left_indent": 190.35035705566406,
+      "width": 224.55543518066406,
+      "is_bold": false,
+      "font_size": 8.966333230336508
+    },
+    {
+      "page": 2,
+      "text": "RELEVANT COURSES",
+      "bbox": [
+        44.518001556396484,
+        509.189208984375,
+        150.7790985107422,
+        519.45068359375
+      ],
+      "left_indent": 44.518001556396484,
+      "width": 106.2610969543457,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Principles of Concurrent & Parallel Programming",
+      "bbox": [
+        52.46900177001953,
+        527.6599731445312,
+        265.5323181152344,
+        544.945068359375
+      ],
+      "left_indent": 52.46900177001953,
+      "width": 213.06331634521484,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Machine Learning for Remote Sensing -I",
+      "bbox": [
+        276.8420104980469,
+        527.6599731445312,
+        452.645263671875,
+        544.945068359375
+      ],
+      "left_indent": 276.8420104980469,
+      "width": 175.80325317382812,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Computer Vision",
+      "bbox": [
+        463.9800109863281,
+        527.6599731445312,
+        541.9305419921875,
+        544.945068359375
+      ],
+      "left_indent": 463.9800109863281,
+      "width": 77.95053100585938,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Processor Design",
+      "bbox": [
+        52.469024658203125,
+        539.6160278320312,
+        131.65492248535156,
+        556.901123046875
+      ],
+      "left_indent": 52.469024658203125,
+      "width": 79.18589782714844,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Embedded System Design",
+      "bbox": [
+        276.842041015625,
+        539.6160278320312,
+        393.1884765625,
+        556.901123046875
+      ],
+      "left_indent": 276.842041015625,
+      "width": 116.346435546875,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• VLSI CAD",
+      "bbox": [
+        463.98004150390625,
+        539.6160278320312,
+        516.1572875976562,
+        556.901123046875
+      ],
+      "left_indent": 463.98004150390625,
+      "width": 52.17724609375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "POSITIONS OF RESPONSIBILITY",
+      "bbox": [
+        44.518001556396484,
+        559.8402099609375,
+        208.67176818847656,
+        570.1016845703125
+      ],
+      "left_indent": 44.518001556396484,
+      "width": 164.15376663208008,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Mess Secretary | Hostel 1, IIT Bombay",
+      "bbox": [
+        48.17499923706055,
+        576.0471801757812,
+        227.44180297851562,
+        593.382080078125
+      ],
+      "left_indent": 48.17499923706055,
+      "width": 179.26680374145508,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "( Jul’18 - Jun’19 )",
+      "bbox": [
+        482.72100830078125,
+        576.2564086914062,
+        554.2265014648438,
+        586.3086547851562
+      ],
+      "left_indent": 482.72100830078125,
+      "width": 71.5054931640625,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Interview Coordinator | Placement Cell, IIT Bombay",
+      "bbox": [
+        48.175018310546875,
+        588.6182250976562,
+        284.7805480957031,
+        605.953125
+      ],
+      "left_indent": 48.175018310546875,
+      "width": 236.60552978515625,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "( 2018 )",
+      "bbox": [
+        525.4490356445312,
+        588.8274536132812,
+        554.2265014648438,
+        598.8796997070312
+      ],
+      "left_indent": 525.4490356445312,
+      "width": 28.7774658203125,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "◦ Coordinated with a team of 250+ members for interviews of 1600+ students",
+      "bbox": [
+        59.5140380859375,
+        600.6240234375,
+        390.42218017578125,
+        617.9091186523438
+      ],
+      "left_indent": 59.5140380859375,
+      "width": 330.90814208984375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "◦ Assisted in conducting Pre-placement Talks and Tests for 15+ ﬁrms.",
+      "bbox": [
+        59.514034271240234,
+        613.9960327148438,
+        356.32025146484375,
+        631.2811279296875
+      ],
+      "left_indent": 59.514034271240234,
+      "width": 296.8062171936035,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Web Nominee | Post Graduate Academic Council, IIT Bombay",
+      "bbox": [
+        48.17503356933594,
+        626.5181884765625,
+        325.4718322753906,
+        643.8530883789062
+      ],
+      "left_indent": 48.17503356933594,
+      "width": 277.2967987060547,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "( 2019 - 2020 )",
+      "bbox": [
+        495.5620422363281,
+        626.7274169921875,
+        554.2265014648438,
+        636.7796630859375
+      ],
+      "left_indent": 495.5620422363281,
+      "width": 58.664459228515625,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Maintenance Councillor | Hostel 1, IIT Bombay",
+      "bbox": [
+        48.175018310546875,
+        639.0891723632812,
+        265.3668212890625,
+        656.424072265625
+      ],
+      "left_indent": 48.175018310546875,
+      "width": 217.19180297851562,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "( Jul’19 - Present )",
+      "bbox": [
+        479.65301513671875,
+        639.2984008789062,
+        554.2265014648438,
+        649.3506469726562
+      ],
+      "left_indent": 479.65301513671875,
+      "width": 74.573486328125,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "◦ Lead 5 Secretary and 15 working staﬀs to carry out the maintenance activity of the hostel.",
+      "bbox": [
+        59.5140380859375,
+        651.0452270507812,
+        449.61102294921875,
+        668.380126953125
+      ],
+      "left_indent": 59.5140380859375,
+      "width": 390.09698486328125,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "◦ Started 2 dustbin approach to segregate waste generation at source.",
+      "bbox": [
+        59.514034271240234,
+        664.4171752929688,
+        361.0640563964844,
+        681.7520751953125
+      ],
+      "left_indent": 59.514034271240234,
+      "width": 301.55002212524414,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Web Coordinator | Students’ Reading Group, Electrical Department, IIT Bombay",
+      "bbox": [
+        48.17503356933594,
+        676.9891967773438,
+        402.8404235839844,
+        694.3240966796875
+      ],
+      "left_indent": 48.17503356933594,
+      "width": 354.66539001464844,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "( Jul’19 - Present )",
+      "bbox": [
+        479.65301513671875,
+        677.1984252929688,
+        554.2265014648438,
+        687.2506713867188
+      ],
+      "left_indent": 479.65301513671875,
+      "width": 74.573486328125,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "OTHER ACTIVITIES & INTERESTS",
+      "bbox": [
+        44.518001556396484,
+        696.4512329101562,
+        216.3728790283203,
+        706.7127075195312
+      ],
+      "left_indent": 44.518001556396484,
+      "width": 171.85487747192383,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Completed 4 out 5 courses in Deep learning Specialization authorized by deeplearning.ai in Coursera.",
+      "bbox": [
+        48.17499923706055,
+        712.658203125,
+        496.1774597167969,
+        729.9931030273438
+      ],
+      "left_indent": 48.17499923706055,
+      "width": 448.0024604797363,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Ongoing course in Reinforce learning Specialization authorized by the University of Alberta in Coursera.",
+      "bbox": [
+        48.175018310546875,
+        725.230224609375,
+        511.614501953125,
+        742.5651245117188
+      ],
+      "left_indent": 48.175018310546875,
+      "width": 463.4394836425781,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Trained students in a 1-day solar lamp assembly world record event conducted at IIT Bombay.",
+      "bbox": [
+        48.175048828125,
+        737.8012084960938,
+        461.5964050292969,
+        755.1361083984375
+      ],
+      "left_indent": 48.175048828125,
+      "width": 413.4213562011719,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "( 2 Oct’18 )",
+      "bbox": [
+        508.9984436035156,
+        738.0104370117188,
+        554.2265014648438,
+        748.0626831054688
+      ],
+      "left_indent": 508.9984436035156,
+      "width": 45.228057861328125,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Volunteered for Linux workshop for Electrical Department PG Bridgecourse, IIT Bombay.",
+      "bbox": [
+        48.175018310546875,
+        750.3732299804688,
+        436.52899169921875,
+        767.7081298828125
+      ],
+      "left_indent": 48.175018310546875,
+      "width": 388.3539733886719,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "( Jul’19 )",
+      "bbox": [
+        520.4340209960938,
+        750.5824584960938,
+        554.2265014648438,
+        760.6347045898438
+      ],
+      "left_indent": 520.4340209960938,
+      "width": 33.79248046875,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Volunteered for Phonathan event of reaching out alumni for Student Alumni Relation Cell, IIT Bombay.",
+      "bbox": [
+        48.175018310546875,
+        762.9451904296875,
+        500.6486511230469,
+        780.2800903320312
+      ],
+      "left_indent": 48.175018310546875,
+      "width": 452.4736328125,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "( Jun’19 )",
+      "bbox": [
+        517.70458984375,
+        763.1544189453125,
+        554.2265014648438,
+        773.2066650390625
+      ],
+      "left_indent": 517.70458984375,
+      "width": 36.52191162109375,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "• Active Blood Donor, Hobbies: Watching TV series, Gardening, Cooking",
+      "bbox": [
+        48.175018310546875,
+        775.5161743164062,
+        360.862060546875,
+        792.85107421875
+      ],
+      "left_indent": 48.175018310546875,
+      "width": 312.6870422363281,
+      "is_bold": false,
+      "font_size": 9.962599754333496
+    },
+    {
+      "page": 2,
+      "text": "Scholastic achievements and extracurricular activities are not verified by the Placement Cell",
+      "bbox": [
+        130.65199279785156,
+        824.3309936523438,
+        465.8572998046875,
+        835.3200073242188
+      ],
+      "left_indent": 130.65199279785156,
+      "width": 335.20530700683594,
+      "is_bold": false,
+      "font_size": 9.0
+    }
+  ],
+  "text_per_page": [
+    "Shubham Singhania\n183079025\nElectrical Engineering\nM.Tech.\nIndian Institute of Technology, Bombay\nGender: Male\nSpecialization: Electronic Systems\nDOB: 19-12-1995\nExamination\nUniversity\nInstitute\nYear\nCPI / %\nPost Graduation\nIIT Bombay\nIIT Bombay\n2021\n8.5\nGraduation\nMAKAUT, West Bengal\nHaldia Institute of Technology\n2018\n9.1\nGraduation Specialization: Computer Science & Engineering\nAREA OF INTEREST\n• Algorithms\n• Database Management\n• Operating System\n• Machine Learning\n• Deep Learning\nSCHOLASTIC ACHIEVEMENTS\n• Secured an All India Rank 475 ( 99.56 percentile) in GATE in Computer Science and Information Technology. ( 2018 )\n• Talk on Edge Computing and its Challenges in Fourth Indo-Japanese Joint Research Laboratory\n( Nov’19 )\nProject (2017–2022) Workshop on Intelligent Cyber Physical Systems held at IIT Bombay.\n• Got half freeship as Department Topper (AY 2014-2015) in 3rd and 4th semester (BTech).\nMAJOR PROJECTS AND SEMINAR\n• M.Tech Project: Machine Learning based Task Scheduling approach for Edge Computing Systems.\nGuide: Prof. Virendra Singh, IIT Bombay\n( Jul’2020 - Ongoing )\n◦ Objective: Design of a Machine learning-based task scheduling algorithm in Edge Computing Systems taking into\nconsideration task deadline , optimal resource utilization , energy requirement and other dynamic system constraints.\n◦ Explored various literature using heuristic as well as Machine Learning-based approaches for Scheduling tasks at Edge.\n◦ Investigating scheduling using Deep Reinforcement Learning where the system learns from experience.\n◦ Future Work: Deploying the Machine Learning-based algorithm on real-time Edge Computing System and\ncomparing the performance with existing heuristic based and other scheduling approaches.\n• Seminar: Edge Computing and its challenges\n( Jul’19 - Dec’19 )\nGuide: Prof. Virendra Singh, IIT Bombay\n◦ Conducted an extensive literature survey on Edge computing and its various computing paradigm and how it is diﬀerent\nfrom existing Cloud Computing approach .\n◦ Explored various security challenges in secure data analytics in Edge , Computing and task Scheduling challenges\nfor heterogenous tasks in the Edge requiring real-time response, Quality of Service, and Veriﬁable Computation.\nWORK EXPERIENCE\n• System Administrator | Electrical Department, IIT Bombay\n( Jul’18 - Present )\n◦ Development and maintenance of EE department website, Dashboard, and other internal portals like faculty search\ncommittee, meeting room booking system, and other portals.\n◦ Provide mail service, storage space, computing, and network facilities to the Department.\n◦ Automation of M.Tech/PhD admission process for Electrical Engineering Department for 800+ candidates.\nKEY COURSE PROJECTS\n• Implementation of PAXOS algorithm in Python | Priciples of Concurrent & Parallel Programming (Jul’19-Dec’19)\nInstructor: Prof. R.K.Shyamsundar, IIT Bombay\n◦ Ensures consensus is reached from a bunch of proposed values in a distributed system.\n◦ The algorithm uses three roles, proposers, acceptors & learners and does not need a centralized coordinator node.\n• Document Scanner Application in Python | Computer Vision\n(Jan’20)\nInstructor: Prof. Sharat Chandran, IIT Bombay\n◦ Implemented a document scanner to obtain the undistorted image of the largest convex quadrilateral object present\nin the input image and to automate the task of choosing the largest convex quadrilateral.\n◦ A set of image operations such as Edge and Contour Detection , Corner Point Extraction and Perspective\nTransformation was carried out to obtain an undistorted rectangular image of the convex quadrilateral.\n• Real Time Target Tracking | DSP -System Design & Implementation\n( Jul’19 - Nov’19 )\nInstructor: Prof. Rajbabu Velmurugan, IIT Bombay\n◦ Designed and developed an object tracking system using image segmentation in TI DSP EVM 6678.\n◦ Video signal obtained from USB camera was sent frame by frame to the DSP board using UDP connection.\n◦ Target was tracked with a laser pointer mounted on a base with 2 DOF and controlled via Tiva C board.",
+    "• Augmented Reality: Augmenting a book on the wall surface | Computer Vision\n(Feb’20)\nInstructor: Prof. Sharat Chandran, IIT Bombay\n◦ The aim of the project was to stick a book on the wall surface which represents reality being augmented.\n◦ A set of image operations such as Projecting 3D points on the 2D image plane , Perspective Transformations\nand Mask Generation was carried out to stick the book on the wall surface.\n• Implementation of Fiduccia Mattheyses Partitioning Algorithm in Python | VLSI CAD\n(Jul’18 - Nov’18)\nInstructor: Prof. Virendra Singh, IIT Bombay\n◦ Implemented Fiduccia Mattheyses partitioning algorithm to partition a circuit assuming distributed systems, such\nthat the number of connections (external wires) is minimized.\n◦ Inputs are netlist along with area information needed by the sub-circuits, and the outputs are mapping of the subcircuits\nto nodes and the number of crossings.\n• Image Stiching | Image Processing\n( Jul’18 - Nov’18 )\nInstructor: Prof. Amit Sethi, IIT Bombay\n◦ Developed a feature based image stitching GUI application in python.\n◦ Applied Scale Invariant Feature Transform ( SIFT ) algorithm for feature detection, Fast Library for Approximate\nNearest Neighbors ( FLANN ) for matching and RANdom Sample Consensus ( RANSAC ) for homography computation.\n• Vowel Detection: Feature Extraction and Multi-Class Classiﬁcation | Machine Learning\n(Jan’19 - Apr’19)\nInstructor: Prof. Biplab Banerjee, IIT Bombay\n◦ Trained a multi-class classiﬁer using Softmax function from features obtained from input voice samples.\n◦ Obtained a mean test accuracy of 68% on ﬁve classes classiﬁcation.\n• Clustering Images using Metric Learning | Computer Vision\n(Mar’20)\nInstructor: Prof. Sharat Chandran, IIT Bombay\n◦ Trained a Siamese network with Contrastive Loss to better separate and visualize the two-dimensional embeddings\nof two classes of the MNIST Dataset.\n◦ Analysed performance of the obtained model on augmented dataset i.e., images augmented using Euclidean transfor-\nmations and trained a new model robust to such data augmentations .\n• Design of 6 Stage Pipelined Processor using VHDL | Processor Design\n( Jan’19 - Apr’19 )\nInstructor: Prof. Virendra Singh, IIT Bombay\n◦ Designed RISC Architecture processor using 8 registers to execute 15 instructions of type R, I and J.\n◦ Implemented hazard mitigation technique and data forwarding to optimize performance. Design also includes some\nadvanced instructions like Load multiple (LM) and Store multiple (SM).\nTECHNICAL SKILLS\nLanguages\n:\nC, Python, VHDL, PHP, Java, SQL, HTML/JS/CSS, Bash.\nTools\n:\nGit, L A TEX, Code Composite Studio, Altera Quartus II.\nRELEVANT COURSES\n• Principles of Concurrent & Parallel Programming\n• Machine Learning for Remote Sensing -I\n• Computer Vision\n• Processor Design\n• Embedded System Design\n• VLSI CAD\nPOSITIONS OF RESPONSIBILITY\n• Mess Secretary | Hostel 1, IIT Bombay\n( Jul’18 - Jun’19 )\n• Interview Coordinator | Placement Cell, IIT Bombay\n( 2018 )\n◦ Coordinated with a team of 250+ members for interviews of 1600+ students\n◦ Assisted in conducting Pre-placement Talks and Tests for 15+ ﬁrms.\n• Web Nominee | Post Graduate Academic Council, IIT Bombay\n( 2019 - 2020 )\n• Maintenance Councillor | Hostel 1, IIT Bombay\n( Jul’19 - Present )\n◦ Lead 5 Secretary and 15 working staﬀs to carry out the maintenance activity of the hostel.\n◦ Started 2 dustbin approach to segregate waste generation at source.\n• Web Coordinator | Students’ Reading Group, Electrical Department, IIT Bombay\n( Jul’19 - Present )\nOTHER ACTIVITIES & INTERESTS\n• Completed 4 out 5 courses in Deep learning Specialization authorized by deeplearning.ai in Coursera.\n• Ongoing course in Reinforce learning Specialization authorized by the University of Alberta in Coursera.\n• Trained students in a 1-day solar lamp assembly world record event conducted at IIT Bombay.\n( 2 Oct’18 )\n• Volunteered for Linux workshop for Electrical Department PG Bridgecourse, IIT Bombay.\n( Jul’19 )\n• Volunteered for Phonathan event of reaching out alumni for Student Alumni Relation Cell, IIT Bombay.\n( Jun’19 )\n• Active Blood Donor, Hobbies: Watching TV series, Gardening, Cooking\nScholastic achievements and extracurricular activities are not verified by the Placement Cell"
+  ],
+  "text_all": "Shubham Singhania\n183079025\nElectrical Engineering\nM.Tech.\nIndian Institute of Technology, Bombay\nGender: Male\nSpecialization: Electronic Systems\nDOB: 19-12-1995\nExamination\nUniversity\nInstitute\nYear\nCPI / %\nPost Graduation\nIIT Bombay\nIIT Bombay\n2021\n8.5\nGraduation\nMAKAUT, West Bengal\nHaldia Institute of Technology\n2018\n9.1\nGraduation Specialization: Computer Science & Engineering\nAREA OF INTEREST\n• Algorithms\n• Database Management\n• Operating System\n• Machine Learning\n• Deep Learning\nSCHOLASTIC ACHIEVEMENTS\n• Secured an All India Rank 475 ( 99.56 percentile) in GATE in Computer Science and Information Technology. ( 2018 )\n• Talk on Edge Computing and its Challenges in Fourth Indo-Japanese Joint Research Laboratory\n( Nov’19 )\nProject (2017–2022) Workshop on Intelligent Cyber Physical Systems held at IIT Bombay.\n• Got half freeship as Department Topper (AY 2014-2015) in 3rd and 4th semester (BTech).\nMAJOR PROJECTS AND SEMINAR\n• M.Tech Project: Machine Learning based Task Scheduling approach for Edge Computing Systems.\nGuide: Prof. Virendra Singh, IIT Bombay\n( Jul’2020 - Ongoing )\n◦ Objective: Design of a Machine learning-based task scheduling algorithm in Edge Computing Systems taking into\nconsideration task deadline , optimal resource utilization , energy requirement and other dynamic system constraints.\n◦ Explored various literature using heuristic as well as Machine Learning-based approaches for Scheduling tasks at Edge.\n◦ Investigating scheduling using Deep Reinforcement Learning where the system learns from experience.\n◦ Future Work: Deploying the Machine Learning-based algorithm on real-time Edge Computing System and\ncomparing the performance with existing heuristic based and other scheduling approaches.\n• Seminar: Edge Computing and its challenges\n( Jul’19 - Dec’19 )\nGuide: Prof. Virendra Singh, IIT Bombay\n◦ Conducted an extensive literature survey on Edge computing and its various computing paradigm and how it is diﬀerent\nfrom existing Cloud Computing approach .\n◦ Explored various security challenges in secure data analytics in Edge , Computing and task Scheduling challenges\nfor heterogenous tasks in the Edge requiring real-time response, Quality of Service, and Veriﬁable Computation.\nWORK EXPERIENCE\n• System Administrator | Electrical Department, IIT Bombay\n( Jul’18 - Present )\n◦ Development and maintenance of EE department website, Dashboard, and other internal portals like faculty search\ncommittee, meeting room booking system, and other portals.\n◦ Provide mail service, storage space, computing, and network facilities to the Department.\n◦ Automation of M.Tech/PhD admission process for Electrical Engineering Department for 800+ candidates.\nKEY COURSE PROJECTS\n• Implementation of PAXOS algorithm in Python | Priciples of Concurrent & Parallel Programming (Jul’19-Dec’19)\nInstructor: Prof. R.K.Shyamsundar, IIT Bombay\n◦ Ensures consensus is reached from a bunch of proposed values in a distributed system.\n◦ The algorithm uses three roles, proposers, acceptors & learners and does not need a centralized coordinator node.\n• Document Scanner Application in Python | Computer Vision\n(Jan’20)\nInstructor: Prof. Sharat Chandran, IIT Bombay\n◦ Implemented a document scanner to obtain the undistorted image of the largest convex quadrilateral object present\nin the input image and to automate the task of choosing the largest convex quadrilateral.\n◦ A set of image operations such as Edge and Contour Detection , Corner Point Extraction and Perspective\nTransformation was carried out to obtain an undistorted rectangular image of the convex quadrilateral.\n• Real Time Target Tracking | DSP -System Design & Implementation\n( Jul’19 - Nov’19 )\nInstructor: Prof. Rajbabu Velmurugan, IIT Bombay\n◦ Designed and developed an object tracking system using image segmentation in TI DSP EVM 6678.\n◦ Video signal obtained from USB camera was sent frame by frame to the DSP board using UDP connection.\n◦ Target was tracked with a laser pointer mounted on a base with 2 DOF and controlled via Tiva C board.\n\n• Augmented Reality: Augmenting a book on the wall surface | Computer Vision\n(Feb’20)\nInstructor: Prof. Sharat Chandran, IIT Bombay\n◦ The aim of the project was to stick a book on the wall surface which represents reality being augmented.\n◦ A set of image operations such as Projecting 3D points on the 2D image plane , Perspective Transformations\nand Mask Generation was carried out to stick the book on the wall surface.\n• Implementation of Fiduccia Mattheyses Partitioning Algorithm in Python | VLSI CAD\n(Jul’18 - Nov’18)\nInstructor: Prof. Virendra Singh, IIT Bombay\n◦ Implemented Fiduccia Mattheyses partitioning algorithm to partition a circuit assuming distributed systems, such\nthat the number of connections (external wires) is minimized.\n◦ Inputs are netlist along with area information needed by the sub-circuits, and the outputs are mapping of the subcircuits\nto nodes and the number of crossings.\n• Image Stiching | Image Processing\n( Jul’18 - Nov’18 )\nInstructor: Prof. Amit Sethi, IIT Bombay\n◦ Developed a feature based image stitching GUI application in python.\n◦ Applied Scale Invariant Feature Transform ( SIFT ) algorithm for feature detection, Fast Library for Approximate\nNearest Neighbors ( FLANN ) for matching and RANdom Sample Consensus ( RANSAC ) for homography computation.\n• Vowel Detection: Feature Extraction and Multi-Class Classiﬁcation | Machine Learning\n(Jan’19 - Apr’19)\nInstructor: Prof. Biplab Banerjee, IIT Bombay\n◦ Trained a multi-class classiﬁer using Softmax function from features obtained from input voice samples.\n◦ Obtained a mean test accuracy of 68% on ﬁve classes classiﬁcation.\n• Clustering Images using Metric Learning | Computer Vision\n(Mar’20)\nInstructor: Prof. Sharat Chandran, IIT Bombay\n◦ Trained a Siamese network with Contrastive Loss to better separate and visualize the two-dimensional embeddings\nof two classes of the MNIST Dataset.\n◦ Analysed performance of the obtained model on augmented dataset i.e., images augmented using Euclidean transfor-\nmations and trained a new model robust to such data augmentations .\n• Design of 6 Stage Pipelined Processor using VHDL | Processor Design\n( Jan’19 - Apr’19 )\nInstructor: Prof. Virendra Singh, IIT Bombay\n◦ Designed RISC Architecture processor using 8 registers to execute 15 instructions of type R, I and J.\n◦ Implemented hazard mitigation technique and data forwarding to optimize performance. Design also includes some\nadvanced instructions like Load multiple (LM) and Store multiple (SM).\nTECHNICAL SKILLS\nLanguages\n:\nC, Python, VHDL, PHP, Java, SQL, HTML/JS/CSS, Bash.\nTools\n:\nGit, L A TEX, Code Composite Studio, Altera Quartus II.\nRELEVANT COURSES\n• Principles of Concurrent & Parallel Programming\n• Machine Learning for Remote Sensing -I\n• Computer Vision\n• Processor Design\n• Embedded System Design\n• VLSI CAD\nPOSITIONS OF RESPONSIBILITY\n• Mess Secretary | Hostel 1, IIT Bombay\n( Jul’18 - Jun’19 )\n• Interview Coordinator | Placement Cell, IIT Bombay\n( 2018 )\n◦ Coordinated with a team of 250+ members for interviews of 1600+ students\n◦ Assisted in conducting Pre-placement Talks and Tests for 15+ ﬁrms.\n• Web Nominee | Post Graduate Academic Council, IIT Bombay\n( 2019 - 2020 )\n• Maintenance Councillor | Hostel 1, IIT Bombay\n( Jul’19 - Present )\n◦ Lead 5 Secretary and 15 working staﬀs to carry out the maintenance activity of the hostel.\n◦ Started 2 dustbin approach to segregate waste generation at source.\n• Web Coordinator | Students’ Reading Group, Electrical Department, IIT Bombay\n( Jul’19 - Present )\nOTHER ACTIVITIES & INTERESTS\n• Completed 4 out 5 courses in Deep learning Specialization authorized by deeplearning.ai in Coursera.\n• Ongoing course in Reinforce learning Specialization authorized by the University of Alberta in Coursera.\n• Trained students in a 1-day solar lamp assembly world record event conducted at IIT Bombay.\n( 2 Oct’18 )\n• Volunteered for Linux workshop for Electrical Department PG Bridgecourse, IIT Bombay.\n( Jul’19 )\n• Volunteered for Phonathan event of reaching out alumni for Student Alumni Relation Cell, IIT Bombay.\n( Jun’19 )\n• Active Blood Donor, Hobbies: Watching TV series, Gardening, Cooking\nScholastic achievements and extracurricular activities are not verified by the Placement Cell"
+}

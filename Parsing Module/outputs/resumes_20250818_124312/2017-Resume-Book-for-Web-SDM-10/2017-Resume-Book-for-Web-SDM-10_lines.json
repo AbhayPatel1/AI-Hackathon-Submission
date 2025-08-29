@@ -1,0 +1,1286 @@
+{
+  "meta": {
+    "source_path": "data/resumes/2017-Resume-Book-for-Web-SDM-10.pdf",
+    "pages": 1
+  },
+  "lines": [
+    {
+      "page": 1,
+      "text": "BURAK GOZLUKLU, PhD",
+      "bbox": [
+        244.77879333496094,
+        54.45599365234375,
+        376.9624328613281,
+        66.41615295410156
+      ],
+      "left_indent": 244.77879333496094,
+      "width": 132.1836395263672,
+      "is_bold": true,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "EDUCATION",
+      "bbox": [
+        63.840091705322266,
+        76.7760009765625,
+        130.91421508789062,
+        88.73616027832031
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 67.07412338256836,
+      "is_bold": true,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Massachusetts Institute of Technology",
+      "bbox": [
+        63.840091705322266,
+        88.43145751953125,
+        226.76783752441406,
+        99.3284912109375
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 162.9277458190918,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "School of Engineering & Sloan School of Management",
+      "bbox": [
+        63.840091705322266,
+        99.471435546875,
+        285.9924011230469,
+        110.36846923828125
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 222.1523094177246,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "M.S., System Design and Management",
+      "bbox": [
+        63.840091705322266,
+        110.511474609375,
+        222.67221069335938,
+        121.40850830078125
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 158.8321189880371,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Middle East Technical University",
+      "bbox": [
+        63.840091705322266,
+        121.55145263671875,
+        206.8172607421875,
+        132.448486328125
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 142.97716903686523,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Ph.D., Aerospace Engineering",
+      "bbox": [
+        63.840091705322266,
+        132.5914306640625,
+        190.15260314941406,
+        143.48846435546875
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 126.3125114440918,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Pursued while full-time working; received fellowship due to the collaboration supported by TAI and Turkish Ministry",
+      "bbox": [
+        81.840087890625,
+        143.6314697265625,
+        556.8212280273438,
+        154.52850341796875
+      ],
+      "left_indent": 81.840087890625,
+      "width": 474.98114013671875,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        63.840091705322266,
+        145.50048828125,
+        68.36610412597656,
+        155.3404998779297
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 4.526012420654297,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "of Sci.Tech.",
+      "bbox": [
+        81.840087890625,
+        154.43145751953125,
+        132.89871215820312,
+        165.3284912109375
+      ],
+      "left_indent": 81.840087890625,
+      "width": 51.058624267578125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Thesis Keywords: Computational solid mechanics, fracture mechanics, composite materials and programming.",
+      "bbox": [
+        81.840087890625,
+        165.471435546875,
+        527.7962036132812,
+        176.36846923828125
+      ],
+      "left_indent": 81.840087890625,
+      "width": 445.95611572265625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        63.840091705322266,
+        167.3404541015625,
+        68.36610412597656,
+        177.1804656982422
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 4.526012420654297,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "B.S. with Honors, Mechanical Engineering",
+      "bbox": [
+        63.840091705322266,
+        176.511474609375,
+        246.30010986328125,
+        187.40850830078125
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 182.46001815795898,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Minor degree on Materials and Metallurgical Engineering.",
+      "bbox": [
+        81.840087890625,
+        187.55145263671875,
+        319.44317626953125,
+        198.448486328125
+      ],
+      "left_indent": 81.840087890625,
+      "width": 237.60308837890625,
+      "is_bold": false,
+      "font_size": 9.520000139872232
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        63.840091705322266,
+        189.42047119140625,
+        68.36610412597656,
+        199.26048278808594
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 4.526012420654297,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "EXPERIENCE",
+      "bbox": [
+        63.840091705322266,
+        208.7760009765625,
+        135.8187713623047,
+        220.7361602783203
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 71.97867965698242,
+      "is_bold": true,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "MIT-SLOAN SCHOOL OF MANAGEMENT",
+      "bbox": [
+        63.840091705322266,
+        220.43145751953125,
+        261.2613220214844,
+        231.3284912109375
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 197.4212303161621,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Research Assistant",
+      "bbox": [
+        63.840091705322266,
+        231.471435546875,
+        144.3714141845703,
+        242.36846923828125
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 80.53132247924805,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Developing a new playable product development system dynamics game for the executive education at MIT-Sloan.",
+      "bbox": [
+        81.840087890625,
+        242.511474609375,
+        546.101806640625,
+        253.40850830078125
+      ],
+      "left_indent": 81.840087890625,
+      "width": 464.26171875,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        63.840091705322266,
+        244.3804931640625,
+        68.36610412597656,
+        254.2205047607422
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 4.526012420654297,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "TESLA MOTORS",
+      "bbox": [
+        63.840091705322266,
+        253.55145263671875,
+        143.49325561523438,
+        264.448486328125
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 79.65316390991211,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Program Manager / Summer Intern",
+      "bbox": [
+        63.840091705322266,
+        264.5914306640625,
+        214.664306640625,
+        275.48846435546875
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 150.82421493530273,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Successfully delivered an electrical assembly of a Model-3 prototype, on time, as the Program Manager in HV Battery",
+      "bbox": [
+        81.840087890625,
+        275.6314392089844,
+        558.3271484375,
+        286.5284729003906
+      ],
+      "left_indent": 81.840087890625,
+      "width": 476.487060546875,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        63.840091705322266,
+        277.5004577636719,
+        68.36610412597656,
+        287.3404541015625
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 4.526012420654297,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Engineering while collaborated with numerous overseas suppliers.",
+      "bbox": [
+        81.840087890625,
+        286.43145751953125,
+        352.5617980957031,
+        297.3284912109375
+      ],
+      "left_indent": 81.840087890625,
+      "width": 270.7217102050781,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Stepped into different roles, such as harnesses design, to support the engineering team when it was necessary.",
+      "bbox": [
+        81.840087890625,
+        297.471435546875,
+        522.8011474609375,
+        308.36846923828125
+      ],
+      "left_indent": 81.840087890625,
+      "width": 440.9610595703125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        63.840091705322266,
+        299.3404541015625,
+        68.36610412597656,
+        309.1804504394531
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 4.526012420654297,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "TURKISH AEROSPACE INDUSTRIES (TAI)",
+      "bbox": [
+        63.840091705322266,
+        308.5114440917969,
+        264.6503601074219,
+        319.4084777832031
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 200.8102684020996,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Established by the Lockheed Martin and Turkish government in 1984 to manufacture F-16’s. Today, TAI reached $1",
+      "bbox": [
+        63.840091705322266,
+        319.55145263671875,
+        534.5075073242188,
+        330.448486328125
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 470.6674156188965,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "billion revenue, 4500 employees and shareholder of Airbus Military and risk sharing partner of Airbus in A350 project.",
+      "bbox": [
+        63.840091705322266,
+        330.5914306640625,
+        546.7542114257812,
+        341.48846435546875
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 482.914119720459,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Engineering Team Leader - Airbus A350 Ailerons",
+      "bbox": [
+        63.840091705322266,
+        341.6314392089844,
+        272.9845886230469,
+        352.5284729003906
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 209.1444969177246,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Team leader of 12-20 structural analysis engineers to develop Airbus A350 carbon-fiber reinforced composite ailerons",
+      "bbox": [
+        81.840087890625,
+        352.43145751953125,
+        558.580322265625,
+        363.3284912109375
+      ],
+      "left_indent": 81.840087890625,
+      "width": 476.740234375,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        63.840091705322266,
+        354.30047607421875,
+        68.36610412597656,
+        364.1404724121094
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 4.526012420654297,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "(wing flight control systems) from conceptual phase to the first flight.",
+      "bbox": [
+        81.840087890625,
+        363.471435546875,
+        363.42608642578125,
+        374.36846923828125
+      ],
+      "left_indent": 81.840087890625,
+      "width": 281.58599853515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Acted as “Structural Analysis Signatory” who “approves” Airbus A350 ailerons safety under FAA/EASA regulations.",
+      "bbox": [
+        81.840087890625,
+        374.5114440917969,
+        556.9905395507812,
+        385.4084777832031
+      ],
+      "left_indent": 81.840087890625,
+      "width": 475.15045166015625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        63.840091705322266,
+        376.3804626464844,
+        68.36610412597656,
+        386.220458984375
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 4.526012420654297,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Innovatively decreased the design schedule by 6 months and non-recurring costs of the half-billion-dollar Airbus",
+      "bbox": [
+        81.840087890625,
+        385.55145263671875,
+        535.8525390625,
+        396.448486328125
+      ],
+      "left_indent": 81.840087890625,
+      "width": 454.012451171875,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        63.840091705322266,
+        387.42047119140625,
+        68.36610412597656,
+        397.2604675292969
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 4.526012420654297,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "A350 ailerons project, some of which methods were employed by other teams in TAI and Airbus.",
+      "bbox": [
+        81.840087890625,
+        396.5914306640625,
+        475.04718017578125,
+        407.48846435546875
+      ],
+      "left_indent": 81.840087890625,
+      "width": 393.20709228515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Introduced new methods in structural analysis and design of aero-structures; CAD, CAE, fatigue and damage",
+      "bbox": [
+        81.840087890625,
+        407.6314392089844,
+        521.4070434570312,
+        418.5284729003906
+      ],
+      "left_indent": 81.840087890625,
+      "width": 439.56695556640625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        63.840091705322266,
+        409.5004577636719,
+        68.36610412597656,
+        419.3404541015625
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 4.526012420654297,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "tolerance, crashworthiness, weight optimization, stability, repair and failure analyses.",
+      "bbox": [
+        81.840087890625,
+        418.43145751953125,
+        425.58428955078125,
+        429.3284912109375
+      ],
+      "left_indent": 81.840087890625,
+      "width": 343.74420166015625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Structural Analysis Engineer",
+      "bbox": [
+        63.840091705322266,
+        429.471435546875,
+        186.89089965820312,
+        440.36846923828125
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 123.05080795288086,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Involved in the design of Airbus A400M Fuselage, Boeing 787 cargo barrier, and EU 6 th framework research project.",
+      "bbox": [
+        81.840087890625,
+        438.9455871582031,
+        553.6773071289062,
+        451.4084777832031
+      ],
+      "left_indent": 81.840087890625,
+      "width": 471.83721923828125,
+      "is_bold": false,
+      "font_size": 8.72000010808309
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        63.840091705322266,
+        442.3804626464844,
+        68.36610412597656,
+        452.220458984375
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 4.526012420654297,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "AWARDS",
+      "bbox": [
+        63.840091705322266,
+        461.7359619140625,
+        112.6307373046875,
+        473.69610595703125
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 48.790645599365234,
+      "is_bold": true,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Winner of NASA Space-Race Startup Challenge 2016 on Airborne Wind Energy Technology, more than 350",
+      "bbox": [
+        81.840087890625,
+        473.6314392089844,
+        521.6869506835938,
+        484.5284729003906
+      ],
+      "left_indent": 81.840087890625,
+      "width": 439.84686279296875,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        63.840091705322266,
+        475.5004577636719,
+        68.36610412597656,
+        485.3404541015625
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 4.526012420654297,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "entrepreneurs participated, received media attention (2016).",
+      "bbox": [
+        81.840087890625,
+        484.43145751953125,
+        323.3576965332031,
+        495.3284912109375
+      ],
+      "left_indent": 81.840087890625,
+      "width": 241.51760864257812,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Nominated to “International Forum for Aviation Research ICAS-IFAR Award 2016” organized by NASA (2015).",
+      "bbox": [
+        81.840087890625,
+        495.471435546875,
+        540.877197265625,
+        506.36846923828125
+      ],
+      "left_indent": 81.840087890625,
+      "width": 459.037109375,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        63.840091705322266,
+        497.3404541015625,
+        68.36610412597656,
+        507.1804504394531
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 4.526012420654297,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "“The Thesis of the Year Award”, from Prof. M. Parlar Education and Research Foundation in Turkey (2014).",
+      "bbox": [
+        81.840087890625,
+        506.511474609375,
+        521.9661254882812,
+        517.4085083007812
+      ],
+      "left_indent": 81.840087890625,
+      "width": 440.12603759765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        63.840091705322266,
+        508.3804931640625,
+        68.36610412597656,
+        518.2205200195312
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 4.526012420654297,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "“Outstanding Success Award”, from the CEO of Turkish Aerospace Industries (2014).",
+      "bbox": [
+        81.840087890625,
+        517.5514526367188,
+        432.840087890625,
+        528.448486328125
+      ],
+      "left_indent": 81.840087890625,
+      "width": 351.0,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        63.840091705322266,
+        519.4204711914062,
+        68.36610412597656,
+        529.260498046875
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 4.526012420654297,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "“The Best Paper Award”, from Society of Industrial Applied Mathematics (SIAM) at METU (2012).",
+      "bbox": [
+        81.840087890625,
+        528.5914306640625,
+        487.82550048828125,
+        539.4884643554688
+      ],
+      "left_indent": 81.840087890625,
+      "width": 405.98541259765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        63.840091705322266,
+        530.46044921875,
+        68.36610412597656,
+        540.3004760742188
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 4.526012420654297,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "PATENTS",
+      "bbox": [
+        63.840091705322266,
+        549.5759887695312,
+        114.45269775390625,
+        561.5361328125
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 50.612606048583984,
+      "is_bold": true,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "An Impact Energy Absorber (2067/TR - 2013/12568), Single inventor, Status: Issued.",
+      "bbox": [
+        81.840087890625,
+        561.471435546875,
+        427.8595886230469,
+        572.3684692382812
+      ],
+      "left_indent": 81.840087890625,
+      "width": 346.0195007324219,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        63.840091705322266,
+        563.3404541015625,
+        68.36610412597656,
+        573.1804809570312
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 4.526012420654297,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "A Curved Laminated Structure (EP3100852A1), One of the two inventors, Status: Issued.",
+      "bbox": [
+        81.840087890625,
+        572.511474609375,
+        443.1330871582031,
+        583.4085083007812
+      ],
+      "left_indent": 81.840087890625,
+      "width": 361.2929992675781,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        63.840091705322266,
+        574.3804931640625,
+        68.36610412597656,
+        584.2205200195312
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 4.526012420654297,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "A Three Dimensional Scalable and Modular Air Vehicle (2489/TR - 2016/05215), Single inventor, Status: Pending.",
+      "bbox": [
+        81.840087890625,
+        583.5514526367188,
+        547.8255004882812,
+        594.448486328125
+      ],
+      "left_indent": 81.840087890625,
+      "width": 465.98541259765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        63.840091705322266,
+        585.4204711914062,
+        68.36610412597656,
+        595.260498046875
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 4.526012420654297,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "ACADEMIC ACTIVITIES (list of publications on the next page)",
+      "bbox": [
+        63.840091705322266,
+        604.7760009765625,
+        360.1650695800781,
+        616.7361450195312
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 296.32497787475586,
+      "is_bold": true,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Published more than 15 academic papers on engineering design and computational solid mechanics that were received",
+      "bbox": [
+        81.840087890625,
+        616.4314575195312,
+        557.752197265625,
+        627.3284912109375
+      ],
+      "left_indent": 81.840087890625,
+      "width": 475.912109375,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        63.840091705322266,
+        618.3004760742188,
+        68.36610412597656,
+        628.1405029296875
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 4.526012420654297,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "23 citations on Web of Science and 55 citations on the Google Scholar as of January, 2017.",
+      "bbox": [
+        81.840087890625,
+        627.471435546875,
+        449.773681640625,
+        638.3684692382812
+      ],
+      "left_indent": 81.840087890625,
+      "width": 367.93359375,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Reviewer at International Journal of Crashworthiness and International Journal of Mechanical Sciences since 2016.",
+      "bbox": [
+        81.840087890625,
+        638.511474609375,
+        545.8284301757812,
+        649.4085083007812
+      ],
+      "left_indent": 81.840087890625,
+      "width": 463.98834228515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        63.840091705322266,
+        640.3804931640625,
+        68.36610412597656,
+        650.2205200195312
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 4.526012420654297,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Acted as co-PI for R&D project with a grant of $800k with my Ph.D. advisor and PI, Demir Coker (Caltech PhD’01).",
+      "bbox": [
+        81.840087890625,
+        649.5514526367188,
+        554.7786254882812,
+        660.448486328125
+      ],
+      "left_indent": 81.840087890625,
+      "width": 472.93853759765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        63.840091705322266,
+        651.4204711914062,
+        68.36610412597656,
+        661.260498046875
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 4.526012420654297,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "LEADERSHIP ACTIVITIES",
+      "bbox": [
+        63.840091705322266,
+        670.7760009765625,
+        202.8160400390625,
+        682.7361450195312
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 138.97594833374023,
+      "is_bold": true,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Founded the Systems Thinking Club (STC) at MIT-Sloan, currently has more than 160 members in MIT (2016).",
+      "bbox": [
+        81.840087890625,
+        682.4314575195312,
+        534.2366333007812,
+        693.3284912109375
+      ],
+      "left_indent": 81.840087890625,
+      "width": 452.39654541015625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        63.840091705322266,
+        684.3004760742188,
+        68.36610412597656,
+        694.1405029296875
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 4.526012420654297,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Volunteer mathematics teacher to visually impaired students in Turkish 6-pt. Blind People Association (2005-2006).",
+      "bbox": [
+        81.840087890625,
+        693.471435546875,
+        548.0897827148438,
+        704.3684692382812
+      ],
+      "left_indent": 81.840087890625,
+      "width": 466.24969482421875,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        63.840091705322266,
+        694.6673583984375,
+        68.80767059326172,
+        705.4673461914062
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 4.967578887939453,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Licensed Wing-Tsun Kung Fu self-defense instructor since 2010 and one-brevet scuba diver.",
+      "bbox": [
+        81.840087890625,
+        704.5114135742188,
+        453.90472412109375,
+        715.408447265625
+      ],
+      "left_indent": 81.840087890625,
+      "width": 372.06463623046875,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        63.840091705322266,
+        705.7073364257812,
+        68.80767059326172,
+        716.50732421875
+      ],
+      "left_indent": 63.840091705322266,
+      "width": 4.967578887939453,
+      "is_bold": false,
+      "font_size": 10.800000190734863
+    },
+    {
+      "page": 1,
+      "text": "Cambridge, MA",
+      "bbox": [
+        484.293212890625,
+        88.43145751953125,
+        552.3001098632812,
+        99.3284912109375
+      ],
+      "left_indent": 484.293212890625,
+      "width": 68.00689697265625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "08/2015 – 06/2017 (expected)",
+      "bbox": [
+        429.5910949707031,
+        99.471435546875,
+        552.3001098632812,
+        110.36846923828125
+      ],
+      "left_indent": 429.5910949707031,
+      "width": 122.70901489257812,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Ankara, Turkey",
+      "bbox": [
+        486.5343933105469,
+        121.55145263671875,
+        552.3001098632812,
+        132.448486328125
+      ],
+      "left_indent": 486.5343933105469,
+      "width": 65.76571655273438,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "09/2010 – 03/2014",
+      "bbox": [
+        459.840087890625,
+        132.5914306640625,
+        550.3567504882812,
+        143.48846435546875
+      ],
+      "left_indent": 459.840087890625,
+      "width": 90.51666259765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "09/2001 – 06/2006",
+      "bbox": [
+        459.840087890625,
+        176.511474609375,
+        550.3567504882812,
+        187.40850830078125
+      ],
+      "left_indent": 459.840087890625,
+      "width": 90.51666259765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Cambridge, MA",
+      "bbox": [
+        484.293212890625,
+        220.43145751953125,
+        552.3001098632812,
+        231.3284912109375
+      ],
+      "left_indent": 484.293212890625,
+      "width": 68.00689697265625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "1/2016 –",
+      "bbox": [
+        514.5618286132812,
+        231.471435546875,
+        554.8001098632812,
+        242.36846923828125
+      ],
+      "left_indent": 514.5618286132812,
+      "width": 40.23828125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Palo Alto, CA",
+      "bbox": [
+        492.8918151855469,
+        253.55145263671875,
+        552.3001098632812,
+        264.448486328125
+      ],
+      "left_indent": 492.8918151855469,
+      "width": 59.408294677734375,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "5/2016 – 8/2016",
+      "bbox": [
+        484.28338623046875,
+        264.5914306640625,
+        552.3001098632812,
+        275.48846435546875
+      ],
+      "left_indent": 484.28338623046875,
+      "width": 68.0167236328125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Ankara, Turkey and Toulouse, France",
+      "bbox": [
+        397.6720886230469,
+        308.5114440917969,
+        552.3001098632812,
+        319.4084777832031
+      ],
+      "left_indent": 397.6720886230469,
+      "width": 154.62802124023438,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "12/2008 – 06/2015",
+      "bbox": [
+        474.28338623046875,
+        341.6314392089844,
+        552.3001098632812,
+        352.5284729003906
+      ],
+      "left_indent": 474.28338623046875,
+      "width": 78.0167236328125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "06/2006 – 12/2008",
+      "bbox": [
+        474.840087890625,
+        429.471435546875,
+        552.8567504882812,
+        440.36846923828125
+      ],
+      "left_indent": 474.840087890625,
+      "width": 78.01666259765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    }
+  ],
+  "text_per_page": [
+    "BURAK GOZLUKLU, PhD\nEDUCATION\nMassachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nM.S., System Design and Management\nMiddle East Technical University\nPh.D., Aerospace Engineering\nPursued while full-time working; received fellowship due to the collaboration supported by TAI and Turkish Ministry\n•\nof Sci.Tech.\nThesis Keywords: Computational solid mechanics, fracture mechanics, composite materials and programming.\n•\nB.S. with Honors, Mechanical Engineering\nMinor degree on Materials and Metallurgical Engineering.\n•\nEXPERIENCE\nMIT-SLOAN SCHOOL OF MANAGEMENT\nResearch Assistant\nDeveloping a new playable product development system dynamics game for the executive education at MIT-Sloan.\n•\nTESLA MOTORS\nProgram Manager / Summer Intern\nSuccessfully delivered an electrical assembly of a Model-3 prototype, on time, as the Program Manager in HV Battery\n•\nEngineering while collaborated with numerous overseas suppliers.\nStepped into different roles, such as harnesses design, to support the engineering team when it was necessary.\n•\nTURKISH AEROSPACE INDUSTRIES (TAI)\nEstablished by the Lockheed Martin and Turkish government in 1984 to manufacture F-16’s. Today, TAI reached $1\nbillion revenue, 4500 employees and shareholder of Airbus Military and risk sharing partner of Airbus in A350 project.\nEngineering Team Leader - Airbus A350 Ailerons\nTeam leader of 12-20 structural analysis engineers to develop Airbus A350 carbon-fiber reinforced composite ailerons\n•\n(wing flight control systems) from conceptual phase to the first flight.\nActed as “Structural Analysis Signatory” who “approves” Airbus A350 ailerons safety under FAA/EASA regulations.\n•\nInnovatively decreased the design schedule by 6 months and non-recurring costs of the half-billion-dollar Airbus\n•\nA350 ailerons project, some of which methods were employed by other teams in TAI and Airbus.\nIntroduced new methods in structural analysis and design of aero-structures; CAD, CAE, fatigue and damage\n•\ntolerance, crashworthiness, weight optimization, stability, repair and failure analyses.\nStructural Analysis Engineer\nInvolved in the design of Airbus A400M Fuselage, Boeing 787 cargo barrier, and EU 6 th framework research project.\n•\nAWARDS\nWinner of NASA Space-Race Startup Challenge 2016 on Airborne Wind Energy Technology, more than 350\n•\nentrepreneurs participated, received media attention (2016).\nNominated to “International Forum for Aviation Research ICAS-IFAR Award 2016” organized by NASA (2015).\n•\n“The Thesis of the Year Award”, from Prof. M. Parlar Education and Research Foundation in Turkey (2014).\n•\n“Outstanding Success Award”, from the CEO of Turkish Aerospace Industries (2014).\n•\n“The Best Paper Award”, from Society of Industrial Applied Mathematics (SIAM) at METU (2012).\n•\nPATENTS\nAn Impact Energy Absorber (2067/TR - 2013/12568), Single inventor, Status: Issued.\n•\nA Curved Laminated Structure (EP3100852A1), One of the two inventors, Status: Issued.\n•\nA Three Dimensional Scalable and Modular Air Vehicle (2489/TR - 2016/05215), Single inventor, Status: Pending.\n•\nACADEMIC ACTIVITIES (list of publications on the next page)\nPublished more than 15 academic papers on engineering design and computational solid mechanics that were received\n•\n23 citations on Web of Science and 55 citations on the Google Scholar as of January, 2017.\nReviewer at International Journal of Crashworthiness and International Journal of Mechanical Sciences since 2016.\n•\nActed as co-PI for R&D project with a grant of $800k with my Ph.D. advisor and PI, Demir Coker (Caltech PhD’01).\n•\nLEADERSHIP ACTIVITIES\nFounded the Systems Thinking Club (STC) at MIT-Sloan, currently has more than 160 members in MIT (2016).\n•\nVolunteer mathematics teacher to visually impaired students in Turkish 6-pt. Blind People Association (2005-2006).\n•\nLicensed Wing-Tsun Kung Fu self-defense instructor since 2010 and one-brevet scuba diver.\n•\nCambridge, MA\n08/2015 – 06/2017 (expected)\nAnkara, Turkey\n09/2010 – 03/2014\n09/2001 – 06/2006\nCambridge, MA\n1/2016 –\nPalo Alto, CA\n5/2016 – 8/2016\nAnkara, Turkey and Toulouse, France\n12/2008 – 06/2015\n06/2006 – 12/2008"
+  ],
+  "text_all": "BURAK GOZLUKLU, PhD\nEDUCATION\nMassachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nM.S., System Design and Management\nMiddle East Technical University\nPh.D., Aerospace Engineering\nPursued while full-time working; received fellowship due to the collaboration supported by TAI and Turkish Ministry\n•\nof Sci.Tech.\nThesis Keywords: Computational solid mechanics, fracture mechanics, composite materials and programming.\n•\nB.S. with Honors, Mechanical Engineering\nMinor degree on Materials and Metallurgical Engineering.\n•\nEXPERIENCE\nMIT-SLOAN SCHOOL OF MANAGEMENT\nResearch Assistant\nDeveloping a new playable product development system dynamics game for the executive education at MIT-Sloan.\n•\nTESLA MOTORS\nProgram Manager / Summer Intern\nSuccessfully delivered an electrical assembly of a Model-3 prototype, on time, as the Program Manager in HV Battery\n•\nEngineering while collaborated with numerous overseas suppliers.\nStepped into different roles, such as harnesses design, to support the engineering team when it was necessary.\n•\nTURKISH AEROSPACE INDUSTRIES (TAI)\nEstablished by the Lockheed Martin and Turkish government in 1984 to manufacture F-16’s. Today, TAI reached $1\nbillion revenue, 4500 employees and shareholder of Airbus Military and risk sharing partner of Airbus in A350 project.\nEngineering Team Leader - Airbus A350 Ailerons\nTeam leader of 12-20 structural analysis engineers to develop Airbus A350 carbon-fiber reinforced composite ailerons\n•\n(wing flight control systems) from conceptual phase to the first flight.\nActed as “Structural Analysis Signatory” who “approves” Airbus A350 ailerons safety under FAA/EASA regulations.\n•\nInnovatively decreased the design schedule by 6 months and non-recurring costs of the half-billion-dollar Airbus\n•\nA350 ailerons project, some of which methods were employed by other teams in TAI and Airbus.\nIntroduced new methods in structural analysis and design of aero-structures; CAD, CAE, fatigue and damage\n•\ntolerance, crashworthiness, weight optimization, stability, repair and failure analyses.\nStructural Analysis Engineer\nInvolved in the design of Airbus A400M Fuselage, Boeing 787 cargo barrier, and EU 6 th framework research project.\n•\nAWARDS\nWinner of NASA Space-Race Startup Challenge 2016 on Airborne Wind Energy Technology, more than 350\n•\nentrepreneurs participated, received media attention (2016).\nNominated to “International Forum for Aviation Research ICAS-IFAR Award 2016” organized by NASA (2015).\n•\n“The Thesis of the Year Award”, from Prof. M. Parlar Education and Research Foundation in Turkey (2014).\n•\n“Outstanding Success Award”, from the CEO of Turkish Aerospace Industries (2014).\n•\n“The Best Paper Award”, from Society of Industrial Applied Mathematics (SIAM) at METU (2012).\n•\nPATENTS\nAn Impact Energy Absorber (2067/TR - 2013/12568), Single inventor, Status: Issued.\n•\nA Curved Laminated Structure (EP3100852A1), One of the two inventors, Status: Issued.\n•\nA Three Dimensional Scalable and Modular Air Vehicle (2489/TR - 2016/05215), Single inventor, Status: Pending.\n•\nACADEMIC ACTIVITIES (list of publications on the next page)\nPublished more than 15 academic papers on engineering design and computational solid mechanics that were received\n•\n23 citations on Web of Science and 55 citations on the Google Scholar as of January, 2017.\nReviewer at International Journal of Crashworthiness and International Journal of Mechanical Sciences since 2016.\n•\nActed as co-PI for R&D project with a grant of $800k with my Ph.D. advisor and PI, Demir Coker (Caltech PhD’01).\n•\nLEADERSHIP ACTIVITIES\nFounded the Systems Thinking Club (STC) at MIT-Sloan, currently has more than 160 members in MIT (2016).\n•\nVolunteer mathematics teacher to visually impaired students in Turkish 6-pt. Blind People Association (2005-2006).\n•\nLicensed Wing-Tsun Kung Fu self-defense instructor since 2010 and one-brevet scuba diver.\n•\nCambridge, MA\n08/2015 – 06/2017 (expected)\nAnkara, Turkey\n09/2010 – 03/2014\n09/2001 – 06/2006\nCambridge, MA\n1/2016 –\nPalo Alto, CA\n5/2016 – 8/2016\nAnkara, Turkey and Toulouse, France\n12/2008 – 06/2015\n06/2006 – 12/2008"
+}

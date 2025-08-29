@@ -1,0 +1,329 @@
+{
+  "systems": [
+    "spacy",
+    "hf",
+    "ens"
+  ],
+  "candidate": {
+    "emails": {
+      "sizes": {
+        "spacy": 1,
+        "hf": 1,
+        "ens": 1
+      },
+      "jaccard": {
+        "spacy__hf": 1.0,
+        "spacy__ens": 1.0,
+        "hf__ens": 1.0
+      },
+      "sample_diffs": {
+        "spacy_minus_hf": [],
+        "hf_minus_spacy": [],
+        "spacy_minus_ens": [],
+        "ens_minus_spacy": [],
+        "hf_minus_ens": [],
+        "ens_minus_hf": []
+      },
+      "union_count": 1
+    },
+    "phones": {
+      "sizes": {
+        "spacy": 1,
+        "hf": 1,
+        "ens": 1
+      },
+      "jaccard": {
+        "spacy__hf": 1.0,
+        "spacy__ens": 1.0,
+        "hf__ens": 1.0
+      },
+      "sample_diffs": {
+        "spacy_minus_hf": [],
+        "hf_minus_spacy": [],
+        "spacy_minus_ens": [],
+        "ens_minus_spacy": [],
+        "hf_minus_ens": [],
+        "ens_minus_hf": []
+      },
+      "union_count": 1
+    },
+    "links": {
+      "sizes": {
+        "spacy": 0,
+        "hf": 0,
+        "ens": 0
+      },
+      "jaccard": {
+        "spacy__hf": 1.0,
+        "spacy__ens": 1.0,
+        "hf__ens": 1.0
+      },
+      "sample_diffs": {
+        "spacy_minus_hf": [],
+        "hf_minus_spacy": [],
+        "spacy_minus_ens": [],
+        "ens_minus_spacy": [],
+        "hf_minus_ens": [],
+        "ens_minus_hf": []
+      },
+      "union_count": 0
+    }
+  },
+  "experience": {
+    "companies": {
+      "sizes": {
+        "spacy": 1,
+        "hf": 1,
+        "ens": 1
+      },
+      "jaccard": {
+        "spacy__hf": 1.0,
+        "spacy__ens": 1.0,
+        "hf__ens": 1.0
+      },
+      "sample_diffs": {
+        "spacy_minus_hf": [],
+        "hf_minus_spacy": [],
+        "spacy_minus_ens": [],
+        "ens_minus_spacy": [],
+        "hf_minus_ens": [],
+        "ens_minus_hf": []
+      },
+      "union_count": 1
+    },
+    "titles": {
+      "sizes": {
+        "spacy": 1,
+        "hf": 1,
+        "ens": 1
+      },
+      "jaccard": {
+        "spacy__hf": 1.0,
+        "spacy__ens": 1.0,
+        "hf__ens": 1.0
+      },
+      "sample_diffs": {
+        "spacy_minus_hf": [],
+        "hf_minus_spacy": [],
+        "spacy_minus_ens": [],
+        "ens_minus_spacy": [],
+        "hf_minus_ens": [],
+        "ens_minus_hf": []
+      },
+      "union_count": 1
+    },
+    "locations": {
+      "sizes": {
+        "spacy": 0,
+        "hf": 0,
+        "ens": 0
+      },
+      "jaccard": {
+        "spacy__hf": 1.0,
+        "spacy__ens": 1.0,
+        "hf__ens": 1.0
+      },
+      "sample_diffs": {
+        "spacy_minus_hf": [],
+        "hf_minus_spacy": [],
+        "spacy_minus_ens": [],
+        "ens_minus_spacy": [],
+        "hf_minus_ens": [],
+        "ens_minus_hf": []
+      },
+      "union_count": 0
+    },
+    "start_dates": {
+      "sizes": {
+        "spacy": 1,
+        "hf": 1,
+        "ens": 1
+      },
+      "jaccard": {
+        "spacy__hf": 1.0,
+        "spacy__ens": 1.0,
+        "hf__ens": 1.0
+      },
+      "sample_diffs": {
+        "spacy_minus_hf": [],
+        "hf_minus_spacy": [],
+        "spacy_minus_ens": [],
+        "ens_minus_spacy": [],
+        "hf_minus_ens": [],
+        "ens_minus_hf": []
+      },
+      "union_count": 1
+    },
+    "end_dates": {
+      "sizes": {
+        "spacy": 1,
+        "hf": 1,
+        "ens": 1
+      },
+      "jaccard": {
+        "spacy__hf": 1.0,
+        "spacy__ens": 1.0,
+        "hf__ens": 1.0
+      },
+      "sample_diffs": {
+        "spacy_minus_hf": [],
+        "hf_minus_spacy": [],
+        "spacy_minus_ens": [],
+        "ens_minus_spacy": [],
+        "hf_minus_ens": [],
+        "ens_minus_hf": []
+      },
+      "union_count": 1
+    }
+  },
+  "education": {
+    "degrees": {
+      "sizes": {
+        "spacy": 1,
+        "hf": 1,
+        "ens": 1
+      },
+      "jaccard": {
+        "spacy__hf": 1.0,
+        "spacy__ens": 1.0,
+        "hf__ens": 1.0
+      },
+      "sample_diffs": {
+        "spacy_minus_hf": [],
+        "hf_minus_spacy": [],
+        "spacy_minus_ens": [],
+        "ens_minus_spacy": [],
+        "hf_minus_ens": [],
+        "ens_minus_hf": []
+      },
+      "union_count": 1
+    },
+    "fields": {
+      "sizes": {
+        "spacy": 0,
+        "hf": 0,
+        "ens": 0
+      },
+      "jaccard": {
+        "spacy__hf": 1.0,
+        "spacy__ens": 1.0,
+        "hf__ens": 1.0
+      },
+      "sample_diffs": {
+        "spacy_minus_hf": [],
+        "hf_minus_spacy": [],
+        "spacy_minus_ens": [],
+        "ens_minus_spacy": [],
+        "hf_minus_ens": [],
+        "ens_minus_hf": []
+      },
+      "union_count": 0
+    },
+    "institutions": {
+      "sizes": {
+        "spacy": 1,
+        "hf": 1,
+        "ens": 1
+      },
+      "jaccard": {
+        "spacy__hf": 1.0,
+        "spacy__ens": 1.0,
+        "hf__ens": 1.0
+      },
+      "sample_diffs": {
+        "spacy_minus_hf": [],
+        "hf_minus_spacy": [],
+        "spacy_minus_ens": [],
+        "ens_minus_spacy": [],
+        "hf_minus_ens": [],
+        "ens_minus_hf": []
+      },
+      "union_count": 1
+    },
+    "dates": {
+      "sizes": {
+        "spacy": 1,
+        "hf": 1,
+        "ens": 1
+      },
+      "jaccard": {
+        "spacy__hf": 1.0,
+        "spacy__ens": 1.0,
+        "hf__ens": 1.0
+      },
+      "sample_diffs": {
+        "spacy_minus_hf": [],
+        "hf_minus_spacy": [],
+        "spacy_minus_ens": [],
+        "ens_minus_spacy": [],
+        "hf_minus_ens": [],
+        "ens_minus_hf": []
+      },
+      "union_count": 1
+    }
+  },
+  "projects": {
+    "names": {
+      "sizes": {
+        "spacy": 4,
+        "hf": 4,
+        "ens": 4
+      },
+      "jaccard": {
+        "spacy__hf": 1.0,
+        "spacy__ens": 1.0,
+        "hf__ens": 1.0
+      },
+      "sample_diffs": {
+        "spacy_minus_hf": [],
+        "hf_minus_spacy": [],
+        "spacy_minus_ens": [],
+        "ens_minus_spacy": [],
+        "hf_minus_ens": [],
+        "ens_minus_hf": []
+      },
+      "union_count": 4
+    }
+  },
+  "skills": {
+    "sizes": {
+      "spacy": 9,
+      "hf": 9,
+      "ens": 9
+    },
+    "jaccard": {
+      "spacy__hf": 1.0,
+      "spacy__ens": 1.0,
+      "hf__ens": 1.0
+    },
+    "sample_diffs": {
+      "spacy_minus_hf": [],
+      "hf_minus_spacy": [],
+      "spacy_minus_ens": [],
+      "ens_minus_spacy": [],
+      "hf_minus_ens": [],
+      "ens_minus_hf": []
+    },
+    "union_count": 9
+  },
+  "winners_most_items": {
+    "emails": "spacy",
+    "phones": "spacy",
+    "links": "spacy",
+    "companies": "spacy",
+    "titles": "spacy",
+    "locations": "spacy",
+    "start_dates": "spacy",
+    "end_dates": "spacy",
+    "degrees": "spacy",
+    "fields": "spacy",
+    "institutions": "spacy",
+    "dates": "spacy",
+    "names": "spacy",
+    "skills": {
+      "spacy": 9,
+      "hf": 9,
+      "ens": 9
+    }
+  }
+}

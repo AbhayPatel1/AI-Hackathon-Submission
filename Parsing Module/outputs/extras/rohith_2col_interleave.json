@@ -1,0 +1,1996 @@
+{
+  "meta": {
+    "source_path": "data/resume_single/Rohith-Katta-Resume_(1).pdf",
+    "pages": 2,
+    "strategy": "two_column_first",
+    "interleave": true
+  },
+  "lines": [
+    {
+      "page": 1,
+      "text": "ROHITH KATTA",
+      "bbox": [
+        35.43299865722656,
+        33.286624908447266,
+        215.3253936767578,
+        67.60436248779297
+      ],
+      "left_indent": 35.43299865722656,
+      "width": 179.89239501953125,
+      "is_bold": true,
+      "font_size": 24.787099838256836,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Data Scientist",
+      "bbox": [
+        35.43299865722656,
+        67.32028198242188,
+        109.37590789794922,
+        83.87226104736328
+      ],
+      "left_indent": 35.43299865722656,
+      "width": 73.94290924072266,
+      "is_bold": true,
+      "font_size": 11.9552001953125,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "\\ faAt : rohith_katta@yahoo.com",
+      "bbox": [
+        37.42599868774414,
+        87.1439208984375,
+        138.17965698242188,
+        98.17852020263672
+      ],
+      "left_indent": 37.42599868774414,
+      "width": 100.75365829467773,
+      "is_bold": true,
+      "font_size": 7.970099925994873,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "\\ faPhone : +91-984095093434",
+      "bbox": [
+        159.93800354003906,
+        87.1439208984375,
+        234.90451049804688,
+        98.17852020263672
+      ],
+      "left_indent": 159.93800354003906,
+      "width": 74.96650695800781,
+      "is_bold": true,
+      "font_size": 7.970099925994873,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "\\ faMapMarker : Bangalore, India",
+      "bbox": [
+        257.7070007324219,
+        87.1439208984375,
+        325.4816589355469,
+        98.17852020263672
+      ],
+      "left_indent": 257.7070007324219,
+      "width": 67.774658203125,
+      "is_bold": true,
+      "font_size": 7.970099925994873,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "\\ faLinkedin : https://www.linkedin.com/in/rohith-katta/",
+      "bbox": [
+        347.75799560546875,
+        87.1439208984375,
+        510.9576416015625,
+        98.17852020263672
+      ],
+      "left_indent": 347.75799560546875,
+      "width": 163.19964599609375,
+      "is_bold": true,
+      "font_size": 7.970099925994873,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "SKILLS",
+      "bbox": [
+        363.68798828125,
+        106.89869689941406,
+        417.40863037109375,
+        130.73341369628906
+      ],
+      "left_indent": 363.68798828125,
+      "width": 53.72064208984375,
+      "is_bold": true,
+      "font_size": 17.21540069580078,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "EXPERIENCE",
+      "bbox": [
+        35.43299865722656,
+        108.51069641113281,
+        138.0884246826172,
+        132.3454132080078
+      ],
+      "left_indent": 35.43299865722656,
+      "width": 102.65542602539062,
+      "is_bold": true,
+      "font_size": 17.21540069580078,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Deep Learning",
+      "bbox": [
+        368.9329833984375,
+        138.94534301757812,
+        432.394775390625,
+        152.36495971679688
+      ],
+      "left_indent": 368.9329833984375,
+      "width": 63.4617919921875,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Machine Learning",
+      "bbox": [
+        447.96697998046875,
+        138.94534301757812,
+        525.3863525390625,
+        152.36495971679688
+      ],
+      "left_indent": 447.96697998046875,
+      "width": 77.41937255859375,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "IoT",
+      "bbox": [
+        540.9679565429688,
+        138.94534301757812,
+        553.9044189453125,
+        152.36495971679688
+      ],
+      "left_indent": 540.9679565429688,
+      "width": 12.93646240234375,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Senior Software AI Engineer, R&D",
+      "bbox": [
+        35.43299865722656,
+        141.20733642578125,
+        213.30848693847656,
+        157.3109893798828
+      ],
+      "left_indent": 35.43299865722656,
+      "width": 177.87548828125,
+      "is_bold": false,
+      "font_size": 11.9552001953125,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "R",
+      "bbox": [
+        368.9329528808594,
+        156.73934936523438,
+        375.1745300292969,
+        170.15896606445312
+      ],
+      "left_indent": 368.9329528808594,
+      "width": 6.2415771484375,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Python",
+      "bbox": [
+        390.7659606933594,
+        156.73934936523438,
+        422.23785400390625,
+        170.15896606445312
+      ],
+      "left_indent": 390.7659606933594,
+      "width": 31.471893310546875,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Computer Vision",
+      "bbox": [
+        437.8149719238281,
+        156.73934936523438,
+        511.3987731933594,
+        170.15896606445312
+      ],
+      "left_indent": 437.8149719238281,
+      "width": 73.58380126953125,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "NLP",
+      "bbox": [
+        526.9749145507812,
+        156.73934936523438,
+        545.689697265625,
+        170.15896606445312
+      ],
+      "left_indent": 526.9749145507812,
+      "width": 18.71478271484375,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Gupshup",
+      "bbox": [
+        35.43299865722656,
+        158.00413513183594,
+        75.14392852783203,
+        171.79734802246094
+      ],
+      "left_indent": 35.43299865722656,
+      "width": 39.71092987060547,
+      "is_bold": true,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "z May 2022 – Ongoing",
+      "bbox": [
+        38.23500061035156,
+        174.14572143554688,
+        134.8255615234375,
+        186.22344970703125
+      ],
+      "left_indent": 38.23500061035156,
+      "width": 96.59056091308594,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "* Bangalore, India",
+      "bbox": [
+        185.91500854492188,
+        174.14572143554688,
+        261.02691650390625,
+        186.22344970703125
+      ],
+      "left_indent": 185.91500854492188,
+      "width": 75.11190795898438,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Product Management",
+      "bbox": [
+        368.9329528808594,
+        188.14834594726562,
+        463.3734130859375,
+        201.56796264648438
+      ],
+      "left_indent": 368.9329528808594,
+      "width": 94.44046020507812,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Problem Solving",
+      "bbox": [
+        478.9359436035156,
+        188.14834594726562,
+        549.4910888671875,
+        201.56796264648438
+      ],
+      "left_indent": 478.9359436035156,
+      "width": 70.55514526367188,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "• Worked with product managers, developers, quality assurance, and cus- tomers across different verticals to resolve technical issues related to",
+      "bbox": [
+        35.43299865722656,
+        190.90969848632812,
+        326.0208740234375,
+        213.9454345703125
+      ],
+      "left_indent": 35.43299865722656,
+      "width": 290.58787536621094,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Agile Management",
+      "bbox": [
+        368.93292236328125,
+        205.94332885742188,
+        450.8603515625,
+        219.36294555664062
+      ],
+      "left_indent": 368.93292236328125,
+      "width": 81.92742919921875,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Chatbots deployed",
+      "bbox": [
+        45.11699676513672,
+        212.82669067382812,
+        119.24224090576172,
+        224.9044189453125
+      ],
+      "left_indent": 45.11699676513672,
+      "width": 74.125244140625,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "HONORS & AWARDS",
+      "bbox": [
+        363.68792724609375,
+        225.51771545410156,
+        533.4058837890625,
+        249.35243225097656
+      ],
+      "left_indent": 363.68792724609375,
+      "width": 169.71795654296875,
+      "is_bold": true,
+      "font_size": 17.21540069580078,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "• Trained and mentored 6 junior developers and engineers, teaching skills in NLP and working to improve overall team performance",
+      "bbox": [
+        35.43299865722656,
+        226.52566528320312,
+        324.9851989746094,
+        249.5623779296875
+      ],
+      "left_indent": 35.43299865722656,
+      "width": 289.5522003173828,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "• Researched and resolved issues regarding the integrity of data flow into",
+      "bbox": [
+        35.43299865722656,
+        251.18264770507812,
+        325.21826171875,
+        263.2603759765625
+      ],
+      "left_indent": 35.43299865722656,
+      "width": 289.78526306152344,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "⋆ Star Award, Fractal Analytics",
+      "bbox": [
+        366.3779296875,
+        254.7651824951172,
+        515.5973510742188,
+        274.7139892578125
+      ],
+      "left_indent": 366.3779296875,
+      "width": 149.21942138671875,
+      "is_bold": true,
+      "font_size": 12.154399871826172,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "databases which decreased the failedevent rate by 25% per quarter",
+      "bbox": [
+        45.11699676513672,
+        262.1416320800781,
+        311.77764892578125,
+        274.2193603515625
+      ],
+      "left_indent": 45.11699676513672,
+      "width": 266.66065216064453,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Appreciation for Code Optimization",
+      "bbox": [
+        388.658935546875,
+        266.9294128417969,
+        544.2948608398438,
+        280.3490295410156
+      ],
+      "left_indent": 388.658935546875,
+      "width": 155.63592529296875,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "• Research and Development in the field of Chatbots based on require-",
+      "bbox": [
+        35.43299865722656,
+        275.8406066894531,
+        316.5164489746094,
+        287.9183349609375
+      ],
+      "left_indent": 35.43299865722656,
+      "width": 281.0834503173828,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "and Migrating code to latest versions",
+      "bbox": [
+        388.658935546875,
+        278.8844299316406,
+        549.7839965820312,
+        292.3040466308594
+      ],
+      "left_indent": 388.658935546875,
+      "width": 161.12506103515625,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "ments of 12 different clients across domains which in turn increased",
+      "bbox": [
+        45.11699676513672,
+        286.7995910644531,
+        311.9301452636719,
+        298.8773193359375
+      ],
+      "left_indent": 45.11699676513672,
+      "width": 266.81314849853516,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "of Python",
+      "bbox": [
+        388.658935546875,
+        290.8394470214844,
+        431.71734619140625,
+        304.2590637207031
+      ],
+      "left_indent": 388.658935546875,
+      "width": 43.05841064453125,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "$4M Gross sales",
+      "bbox": [
+        45.11699676513672,
+        297.7585754394531,
+        109.91717529296875,
+        309.8363037109375
+      ],
+      "left_indent": 45.11699676513672,
+      "width": 64.80017852783203,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": " Spot Award, Mu Sigma",
+      "bbox": [
+        366.3779296875,
+        306.0812683105469,
+        489.0669860839844,
+        326.03009033203125
+      ],
+      "left_indent": 366.3779296875,
+      "width": 122.68905639648438,
+      "is_bold": true,
+      "font_size": 12.154399871826172,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "• Worked on Integrating Modules like Customized Small talk, and FAQs to",
+      "bbox": [
+        35.43299865722656,
+        311.4565734863281,
+        327.04754638671875,
+        323.5343017578125
+      ],
+      "left_indent": 35.43299865722656,
+      "width": 291.6145477294922,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Appreciation for Handling multiple",
+      "bbox": [
+        388.658935546875,
+        318.2455139160156,
+        539.0344848632812,
+        331.6651306152344
+      ],
+      "left_indent": 388.658935546875,
+      "width": 150.37554931640625,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "CPG, Retail, Banking, Insurance, and Airlines Clients",
+      "bbox": [
+        45.11699676513672,
+        322.4155578613281,
+        247.29129028320312,
+        334.4932861328125
+      ],
+      "left_indent": 45.11699676513672,
+      "width": 202.1742935180664,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "threads simultaneously, showing an ex-",
+      "bbox": [
+        388.658935546875,
+        330.20050048828125,
+        559.2037963867188,
+        343.6201171875
+      ],
+      "left_indent": 388.658935546875,
+      "width": 170.54486083984375,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "• Reporting to Director of AI & Analytics, Curating Success stories, Was",
+      "bbox": [
+        35.43299865722656,
+        336.11456298828125,
+        317.87481689453125,
+        348.1922912597656
+      ],
+      "left_indent": 35.43299865722656,
+      "width": 282.4418182373047,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "treme level of accountability, and going",
+      "bbox": [
+        388.658935546875,
+        342.156494140625,
+        559.089111328125,
+        355.57611083984375
+      ],
+      "left_indent": 388.658935546875,
+      "width": 170.43017578125,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Successful in bringing new Airlines Customer to use our products",
+      "bbox": [
+        45.11699676513672,
+        347.0735778808594,
+        300.22003173828125,
+        359.15130615234375
+      ],
+      "left_indent": 45.11699676513672,
+      "width": 255.10303497314453,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "that extra mile to ensure the smooth",
+      "bbox": [
+        388.658935546875,
+        354.1114807128906,
+        547.8213500976562,
+        367.5310974121094
+      ],
+      "left_indent": 388.658935546875,
+      "width": 159.16241455078125,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "functioning of the team",
+      "bbox": [
+        388.658935546875,
+        366.06646728515625,
+        491.3883361816406,
+        379.486083984375
+      ],
+      "left_indent": 388.658935546875,
+      "width": 102.72940063476562,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Data Science Consultant, CPG Client",
+      "bbox": [
+        35.43299865722656,
+        378.2973327636719,
+        227.23629760742188,
+        394.4009704589844
+      ],
+      "left_indent": 35.43299865722656,
+      "width": 191.8032989501953,
+      "is_bold": false,
+      "font_size": 11.9552001953125,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "¢ Spot Award, Mu Sigma",
+      "bbox": [
+        367.2749328613281,
+        381.3082275390625,
+        489.0669860839844,
+        401.257080078125
+      ],
+      "left_indent": 367.2749328613281,
+      "width": 121.79205322265625,
+      "is_bold": true,
+      "font_size": 12.154399871826172,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Appreciation for doing research on an-",
+      "bbox": [
+        388.658935546875,
+        393.4724426269531,
+        556.5536499023438,
+        406.8920593261719
+      ],
+      "left_indent": 388.658935546875,
+      "width": 167.89471435546875,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Fractal Analytics",
+      "bbox": [
+        35.43299865722656,
+        395.0951232910156,
+        108.60331726074219,
+        408.88836669921875
+      ],
+      "left_indent": 35.43299865722656,
+      "width": 73.17031860351562,
+      "is_bold": true,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "swering the questions across verticals",
+      "bbox": [
+        388.658935546875,
+        405.42742919921875,
+        553.2012939453125,
+        418.8470458984375
+      ],
+      "left_indent": 388.658935546875,
+      "width": 164.5423583984375,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "z Nov 2020 – Apr 2022",
+      "bbox": [
+        38.23500061035156,
+        411.23675537109375,
+        137.8024139404297,
+        423.3144836425781
+      ],
+      "left_indent": 38.23500061035156,
+      "width": 99.56741333007812,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "* Bangalore, India",
+      "bbox": [
+        185.91500854492188,
+        411.23675537109375,
+        261.02691650390625,
+        423.3144836425781
+      ],
+      "left_indent": 185.91500854492188,
+      "width": 75.11190795898438,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "and enhancing the answer from the",
+      "bbox": [
+        388.658935546875,
+        417.3824157714844,
+        543.318359375,
+        430.8020324707031
+      ],
+      "left_indent": 388.658935546875,
+      "width": 154.659423828125,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "• Managed a team of 6 to build a Recommendation Engine for one of the",
+      "bbox": [
+        35.43299865722656,
+        427.999755859375,
+        323.6134033203125,
+        440.0774841308594
+      ],
+      "left_indent": 35.43299865722656,
+      "width": 288.18040466308594,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "SME and has achieved a milestone",
+      "bbox": [
+        388.658935546875,
+        429.3384094238281,
+        538.89501953125,
+        442.7580261230469
+      ],
+      "left_indent": 388.658935546875,
+      "width": 150.236083984375,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "leading CPG Companies. Setup pipelines for Data Ontology, a Model",
+      "bbox": [
+        45.11699676513672,
+        438.9587707519531,
+        313.8130187988281,
+        451.0364990234375
+      ],
+      "left_indent": 45.11699676513672,
+      "width": 268.6960220336914,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "of 90% accepted answers during his",
+      "bbox": [
+        388.658935546875,
+        441.29339599609375,
+        545.3806762695312,
+        454.7130126953125
+      ],
+      "left_indent": 388.658935546875,
+      "width": 156.72174072265625,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "building that includes collaborative filtering and ensemble techniques, a",
+      "bbox": [
+        45.11699676513672,
+        449.9177551269531,
+        324.78790283203125,
+        461.9954833984375
+      ],
+      "left_indent": 45.11699676513672,
+      "width": 279.67090606689453,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "router stint",
+      "bbox": [
+        388.658935546875,
+        453.2483825683594,
+        437.6201477050781,
+        466.6679992675781
+      ],
+      "left_indent": 388.658935546875,
+      "width": 48.961212158203125,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "dashboard showing the probability of sales and recommendations",
+      "bbox": [
+        45.11699676513672,
+        460.8767395019531,
+        301.9414978027344,
+        472.9544677734375
+      ],
+      "left_indent": 45.11699676513672,
+      "width": 256.82450103759766,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Impact Award, Mu Sigma",
+      "bbox": [
+        388.658935546875,
+        468.49017333984375,
+        499.1590881347656,
+        482.2834167480469
+      ],
+      "left_indent": 388.658935546875,
+      "width": 110.50015258789062,
+      "is_bold": true,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "♂",
+      "bbox": [
+        371.7579345703125,
+        474.05279541015625,
+        377.13775634765625,
+        488.4420166015625
+      ],
+      "left_indent": 371.7579345703125,
+      "width": 5.37982177734375,
+      "is_bold": false,
+      "font_size": 14.346199989318848,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "• This solution helped the sales representatives to reduce manual ordering",
+      "bbox": [
+        35.43299865722656,
+        474.57574462890625,
+        329.0469665527344,
+        486.6534729003906
+      ],
+      "left_indent": 35.43299865722656,
+      "width": 293.6139678955078,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Appreciation for the never say never",
+      "bbox": [
+        388.658935546875,
+        480.6543884277344,
+        547.701904296875,
+        494.0740051269531
+      ],
+      "left_indent": 388.658935546875,
+      "width": 159.04296875,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "the effort by 25% and generated 3% YOY growth",
+      "bbox": [
+        45.11699676513672,
+        485.53375244140625,
+        237.83175659179688,
+        497.6114807128906
+      ],
+      "left_indent": 45.11699676513672,
+      "width": 192.71475982666016,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "attitude and being a consistent con-",
+      "bbox": [
+        388.658935546875,
+        492.609375,
+        545.1863403320312,
+        506.02899169921875
+      ],
+      "left_indent": 388.658935546875,
+      "width": 156.52740478515625,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "• Set the code quality and review standards across all versions of the so-",
+      "bbox": [
+        35.43299865722656,
+        499.2327575683594,
+        321.9859924316406,
+        511.31048583984375
+      ],
+      "left_indent": 35.43299865722656,
+      "width": 286.55299377441406,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "tributor on all threads - to be the go-to",
+      "bbox": [
+        388.658935546875,
+        504.5643615722656,
+        557.9434204101562,
+        517.9840087890625
+      ],
+      "left_indent": 388.658935546875,
+      "width": 169.28448486328125,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "lution, and working to repackage the solution/accelerator as a product",
+      "bbox": [
+        45.11699676513672,
+        510.1917419433594,
+        320.06707763671875,
+        522.2694702148438
+      ],
+      "left_indent": 45.11699676513672,
+      "width": 274.95008087158203,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "person on all things critical in Deep",
+      "bbox": [
+        388.658935546875,
+        516.5193481445312,
+        541.7491455078125,
+        529.9390258789062
+      ],
+      "left_indent": 388.658935546875,
+      "width": 153.0902099609375,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Learning",
+      "bbox": [
+        388.658935546875,
+        528.4752807617188,
+        425.948974609375,
+        541.8949584960938
+      ],
+      "left_indent": 388.658935546875,
+      "width": 37.2900390625,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": " Spot Award, Mu Sigma",
+      "bbox": [
+        366.3779296875,
+        543.7161254882812,
+        489.0669860839844,
+        563.6659545898438
+      ],
+      "left_indent": 366.3779296875,
+      "width": 122.68905639648438,
+      "is_bold": true,
+      "font_size": 12.154399871826172,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Decision Scientist, R&D",
+      "bbox": [
+        35.43299865722656,
+        552.3743286132812,
+        159.3426971435547,
+        568.4779663085938
+      ],
+      "left_indent": 35.43299865722656,
+      "width": 123.90969848632812,
+      "is_bold": false,
+      "font_size": 11.9552001953125,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Appreciation for being a standout per-",
+      "bbox": [
+        388.658935546875,
+        555.8812866210938,
+        555.4776611328125,
+        569.3009643554688
+      ],
+      "left_indent": 388.658935546875,
+      "width": 166.8187255859375,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "former in the team and rising to the",
+      "bbox": [
+        388.658935546875,
+        567.8362426757812,
+        543.6671142578125,
+        581.2559204101562
+      ],
+      "left_indent": 388.658935546875,
+      "width": 155.0081787109375,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Mu Sigma",
+      "bbox": [
+        35.43299865722656,
+        569.172119140625,
+        79.44278717041016,
+        582.96533203125
+      ],
+      "left_indent": 35.43299865722656,
+      "width": 44.009788513183594,
+      "is_bold": true,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "occasion on multiple instances main-",
+      "bbox": [
+        388.658935546875,
+        579.791259765625,
+        548.6931762695312,
+        593.2109375
+      ],
+      "left_indent": 388.658935546875,
+      "width": 160.03424072265625,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "z Dec 2018 – Nov 2020",
+      "bbox": [
+        38.23500061035156,
+        585.313720703125,
+        139.23704528808594,
+        597.3914794921875
+      ],
+      "left_indent": 38.23500061035156,
+      "width": 101.00204467773438,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "* Bangalore, India",
+      "bbox": [
+        185.91500854492188,
+        585.313720703125,
+        261.02691650390625,
+        597.3914794921875
+      ],
+      "left_indent": 185.91500854492188,
+      "width": 75.11190795898438,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "taining the accountability and rigor",
+      "bbox": [
+        388.658935546875,
+        591.7462768554688,
+        540.2997436523438,
+        605.1659545898438
+      ],
+      "left_indent": 388.658935546875,
+      "width": 151.64080810546875,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "• Managed team of 4 to solve time series Predictive Maintenance of Tur-",
+      "bbox": [
+        35.43299865722656,
+        602.0767211914062,
+        322.8198547363281,
+        614.1544799804688
+      ],
+      "left_indent": 35.43299865722656,
+      "width": 287.38685607910156,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "levels",
+      "bbox": [
+        388.658935546875,
+        603.7012939453125,
+        413.0872497558594,
+        617.1209716796875
+      ],
+      "left_indent": 388.658935546875,
+      "width": 24.428314208984375,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "bines for extremely rare events using Classical and Deep Learning ap-",
+      "bbox": [
+        45.11699676513672,
+        613.0357055664062,
+        316.7675476074219,
+        625.1134643554688
+      ],
+      "left_indent": 45.11699676513672,
+      "width": 271.65055084228516,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": " Spot Award, Mu Sigma",
+      "bbox": [
+        366.3779296875,
+        618.943115234375,
+        489.0669860839844,
+        638.8919067382812
+      ],
+      "left_indent": 366.3779296875,
+      "width": 122.68905639648438,
+      "is_bold": true,
+      "font_size": 12.154399871826172,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "proaches for one of the biggest energy-based companies and achieved",
+      "bbox": [
+        45.11699676513672,
+        623.9947509765625,
+        321.39862060546875,
+        636.072509765625
+      ],
+      "left_indent": 45.11699676513672,
+      "width": 276.28162384033203,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Appreciation for handling multiple",
+      "bbox": [
+        388.658935546875,
+        631.1072998046875,
+        537.1316528320312,
+        644.5269775390625
+      ],
+      "left_indent": 388.658935546875,
+      "width": 148.47271728515625,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "78% accuracy",
+      "bbox": [
+        45.11699676513672,
+        634.9537353515625,
+        99.51166534423828,
+        647.031494140625
+      ],
+      "left_indent": 45.11699676513672,
+      "width": 54.39466857910156,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "threads simultaneously and perform-",
+      "bbox": [
+        388.658935546875,
+        643.0623168945312,
+        549.2212524414062,
+        656.4819946289062
+      ],
+      "left_indent": 388.658935546875,
+      "width": 160.56231689453125,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "• Designed and developed Human Motion Tracking, Facial Recognition",
+      "bbox": [
+        35.43299865722656,
+        648.6527099609375,
+        313.9207458496094,
+        660.73046875
+      ],
+      "left_indent": 35.43299865722656,
+      "width": 278.4877471923828,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "ing exceedingly well in each of them.",
+      "bbox": [
+        388.658935546875,
+        655.0182495117188,
+        548.6085815429688,
+        668.4379272460938
+      ],
+      "left_indent": 388.658935546875,
+      "width": 159.94964599609375,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "at a Distance using Deep Learning Techniques for one of the biggest",
+      "bbox": [
+        45.11699676513672,
+        659.6116943359375,
+        311.8628845214844,
+        671.689453125
+      ],
+      "left_indent": 45.11699676513672,
+      "width": 266.74588775634766,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Also, for being a vital cog in the ABM",
+      "bbox": [
+        388.658935546875,
+        666.9732666015625,
+        550.5661010742188,
+        680.3929443359375
+      ],
+      "left_indent": 388.658935546875,
+      "width": 161.90716552734375,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "airlines company in the United States",
+      "bbox": [
+        45.11699676513672,
+        670.5697021484375,
+        190.8030242919922,
+        682.6474609375
+      ],
+      "left_indent": 45.11699676513672,
+      "width": 145.68602752685547,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "thread and going out of the way multi-",
+      "bbox": [
+        388.658935546875,
+        678.9282836914062,
+        556.5736694335938,
+        692.3479614257812
+      ],
+      "left_indent": 388.658935546875,
+      "width": 167.91473388671875,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "• Developed an internal Chatbot using RASA NLU, RASA Core for Intent",
+      "bbox": [
+        35.43299865722656,
+        684.2687377929688,
+        320.8652038574219,
+        696.3464965820312
+      ],
+      "left_indent": 35.43299865722656,
+      "width": 285.4322052001953,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "ple times to get the job done",
+      "bbox": [
+        388.658935546875,
+        690.88330078125,
+        514.0680541992188,
+        704.302978515625
+      ],
+      "left_indent": 388.658935546875,
+      "width": 125.40911865234375,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Entity Extraction with ReactJS front-end",
+      "bbox": [
+        45.11699676513672,
+        695.2277221679688,
+        203.44564819335938,
+        707.3054809570312
+      ],
+      "left_indent": 45.11699676513672,
+      "width": 158.32865142822266,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": " Spot Award, Mu Sigma",
+      "bbox": [
+        366.3779296875,
+        706.1251220703125,
+        489.0669860839844,
+        726.0739135742188
+      ],
+      "left_indent": 366.3779296875,
+      "width": 122.68905639648438,
+      "is_bold": true,
+      "font_size": 12.154399871826172,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "• Built a Natural Language Querying dashboard which uses Python dash",
+      "bbox": [
+        35.43299865722656,
+        708.9267578125,
+        320.3226318359375,
+        721.0045166015625
+      ],
+      "left_indent": 35.43299865722656,
+      "width": 284.88963317871094,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Appreciation for setting up Asset",
+      "bbox": [
+        388.658935546875,
+        718.289306640625,
+        532.4141845703125,
+        731.708984375
+      ],
+      "left_indent": 388.658935546875,
+      "width": 143.7552490234375,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "for front-end and SQLova, a neural semantic parser for the back-end",
+      "bbox": [
+        45.11699676513672,
+        719.8857421875,
+        312.89849853515625,
+        731.9635009765625
+      ],
+      "left_indent": 45.11699676513672,
+      "width": 267.78150177001953,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Readiness Pipeline using Python and",
+      "bbox": [
+        388.658935546875,
+        730.2443237304688,
+        547.7417602539062,
+        743.6640014648438
+      ],
+      "left_indent": 388.658935546875,
+      "width": 159.08282470703125,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "• Developed a facialdetection - Augmented Reality application on the",
+      "bbox": [
+        35.43299865722656,
+        733.583740234375,
+        312.4053955078125,
+        745.6614990234375
+      ],
+      "left_indent": 35.43299865722656,
+      "width": 276.97239685058594,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "BPMN tools, developing Facial Detec-",
+      "bbox": [
+        388.658935546875,
+        742.2003173828125,
+        553.923583984375,
+        755.6199951171875
+      ],
+      "left_indent": 388.658935546875,
+      "width": 165.2646484375,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Microsoft HoloLens",
+      "bbox": [
+        45.11699676513672,
+        744.542724609375,
+        122.26390075683594,
+        756.6204833984375
+      ],
+      "left_indent": 45.11699676513672,
+      "width": 77.14690399169922,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "tion App on HoloLens. Also, ramping",
+      "bbox": [
+        388.658935546875,
+        754.1552734375,
+        548.0307006835938,
+        767.574951171875
+      ],
+      "left_indent": 388.658935546875,
+      "width": 159.37176513671875,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "• Worked on building IoT-based prototypes for the lab to showcase Mu",
+      "bbox": [
+        35.43299865722656,
+        758.24169921875,
+        316.49847412109375,
+        770.3194580078125
+      ],
+      "left_indent": 35.43299865722656,
+      "width": 281.0654754638672,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "up quickly on the new technologies",
+      "bbox": [
+        388.658935546875,
+        766.1102905273438,
+        543.0693359375,
+        779.5299682617188
+      ],
+      "left_indent": 388.658935546875,
+      "width": 154.410400390625,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Sigma’s Analytical muscle and Big data capabilities",
+      "bbox": [
+        45.11699676513672,
+        769.2007446289062,
+        241.463134765625,
+        781.2785034179688
+      ],
+      "left_indent": 45.11699676513672,
+      "width": 196.34613800048828,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "and questioning the status quo to ar-",
+      "bbox": [
+        388.658935546875,
+        778.0653076171875,
+        549.7591552734375,
+        791.4849853515625
+      ],
+      "left_indent": 388.658935546875,
+      "width": 161.1002197265625,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "rive at the best solution",
+      "bbox": [
+        388.658935546875,
+        790.0203247070312,
+        491.78179931640625,
+        803.4400024414062
+      ],
+      "left_indent": 388.658935546875,
+      "width": 103.12286376953125,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 2,
+      "text": "Trainee Decision Scientist, Pharmaceutical Client",
+      "bbox": [
+        35.43299865722656,
+        39.58934783935547,
+        289.46319580078125,
+        55.6930046081543
+      ],
+      "left_indent": 35.43299865722656,
+      "width": 254.0301971435547,
+      "is_bold": false,
+      "font_size": 11.9552001953125,
+      "column": 1
+    },
+    {
+      "page": 2,
+      "text": "¢ Spot Award, Mu Sigma",
+      "bbox": [
+        367.2749938964844,
+        39.93497848510742,
+        489.0670471191406,
+        59.88379669189453
+      ],
+      "left_indent": 367.2749938964844,
+      "width": 121.79205322265625,
+      "is_bold": true,
+      "font_size": 12.154399871826172,
+      "column": 2
+    },
+    {
+      "page": 2,
+      "text": "Work Appreciation award for optimiz-",
+      "bbox": [
+        388.65899658203125,
+        52.09920883178711,
+        553.8837280273438,
+        65.51882934570312
+      ],
+      "left_indent": 388.65899658203125,
+      "width": 165.2247314453125,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 2
+    },
+    {
+      "page": 2,
+      "text": "Mu Sigma",
+      "bbox": [
+        35.43299865722656,
+        56.47312545776367,
+        79.44278717041016,
+        70.26634216308594
+      ],
+      "left_indent": 35.43299865722656,
+      "width": 44.009788513183594,
+      "is_bold": true,
+      "font_size": 9.962599754333496,
+      "column": 1
+    },
+    {
+      "page": 2,
+      "text": "ing 8 regular reports to R Shiny Appli-",
+      "bbox": [
+        388.65899658203125,
+        64.0542221069336,
+        552.8575439453125,
+        77.47384643554688
+      ],
+      "left_indent": 388.65899658203125,
+      "width": 164.19854736328125,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 2
+    },
+    {
+      "page": 2,
+      "text": "z Jun 2017 – Nov 2018",
+      "bbox": [
+        38.23500061035156,
+        72.6997299194336,
+        137.1299285888672,
+        84.77747344970703
+      ],
+      "left_indent": 38.23500061035156,
+      "width": 98.89492797851562,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 2,
+      "text": "* Bangalore, India",
+      "bbox": [
+        185.91500854492188,
+        72.6997299194336,
+        261.02691650390625,
+        84.77747344970703
+      ],
+      "left_indent": 185.91500854492188,
+      "width": 75.11190795898438,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 2,
+      "text": "cations which reduced weekly efforts",
+      "bbox": [
+        388.65899658203125,
+        76.00923919677734,
+        551.1190795898438,
+        89.42886352539062
+      ],
+      "left_indent": 388.65899658203125,
+      "width": 162.4600830078125,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 2
+    },
+    {
+      "page": 2,
+      "text": "by 95%. This involved process opti-",
+      "bbox": [
+        388.65899658203125,
+        87.9642562866211,
+        543.1441650390625,
+        101.38388061523438
+      ],
+      "left_indent": 388.65899658203125,
+      "width": 154.48516845703125,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 2
+    },
+    {
+      "page": 2,
+      "text": "• Developed automated KPI trackers, weekly and monthly dashboard- based reporting platforms, performance against Forecast and competi- tor’s drug in the market",
+      "bbox": [
+        35.43299865722656,
+        89.6367416381836,
+        312.41876220703125,
+        123.63245391845703
+      ],
+      "left_indent": 35.43299865722656,
+      "width": 276.9857635498047,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 2,
+      "text": "mization, change of technology, and",
+      "bbox": [
+        388.65899658203125,
+        99.91927337646484,
+        545.1216430664062,
+        113.33889770507812
+      ],
+      "left_indent": 388.65899658203125,
+      "width": 156.462646484375,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 2
+    },
+    {
+      "page": 2,
+      "text": "reduction in manual interventions",
+      "bbox": [
+        388.65899658203125,
+        111.8752670288086,
+        535.1491088867188,
+        125.29489135742188
+      ],
+      "left_indent": 388.65899658203125,
+      "width": 146.4901123046875,
+      "is_bold": false,
+      "font_size": 9.962599754333496,
+      "column": 2
+    },
+    {
+      "page": 2,
+      "text": "• Designing and transitioning 8 monthly and weekly reports from Excel to R which reduce run time from 26 hours to 2 hours",
+      "bbox": [
+        35.43299865722656,
+        125.2527084350586,
+        326.312255859375,
+        148.2894287109375
+      ],
+      "left_indent": 35.43299865722656,
+      "width": 290.87925720214844,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 2,
+      "text": "EDUCATION",
+      "bbox": [
+        363.68798828125,
+        134.7376251220703,
+        464.25177001953125,
+        158.5723419189453
+      ],
+      "left_indent": 363.68798828125,
+      "width": 100.56378173828125,
+      "is_bold": true,
+      "font_size": 17.21540069580078,
+      "column": 2
+    },
+    {
+      "page": 2,
+      "text": "• Provided marketing analysis for recently launched drug and provided weekly and monthly reports and adoption criteria for a market worth $25M",
+      "bbox": [
+        35.43299865722656,
+        149.91067504882812,
+        313.6875305175781,
+        183.9063720703125
+      ],
+      "left_indent": 35.43299865722656,
+      "width": 278.25453186035156,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 2,
+      "text": "B.Tech. in Computer Science",
+      "bbox": [
+        363.68798828125,
+        167.6063232421875,
+        511.9803771972656,
+        183.70997619628906
+      ],
+      "left_indent": 363.68798828125,
+      "width": 148.29238891601562,
+      "is_bold": false,
+      "font_size": 11.9552001953125,
+      "column": 2
+    },
+    {
+      "page": 2,
+      "text": "SRM University",
+      "bbox": [
+        363.68798828125,
+        184.49009704589844,
+        432.78363037109375,
+        198.28330993652344
+      ],
+      "left_indent": 363.68798828125,
+      "width": 69.09564208984375,
+      "is_bold": true,
+      "font_size": 9.962599754333496,
+      "column": 2
+    },
+    {
+      "page": 2,
+      "text": "• Evaluated consumption of drugs in the market. Findings from performance- orientated analysis led to the development of strategic post-launch mar- keting increasing efficiency by 30%",
+      "bbox": [
+        35.43299865722656,
+        185.52664184570312,
+        340.19671630859375,
+        219.5223388671875
+      ],
+      "left_indent": 35.43299865722656,
+      "width": 304.7637176513672,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    },
+    {
+      "page": 2,
+      "text": "z Jun 2013 – May 2017",
+      "bbox": [
+        366.489990234375,
+        200.71768188476562,
+        466.2635498046875,
+        212.79541015625
+      ],
+      "left_indent": 366.489990234375,
+      "width": 99.7735595703125,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 2
+    },
+    {
+      "page": 2,
+      "text": "• Created behavioral and attitudinal segments of customers to enable efficient targeting and increase promotional penetration of drugs in a particular segment",
+      "bbox": [
+        35.43299865722656,
+        221.14358520507812,
+        310.38787841796875,
+        255.1392822265625
+      ],
+      "left_indent": 35.43299865722656,
+      "width": 274.9548797607422,
+      "is_bold": false,
+      "font_size": 8.966400146484375,
+      "column": 1
+    }
+  ],
+  "text_per_page": [
+    "ROHITH KATTA\nData Scientist\n\\ faAt : rohith_katta@yahoo.com\n\\ faPhone : +91-984095093434\n\\ faMapMarker : Bangalore, India\n\\ faLinkedin : https://www.linkedin.com/in/rohith-katta/\nSKILLS\nEXPERIENCE\nDeep Learning\nMachine Learning\nIoT\nSenior Software AI Engineer, R&D\nR\nPython\nComputer Vision\nNLP\nGupshup\nz May 2022 – Ongoing\n* Bangalore, India\nProduct Management\nProblem Solving\n• Worked with product managers, developers, quality assurance, and cus- tomers across different verticals to resolve technical issues related to\nAgile Management\nChatbots deployed\nHONORS & AWARDS\n• Trained and mentored 6 junior developers and engineers, teaching skills in NLP and working to improve overall team performance\n• Researched and resolved issues regarding the integrity of data flow into\n⋆ Star Award, Fractal Analytics\ndatabases which decreased the failedevent rate by 25% per quarter\nAppreciation for Code Optimization\n• Research and Development in the field of Chatbots based on require-\nand Migrating code to latest versions\nments of 12 different clients across domains which in turn increased\nof Python\n$4M Gross sales\n Spot Award, Mu Sigma\n• Worked on Integrating Modules like Customized Small talk, and FAQs to\nAppreciation for Handling multiple\nCPG, Retail, Banking, Insurance, and Airlines Clients\nthreads simultaneously, showing an ex-\n• Reporting to Director of AI & Analytics, Curating Success stories, Was\ntreme level of accountability, and going\nSuccessful in bringing new Airlines Customer to use our products\nthat extra mile to ensure the smooth\nfunctioning of the team\nData Science Consultant, CPG Client\n¢ Spot Award, Mu Sigma\nAppreciation for doing research on an-\nFractal Analytics\nswering the questions across verticals\nz Nov 2020 – Apr 2022\n* Bangalore, India\nand enhancing the answer from the\n• Managed a team of 6 to build a Recommendation Engine for one of the\nSME and has achieved a milestone\nleading CPG Companies. Setup pipelines for Data Ontology, a Model\nof 90% accepted answers during his\nbuilding that includes collaborative filtering and ensemble techniques, a\nrouter stint\ndashboard showing the probability of sales and recommendations\nImpact Award, Mu Sigma\n♂\n• This solution helped the sales representatives to reduce manual ordering\nAppreciation for the never say never\nthe effort by 25% and generated 3% YOY growth\nattitude and being a consistent con-\n• Set the code quality and review standards across all versions of the so-\ntributor on all threads - to be the go-to\nlution, and working to repackage the solution/accelerator as a product\nperson on all things critical in Deep\nLearning\n Spot Award, Mu Sigma\nDecision Scientist, R&D\nAppreciation for being a standout per-\nformer in the team and rising to the\nMu Sigma\noccasion on multiple instances main-\nz Dec 2018 – Nov 2020\n* Bangalore, India\ntaining the accountability and rigor\n• Managed team of 4 to solve time series Predictive Maintenance of Tur-\nlevels\nbines for extremely rare events using Classical and Deep Learning ap-\n Spot Award, Mu Sigma\nproaches for one of the biggest energy-based companies and achieved\nAppreciation for handling multiple\n78% accuracy\nthreads simultaneously and perform-\n• Designed and developed Human Motion Tracking, Facial Recognition\ning exceedingly well in each of them.\nat a Distance using Deep Learning Techniques for one of the biggest\nAlso, for being a vital cog in the ABM\nairlines company in the United States\nthread and going out of the way multi-\n• Developed an internal Chatbot using RASA NLU, RASA Core for Intent\nple times to get the job done\nEntity Extraction with ReactJS front-end\n Spot Award, Mu Sigma\n• Built a Natural Language Querying dashboard which uses Python dash\nAppreciation for setting up Asset\nfor front-end and SQLova, a neural semantic parser for the back-end\nReadiness Pipeline using Python and\n• Developed a facialdetection - Augmented Reality application on the\nBPMN tools, developing Facial Detec-\nMicrosoft HoloLens\ntion App on HoloLens. Also, ramping\n• Worked on building IoT-based prototypes for the lab to showcase Mu\nup quickly on the new technologies\nSigma’s Analytical muscle and Big data capabilities\nand questioning the status quo to ar-\nrive at the best solution",
+    "Trainee Decision Scientist, Pharmaceutical Client\n¢ Spot Award, Mu Sigma\nWork Appreciation award for optimiz-\nMu Sigma\ning 8 regular reports to R Shiny Appli-\nz Jun 2017 – Nov 2018\n* Bangalore, India\ncations which reduced weekly efforts\nby 95%. This involved process opti-\n• Developed automated KPI trackers, weekly and monthly dashboard- based reporting platforms, performance against Forecast and competi- tor’s drug in the market\nmization, change of technology, and\nreduction in manual interventions\n• Designing and transitioning 8 monthly and weekly reports from Excel to R which reduce run time from 26 hours to 2 hours\nEDUCATION\n• Provided marketing analysis for recently launched drug and provided weekly and monthly reports and adoption criteria for a market worth $25M\nB.Tech. in Computer Science\nSRM University\n• Evaluated consumption of drugs in the market. Findings from performance- orientated analysis led to the development of strategic post-launch mar- keting increasing efficiency by 30%\nz Jun 2013 – May 2017\n• Created behavioral and attitudinal segments of customers to enable efficient targeting and increase promotional penetration of drugs in a particular segment"
+  ],
+  "text_all": "ROHITH KATTA\nData Scientist\n\\ faAt : rohith_katta@yahoo.com\n\\ faPhone : +91-984095093434\n\\ faMapMarker : Bangalore, India\n\\ faLinkedin : https://www.linkedin.com/in/rohith-katta/\nSKILLS\nEXPERIENCE\nDeep Learning\nMachine Learning\nIoT\nSenior Software AI Engineer, R&D\nR\nPython\nComputer Vision\nNLP\nGupshup\nz May 2022 – Ongoing\n* Bangalore, India\nProduct Management\nProblem Solving\n• Worked with product managers, developers, quality assurance, and cus- tomers across different verticals to resolve technical issues related to\nAgile Management\nChatbots deployed\nHONORS & AWARDS\n• Trained and mentored 6 junior developers and engineers, teaching skills in NLP and working to improve overall team performance\n• Researched and resolved issues regarding the integrity of data flow into\n⋆ Star Award, Fractal Analytics\ndatabases which decreased the failedevent rate by 25% per quarter\nAppreciation for Code Optimization\n• Research and Development in the field of Chatbots based on require-\nand Migrating code to latest versions\nments of 12 different clients across domains which in turn increased\nof Python\n$4M Gross sales\n Spot Award, Mu Sigma\n• Worked on Integrating Modules like Customized Small talk, and FAQs to\nAppreciation for Handling multiple\nCPG, Retail, Banking, Insurance, and Airlines Clients\nthreads simultaneously, showing an ex-\n• Reporting to Director of AI & Analytics, Curating Success stories, Was\ntreme level of accountability, and going\nSuccessful in bringing new Airlines Customer to use our products\nthat extra mile to ensure the smooth\nfunctioning of the team\nData Science Consultant, CPG Client\n¢ Spot Award, Mu Sigma\nAppreciation for doing research on an-\nFractal Analytics\nswering the questions across verticals\nz Nov 2020 – Apr 2022\n* Bangalore, India\nand enhancing the answer from the\n• Managed a team of 6 to build a Recommendation Engine for one of the\nSME and has achieved a milestone\nleading CPG Companies. Setup pipelines for Data Ontology, a Model\nof 90% accepted answers during his\nbuilding that includes collaborative filtering and ensemble techniques, a\nrouter stint\ndashboard showing the probability of sales and recommendations\nImpact Award, Mu Sigma\n♂\n• This solution helped the sales representatives to reduce manual ordering\nAppreciation for the never say never\nthe effort by 25% and generated 3% YOY growth\nattitude and being a consistent con-\n• Set the code quality and review standards across all versions of the so-\ntributor on all threads - to be the go-to\nlution, and working to repackage the solution/accelerator as a product\nperson on all things critical in Deep\nLearning\n Spot Award, Mu Sigma\nDecision Scientist, R&D\nAppreciation for being a standout per-\nformer in the team and rising to the\nMu Sigma\noccasion on multiple instances main-\nz Dec 2018 – Nov 2020\n* Bangalore, India\ntaining the accountability and rigor\n• Managed team of 4 to solve time series Predictive Maintenance of Tur-\nlevels\nbines for extremely rare events using Classical and Deep Learning ap-\n Spot Award, Mu Sigma\nproaches for one of the biggest energy-based companies and achieved\nAppreciation for handling multiple\n78% accuracy\nthreads simultaneously and perform-\n• Designed and developed Human Motion Tracking, Facial Recognition\ning exceedingly well in each of them.\nat a Distance using Deep Learning Techniques for one of the biggest\nAlso, for being a vital cog in the ABM\nairlines company in the United States\nthread and going out of the way multi-\n• Developed an internal Chatbot using RASA NLU, RASA Core for Intent\nple times to get the job done\nEntity Extraction with ReactJS front-end\n Spot Award, Mu Sigma\n• Built a Natural Language Querying dashboard which uses Python dash\nAppreciation for setting up Asset\nfor front-end and SQLova, a neural semantic parser for the back-end\nReadiness Pipeline using Python and\n• Developed a facialdetection - Augmented Reality application on the\nBPMN tools, developing Facial Detec-\nMicrosoft HoloLens\ntion App on HoloLens. Also, ramping\n• Worked on building IoT-based prototypes for the lab to showcase Mu\nup quickly on the new technologies\nSigma’s Analytical muscle and Big data capabilities\nand questioning the status quo to ar-\nrive at the best solution\n\nTrainee Decision Scientist, Pharmaceutical Client\n¢ Spot Award, Mu Sigma\nWork Appreciation award for optimiz-\nMu Sigma\ning 8 regular reports to R Shiny Appli-\nz Jun 2017 – Nov 2018\n* Bangalore, India\ncations which reduced weekly efforts\nby 95%. This involved process opti-\n• Developed automated KPI trackers, weekly and monthly dashboard- based reporting platforms, performance against Forecast and competi- tor’s drug in the market\nmization, change of technology, and\nreduction in manual interventions\n• Designing and transitioning 8 monthly and weekly reports from Excel to R which reduce run time from 26 hours to 2 hours\nEDUCATION\n• Provided marketing analysis for recently launched drug and provided weekly and monthly reports and adoption criteria for a market worth $25M\nB.Tech. in Computer Science\nSRM University\n• Evaluated consumption of drugs in the market. Findings from performance- orientated analysis led to the development of strategic post-launch mar- keting increasing efficiency by 30%\nz Jun 2013 – May 2017\n• Created behavioral and attitudinal segments of customers to enable efficient targeting and increase promotional penetration of drugs in a particular segment",
+  "_debug": {
+    "per_page_cuts": {
+      "1": null,
+      "2": 223.47096252441406
+    },
+    "per_page_counts": {
+      "1": {
+        "left": 113,
+        "right": 0
+      },
+      "2": {
+        "left": 18,
+        "right": 11
+      }
+    }
+  }
+}

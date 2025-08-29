@@ -1,0 +1,726 @@
+{
+  "meta": {
+    "source_path": "data/resumes/2017-Resume-Book-for-Web-SDM-4.pdf",
+    "pages": 1
+  },
+  "lines": [
+    {
+      "page": 1,
+      "text": "SHRUTI BANDA",
+      "bbox": [
+        268.3500061035156,
+        56.688232421875,
+        361.91705322265625,
+        70.188232421875
+      ],
+      "left_indent": 268.3500061035156,
+      "width": 93.56704711914062,
+      "is_bold": true,
+      "font_size": 12.0
+    },
+    {
+      "page": 1,
+      "text": "550 Memorial Dr, Cambridge, MA",
+      "bbox": [
+        247.85000610351562,
+        69.411865234375,
+        384.8999938964844,
+        80.661865234375
+      ],
+      "left_indent": 247.85000610351562,
+      "width": 137.04998779296875,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "shruti.banda@sloan.mit.edu , +1(408)2039493",
+      "bbox": [
+        226.35000610351562,
+        80.411865234375,
+        406.17999267578125,
+        91.661865234375
+      ],
+      "left_indent": 226.35000610351562,
+      "width": 179.82998657226562,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "EDUCATION",
+      "bbox": [
+        72.0250015258789,
+        102.161865234375,
+        137.5500030517578,
+        113.411865234375
+      ],
+      "left_indent": 72.0250015258789,
+      "width": 65.5250015258789,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Massachusetts Institute of Technology, Cambridge Aug’2015-Present",
+      "bbox": [
+        72.0250015258789,
+        122.00091552734375,
+        560.094970703125,
+        133.81341552734375
+      ],
+      "left_indent": 72.0250015258789,
+      "width": 488.0699691772461,
+      "is_bold": true,
+      "font_size": 10.5
+    },
+    {
+      "page": 1,
+      "text": "Master of Science in Management and Engineering, Sloan School of Management & MIT School of Engineering",
+      "bbox": [
+        72.0250015258789,
+        134.75091552734375,
+        520.5750122070312,
+        146.56341552734375
+      ],
+      "left_indent": 72.0250015258789,
+      "width": 448.55001068115234,
+      "is_bold": true,
+      "font_size": 10.5
+    },
+    {
+      "page": 1,
+      "text": " Developed a complete B-plan for a market-place to help restaurants source local farmers’ organic produce.",
+      "bbox": [
+        72.0250015258789,
+        146.36126708984375,
+        528.10498046875,
+        158.56341552734375
+      ],
+      "left_indent": 72.0250015258789,
+      "width": 456.0799789428711,
+      "is_bold": false,
+      "font_size": 10.5
+    },
+    {
+      "page": 1,
+      "text": " Analyzed Amazon employee data to predict access needs using statistical tools R & python for data mining.",
+      "bbox": [
+        72.0250015258789,
+        158.61126708984375,
+        529.094970703125,
+        170.81341552734375
+      ],
+      "left_indent": 72.0250015258789,
+      "width": 457.0699691772461,
+      "is_bold": false,
+      "font_size": 10.5
+    },
+    {
+      "page": 1,
+      "text": " Built a web application (Group’em) to help K-12 teachers to effortlessly create and manage classroom groups.",
+      "bbox": [
+        72.0250015258789,
+        170.86126708984375,
+        535.844970703125,
+        183.06341552734375
+      ],
+      "left_indent": 72.0250015258789,
+      "width": 463.8199691772461,
+      "is_bold": false,
+      "font_size": 10.5
+    },
+    {
+      "page": 1,
+      "text": " Built an auto-cleaning database that predicts missing values in a column using appropriate machine learning",
+      "bbox": [
+        72.0250015258789,
+        183.11126708984375,
+        537.3203735351562,
+        195.31341552734375
+      ],
+      "left_indent": 72.0250015258789,
+      "width": 465.29537200927734,
+      "is_bold": true,
+      "font_size": 10.5
+    },
+    {
+      "page": 1,
+      "text": "technique on remaining columns.",
+      "bbox": [
+        86.5250015258789,
+        195.28094482421875,
+        227.22500610351562,
+        207.09344482421875
+      ],
+      "left_indent": 86.5250015258789,
+      "width": 140.70000457763672,
+      "is_bold": false,
+      "font_size": 10.5
+    },
+    {
+      "page": 1,
+      "text": " Teaching Assistant (2015-17): Manage EDX platform by assisting students & creating content for the premier",
+      "bbox": [
+        72.0250015258789,
+        207.14129638671875,
+        544.0385131835938,
+        219.34344482421875
+      ],
+      "left_indent": 72.0250015258789,
+      "width": 472.01351165771484,
+      "is_bold": true,
+      "font_size": 10.5
+    },
+    {
+      "page": 1,
+      "text": "MIT SCX online course awarding 1,200 certificates with a total of +20K students enrolled from 185 countries",
+      "bbox": [
+        86.5250015258789,
+        219.53094482421875,
+        536.344970703125,
+        231.34344482421875
+      ],
+      "left_indent": 86.5250015258789,
+      "width": 449.8199691772461,
+      "is_bold": false,
+      "font_size": 10.5
+    },
+    {
+      "page": 1,
+      "text": "Indian Institute of Management , Calcutta June’2012-Apr’2014",
+      "bbox": [
+        72.0250015258789,
+        235.28094482421875,
+        559.844970703125,
+        247.09344482421875
+      ],
+      "left_indent": 72.0250015258789,
+      "width": 487.8199691772461,
+      "is_bold": false,
+      "font_size": 10.5
+    },
+    {
+      "page": 1,
+      "text": "Master of Business Administration ( MBA )",
+      "bbox": [
+        72.0250015258789,
+        248.03094482421875,
+        245.41079711914062,
+        259.84344482421875
+      ],
+      "left_indent": 72.0250015258789,
+      "width": 173.38579559326172,
+      "is_bold": false,
+      "font_size": 10.5
+    },
+    {
+      "page": 1,
+      "text": "National Institute of Technology , Warangal June’2008-May’2012",
+      "bbox": [
+        72.0250015258789,
+        263.78094482421875,
+        559.844970703125,
+        275.59344482421875
+      ],
+      "left_indent": 72.0250015258789,
+      "width": 487.8199691772461,
+      "is_bold": false,
+      "font_size": 10.5
+    },
+    {
+      "page": 1,
+      "text": "Bachelor of Technology, Computer Science",
+      "bbox": [
+        72.0250015258789,
+        276.8009338378906,
+        256.4504089355469,
+        288.6134338378906
+      ],
+      "left_indent": 72.0250015258789,
+      "width": 184.42540740966797,
+      "is_bold": true,
+      "font_size": 10.5
+    },
+    {
+      "page": 1,
+      "text": "EXPERIENCE",
+      "bbox": [
+        72.0250015258789,
+        292.9818420410156,
+        142.0500030517578,
+        304.2318420410156
+      ],
+      "left_indent": 72.0250015258789,
+      "width": 70.0250015258789,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Senior Product Manager Personagraph Apr’2014 – July’2015",
+      "bbox": [
+        72.0250015258789,
+        309.3700256347656,
+        614.629150390625,
+        321.7450256347656
+      ],
+      "left_indent": 72.0250015258789,
+      "width": 542.6041488647461,
+      "is_bold": true,
+      "font_size": 11.0
+    },
+    {
+      "page": 1,
+      "text": " Responsible for product vision, strategy and roadmap for Personagraph analytics tool and partner portal.",
+      "bbox": [
+        72.0250015258789,
+        321.8009338378906,
+        517.3250122070312,
+        333.6134338378906
+      ],
+      "left_indent": 72.0250015258789,
+      "width": 445.30001068115234,
+      "is_bold": false,
+      "font_size": 8.25
+    },
+    {
+      "page": 1,
+      "text": " Worked with cross-functional teams to gather, plan and implement the product requirements. Used Wireframing",
+      "bbox": [
+        72.0250015258789,
+        333.8009338378906,
+        560.7568969726562,
+        345.6134338378906
+      ],
+      "left_indent": 72.0250015258789,
+      "width": 488.73189544677734,
+      "is_bold": false,
+      "font_size": 9.375
+    },
+    {
+      "page": 1,
+      "text": "tools such as Omnigraffle and Balsamiq to design the product for better data representation and Scrum process",
+      "bbox": [
+        86.5250015258789,
+        344.8009338378906,
+        560.8179931640625,
+        356.6134338378906
+      ],
+      "left_indent": 86.5250015258789,
+      "width": 474.2929916381836,
+      "is_bold": true,
+      "font_size": 10.5
+    },
+    {
+      "page": 1,
+      "text": "for delivering the product.",
+      "bbox": [
+        86.5250015258789,
+        355.8209228515625,
+        196.2050018310547,
+        367.6334228515625
+      ],
+      "left_indent": 86.5250015258789,
+      "width": 109.68000030517578,
+      "is_bold": false,
+      "font_size": 10.5
+    },
+    {
+      "page": 1,
+      "text": " Led the analytics UX redesign and re-architecture effort & built an advanced heuristic & clustering based model",
+      "bbox": [
+        72.0250015258789,
+        366.8209228515625,
+        560.7665405273438,
+        378.6334228515625
+      ],
+      "left_indent": 72.0250015258789,
+      "width": 488.74153900146484,
+      "is_bold": false,
+      "font_size": 9.75
+    },
+    {
+      "page": 1,
+      "text": "named “high value users” for finding most profitable users",
+      "bbox": [
+        86.5250015258789,
+        377.8209228515625,
+        328.2550048828125,
+        389.6334228515625
+      ],
+      "left_indent": 86.5250015258789,
+      "width": 241.7300033569336,
+      "is_bold": false,
+      "font_size": 10.5
+    },
+    {
+      "page": 1,
+      "text": " On-boarded 50+ app developers, resulting in 10M+ users with 50+ million inferences generated about them.",
+      "bbox": [
+        72.0250015258789,
+        388.8209228515625,
+        534.594970703125,
+        400.6334228515625
+      ],
+      "left_indent": 72.0250015258789,
+      "width": 462.5699691772461,
+      "is_bold": false,
+      "font_size": 9.75
+    },
+    {
+      "page": 1,
+      "text": "Product & Research Intern IntellADAPT May’2016 – Aug’2016",
+      "bbox": [
+        72.0250015258789,
+        408.6400146484375,
+        613.75,
+        421.0150146484375
+      ],
+      "left_indent": 72.0250015258789,
+      "width": 541.7249984741211,
+      "is_bold": true,
+      "font_size": 11.0
+    },
+    {
+      "page": 1,
+      "text": " Designed mobile apps to collect data & analyze the potential of EEG wearables for a brain computer interface (BCI)",
+      "bbox": [
+        72.0250015258789,
+        421.0709228515625,
+        560.85498046875,
+        432.8834228515625
+      ],
+      "left_indent": 72.0250015258789,
+      "width": 488.8299789428711,
+      "is_bold": true,
+      "font_size": 9.0
+    },
+    {
+      "page": 1,
+      "text": " Built commercialization plan & financial projections for the wearable technology which earned $1.5M in funding",
+      "bbox": [
+        72.0250015258789,
+        432.1009216308594,
+        560.7888793945312,
+        443.9134216308594
+      ],
+      "left_indent": 72.0250015258789,
+      "width": 488.76387786865234,
+      "is_bold": false,
+      "font_size": 9.375
+    },
+    {
+      "page": 1,
+      "text": "from the National Science Foundation.",
+      "bbox": [
+        86.5250015258789,
+        443.1009216308594,
+        250.72500610351562,
+        454.9134216308594
+      ],
+      "left_indent": 86.5250015258789,
+      "width": 164.20000457763672,
+      "is_bold": false,
+      "font_size": 10.5
+    },
+    {
+      "page": 1,
+      "text": " Prototyped a low cost wearable device with the potential to reach the billion-dollar education tech market.",
+      "bbox": [
+        72.0250015258789,
+        454.1009216308594,
+        528.844970703125,
+        465.9134216308594
+      ],
+      "left_indent": 72.0250015258789,
+      "width": 456.8199691772461,
+      "is_bold": false,
+      "font_size": 9.375
+    },
+    {
+      "page": 1,
+      "text": "Marketing Intern Mondelez International May’2013 – Jul’2013",
+      "bbox": [
+        72.0250015258789,
+        475.9200134277344,
+        614.4769897460938,
+        488.2950134277344
+      ],
+      "left_indent": 72.0250015258789,
+      "width": 542.4519882202148,
+      "is_bold": true,
+      "font_size": 11.0
+    },
+    {
+      "page": 1,
+      "text": " Was offered Pre-Placement Interview after project review; Developed Integrated marketing communication",
+      "bbox": [
+        72.0250015258789,
+        488.6009216308594,
+        560.7764892578125,
+        500.4134216308594
+      ],
+      "left_indent": 72.0250015258789,
+      "width": 488.7514877319336,
+      "is_bold": false,
+      "font_size": 9.75
+    },
+    {
+      "page": 1,
+      "text": "ideas with strong link to consumer insights ( 33 consumer immersions) to build desire for Cadbury Bournville",
+      "bbox": [
+        86.5250015258789,
+        499.6009216308594,
+        532.094970703125,
+        511.4134216308594
+      ],
+      "left_indent": 86.5250015258789,
+      "width": 445.5699691772461,
+      "is_bold": true,
+      "font_size": 10.5
+    },
+    {
+      "page": 1,
+      "text": " Effectively used digital media in proposed ideas & analyzed their viability by contacting potential partners.",
+      "bbox": [
+        72.0250015258789,
+        510.6209716796875,
+        526.8250122070312,
+        522.4334716796875
+      ],
+      "left_indent": 72.0250015258789,
+      "width": 454.80001068115234,
+      "is_bold": false,
+      "font_size": 9.375
+    },
+    {
+      "page": 1,
+      "text": "Software Developer Intern Microsoft Apr’2011 – June’2011",
+      "bbox": [
+        72.0250015258789,
+        529.4400024414062,
+        612.4669799804688,
+        541.8150024414062
+      ],
+      "left_indent": 72.0250015258789,
+      "width": 540.4419784545898,
+      "is_bold": true,
+      "font_size": 11.0
+    },
+    {
+      "page": 1,
+      "text": " Pre-Placement Offer from Microsoft India; Implemented a Proof of Concept for posting an onsite application",
+      "bbox": [
+        69.7750015258789,
+        541.8709106445312,
+        560.6578369140625,
+        553.6834106445312
+      ],
+      "left_indent": 69.7750015258789,
+      "width": 490.8828353881836,
+      "is_bold": true,
+      "font_size": 9.0
+    },
+    {
+      "page": 1,
+      "text": "interface to the Microsoft cloud using Azure Connect that reduced the transfer time of 2GB file by 82%(23 to 4 min)",
+      "bbox": [
+        84.2750015258789,
+        552.8709106445312,
+        560.85498046875,
+        564.6834106445312
+      ],
+      "left_indent": 84.2750015258789,
+      "width": 476.5799789428711,
+      "is_bold": false,
+      "font_size": 10.5
+    },
+    {
+      "page": 1,
+      "text": " Built UI to automatically generate scripts that saved 7 hours of manual work & got integrated in next product release.",
+      "bbox": [
+        69.5250015258789,
+        563.8709106445312,
+        560.845458984375,
+        575.6834106445312
+      ],
+      "left_indent": 69.5250015258789,
+      "width": 491.3204574584961,
+      "is_bold": false,
+      "font_size": 9.375
+    },
+    {
+      "page": 1,
+      "text": "LEADERSHIP",
+      "bbox": [
+        72.0250015258789,
+        583.5618286132812,
+        140.3000030517578,
+        594.8118286132812
+      ],
+      "left_indent": 72.0250015258789,
+      "width": 68.2750015258789,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "MIT Clubs: Women in System Design & Management Chair & VP of education for Sloan Product Mgmt. club,’16",
+      "bbox": [
+        72.0250015258789,
+        600.1509399414062,
+        536.344970703125,
+        611.9634399414062
+      ],
+      "left_indent": 72.0250015258789,
+      "width": 464.3199691772461,
+      "is_bold": true,
+      "font_size": 10.5
+    },
+    {
+      "page": 1,
+      "text": "Intaglio International Business Event, IIM Calcutta",
+      "bbox": [
+        72.0250015258789,
+        615.9009399414062,
+        292.5581359863281,
+        627.7134399414062
+      ],
+      "left_indent": 72.0250015258789,
+      "width": 220.53313446044922,
+      "is_bold": true,
+      "font_size": 10.5
+    },
+    {
+      "page": 1,
+      "text": " O r g an i ze d Marketplace, a versatile marketing plan building and flagship event of Marketing and Coordinator of",
+      "bbox": [
+        72.0250015258789,
+        628.7612915039062,
+        536.465087890625,
+        640.9634399414062
+      ],
+      "left_indent": 72.0250015258789,
+      "width": 464.4400863647461,
+      "is_bold": true,
+      "font_size": 10.355223308910023
+    },
+    {
+      "page": 1,
+      "text": "Arena, a series of five spot events based on Marketing, S trategy and Finance, 2013-14",
+      "bbox": [
+        84.2750015258789,
+        641.1509399414062,
+        433.5450134277344,
+        652.9634399414062
+      ],
+      "left_indent": 84.2750015258789,
+      "width": 349.27001190185547,
+      "is_bold": true,
+      "font_size": 10.399916966756185
+    },
+    {
+      "page": 1,
+      "text": "Sports Captain, Throw ball & kho-kho",
+      "bbox": [
+        72.0250015258789,
+        655.9009399414062,
+        242.3264617919922,
+        667.7134399414062
+      ],
+      "left_indent": 72.0250015258789,
+      "width": 170.30146026611328,
+      "is_bold": true,
+      "font_size": 10.5
+    },
+    {
+      "page": 1,
+      "text": " Captained the school Throw Ball and Kho-Kho team at Sri Satya Sai Vidya Vihar High School, 2004-06",
+      "bbox": [
+        72.0250015258789,
+        668.7612915039062,
+        508.57501220703125,
+        680.9634399414062
+      ],
+      "left_indent": 72.0250015258789,
+      "width": 436.55001068115234,
+      "is_bold": true,
+      "font_size": 10.5
+    },
+    {
+      "page": 1,
+      "text": " Winner of Intra School Throw ball competition in 2005-06 and Kho-Kho competition for two years",
+      "bbox": [
+        72.0250015258789,
+        681.03125,
+        497.82501220703125,
+        693.2333984375
+      ],
+      "left_indent": 72.0250015258789,
+      "width": 425.80001068115234,
+      "is_bold": true,
+      "font_size": 10.5
+    },
+    {
+      "page": 1,
+      "text": "ADDITIONAL INFORMATION",
+      "bbox": [
+        72.0250015258789,
+        693.8568115234375,
+        222.10000610351562,
+        705.1068115234375
+      ],
+      "left_indent": 72.0250015258789,
+      "width": 150.07500457763672,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": " Programming Languages & skills : C, C++, C#, Java, Python, sketch (design tool), R",
+      "bbox": [
+        72.0250015258789,
+        710.4259033203125,
+        449.7950134277344,
+        722.2384033203125
+      ],
+      "left_indent": 72.0250015258789,
+      "width": 377.77001190185547,
+      "is_bold": true,
+      "font_size": 9.0
+    },
+    {
+      "page": 1,
+      "text": " Scholarships: Top scorer in school from among 79 students in class X board exam, 2006. Runner-Up in Young",
+      "bbox": [
+        72.0250015258789,
+        722.1759033203125,
+        560.7589721679688,
+        733.9884033203125
+      ],
+      "left_indent": 72.0250015258789,
+      "width": 488.73397064208984,
+      "is_bold": true,
+      "font_size": 9.0
+    },
+    {
+      "page": 1,
+      "text": "Mathematician Contest and among 25 people selected for project Ramanujan , 2001",
+      "bbox": [
+        86.5250015258789,
+        733.9259033203125,
+        435.30499267578125,
+        745.7384033203125
+      ],
+      "left_indent": 86.5250015258789,
+      "width": 348.77999114990234,
+      "is_bold": true,
+      "font_size": 10.5
+    }
+  ],
+  "text_per_page": [
+    "SHRUTI BANDA\n550 Memorial Dr, Cambridge, MA\nshruti.banda@sloan.mit.edu , +1(408)2039493\nEDUCATION\nMassachusetts Institute of Technology, Cambridge Aug’2015-Present\nMaster of Science in Management and Engineering, Sloan School of Management & MIT School of Engineering\n Developed a complete B-plan for a market-place to help restaurants source local farmers’ organic produce.\n Analyzed Amazon employee data to predict access needs using statistical tools R & python for data mining.\n Built a web application (Group’em) to help K-12 teachers to effortlessly create and manage classroom groups.\n Built an auto-cleaning database that predicts missing values in a column using appropriate machine learning\ntechnique on remaining columns.\n Teaching Assistant (2015-17): Manage EDX platform by assisting students & creating content for the premier\nMIT SCX online course awarding 1,200 certificates with a total of +20K students enrolled from 185 countries\nIndian Institute of Management , Calcutta June’2012-Apr’2014\nMaster of Business Administration ( MBA )\nNational Institute of Technology , Warangal June’2008-May’2012\nBachelor of Technology, Computer Science\nEXPERIENCE\nSenior Product Manager Personagraph Apr’2014 – July’2015\n Responsible for product vision, strategy and roadmap for Personagraph analytics tool and partner portal.\n Worked with cross-functional teams to gather, plan and implement the product requirements. Used Wireframing\ntools such as Omnigraffle and Balsamiq to design the product for better data representation and Scrum process\nfor delivering the product.\n Led the analytics UX redesign and re-architecture effort & built an advanced heuristic & clustering based model\nnamed “high value users” for finding most profitable users\n On-boarded 50+ app developers, resulting in 10M+ users with 50+ million inferences generated about them.\nProduct & Research Intern IntellADAPT May’2016 – Aug’2016\n Designed mobile apps to collect data & analyze the potential of EEG wearables for a brain computer interface (BCI)\n Built commercialization plan & financial projections for the wearable technology which earned $1.5M in funding\nfrom the National Science Foundation.\n Prototyped a low cost wearable device with the potential to reach the billion-dollar education tech market.\nMarketing Intern Mondelez International May’2013 – Jul’2013\n Was offered Pre-Placement Interview after project review; Developed Integrated marketing communication\nideas with strong link to consumer insights ( 33 consumer immersions) to build desire for Cadbury Bournville\n Effectively used digital media in proposed ideas & analyzed their viability by contacting potential partners.\nSoftware Developer Intern Microsoft Apr’2011 – June’2011\n Pre-Placement Offer from Microsoft India; Implemented a Proof of Concept for posting an onsite application\ninterface to the Microsoft cloud using Azure Connect that reduced the transfer time of 2GB file by 82%(23 to 4 min)\n Built UI to automatically generate scripts that saved 7 hours of manual work & got integrated in next product release.\nLEADERSHIP\nMIT Clubs: Women in System Design & Management Chair & VP of education for Sloan Product Mgmt. club,’16\nIntaglio International Business Event, IIM Calcutta\n O r g an i ze d Marketplace, a versatile marketing plan building and flagship event of Marketing and Coordinator of\nArena, a series of five spot events based on Marketing, S trategy and Finance, 2013-14\nSports Captain, Throw ball & kho-kho\n Captained the school Throw Ball and Kho-Kho team at Sri Satya Sai Vidya Vihar High School, 2004-06\n Winner of Intra School Throw ball competition in 2005-06 and Kho-Kho competition for two years\nADDITIONAL INFORMATION\n Programming Languages & skills : C, C++, C#, Java, Python, sketch (design tool), R\n Scholarships: Top scorer in school from among 79 students in class X board exam, 2006. Runner-Up in Young\nMathematician Contest and among 25 people selected for project Ramanujan , 2001"
+  ],
+  "text_all": "SHRUTI BANDA\n550 Memorial Dr, Cambridge, MA\nshruti.banda@sloan.mit.edu , +1(408)2039493\nEDUCATION\nMassachusetts Institute of Technology, Cambridge Aug’2015-Present\nMaster of Science in Management and Engineering, Sloan School of Management & MIT School of Engineering\n Developed a complete B-plan for a market-place to help restaurants source local farmers’ organic produce.\n Analyzed Amazon employee data to predict access needs using statistical tools R & python for data mining.\n Built a web application (Group’em) to help K-12 teachers to effortlessly create and manage classroom groups.\n Built an auto-cleaning database that predicts missing values in a column using appropriate machine learning\ntechnique on remaining columns.\n Teaching Assistant (2015-17): Manage EDX platform by assisting students & creating content for the premier\nMIT SCX online course awarding 1,200 certificates with a total of +20K students enrolled from 185 countries\nIndian Institute of Management , Calcutta June’2012-Apr’2014\nMaster of Business Administration ( MBA )\nNational Institute of Technology , Warangal June’2008-May’2012\nBachelor of Technology, Computer Science\nEXPERIENCE\nSenior Product Manager Personagraph Apr’2014 – July’2015\n Responsible for product vision, strategy and roadmap for Personagraph analytics tool and partner portal.\n Worked with cross-functional teams to gather, plan and implement the product requirements. Used Wireframing\ntools such as Omnigraffle and Balsamiq to design the product for better data representation and Scrum process\nfor delivering the product.\n Led the analytics UX redesign and re-architecture effort & built an advanced heuristic & clustering based model\nnamed “high value users” for finding most profitable users\n On-boarded 50+ app developers, resulting in 10M+ users with 50+ million inferences generated about them.\nProduct & Research Intern IntellADAPT May’2016 – Aug’2016\n Designed mobile apps to collect data & analyze the potential of EEG wearables for a brain computer interface (BCI)\n Built commercialization plan & financial projections for the wearable technology which earned $1.5M in funding\nfrom the National Science Foundation.\n Prototyped a low cost wearable device with the potential to reach the billion-dollar education tech market.\nMarketing Intern Mondelez International May’2013 – Jul’2013\n Was offered Pre-Placement Interview after project review; Developed Integrated marketing communication\nideas with strong link to consumer insights ( 33 consumer immersions) to build desire for Cadbury Bournville\n Effectively used digital media in proposed ideas & analyzed their viability by contacting potential partners.\nSoftware Developer Intern Microsoft Apr’2011 – June’2011\n Pre-Placement Offer from Microsoft India; Implemented a Proof of Concept for posting an onsite application\ninterface to the Microsoft cloud using Azure Connect that reduced the transfer time of 2GB file by 82%(23 to 4 min)\n Built UI to automatically generate scripts that saved 7 hours of manual work & got integrated in next product release.\nLEADERSHIP\nMIT Clubs: Women in System Design & Management Chair & VP of education for Sloan Product Mgmt. club,’16\nIntaglio International Business Event, IIM Calcutta\n O r g an i ze d Marketplace, a versatile marketing plan building and flagship event of Marketing and Coordinator of\nArena, a series of five spot events based on Marketing, S trategy and Finance, 2013-14\nSports Captain, Throw ball & kho-kho\n Captained the school Throw Ball and Kho-Kho team at Sri Satya Sai Vidya Vihar High School, 2004-06\n Winner of Intra School Throw ball competition in 2005-06 and Kho-Kho competition for two years\nADDITIONAL INFORMATION\n Programming Languages & skills : C, C++, C#, Java, Python, sketch (design tool), R\n Scholarships: Top scorer in school from among 79 students in class X board exam, 2006. Runner-Up in Young\nMathematician Contest and among 25 people selected for project Ramanujan , 2001"
+}

@@ -1,0 +1,39 @@
+John Doe
+I New York, USA | I john.doe@email.com | I +1-555-123-4567 | I linkedin.com/in/johndoe
+Profile
+Data-driven Product Analyst with 3+ years of
+experience in
+product analytics, SQL-based
+reporting, and
+machine learning model evaluation.
+Skilled at translating business needs into actionable
+insights.
+Skills
+- Analytics Tools: SQL, Python, R
+- Visualization: Tableau, Power BI
+- ML Techniques: Regression, Classification, LSTM
+- Other: A/B Testing, Statistics, Excel
+Education
+M.Tech, Structural Engineering
+IIT Bhubaneswar (2023–2025)
+B.Tech, Civil Engineering
+XYZ University (2019–2023)
+Experience
+Product Analyst – Zomato
+Aug 2025 – Present
+- Built SQL pipelines for real-time restaurant performance monitoring.
+- Conducted A/B tests for feature rollouts, improving CTR by 15%.
+- Automated weekly business reports using Python, reducing manual effort by 30%.
+Data Analyst Intern – ABC Corp
+Jan 2024 – Jul 2024
+- Designed Tableau dashboards tracking revenue trends across regions.
+- Applied LSTM models to classify structural health (damaged vs. undamaged).
+- Supported cross-functional teams with
+data-driven decision-making.
+Projects
+- Fire Dynamics Prediction (2025): Built ConvLSTM-based models for future fire frame prediction using PyroSim/FDS simulations.
+- 3D-Printable Concrete (2025): Thesis project optimizing mix design with lightweight sintered flyash aggregates.
+- HR Agentic
+AI System (2025): Developed modules
+for resume parsing, onboarding automation, and
+company-specific chatbots.

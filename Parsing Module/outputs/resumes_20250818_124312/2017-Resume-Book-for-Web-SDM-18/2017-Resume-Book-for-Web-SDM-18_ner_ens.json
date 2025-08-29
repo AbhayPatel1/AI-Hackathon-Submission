@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "source_path": "data/resumes/2017-Resume-Book-for-Web-SDM-18.pdf",
+    "pages": 1,
+    "model": "facebook/bart-large-mnli"
+  },
+  "candidate": {
+    "full_name": "Jolly Pradhan",
+    "emails": [
+      "jpradhan@mit.edu"
+    ],
+    "phones": [
+      "+916036823851"
+    ],
+    "links": {
+      "linkedin": null,
+      "github": null
+    }
+  },
+  "experience": [],
+  "education": [
+    {
+      "degree_raw": null,
+      "degree_level": null,
+      "field_raw": null,
+      "institution_raw": "Massachusetts Institute of Technology School of Engineering & Sloan School of Management",
+      "start_date": null,
+      "end_date": null,
+      "gpa": null,
+      "extraction_confidence": 0.6,
+      "source_page": null
+    }
+  ],
+  "skills": [
+    {
+      "name": "excel",
+      "category": null
+    },
+    {
+      "name": "matlab",
+      "category": null
+    }
+  ],
+  "projects": [
+    {
+      "name": "Rotated through End Station (Robotics), Continuous Improvement and Physics Department (R&D) .",
+      "summary": "Women’s Mentoring Program at RPI",
+      "role": null,
+      "tech_stack": [],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Co-Chair",
+      "summary": "§",
+      "role": null,
+      "tech_stack": [],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Developed a new program providing opportunity for mentors and mentees to meet prior to the start of the school",
+      "summary": "year. As a result of its success, this is now an annual program. Organized formal and informal events including:",
+      "role": null,
+      "tech_stack": [],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Chat with Shirley Ann Jackson (President of RPI) and Design Your Future Day to encourage women in science and",
+      "summary": "engineering.",
+      "role": null,
+      "tech_stack": [],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    }
+  ],
+  "certifications": [],
+  "publications": [],
+  "achievements": [],
+  "languages": [],
+  "sectioned_text": [
+    {
+      "section_type": "other",
+      "text": "JOLLY PRADHAN\n391 Broadway, Apt 504\nSomerville, MA, 02145\n603-682-3851\njpradhan@mit.edu",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "Massachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nM.S., System Design and Management\nRensselaer Polytechnic Institute\nBachelor of Science in Mechanical Engineering Dec 2009\nEXPERIENCE\nVarian Semiconductor Equipment Associates\nSystems Engineer\nCrion Cold Implant\nCrion is a cold system that enables customer to implant wafers at -100˚C. The system consists of cryo-chillers, a\nvacuum-sealed valve system, and cooling ring to cool the implant mechanism.\nConducted and documented characterization tests for Crion by validating cool down rate, throughput, wafer\ntemperature uniformity and overall functionality of the system.\nOperated the tool during 40 continuous hours of reliability growth testing and helped release the product from R&D",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "publications",
+      "text": "to Production.\nSupported customer escalations by analyzing archives from the field and determining root cause of the customer\nproblems.\n26-Wafer Implementation\nLed the project with a team of mechanical engineers, an electrical engineer and software engineers to create new\nhardware as well as software controls to implement the platen warm-up process. Released the hardware through\nECO process to Production and conducted tests to help with software release.\nCenter for Earthquake Engineering Simulation\nResearch Engineer\nOperated and troubleshot earthquake simulation machinery (centrifuge) while conducting experiments.\nGained hands-on experience by preparing and sealing centrifuge laminar container with Ph.D. students while using\nstrain gauges, accelerometer, and pressure sensors.\nLEADERSHIP POSITIONS\nFusion Engineering Development Program\nGraduate\nThis is a program for new graduates at Varian to expose them to various engineering departments within the\ncompany and to experience presenting to upper management.",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "Rotated through End Station (Robotics), Continuous Improvement and Physics Department (R&D) .\nWomen’s Mentoring Program at RPI\nCo-Chair\n§\nDeveloped a new program providing opportunity for mentors and mentees to meet prior to the start of the school\nyear. As a result of its success, this is now an annual program. Organized formal and informal events including:\nChat with Shirley Ann Jackson (President of RPI) and Design Your Future Day to encourage women in science and\nengineering.",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "skills",
+      "text": "Expert in Signal Analysis and Archive Analysis\nProficient in Microsoft Excel, Microsoft PowerPoint, MINITAB Statistics, Adobe Illustrator, and Adobe Photoshop.\nBasic knowledge 3D CAD Modeling (SolidWorks and ProE), LabVIEW, and MATLAB.\nCambridge, MA\nSept 2015-Present\nTroy, NY\nGloucester, MA\nSept 2010-July 2015\nTroy, NY\nJan 10-Sept 2010\nSept 2010-Sept 2012\nSept 2006-Sept 2008",
+      "page_range": [
+        1,
+        1
+      ]
+    }
+  ]
+}

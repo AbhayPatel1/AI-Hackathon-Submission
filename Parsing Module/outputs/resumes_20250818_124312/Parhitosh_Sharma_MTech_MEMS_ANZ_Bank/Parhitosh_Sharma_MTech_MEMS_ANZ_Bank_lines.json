@@ -1,0 +1,1258 @@
+{
+  "meta": {
+    "source_path": "data/resumes/Parhitosh_Sharma_MTech_MEMS_ANZ_Bank.pdf",
+    "pages": 1
+  },
+  "lines": [
+    {
+      "page": 1,
+      "text": "Parhitosh Sharma",
+      "bbox": [
+        150.0,
+        39.55999755859375,
+        228.05999755859375,
+        53.40999984741211
+      ],
+      "left_indent": 150.0,
+      "width": 78.05999755859375,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "193110057",
+      "bbox": [
+        400.0,
+        39.55999755859375,
+        445.0,
+        53.40999984741211
+      ],
+      "left_indent": 400.0,
+      "width": 45.0,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Metallurgical Engineering and Materials Science",
+      "bbox": [
+        150.0,
+        54.55999755859375,
+        361.3800048828125,
+        68.41000366210938
+      ],
+      "left_indent": 150.0,
+      "width": 211.3800048828125,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "M.Tech.",
+      "bbox": [
+        400.0,
+        54.55999755859375,
+        435.5500183105469,
+        68.41000366210938
+      ],
+      "left_indent": 400.0,
+      "width": 35.550018310546875,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Indian Institute of Technology, Bombay",
+      "bbox": [
+        150.0,
+        69.55999755859375,
+        320.29998779296875,
+        83.41000366210938
+      ],
+      "left_indent": 150.0,
+      "width": 170.29998779296875,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Gender: Male",
+      "bbox": [
+        400.0,
+        69.55999755859375,
+        459.7099914550781,
+        83.41000366210938
+      ],
+      "left_indent": 400.0,
+      "width": 59.709991455078125,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Specialization: Corrosion Science and Engineering",
+      "bbox": [
+        150.0,
+        84.55999755859375,
+        366.1200256347656,
+        98.41000366210938
+      ],
+      "left_indent": 150.0,
+      "width": 216.12002563476562,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "DOB: 13-05-1996",
+      "bbox": [
+        400.0,
+        84.55999755859375,
+        476.65997314453125,
+        98.41000366210938
+      ],
+      "left_indent": 400.0,
+      "width": 76.65997314453125,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Examination",
+      "bbox": [
+        50.0,
+        110.55999755859375,
+        105.00999450683594,
+        124.41000366210938
+      ],
+      "left_indent": 50.0,
+      "width": 55.00999450683594,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "University",
+      "bbox": [
+        150.0,
+        110.55999755859375,
+        194.44000244140625,
+        124.41000366210938
+      ],
+      "left_indent": 150.0,
+      "width": 44.44000244140625,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Institute",
+      "bbox": [
+        300.0,
+        110.55999755859375,
+        336.1099853515625,
+        124.41000366210938
+      ],
+      "left_indent": 300.0,
+      "width": 36.1099853515625,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Year",
+      "bbox": [
+        475.0,
+        110.55999755859375,
+        496.1000061035156,
+        124.41000366210938
+      ],
+      "left_indent": 475.0,
+      "width": 21.100006103515625,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "CPI / %",
+      "bbox": [
+        510.0,
+        110.55999755859375,
+        545.0,
+        124.41000366210938
+      ],
+      "left_indent": 510.0,
+      "width": 35.0,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Post Graduation",
+      "bbox": [
+        50.0,
+        127.47000122070312,
+        114.72000885009766,
+        140.80999755859375
+      ],
+      "left_indent": 50.0,
+      "width": 64.72000885009766,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "IIT Bombay",
+      "bbox": [
+        150.0,
+        127.47000122070312,
+        199.16000366210938,
+        140.80999755859375
+      ],
+      "left_indent": 150.0,
+      "width": 49.160003662109375,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "IIT Bombay",
+      "bbox": [
+        300.0,
+        127.47000122070312,
+        349.15997314453125,
+        140.80999755859375
+      ],
+      "left_indent": 300.0,
+      "width": 49.15997314453125,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "2021",
+      "bbox": [
+        475.0,
+        127.47000122070312,
+        495.0,
+        140.80999755859375
+      ],
+      "left_indent": 475.0,
+      "width": 20.0,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "9",
+      "bbox": [
+        510.0,
+        127.47000122070312,
+        515.0,
+        140.80999755859375
+      ],
+      "left_indent": 510.0,
+      "width": 5.0,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Graduation",
+      "bbox": [
+        50.0,
+        140.47000122070312,
+        94.99000549316406,
+        153.80999755859375
+      ],
+      "left_indent": 50.0,
+      "width": 44.99000549316406,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Dayalbagh Educational Institute,",
+      "bbox": [
+        150.0,
+        140.47000122070312,
+        283.8700256347656,
+        153.80999755859375
+      ],
+      "left_indent": 150.0,
+      "width": 133.87002563476562,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Faculty of Engineering, Dayalbagh",
+      "bbox": [
+        300.0,
+        140.47000122070312,
+        443.02996826171875,
+        153.80999755859375
+      ],
+      "left_indent": 300.0,
+      "width": 143.02996826171875,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "2019",
+      "bbox": [
+        475.0,
+        140.47000122070312,
+        495.0,
+        153.80999755859375
+      ],
+      "left_indent": 475.0,
+      "width": 20.0,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "7.88",
+      "bbox": [
+        510.0,
+        140.47000122070312,
+        527.5,
+        153.80999755859375
+      ],
+      "left_indent": 510.0,
+      "width": 17.5,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Agra",
+      "bbox": [
+        150.0,
+        153.47000122070312,
+        169.99000549316406,
+        166.80999755859375
+      ],
+      "left_indent": 150.0,
+      "width": 19.990005493164062,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Educational Institute, Agra",
+      "bbox": [
+        300.0,
+        153.47000122070312,
+        408.03997802734375,
+        166.80999755859375
+      ],
+      "left_indent": 300.0,
+      "width": 108.03997802734375,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Graduation Specialization: Mechanical Engineering",
+      "bbox": [
+        50.0,
+        166.47000122070312,
+        257.46002197265625,
+        179.80999755859375
+      ],
+      "left_indent": 50.0,
+      "width": 207.46002197265625,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "MASTER’S THESIS",
+      "bbox": [
+        45.36000061035156,
+        190.6942138671875,
+        147.5,
+        205.98460388183594
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 102.13999938964844,
+      "is_bold": true,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "Modeling Higher Order Strain Gradient Plasticity in Metallic Systems[June 2020-present]",
+      "bbox": [
+        45.36000061035156,
+        204.68910217285156,
+        456.82000732421875,
+        218.9969482421875
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 411.4600067138672,
+      "is_bold": true,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "Guide: Prof. Anirban Patra, Dept. of MEMS, IIT Bombay",
+      "bbox": [
+        45.36000061035156,
+        217.5209197998047,
+        302.45001220703125,
+        231.00076293945312
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 257.0900115966797,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "Developed a higher order plasticity constitutive model to account for Geometrically Necessary Dislocations",
+      "bbox": [
+        81.38400268554688,
+        229.41207885742188,
+        551.9500122070312,
+        243.29632568359375
+      ],
+      "left_indent": 81.38400268554688,
+      "width": 470.5660095214844,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "▪",
+      "bbox": [
+        63.38399887084961,
+        230.9466552734375,
+        67.9408950805664,
+        242.0009002685547
+      ],
+      "left_indent": 63.38399887084961,
+      "width": 4.556896209716797,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "(GNDs) and their effect on back stresses in the material.",
+      "bbox": [
+        81.38400268554688,
+        242.61209106445312,
+        308.7799987792969,
+        255.89874267578125
+      ],
+      "left_indent": 81.38400268554688,
+      "width": 227.39599609375,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Implemented the model in the open source finite element code, MOOSE using C++ & FORTRAN followed by",
+      "bbox": [
+        81.38400268554688,
+        255.84207153320312,
+        551.8740234375,
+        269.726318359375
+      ],
+      "left_indent": 81.38400268554688,
+      "width": 470.4900207519531,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "▪",
+      "bbox": [
+        63.38399887084961,
+        257.37664794921875,
+        67.9408950805664,
+        268.430908203125
+      ],
+      "left_indent": 63.38399887084961,
+      "width": 4.556896209716797,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "model validation using known test cases",
+      "bbox": [
+        81.38400268554688,
+        269.0420837402344,
+        246.4444122314453,
+        282.92633056640625
+      ],
+      "left_indent": 81.38400268554688,
+      "width": 165.06040954589844,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "INTERNSHIPS / TRAININGS",
+      "bbox": [
+        45.36000061035156,
+        284.32421875,
+        193.61000061035156,
+        299.6146240234375
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 148.25,
+      "is_bold": true,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "Terminal Ballistics Research Laboratory-DRDO, Chandigarh [April 18- August 18] [5 months]",
+      "bbox": [
+        45.36000061035156,
+        298.3191223144531,
+        480.1000061035156,
+        312.626953125
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 434.74000549316406,
+      "is_bold": true,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "Project: “Impact of Thin-Walled Projectiles with Concrete Targets.”",
+      "bbox": [
+        81.38400268554688,
+        312.1221008300781,
+        373.8399963378906,
+        326.00634765625
+      ],
+      "left_indent": 81.38400268554688,
+      "width": 292.45599365234375,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "▪",
+      "bbox": [
+        63.38399887084961,
+        313.65667724609375,
+        67.9408950805664,
+        324.7109375
+      ],
+      "left_indent": 63.38399887084961,
+      "width": 4.556896209716797,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Analyzed radial buckling in Thin-Walled Projectiles on concrete targets using Solidworks and Ansys Autodyn.",
+      "bbox": [
+        81.38400268554688,
+        325.4421081542969,
+        536.22998046875,
+        339.32635498046875
+      ],
+      "left_indent": 81.38400268554688,
+      "width": 454.8459777832031,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "▪",
+      "bbox": [
+        63.38399887084961,
+        326.9766845703125,
+        67.9408950805664,
+        338.03094482421875
+      ],
+      "left_indent": 63.38399887084961,
+      "width": 4.556896209716797,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Neel Metal Products Pvt. Ltd., JBM Group, Haridwar [May 17- June 17] [30 days]",
+      "bbox": [
+        45.36000061035156,
+        339.359130859375,
+        422.5899963378906,
+        353.6669616699219
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 377.22999572753906,
+      "is_bold": true,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "SoftTact Technologies, Mumbai [June 16- June 16] [7 days]",
+      "bbox": [
+        45.36000061035156,
+        352.91912841796875,
+        321.6700134277344,
+        367.2269592285156
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 276.3100128173828,
+      "is_bold": true,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "ADDITIONAL COURSES/ PROJECTS",
+      "bbox": [
+        45.36000061035156,
+        368.084228515625,
+        237.64999389648438,
+        383.3746337890625
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 192.2899932861328,
+      "is_bold": true,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "Specialization: Applied Data Science with Python[2020]",
+      "bbox": [
+        45.36000061035156,
+        381.9591064453125,
+        301.9700012207031,
+        396.2669372558594
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 256.61000061035156,
+      "is_bold": true,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "University of Michigan hosted by Coursera",
+      "bbox": [
+        45.36000061035156,
+        394.9109191894531,
+        239.20999145507812,
+        408.3907775878906
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 193.84999084472656,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "Courses Involved: Introduction to Data Science in Python, Applied Plotting, Charting & Data Representation in",
+      "bbox": [
+        81.38400268554688,
+        406.6820983886719,
+        551.9491577148438,
+        420.56634521484375
+      ],
+      "left_indent": 81.38400268554688,
+      "width": 470.5651550292969,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "▪",
+      "bbox": [
+        63.38399887084961,
+        408.2166748046875,
+        67.9408950805664,
+        419.27093505859375
+      ],
+      "left_indent": 63.38399887084961,
+      "width": 4.556896209716797,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Python, Applied Machine Learning in Python, Applied Text Mining in Python, Applied Social Network Analysis",
+      "bbox": [
+        81.38400268554688,
+        419.8821105957031,
+        549.5319213867188,
+        433.766357421875
+      ],
+      "left_indent": 81.38400268554688,
+      "width": 468.1479187011719,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "in Python.",
+      "bbox": [
+        81.38400268554688,
+        433.10211181640625,
+        125.02999877929688,
+        446.3887634277344
+      ],
+      "left_indent": 81.38400268554688,
+      "width": 43.64599609375,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Course: Data Analytics[2020]",
+      "bbox": [
+        45.36000061035156,
+        447.01910400390625,
+        183.13999938964844,
+        461.3269348144531
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 137.77999877929688,
+      "is_bold": true,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "Learners’ Space conducted by Analytics Club, UGAC, IIT Bombay",
+      "bbox": [
+        45.36000061035156,
+        459.8509216308594,
+        342.6700134277344,
+        473.3307800292969
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 297.3100128173828,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "Learned to Import Datasets, Cleaning and Preparing the Data, Summarizing the DataFrame, Model",
+      "bbox": [
+        81.38400268554688,
+        471.6221008300781,
+        551.9510498046875,
+        485.50634765625
+      ],
+      "left_indent": 81.38400268554688,
+      "width": 470.5670471191406,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "▪",
+      "bbox": [
+        63.38399887084961,
+        473.15667724609375,
+        67.9408950805664,
+        484.2109375
+      ],
+      "left_indent": 63.38399887084961,
+      "width": 4.556896209716797,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Development (Linear regression, multi-linear regression, and ridge regression) and Model Evaluation .",
+      "bbox": [
+        81.38400268554688,
+        484.9421081542969,
+        499.2699890136719,
+        498.82635498046875
+      ],
+      "left_indent": 81.38400268554688,
+      "width": 417.885986328125,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Introduced to pandas ,, and use it to load, manipulate, analyze, and visualize cool datasets, then introduced to scikit-",
+      "bbox": [
+        81.38400268554688,
+        498.14208984375,
+        549.53662109375,
+        512.0263061523438
+      ],
+      "left_indent": 81.38400268554688,
+      "width": 468.1526184082031,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "▪",
+      "bbox": [
+        63.38399887084961,
+        499.6766662597656,
+        67.9408950805664,
+        510.7309265136719
+      ],
+      "left_indent": 63.38399887084961,
+      "width": 4.556896209716797,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "learn, and used some of its machine learning algorithms to build smart models and make cool predictions.",
+      "bbox": [
+        81.38400268554688,
+        511.3420715332031,
+        530.3499755859375,
+        525.226318359375
+      ],
+      "left_indent": 81.38400268554688,
+      "width": 448.9659729003906,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Course: Finance Bootcamp[2020]",
+      "bbox": [
+        45.36000061035156,
+        525.1390991210938,
+        202.72999572753906,
+        539.4469604492188
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 157.3699951171875,
+      "is_bold": true,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "Learners’ Space conducted by Finance Club, UGAC, IIT Bombay",
+      "bbox": [
+        45.36000061035156,
+        538.0909423828125,
+        337.8699951171875,
+        551.5707397460938
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 292.50999450683594,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "Self Project: Object-detection[2020]",
+      "bbox": [
+        45.36000061035156,
+        550.4590454101562,
+        213.52999877929688,
+        564.7669067382812
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 168.1699981689453,
+      "is_bold": true,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "Deployed a convolutional neural network (CNN) for object recognition.",
+      "bbox": [
+        81.38400268554688,
+        562.4620971679688,
+        380.79998779296875,
+        576.3463134765625
+      ],
+      "left_indent": 81.38400268554688,
+      "width": 299.4159851074219,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "▪",
+      "bbox": [
+        63.38399887084961,
+        563.9966430664062,
+        67.9408950805664,
+        575.0509033203125
+      ],
+      "left_indent": 63.38399887084961,
+      "width": 4.556896209716797,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Imported datasets from Keras , used one-hot vectors for categorical labels and added layers to Keras model.",
+      "bbox": [
+        81.38400268554688,
+        575.7821655273438,
+        521.3499755859375,
+        589.6663818359375
+      ],
+      "left_indent": 81.38400268554688,
+      "width": 439.9659729003906,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "▪",
+      "bbox": [
+        63.38399887084961,
+        577.3167114257812,
+        67.9408950805664,
+        588.3709716796875
+      ],
+      "left_indent": 63.38399887084961,
+      "width": 4.556896209716797,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Loaded pre-trained weights and made predictions using a trained Keras model",
+      "bbox": [
+        81.38400268554688,
+        588.9821166992188,
+        396.6399841308594,
+        602.2687377929688
+      ],
+      "left_indent": 81.38400268554688,
+      "width": 315.2559814453125,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "▪",
+      "bbox": [
+        63.38399887084961,
+        590.5166625976562,
+        67.9408950805664,
+        601.5709228515625
+      ],
+      "left_indent": 63.38399887084961,
+      "width": 4.556896209716797,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "TECHNICAL STRENGTHS",
+      "bbox": [
+        45.36000061035156,
+        604.1442260742188,
+        184.6999969482422,
+        619.4346313476562
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 139.33999633789062,
+      "is_bold": true,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "Programming Language: C| C++ | Python | Java | SQL | Matlab",
+      "bbox": [
+        45.36000061035156,
+        617.4521484375,
+        308.8999938964844,
+        631.3363647460938
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 263.5399932861328,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Python Packages/Tools: NumPy, Pandas, Scikit-Learn, Seaborn, Matplotlib, TensorFlow, Keras, NLTK, Jupyter Notebook",
+      "bbox": [
+        45.36000061035156,
+        630.7721557617188,
+        546.0700073242188,
+        644.6563720703125
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 500.7100067138672,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Other Skills: Solidworks | Cubit | Ansys Autodyn | MOOSE | Origin Lab",
+      "bbox": [
+        45.36000061035156,
+        643.9721069335938,
+        342.5199890136719,
+        657.8563232421875
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 297.1599884033203,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "AREAS OF INTEREST",
+      "bbox": [
+        45.36000061035156,
+        659.2542114257812,
+        161.89999389648438,
+        674.5446166992188
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 116.53999328613281,
+      "is_bold": true,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "Data Science | Statistical Analysis | Deep Learning | Machine Learning | Natural Language Processing | Computer Vision",
+      "bbox": [
+        45.36000061035156,
+        672.6521606445312,
+        529.3364868164062,
+        685.9387817382812
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 483.9764862060547,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "POSITION OF RESPONSIBILITY & ACHIEVEMENTS",
+      "bbox": [
+        45.36000061035156,
+        686.1342163085938,
+        321.4300231933594,
+        701.4246215820312
+      ],
+      "left_indent": 45.36000061035156,
+      "width": 276.0700225830078,
+      "is_bold": true,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "Company Coordinator , Institute Placement Team, IIT Bombay(June2020 - present)",
+      "bbox": [
+        81.38400268554688,
+        699.412109375,
+        424.9599914550781,
+        713.2963256835938
+      ],
+      "left_indent": 81.38400268554688,
+      "width": 343.57598876953125,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "▪",
+      "bbox": [
+        63.38399887084961,
+        700.9466552734375,
+        67.9408950805664,
+        712.0009155273438
+      ],
+      "left_indent": 63.38399887084961,
+      "width": 4.556896209716797,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Teaching Assistant for Computation Lab(MM 220), assisted batch 100+ B.Tech students with in-class assignments",
+      "bbox": [
+        81.38400268554688,
+        712.7321166992188,
+        551.9038696289062,
+        726.0187377929688
+      ],
+      "left_indent": 81.38400268554688,
+      "width": 470.5198669433594,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "▪",
+      "bbox": [
+        63.38399887084961,
+        714.2666625976562,
+        67.9408950805664,
+        725.3209228515625
+      ],
+      "left_indent": 63.38399887084961,
+      "width": 4.556896209716797,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "for MATLAB & Python and involved in evaluation of assignments(Spring 2019-20)",
+      "bbox": [
+        81.38400268554688,
+        725.93212890625,
+        426.1600036621094,
+        739.8163452148438
+      ],
+      "left_indent": 81.38400268554688,
+      "width": 344.7760009765625,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Team Leader for Inspiration Awardee team CKC_TECHNOHOLIX in Smart India Hackathon 2017.",
+      "bbox": [
+        81.38400268554688,
+        739.1281127929688,
+        510.54998779296875,
+        753.0123291015625
+      ],
+      "left_indent": 81.38400268554688,
+      "width": 429.1659851074219,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "▪",
+      "bbox": [
+        63.38399887084961,
+        740.6626586914062,
+        67.9408950805664,
+        751.7169189453125
+      ],
+      "left_indent": 63.38399887084961,
+      "width": 4.556896209716797,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "1 st Prize in Chain Reaction Event at IIT Roorkee(2017)",
+      "bbox": [
+        81.38400268554688,
+        752.328125,
+        306.8599853515625,
+        766.2123413085938
+      ],
+      "left_indent": 81.38400268554688,
+      "width": 225.47598266601562,
+      "is_bold": true,
+      "font_size": 9.090000033378601
+    },
+    {
+      "page": 1,
+      "text": "▪",
+      "bbox": [
+        63.38399887084961,
+        753.8626708984375,
+        67.9408950805664,
+        764.9169311523438
+      ],
+      "left_indent": 63.38399887084961,
+      "width": 4.556896209716797,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Young Systems Scientist Awardee for Best paper Presentation in PARITANTRA, Tenth Indian Students",
+      "bbox": [
+        81.38400268554688,
+        765.5281372070312,
+        539.7987060546875,
+        779.412353515625
+      ],
+      "left_indent": 81.38400268554688,
+      "width": 458.4147033691406,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "▪",
+      "bbox": [
+        63.38399887084961,
+        767.0626831054688,
+        67.9408950805664,
+        778.116943359375
+      ],
+      "left_indent": 63.38399887084961,
+      "width": 4.556896209716797,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Systems Conference (2016).",
+      "bbox": [
+        81.38400268554688,
+        778.84814453125,
+        201.3800048828125,
+        792.7323608398438
+      ],
+      "left_indent": 81.38400268554688,
+      "width": 119.99600219726562,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "3rd Prize for Hackathon in Sampravah, Annual Fest of Dayalbagh Educational Institute, Agra(2016)",
+      "bbox": [
+        81.38400268554688,
+        792.0721435546875,
+        493.8699951171875,
+        805.9563598632812
+      ],
+      "left_indent": 81.38400268554688,
+      "width": 412.4859924316406,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "▪",
+      "bbox": [
+        63.38399887084961,
+        793.606689453125,
+        67.9408950805664,
+        804.6609497070312
+      ],
+      "left_indent": 63.38399887084961,
+      "width": 4.556896209716797,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Scholastic achievements and extracurricular activities are not verified by the Placement Cell",
+      "bbox": [
+        130.6739959716797,
+        824.3609619140625,
+        465.8793029785156,
+        835.3499755859375
+      ],
+      "left_indent": 130.6739959716797,
+      "width": 335.20530700683594,
+      "is_bold": false,
+      "font_size": 9.0
+    }
+  ],
+  "text_per_page": [
+    "Parhitosh Sharma\n193110057\nMetallurgical Engineering and Materials Science\nM.Tech.\nIndian Institute of Technology, Bombay\nGender: Male\nSpecialization: Corrosion Science and Engineering\nDOB: 13-05-1996\nExamination\nUniversity\nInstitute\nYear\nCPI / %\nPost Graduation\nIIT Bombay\nIIT Bombay\n2021\n9\nGraduation\nDayalbagh Educational Institute,\nFaculty of Engineering, Dayalbagh\n2019\n7.88\nAgra\nEducational Institute, Agra\nGraduation Specialization: Mechanical Engineering\nMASTER’S THESIS\nModeling Higher Order Strain Gradient Plasticity in Metallic Systems[June 2020-present]\nGuide: Prof. Anirban Patra, Dept. of MEMS, IIT Bombay\nDeveloped a higher order plasticity constitutive model to account for Geometrically Necessary Dislocations\n▪\n(GNDs) and their effect on back stresses in the material.\nImplemented the model in the open source finite element code, MOOSE using C++ & FORTRAN followed by\n▪\nmodel validation using known test cases\nINTERNSHIPS / TRAININGS\nTerminal Ballistics Research Laboratory-DRDO, Chandigarh [April 18- August 18] [5 months]\nProject: “Impact of Thin-Walled Projectiles with Concrete Targets.”\n▪\nAnalyzed radial buckling in Thin-Walled Projectiles on concrete targets using Solidworks and Ansys Autodyn.\n▪\nNeel Metal Products Pvt. Ltd., JBM Group, Haridwar [May 17- June 17] [30 days]\nSoftTact Technologies, Mumbai [June 16- June 16] [7 days]\nADDITIONAL COURSES/ PROJECTS\nSpecialization: Applied Data Science with Python[2020]\nUniversity of Michigan hosted by Coursera\nCourses Involved: Introduction to Data Science in Python, Applied Plotting, Charting & Data Representation in\n▪\nPython, Applied Machine Learning in Python, Applied Text Mining in Python, Applied Social Network Analysis\nin Python.\nCourse: Data Analytics[2020]\nLearners’ Space conducted by Analytics Club, UGAC, IIT Bombay\nLearned to Import Datasets, Cleaning and Preparing the Data, Summarizing the DataFrame, Model\n▪\nDevelopment (Linear regression, multi-linear regression, and ridge regression) and Model Evaluation .\nIntroduced to pandas ,, and use it to load, manipulate, analyze, and visualize cool datasets, then introduced to scikit-\n▪\nlearn, and used some of its machine learning algorithms to build smart models and make cool predictions.\nCourse: Finance Bootcamp[2020]\nLearners’ Space conducted by Finance Club, UGAC, IIT Bombay\nSelf Project: Object-detection[2020]\nDeployed a convolutional neural network (CNN) for object recognition.\n▪\nImported datasets from Keras , used one-hot vectors for categorical labels and added layers to Keras model.\n▪\nLoaded pre-trained weights and made predictions using a trained Keras model\n▪\nTECHNICAL STRENGTHS\nProgramming Language: C| C++ | Python | Java | SQL | Matlab\nPython Packages/Tools: NumPy, Pandas, Scikit-Learn, Seaborn, Matplotlib, TensorFlow, Keras, NLTK, Jupyter Notebook\nOther Skills: Solidworks | Cubit | Ansys Autodyn | MOOSE | Origin Lab\nAREAS OF INTEREST\nData Science | Statistical Analysis | Deep Learning | Machine Learning | Natural Language Processing | Computer Vision\nPOSITION OF RESPONSIBILITY & ACHIEVEMENTS\nCompany Coordinator , Institute Placement Team, IIT Bombay(June2020 - present)\n▪\nTeaching Assistant for Computation Lab(MM 220), assisted batch 100+ B.Tech students with in-class assignments\n▪\nfor MATLAB & Python and involved in evaluation of assignments(Spring 2019-20)\nTeam Leader for Inspiration Awardee team CKC_TECHNOHOLIX in Smart India Hackathon 2017.\n▪\n1 st Prize in Chain Reaction Event at IIT Roorkee(2017)\n▪\nYoung Systems Scientist Awardee for Best paper Presentation in PARITANTRA, Tenth Indian Students\n▪\nSystems Conference (2016).\n3rd Prize for Hackathon in Sampravah, Annual Fest of Dayalbagh Educational Institute, Agra(2016)\n▪\nScholastic achievements and extracurricular activities are not verified by the Placement Cell"
+  ],
+  "text_all": "Parhitosh Sharma\n193110057\nMetallurgical Engineering and Materials Science\nM.Tech.\nIndian Institute of Technology, Bombay\nGender: Male\nSpecialization: Corrosion Science and Engineering\nDOB: 13-05-1996\nExamination\nUniversity\nInstitute\nYear\nCPI / %\nPost Graduation\nIIT Bombay\nIIT Bombay\n2021\n9\nGraduation\nDayalbagh Educational Institute,\nFaculty of Engineering, Dayalbagh\n2019\n7.88\nAgra\nEducational Institute, Agra\nGraduation Specialization: Mechanical Engineering\nMASTER’S THESIS\nModeling Higher Order Strain Gradient Plasticity in Metallic Systems[June 2020-present]\nGuide: Prof. Anirban Patra, Dept. of MEMS, IIT Bombay\nDeveloped a higher order plasticity constitutive model to account for Geometrically Necessary Dislocations\n▪\n(GNDs) and their effect on back stresses in the material.\nImplemented the model in the open source finite element code, MOOSE using C++ & FORTRAN followed by\n▪\nmodel validation using known test cases\nINTERNSHIPS / TRAININGS\nTerminal Ballistics Research Laboratory-DRDO, Chandigarh [April 18- August 18] [5 months]\nProject: “Impact of Thin-Walled Projectiles with Concrete Targets.”\n▪\nAnalyzed radial buckling in Thin-Walled Projectiles on concrete targets using Solidworks and Ansys Autodyn.\n▪\nNeel Metal Products Pvt. Ltd., JBM Group, Haridwar [May 17- June 17] [30 days]\nSoftTact Technologies, Mumbai [June 16- June 16] [7 days]\nADDITIONAL COURSES/ PROJECTS\nSpecialization: Applied Data Science with Python[2020]\nUniversity of Michigan hosted by Coursera\nCourses Involved: Introduction to Data Science in Python, Applied Plotting, Charting & Data Representation in\n▪\nPython, Applied Machine Learning in Python, Applied Text Mining in Python, Applied Social Network Analysis\nin Python.\nCourse: Data Analytics[2020]\nLearners’ Space conducted by Analytics Club, UGAC, IIT Bombay\nLearned to Import Datasets, Cleaning and Preparing the Data, Summarizing the DataFrame, Model\n▪\nDevelopment (Linear regression, multi-linear regression, and ridge regression) and Model Evaluation .\nIntroduced to pandas ,, and use it to load, manipulate, analyze, and visualize cool datasets, then introduced to scikit-\n▪\nlearn, and used some of its machine learning algorithms to build smart models and make cool predictions.\nCourse: Finance Bootcamp[2020]\nLearners’ Space conducted by Finance Club, UGAC, IIT Bombay\nSelf Project: Object-detection[2020]\nDeployed a convolutional neural network (CNN) for object recognition.\n▪\nImported datasets from Keras , used one-hot vectors for categorical labels and added layers to Keras model.\n▪\nLoaded pre-trained weights and made predictions using a trained Keras model\n▪\nTECHNICAL STRENGTHS\nProgramming Language: C| C++ | Python | Java | SQL | Matlab\nPython Packages/Tools: NumPy, Pandas, Scikit-Learn, Seaborn, Matplotlib, TensorFlow, Keras, NLTK, Jupyter Notebook\nOther Skills: Solidworks | Cubit | Ansys Autodyn | MOOSE | Origin Lab\nAREAS OF INTEREST\nData Science | Statistical Analysis | Deep Learning | Machine Learning | Natural Language Processing | Computer Vision\nPOSITION OF RESPONSIBILITY & ACHIEVEMENTS\nCompany Coordinator , Institute Placement Team, IIT Bombay(June2020 - present)\n▪\nTeaching Assistant for Computation Lab(MM 220), assisted batch 100+ B.Tech students with in-class assignments\n▪\nfor MATLAB & Python and involved in evaluation of assignments(Spring 2019-20)\nTeam Leader for Inspiration Awardee team CKC_TECHNOHOLIX in Smart India Hackathon 2017.\n▪\n1 st Prize in Chain Reaction Event at IIT Roorkee(2017)\n▪\nYoung Systems Scientist Awardee for Best paper Presentation in PARITANTRA, Tenth Indian Students\n▪\nSystems Conference (2016).\n3rd Prize for Hackathon in Sampravah, Annual Fest of Dayalbagh Educational Institute, Agra(2016)\n▪\nScholastic achievements and extracurricular activities are not verified by the Placement Cell"
+}

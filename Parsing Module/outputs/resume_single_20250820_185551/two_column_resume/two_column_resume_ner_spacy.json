@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "source_path": "data/resume_single/two_column_resume.pdf",
+    "pages": 1,
+    "model": "facebook/bart-large-mnli"
+  },
+  "candidate": {
+    "full_name": "Profile",
+    "emails": [
+      "john.doe@email.com"
+    ],
+    "phones": [
+      "+15551234567"
+    ],
+    "links": {
+      "linkedin": "linkedin.com/in/johndoe",
+      "github": null
+    }
+  },
+  "experience": [],
+  "education": [
+    {
+      "degree_raw": "B.Tech",
+      "degree_level": "masters",
+      "field_raw": null,
+      "institution_raw": "Structural Engineering IIT Bhubaneswar",
+      "start_date": "2023-08-01",
+      "end_date": "2025-08-01",
+      "gpa": null,
+      "extraction_confidence": 0.6,
+      "source_page": null
+    }
+  ],
+  "skills": [
+    {
+      "name": "c",
+      "category": null
+    },
+    {
+      "name": "excel",
+      "category": null
+    },
+    {
+      "name": "python",
+      "category": null
+    },
+    {
+      "name": "sql",
+      "category": null
+    },
+    {
+      "name": "tableau",
+      "category": null
+    }
+  ],
+  "projects": [
+    {
+      "name": "Projects",
+      "summary": "- Fire Dynamics Prediction (2025): Built ConvLSTMbased models for future fire frame prediction using PyroSim/FDS simulations. - 3DPrintable Concrete (2025): Thesis project optimizing mix design with lightweight sintered flyash aggregates. - HR Agentic AI System (2025): Developed modules for resume parsing, onboarding automation, and companyspecific chatbots.",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    }
+  ],
+  "certifications": [],
+  "publications": [],
+  "achievements": [],
+  "languages": [],
+  "sectioned_text": [
+    {
+      "section_type": "other",
+      "text": "John Doe\nI New York, USA | I john.doe@email.com | I +15551234567 | I linkedin.com/in/johndoe\nProfile\nDatadriven Product Analyst with 3+ years of experience in product analytics, SQLbased\nreporting, and machine learning model evaluation.",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "skills",
+      "text": "Skilled at translating business needs into actionable\ninsights.\nSkills\n- Analytics Tools: SQL, Python, R\n- Visualization: Tableau, Power BI\n- ML Techniques: Regression, Classification, LSTM\n- Other: A/B Testing, Statistics, Excel",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "Education\nM.Tech, Structural Engineering IIT Bhubaneswar (2023–2025)\nB.Tech, Civil Engineering XYZ University (2019–2023)\nExperience\nProduct Analyst – Zomato\nAug 2025 – Present\n- Built SQL pipelines for realtime restaurant performance monitoring.\n- Conducted A/B tests for feature rollouts, improving CTR by 15%.\n- Automated weekly business reports using Python, reducing manual effort by 30%.\nData Analyst Intern – ABC Corp\nJan 2024 – Jul 2024\n- Designed Tableau dashboards tracking revenue trends across regions.\n- Applied LSTM models to classify structural health (damaged vs. undamaged).\n- Supported crossfunctional teams with datadriven decisionmaking.",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "Projects\n- Fire Dynamics Prediction (2025): Built ConvLSTMbased models for future fire frame prediction using PyroSim/FDS simulations.\n- 3DPrintable Concrete (2025): Thesis project optimizing mix design with lightweight sintered flyash aggregates.\n- HR Agentic\nAI System (2025): Developed modules for resume parsing, onboarding automation, and companyspecific chatbots.",
+      "page_range": [
+        1,
+        1
+      ]
+    }
+  ]
+}

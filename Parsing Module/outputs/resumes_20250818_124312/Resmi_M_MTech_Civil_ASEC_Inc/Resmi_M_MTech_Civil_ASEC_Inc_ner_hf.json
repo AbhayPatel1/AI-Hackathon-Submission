@@ -1,0 +1,482 @@
+{
+  "meta": {
+    "source_path": "data/resumes/Resmi_M_MTech_Civil_ASEC_Inc.pdf",
+    "pages": 2,
+    "model": "facebook/bart-large-mnli"
+  },
+  "candidate": {
+    "full_name": "Resmi M",
+    "emails": [],
+    "phones": [],
+    "links": {
+      "linkedin": null,
+      "github": null
+    }
+  },
+  "experience": [
+    {
+      "company_raw": null,
+      "company_norm": null,
+      "title_raw": "Site visits:",
+      "title_norm": null,
+      "seniority": null,
+      "employment_type": "internship",
+      "location": null,
+      "start_date": null,
+      "end_date": null,
+      "is_current": false,
+      "extraction_confidence": 0.25,
+      "source_page": null,
+      "bullets": []
+    },
+    {
+      "company_raw": "Kerala Public Works Department",
+      "company_norm": "Kerala Public Works Department",
+      "title_raw": "Internship training: | Under the Kerala Public Works Department (Roads and Bridges Section)",
+      "title_norm": null,
+      "seniority": null,
+      "employment_type": "internship",
+      "location": null,
+      "start_date": null,
+      "end_date": null,
+      "is_current": false,
+      "extraction_confidence": 0.65,
+      "source_page": null,
+      "bullets": []
+    }
+  ],
+  "education": [
+    {
+      "degree_raw": null,
+      "degree_level": null,
+      "field_raw": null,
+      "institution_raw": "Board of Higher Secondary Holy Angels ' Convent HSS",
+      "start_date": null,
+      "end_date": null,
+      "gpa": null,
+      "extraction_confidence": 0.6,
+      "source_page": null
+    }
+  ],
+  "skills": [
+    {
+      "name": "c",
+      "category": null
+    },
+    {
+      "name": "autocad",
+      "category": null
+    },
+    {
+      "name": "c",
+      "category": null
+    },
+    {
+      "name": "matlab",
+      "category": null
+    },
+    {
+      "name": "plaxis",
+      "category": null
+    },
+    {
+      "name": "revit",
+      "category": null
+    },
+    {
+      "name": "staad pro",
+      "category": null
+    }
+  ],
+  "projects": [
+    {
+      "name": "M.Tech Dissertation | Guide: Prof. Satyanarayana Murty Dasaka, IIT Bombay",
+      "summary": "[July ’20-ongoing]",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Understanding the Behaviour of an Anchored Rigid Retaining Wall by Back Analysis",
+      "summary": null,
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Analyse the forces acting on a cantilever retaining wall with counterforts and obtain the movement of the",
+      "summary": "wall required to attain the active earth pressure condition, under varying site conditions and soil types.",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Analyse retaining wall with anchors and find the required spacing between anchors",
+      "summary": "Numerically model the load-deformation behaviour of anchors using PLAXIS . Understand the short-term and long-term behaviour of retaining walls. Identify the causes of failure of retaining wall, and develop guidelines on preventing such failures in future. M.Tech Credit Seminar | Guide: Prof. Satyanarayana Murty Dasaka, IIT Bombay [Jan ’20 – June ‘20]",
+      "role": null,
+      "tech_stack": [
+        "c",
+        "plaxis"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Application of Geosynthetics in Pavements on Expansive Soils",
+      "summary": null,
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Reviewed literature on the field and laboratory studies on expansive soils and studied the effectiveness and",
+      "summary": "suitability of using geosynthetics in remediating the problems related to pavements on expansive soils.",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Understood the cause and types of pavement distresses on expansive subgrades",
+      "summary": null,
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Understood the mechanisms of geosynthetic reinforcement and assessed the future scope of works required",
+      "summary": "B.Tech Project | Guide: Prof. Ajitha A. R., College of Engineering Trivandrum [2018]",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Design and Analysis of Reinforced Earth Retaining Wall",
+      "summary": null,
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Designed and compared the cost of construction of a Reinforced Earth retaining wall ( RE wall ) and a",
+      "summary": null,
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Reinforced Cement Concrete ( RCC ) retaining wall for same soil conditions and height",
+      "summary": "About 47% cost savings in using an RE wall in the place of an RCC wall B.Tech Seminar | Guide: Prof. Ajitha A. R., College of Engineering Trivandrum [2017]",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Sustainable Design Criteria for Earthquake Region",
+      "summary": "Reviewed literature on approaches that enable post-event functionality in earthquake -prone regions, resulting in more sustainable structural systems.",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Course Project | Guide: Prof. Ashish Juneja, IIT Bombay [November 2019]",
+      "summary": null,
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Thane West, Mumbai, on 3/3/2020 to witness a pile load testing carried out as part of the Metro Line-5 project",
+      "summary": "Industrial visit to Poabs M-sand manufacturing unit in October 2015 , organised by ICI CET Student’s Chapter Visit to Aruvikkara dam and water treatment plant in October 2015 , organised by ICI CET Student’s Chapter",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Karakkamandapam, Chellengi Bridge site and Peyad Road improvement project .",
+      "summary": null,
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Construction Management",
+      "summary": null,
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    }
+  ],
+  "certifications": [],
+  "publications": [],
+  "achievements": [
+    "Scored 99.17 percentile in the Graduate Aptitude Test in Engineering (2019), out of 1,45,064 students",
+    "Teaching Assistant | Department of Civil Engineering | IIT Bombay",
+    "CE 329: Geotechnical Engineering Lab I",
+    "CE 336: Geotechnical Engineering Lab II",
+    "[July, 2019- June, 2020]"
+  ],
+  "languages": [],
+  "sectioned_text": [
+    {
+      "section_type": "other",
+      "text": "Resmi M\n193040021\nCivil Engineering\nM.Tech.\nIndian Institute of Technology, Bombay\nGender: Female\nSpecialization: Geotechnical Engineering\nDOB: 19-04-1996\nExamination\nUniversity\nInstitute\nYear\nCPI / %\nPost Graduation\nIIT Bombay\nIIT Bombay\n2021\n9.29\nGraduation\nUniversity of Kerala\nCollege of Engineering Trivandrum\n2018\n8.84\nGraduation Specialization: Civil Engineering\nIntermediate",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "Board of Higher Secondary\nHoly Angels' Convent HSS\n2014\n98.00%\nExamination\nMatriculation\nKerala Board of Public\nHoly Angels' Convent HSS\n2012\n90.00%\nExaminations",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "achievements",
+      "text": "Scored 99.17 percentile in the Graduate Aptitude Test in Engineering (2019), out of 1,45,064 students",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "M.Tech Dissertation | Guide: Prof. Satyanarayana Murty Dasaka, IIT Bombay\n[July ’20-ongoing]\nUnderstanding the Behaviour of an Anchored Rigid Retaining Wall by Back Analysis\nAnalyse the forces acting on a cantilever retaining wall with counterforts and obtain the movement of the\nwall required to attain the active earth pressure condition, under varying site conditions and soil types.\nAnalyse retaining wall with anchors and find the required spacing between anchors\nNumerically model the load-deformation behaviour of anchors using PLAXIS .\nUnderstand the short-term and long-term behaviour of retaining walls.\nIdentify the causes of failure of retaining wall, and develop guidelines on preventing such failures in future.\nM.Tech Credit Seminar | Guide: Prof. Satyanarayana Murty Dasaka, IIT Bombay [Jan ’20 – June ‘20]\nApplication of Geosynthetics in Pavements on Expansive Soils\nReviewed literature on the field and laboratory studies on expansive soils and studied the effectiveness and\nsuitability of using geosynthetics in remediating the problems related to pavements on expansive soils.\nUnderstood the cause and types of pavement distresses on expansive subgrades\nUnderstood the mechanisms of geosynthetic reinforcement and assessed the future scope of works required\nB.Tech Project | Guide: Prof. Ajitha A. R., College of Engineering Trivandrum\n[2018]\nDesign and Analysis of Reinforced Earth Retaining Wall\nDesigned and compared the cost of construction of a Reinforced Earth retaining wall ( RE wall ) and a\nReinforced Cement Concrete ( RCC ) retaining wall for same soil conditions and height\nAbout 47% cost savings in using an RE wall in the place of an RCC wall\nB.Tech Seminar | Guide: Prof. Ajitha A. R., College of Engineering Trivandrum\n[2017]\nSustainable Design Criteria for Earthquake Region\nReviewed literature on approaches that enable post-event functionality in earthquake -prone regions,\nresulting in more sustainable structural systems.",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "courses",
+      "text": "Survey Camp | As a part of the Undergraduate curriculum\n[2017]\nConducted survey of a portion of the College of Engineering Trivandrum campus, using Total Station .\nDeveloped a topographic map with contour lines using LisCAD and AutoCAD .",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "Course Project | Guide: Prof. Ashish Juneja, IIT Bombay [November 2019]",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "courses",
+      "text": "Finite Element Analysis Using PLAXIS 2D | (Course: Geotechnical Constitutive Modelling)\nModelled a raft foundation to a circular water tank resting on a soft clay deposit using PLAXIS 2D to analyse\nthe consolidation behaviour before and after cement stabilisation of soft clay.\nThe analysis showed that the factor of safety increased by around 4.7 times, the time required for 95 %\nconsolidation has reduced and the settlement was brought below the allowable limit post stabilisation.\nCourse Seminar | Guide: . B.V.S. Viswanadham , IIT Bombay\n[May 2020]\nCentrifuge Study on the Effect of Pile Bending Stiffness on the Slope Stabilised by Piles\n(Course: Geotechnical Centrifuge Modelling)",
+      "page_range": [
+        1,
+        2
+      ]
+    },
+    {
+      "section_type": "other",
+      "text": "Reviewed literature on Centrifuge Modelling of pile reinforced slopes",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "internships",
+      "text": "Site visits:",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "Thane West, Mumbai, on 3/3/2020 to witness a pile load testing carried out as part of the Metro Line-5 project\nIndustrial visit to Poabs M-sand manufacturing unit in October 2015 , organised by ICI CET Student’s Chapter\nVisit to Aruvikkara dam and water treatment plant in October 2015 , organised by ICI CET Student’s Chapter",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "internships",
+      "text": "Internship training: | Under the Kerala Public Works Department (Roads and Bridges Section)",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "other",
+      "text": "During the period of 24 th to 30 th of May, 2017, study visits were conducted to BM & BC plant at",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "Karakkamandapam, Chellengi Bridge site and Peyad Road improvement project .",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "courses",
+      "text": "Attended international webinar on “ Recent Advances in Geotechnical Engineering Research\n[ July 1-10,\n& Practice ”, organised by the Department of Civil and Environmental Engineering, IIT Patna\n2020]\nAttended DFI-India Webinar Series on Steel Retaining Structures and Foundations\n[July 29, 2020]\n[Aug 12,2020]\nAttended a webinar on “ Necessity of Seismic Response Assessment for Geotechnical Site ”\n[June 14, 2020]\nconducted by Indian Geotechnical Society Silchar Student Chapter\nMember of the Indian Concrete Institute , CET chapter\n[2015-’16, 2016-’17]\nParticipated in Model Making as a part of Pantheon organised by the ICI CET Student’s Chapter\n[March, 2016]\nParticipated in the Technical Exhibition and Open House CETEX held in connection with the\n[Jan, 2015]\nPlatinum Jubilee celebrations of College of Engineering Trivandrum\nSecured 3 rd price in Rangoli making competition of PG Cult , IIT Bombay\n[Sept, 2019]",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "responsibility",
+      "text": "Teaching Assistant | Department of Civil Engineering | IIT Bombay\nCE 329: Geotechnical Engineering Lab I\nCE 336: Geotechnical Engineering Lab II\n[July, 2019- June, 2020]",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "skills",
+      "text": "Guided UG students to learn basic experimental skills in Geotechnical Engineering.",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "other",
+      "text": "Evaluated the performance of the students by correcting their lab files and exam papers.",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "skills",
+      "text": "Software proficiencies :\nAutoCAD\nRevit Architecture\nSTAAD Pro\nPLAXIS\nMATLAB\nMS Office",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "courses",
+      "text": "Autodesk Authorised training centre course BIM for structures , from Intercad Systems (PVT)\n[July, 2019]\nCompleted Introduction to Data Analysis Using Excel by RICE University, from Coursera\n[Aug, 2020]\nAdvanced Foundation Engineering\nFoundation of Offshore Structures\nDesign and Testing of Pile Foundations\nComputing in Civil Engineering\nPrestressed Concrete\nAdvanced Soil Mechanics\nAdvanced Design of Reinforced Concrete Structures\nEarthquake Resistant Design of Structures\nQuantity Surveying and Valuation",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "Construction Management",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "other",
+      "text": "HOBBIES AND INTERESTS\nListening to songs\nDancing\nPlaying carroms\nScholastic achievements and extracurricular activities are not verified by the Placement Cell",
+      "page_range": [
+        2,
+        2
+      ]
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+🔍 What is Entity Detection?
+
+Entity detection = extracting key info from user’s question.
+
+❓ “What did Priya do using Python?”
+
+Intent: DETAILED_CONTEXT_QUERY
+Entities:
+	•	Candidate Name: "Priya"
+	•	Skill/Keyword: "Python"
+
+Abhay - I got an idea based on the name we are getting we can train our ner on these names 
+
+               ┌──────────────────────────────┐
+               │        USER INTERFACE        │
+               │ (chat + candidate selector)  │
+               └─────────────┬────────────────┘
+                             ▼
+               ┌──────────────────────────────┐
+               │     NLP INTERPRETER (LLM)    │
+               │ → Intent                     │
+               │ → Entities (names, skills)   │
+               └───────┬────────────┬─────────┘
+                       ▼            ▼
+     ┌──────────────┐      ┌──────────────────────┐
+     │ Candidate    │      │ Context Tracker      │
+     │ Scope Filter │      │ (LangGraph memory)   │
+     └────┬─────────┘      └─────────┬────────────┘
+          ▼                          ▼
+    ┌────────────────────────┐  ┌────────────────────────┐
+    │ SQL Query Engine       │  │ Chroma Vector Search   │
+    └──────┬─────────────────┘  └────────────┬───────────┘
+           ▼                                  ▼
+           └─────┐                      ┌──────┘
+                 ▼                      ▼
+          ┌────────────────────────────────┐
+          │  Candidate Context Joiner      │
+          │  (exp, projects, skills, etc.) │
+          └───────┬────────────────────────┘
+                  ▼
+         ┌──────────────────────────────┐
+         │    Response Generator (LLM)  │
+         └──────────────────────────────┘
+
+User asks:
+  ❓ “Tell me about Priya”
+  OR selects Priya from UI and asks: ❓ “Give me her experience with Python”
+
+→ System checks:
+
+1. Is candidate selected from UI?
+   → Yes → Use it as scope
+   → No → Try name/entity detection (NER)
+      - If 1 match found → Use it
+      - If >1 matches → Ask user: "Which Priya did you mean?"
+      - If 0 matches → Return error or ask to select
+
+2. Search type:
+   → SQL or Vector or Both (LLM decides)
+
+3. Return LLM-formatted summary, with:
+   - Experience
+   - Projects
+   - Notes (if stage >1)
+   - Skills (ranked)
+
+
+   CREATE TABLE interview_notes (
+  note_id UUID PRIMARY KEY,
+  candidate_email TEXT,
+  pipeline_stage TEXT,
+  author TEXT,
+  content TEXT,
+  created_at TIMESTAMPTZ DEFAULT now()
+);
+
+
+
+
+
+
+------------------------------------------------Reference Document------------------------------------------------------------------
+
+
+
+
+Absolutely! Let’s compile the full Backend High-Level Design (HLD) Document for your Intelligent HR Assistant System — built to answer 40+ types of scoped and contextual resume queries using a hybrid SQL + vector + LLM architecture.
+
+⸻
+
+🧠 Intelligent HR Assistant – Backend HLD
+
+Version: 1.0
+Author: [You]
+Date: August 2025
+
+⸻
+
+🎯 Objective
+
+Build an intelligent backend system to:
+	•	Answer natural language queries about candidates from resume data.
+	•	Support scoped (selected candidate(s)) and unscoped queries.
+	•	Combine SQL + Vector Search + LLM for rich, contextual answers.
+	•	Handle multiple query types: count, semantic, summarization, ranking, detailed.
+	•	Be able to retrieve pipeline-stage interview notes for deeper comparison.
+
+⸻
+
+🏗️ Architecture Overview
+
+🔁 High-Level Flow:
+
+User Query (via UI)
+     │
+     ▼
+[Intent + Entity Detector (LLM)]
+     │
+     ▼
+[Scope Determiner]
+     │
+     ▼
+[Query Engine Router]
+  ├──► SQL Engine
+  ├──► Chroma Vector Search
+  └──► Hybrid Joiner
+     │
+     ▼
+[Candidate Context Joiner]
+     │
+     ▼
+[Response Generator (LLM)]
+     │
+     ▼
+Final Chat Response
+
+
+⸻
+
+🗃️ Supported Query Types with Examples
+
+Type	Example
+📊 Count	“How many candidates did internships?”
+🔍 Semantic	“Who worked on deep learning?”
+🧾 Summarization	“Tell me about Abhay Sharma.”
+📈 Skill Ranking	“What are Priya’s top 5 skills?”
+📂 Detailed Context	“What did Sneha do using Python?”
+🧑‍💻 Comparison	“Compare Abhay and Priya” (when two selected)
+🗒️ Interview Context	“Why was Rahul promoted to assessment stage?”
+
+
+⸻
+
+📁 Folder & Module Structure
+
+├── agent/
+│   ├── agent_core.py              # Main agent logic
+│   └── scheduler_agent.py         # For pipeline automation (optional)
+├── embedding/
+│   ├── chunking_utils.py          # Resume chunk logic
+│   ├── embedder.py                # Text → embeddings
+│   └── ingest_resume_to_chroma.py # Vector DB ingestion script
+├── tools/
+│   ├── vector_tool.py             # Chroma search utility
+│   ├── sql_tool.py                # SQL execution
+│   ├── candidate_scope.py         # Candidate selector (UI + fallback NER)
+│   ├── context_joiner.py          # Resume info retriever (exp, projects, etc.)
+│   ├── name_matcher.py            # Match query names to resume DB
+│   └── notes_tool.py              # Interview notes access
+├── llm_router.py                  # Orchestration: classify + route + combine
+├── app.py                         # FastAPI entrypoint
+├── config.py                      # Environment vars, keys
+├── .env
+
+
+⸻
+
+⚙️ Key Modules Explained
+
+1. llm_router.py
+	•	Handles incoming query + selection.
+	•	Detects intent and fallback entities (NER).
+	•	Routes to appropriate tools.
+	•	Combines SQL/Vector outputs if both useful.
+
+2. vector_tool.py
+	•	Uses OpenAI to embed query.
+	•	Calls ChromaDB for scoped semantic search.
+	•	Supports UI scope filtering via email(s).
+
+3. sql_tool.py
+	•	Maps high-confidence SQL queries.
+	•	Uses templates or GPT-generated SQL with safety checks.
+
+4. candidate_scope.py
+	•	If UI provides email(s), uses that.
+	•	If not, tries NER + fuzzy matching to infer candidate name from query.
+	•	Handles disambiguation (“which Priya?”).
+
+5. context_joiner.py
+	•	Pulls structured resume info:
+	•	Experience, bullets
+	•	Projects, tech stack
+	•	Skills + proficiency
+	•	Education, certifications
+	•	Publications, achievements
+
+6. notes_tool.py
+	•	Stores and retrieves stage-wise notes.
+	•	Used in response generation for deeper insight during comparisons.
+
+⸻
+
+🧠 Candidate Scope Strategy
+
+Source of Scope	Logic
+✅ UI selection	Primary method (most reliable)
+🔄 NER fallback	If no selection, infer from query
+❓ Multi-match	Ask user to choose
+❌ No match	Ask user to clarify
+
+
+⸻
+
+🤖 Query Routing Examples
+
+❓ “List candidates who have done internships.”
+	•	Intent: DATABASE_SQL
+	•	Route: SQL only
+	•	Output: List from experience where employment_type = Internship
+
+⸻
+
+❓ “Who worked on deep learning?”
+	•	Intent: SEMANTIC_QUERY
+	•	Route: Vector search
+	•	Output: Top 5 candidates from experience/project bullets mentioning “deep learning”
+
+⸻
+
+❓ “What did Priya do using Python?”
+	•	Intent: DETAILED_CONTEXT_QUERY
+	•	Scope: Determined by UI or NER
+	•	Route: SQL and Vector (hybrid)
+	•	Output: Contextual bullet sentences + structured summary
+
+⸻
+
+❓ “Compare Abhay and Rahul.”
+	•	Intent: COMPARISON_QUERY
+	•	Scope: [abhay@example.com, rahul@example.com]
+	•	Route: Structured context join + skills + notes
+	•	Output: Summary of both + comparison table
+
+⸻
+
+🧪 Error Handling / Fallbacks
+
+Case	LLM Response
+SQL returns nothing	“No structured match found. Want me to try a semantic search?”
+Vector empty	“Couldn’t find relevant content. Try rephrasing?”
+Scope not found	“I couldn’t find a candidate named X. Please select from the list.”
+Multiple name matches	“Did you mean Priya Sharma or Priya Das?”
+
+
+⸻
+
+📌 Final Notes
+	•	Interview notes will be injected into context only in post-shortlist pipelines.
+	•	LLMs will be used for:
+	•	Summarization
+	•	Response generation
+	•	Comparison formatting
+	•	Later stages can auto-analyze note sentiment or flag risky cases.
+
+⸻
+
+✅ Ready for Code?
+
+If this looks aligned, I can now start writing each real file — beginning with:
+	•	vector_tool.py
+	•	candidate_scope.py
+	•	llm_router.py
+
+Let’s lock this HLD and start coding. Want me to start with vector_tool.py?
+
+
+
+✅ Feature Implementation Order
+	1.	vector_tool.py
+	2.	sql_tool.py
+	3.	candidate_scope.py
+	4.	name_matcher.py
+	5.	context_joiner.py
+	6.	llm_router.py
+	7.	app.py (API routes)
+	8.	Frontend: send query + selected candidates
+	9.	notes_tool.py + DB table for interview notes
+	10.	Add scoped comparison logic in router
+	11.	Add fallback NER logic for unscoped queries
+	12.	Add interview-stage note injection in context
+	13.	Add pipeline-aware prompt tailoring (optional)
+	14.	Add UI feature: note input on stage transition
+	15.	Add memory / context tracker (LangGraph or custom)

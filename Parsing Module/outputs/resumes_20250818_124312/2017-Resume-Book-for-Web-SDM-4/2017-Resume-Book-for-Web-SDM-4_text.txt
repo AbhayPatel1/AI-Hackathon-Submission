@@ -1,0 +1,51 @@
+SHRUTI BANDA
+550 Memorial Dr, Cambridge, MA
+shruti.banda@sloan.mit.edu , +1(408)2039493
+EDUCATION
+Massachusetts Institute of Technology, Cambridge Aug’2015-Present
+Master of Science in Management and Engineering, Sloan School of Management & MIT School of Engineering
+ Developed a complete B-plan for a market-place to help restaurants source local farmers’ organic produce.
+ Analyzed Amazon employee data to predict access needs using statistical tools R & python for data mining.
+ Built a web application (Group’em) to help K-12 teachers to effortlessly create and manage classroom groups.
+ Built an auto-cleaning database that predicts missing values in a column using appropriate machine learning
+technique on remaining columns.
+ Teaching Assistant (2015-17): Manage EDX platform by assisting students & creating content for the premier
+MIT SCX online course awarding 1,200 certificates with a total of +20K students enrolled from 185 countries
+Indian Institute of Management , Calcutta June’2012-Apr’2014
+Master of Business Administration ( MBA )
+National Institute of Technology , Warangal June’2008-May’2012
+Bachelor of Technology, Computer Science
+EXPERIENCE
+Senior Product Manager Personagraph Apr’2014 – July’2015
+ Responsible for product vision, strategy and roadmap for Personagraph analytics tool and partner portal.
+ Worked with cross-functional teams to gather, plan and implement the product requirements. Used Wireframing
+tools such as Omnigraffle and Balsamiq to design the product for better data representation and Scrum process
+for delivering the product.
+ Led the analytics UX redesign and re-architecture effort & built an advanced heuristic & clustering based model
+named “high value users” for finding most profitable users
+ On-boarded 50+ app developers, resulting in 10M+ users with 50+ million inferences generated about them.
+Product & Research Intern IntellADAPT May’2016 – Aug’2016
+ Designed mobile apps to collect data & analyze the potential of EEG wearables for a brain computer interface (BCI)
+ Built commercialization plan & financial projections for the wearable technology which earned $1.5M in funding
+from the National Science Foundation.
+ Prototyped a low cost wearable device with the potential to reach the billion-dollar education tech market.
+Marketing Intern Mondelez International May’2013 – Jul’2013
+ Was offered Pre-Placement Interview after project review; Developed Integrated marketing communication
+ideas with strong link to consumer insights ( 33 consumer immersions) to build desire for Cadbury Bournville
+ Effectively used digital media in proposed ideas & analyzed their viability by contacting potential partners.
+Software Developer Intern Microsoft Apr’2011 – June’2011
+ Pre-Placement Offer from Microsoft India; Implemented a Proof of Concept for posting an onsite application
+interface to the Microsoft cloud using Azure Connect that reduced the transfer time of 2GB file by 82%(23 to 4 min)
+ Built UI to automatically generate scripts that saved 7 hours of manual work & got integrated in next product release.
+LEADERSHIP
+MIT Clubs: Women in System Design & Management Chair & VP of education for Sloan Product Mgmt. club,’16
+Intaglio International Business Event, IIM Calcutta
+ O r g an i ze d Marketplace, a versatile marketing plan building and flagship event of Marketing and Coordinator of
+Arena, a series of five spot events based on Marketing, S trategy and Finance, 2013-14
+Sports Captain, Throw ball & kho-kho
+ Captained the school Throw Ball and Kho-Kho team at Sri Satya Sai Vidya Vihar High School, 2004-06
+ Winner of Intra School Throw ball competition in 2005-06 and Kho-Kho competition for two years
+ADDITIONAL INFORMATION
+ Programming Languages & skills : C, C++, C#, Java, Python, sketch (design tool), R
+ Scholarships: Top scorer in school from among 79 students in class X board exam, 2006. Runner-Up in Young
+Mathematician Contest and among 25 people selected for project Ramanujan , 2001

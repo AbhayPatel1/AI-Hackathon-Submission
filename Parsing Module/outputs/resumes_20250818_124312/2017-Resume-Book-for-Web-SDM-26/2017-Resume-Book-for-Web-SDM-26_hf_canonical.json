@@ -1,0 +1,102 @@
+{
+  "candidate": {
+    "full_name": "Chen Ye",
+    "emails": [
+      "chenye16@mit.edu"
+    ],
+    "phones": [
+      "+16175830581"
+    ],
+    "location": {
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null
+    },
+    "resume_text_hash": "sha256:99eac15776a456ea92455d33e5072bb6de7a3bac89dcdeecbb26af056df91077",
+    "source_file_id": "2017-Resume-Book-for-Web-SDM-26.pdf",
+    "parsed_at": "2025-08-18T08:21:22Z",
+    "parser_version": "v0.3.0"
+  },
+  "experience": [],
+  "education": [
+    {
+      "degree_raw": "B.Tech/B.E.",
+      "degree_level": "bachelors",
+      "field_raw": null,
+      "institution_raw": "Massachusetts Institute of Technology School of Engineering & Sloan School of Management",
+      "start_date": null,
+      "end_date": null,
+      "gpa": null,
+      "extraction_confidence": 0.6,
+      "source_page": null
+    }
+  ],
+  "skills": [],
+  "projects": [],
+  "certifications": [],
+  "publications": [],
+  "achievements": [],
+  "languages": [],
+  "sectioned_text": [
+    {
+      "section_type": "other",
+      "text": "Chen Ye\n70 Pacific Street\nCambridge, MA 02139\n+1 (617) 583-0581\nchenye16@mit.edu",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "Massachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nM.S., System Design and Management\nHarbin University of Science and Technology\nB.E., Measurement-Control Technology and Instrumentation\nEXPERIENCE\nChina ENFI Engineering Corporation (ENFI)\nThe leading engineering firm in China’s nonferrous metal and mining industry; subsidiary of China Metallurgical Group\nCorp., a Fortune Global 500 company merging into China Minmetals Corp.\nHead of African Marketing Department, International Business Division Jan - Aug 2016\nStarted a subsidiary at Lubumbashi, D.R. Congo as an intrapreneur in the company\nManaged market development, project tracking, and bidding for projects in Africa; won project bids of $5 million\nPromoted rapidly from an engineering position to the head of a distinct department",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "certifications",
+      "text": "Obtained certification as a senior engineer",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "other",
+      "text": "Engineer, Automation Department, Electrical & Automation Division",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "patents",
+      "text": "Innovated almost 30 industrial automation techniques and obtained 24 national patents ; established the standard of\ncontrol system in copper smelting\nManaged and coordinated solution design, development, implementation, data analytics and product delivery of\nplant automation projects, frequently served in the field, and acquired extensive client service management skills\nProvided engineering consulting service: requirement analysis, feasibility & risk study, preliminary plan and\noptimum solution of plant automation in China and Africa, and helped clients maximize efficiency and profit\nLed the Distributed Control System (DCS) design of the acid plant in Husab Uranium Mine in Namibia – the 4th\nlargest uranium mine in the world, which is expected to reshape the supply pattern of nuclear material in the world\nManaged DCS implementation projects in China and Zambia simultaneously\nHeaded a team of 20 design experts of various fields to serve in the field, and handled internal and external\nrelationships in Yunnan Tin Copper Branch - the company’s largest EPC project with investment of $300+ million\nAwarded the company’s highest individual prize in 2012, top 1%\nRated as the company’s Top 10 Field Engineer in 2012\nAssistant Engineer, Automation Department, Design & Management Division July 2007 - Nov 2011\nInitiated the automation of the CCS plant in Zambia - China’s largest overseas investment in a copper smelter (over\n$300 million), creating 1000+ jobs and reshaping the supply pattern of copper in Africa\nAccomplished the leading smelt furnace control system (first achieved by Chinese), which broke the technology\nmonopoly and price-fixing of an Australian company and save $2+ million in costs\nTransformed the technical result into the product, guided a team to achieve better application effect, and promoted\nadoption of innovative solutions in the Kunpeng Copper Smelter in Sichuan, after the 2008 Wenchuan Earthquake\nAwarded the 1st Prize of Science and Technology Award in 2010 and the 1st Prize of Engineering Design Award by\nChina Nonferrous Metallurgical Industry Association in 2009\nADDITIONAL____________________________________________________________________________________",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "publications",
+      "text": "Published papers (indexed by EI) in journals of manufacturing, such as International Journal of Manufacturing Tech",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "other",
+      "text": "and Mgmt ; reviewed papers for conferences on system and control, such as American Control Conference\nOrganized donation of food and clothes to Zambian employees in the CCS plant, trained them in engineering;\nimproved the friendship between Zambian residents and Chinese employees\nEnthusiastic about astronomy for 19 years; built the College Amateur Astronomer Club as the 1st President;\norganized events: outdoor observation, planetarium visits, tutoring school children in astronomy as volunteers, etc;\ngranted Distinguished Amateur Astronomer Award by Harbin Amateur Astronomer Society in 2006\nLed the China Red Arrows Rescue; took training: running, climbing, and diving; fulfilled emergency rescue tasks\nTook leadership role in the Haiyan English Salon; volunteered to be an English tutor in the Do-See Language Camp\nLived in Africa for over a year, and backpacked in 17 countries in Europe, Africa, Asia and North America\nCambridge, MA\nAug 2016 - June 2018\nHarbin, China\nSept 2003 - July 2007\nBeijing, China\nDec 2011 - Jan 2016",
+      "page_range": [
+        1,
+        1
+      ]
+    }
+  ]
+}

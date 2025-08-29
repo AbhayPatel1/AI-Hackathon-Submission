@@ -1,0 +1,155 @@
+RESUME
+ Ajay Goyal
+ +91-9815459175,9927020157
+ ajay.goyal2411@gmail.com
+ CAREEER OBJECTIVE
+Intend to carry out research work in an academic environment with young and dedicated brains where ideas
+can be gathered and communicated.
+ TECHNICAL SKILLS
+Metal Cutting modeling, Fourier series and transformation, Bone mechanotransduction, Strength of
+Materials, Mechanics, optimization methods, fatigue failure, regression methods, neural networks
+ WORKING EXPERIENCE
+ GLA University, Mathura (15 th July 2014 to 30 th December 2014)
+Working as Assistant Professor in Mechanical Engineering Department
+ Mangalayatan University, Aligarh (from 15 th July 2013 to 10 th July 2014)
+Worked as Assistant Professor in Mechanical Engineering Department
+Courses taught: Machine Design 1 and 2, Heat and Mass Transfer
+ Gateforum (GATE coaching classes), Aligarh.
+Subjects taught: Strength of Materials
+ Sachdeva Institute of Technology, Mathura (from 22 th July 2010 to 22 th July 2011)
+Worked as Lecturer in Mechanical department
+Courses taught: Manufacturing science II, Mechanics, Strength of Materials, and Mechanical Workshop
+ Starion India Pvt. Ltd., NOIDA (from 26 th September 2009 to 21 st June 2010)
+Worked as Production Engineer, deployed in washing machine department where semi-automatic
+machines are manufactured
+ PUBLICATIONS
+ A.Goyal, R.K. Sharma,” Simplified Mathematical Modeling of Temperature Rise inTurning Operation
+Using MATLAB”, Jordan Journal of Mechanical and Industrial Engineering, vol. 9(2), pp 103-111, 2015
+ A. Goyal, “Generation of Temperature Rise Distribution at Chip of EN31 Steel Due to Primary
+Deformation Zone during Turning Using MATLAB® and to Study its Machinability Behavior with CVD
+Carbide Insert”, International Journal of Engineering Trends and Technology, vol. 15, pp. 145-152, 2014
+ A. Goyal , S. Kumar , S. Dhiman , R.K. Sharma,“Studying methods of estimating Heat Generation at
+Three Different Zones in Metal cutting: A review of Analytical models’, International Journal of
+Engineering Trends and Technology, vol. 8 pp 532 – 545, 2014
+ A. Singh, A. Goyal, S. Dhiman, R.K. Sharma, S. Kumar, “Machinability Behavior of Medium Carbon Steel
+(EN38) using PCBN inserts during turning process”, International Conference on Smart Technologies for
+Mechanical Engineering , Delhi College of Engineering’, ISBN 978-93-83083-35-0 , pp 1253 – 1257,
+June 2013
+ A. Goyal, S. Kumar, S. Dhiman, R.K. Sharma, “A study of temperature measuring experimental
+techniques used in metal cutting”, Jordan Journal of Mechanical and Industrial Engineering, vol. 8, pp 82-
+93, 2014
+ A. Goyal, S. Kumar, S. Dhiman, R.K. Sharma, “A Study of Analytical Models of Heat Generation at Three
+Different Zones in Metal Cutting”, 3 rd International Conference of National Institute of Technology,
+Jalandhar, Department of Industrial and Production engineering’ pp 882 – 894, March 2013
+ WORKSHOPS
+ 3 day workshop at GLA University on Faculty Development Program in July 14.
+ REVIEWER
+ Premier Publication Journals since August 2014.
+ Jordan Journal of Mechanical and Industrial Engineering since October 2014.
+ SOFTWARE SKILLS
+
+MATLAB9 (Image Processing, Neural Networks), Pro Engineer, MS Office Suite, Rstudio, ImageJ, ABACUS
+ EDUCATIONAL QUALIFICATION
+Examination
+Discipline/Board
+Institution
+Duration of course
+Percentage
+Indian Institute of
+Doctor of Philosophy
+BioMechanics
+Technology, Ropar,
+Since January 2015
+(Ph.D.)
+Punjab
+CAD CAM
+Masters of Technology
+NIT Hamirpur (Himachal
+(Mechanical
+2011-2013
+8.79/10 (absolute)
+Pradesh)
+(M.Tech.)
+Engineering
+Department)
+BharatiVidyapeeth
+Bachelor of Engineering
+Production
+(B.V.P.) University, Pune
+2005-2009
+64.30%
+(B.E.)
+(Maharashtra)
+Modi Public School
+XII
+C.B.S.E.
+2003-2004
+65.20%
+(Rajasthan)
+Sacred Heart Convent
+X
+I.C.S.E.
+Higher Sec. School,
+2001-2002
+80.66%
+Mathura (Uttar Pradesh)
+ PROJECTS UNDERTAKEN AT COLLEGE LEVEL
+Project Title
+Mathematical Computation of Thermal Modeling of EN31 Steel machined with
+(Masters of Technology)
+CVD coated carbide insert for turning process using MATLAB programming
+Analytical models capable of determining temperature rise distribution at work piece and chip due to combined effect
+of deformation zones during machining are simplified in a step by step manner along with relating them with basic
+machining parameters with the help of MATLAB programming. The coding is validated with already developed results
+of scientists for various machining parameters. The coding serves as generalized algorithm to generate temperature
+rise contour graphs with respect to various coordinates of work piece and chip for any set of machining parameters in
+few seconds.
+The developed coding is used to determine temperature rise distribution at work piece and chip of EN31 Steel when
+machined with MTCVD coated carbide insert. Total 27 experiments were performed with various combinations of
+cutting parameters to obtain input parameters like cutting forces (dynamometer), chip thickness (Vernier) etc. These
+input parameters are used to calculate other input parameters like shear angle, friction angle, other developed forces,
+tool-chip contact length etc. Contour graphs are developed using obtained input parameters and tabulated to
+compare variation of temperature rise and cutting forces with respect to cutting parameters.
+Project Title
+Development of CNC programming software
+( Bachelor of Engineering )
+Developing software in Visual Basic which has the capability to generate CNC Programming just by pressing buttons
+visible on window of software
+ PhD Research Title
+Invertible Computer Model for Bone Adaptation to Mechanical Environment
+ INDUSTRIAL TRAINING
+ Janta Engineers & Company (Iron), Faridabad ( from 13 th June 2009 to 10 th September 2009 )
+I was the part of a team which handles all the work related to bidding (excluding estimating cost of
+project). I have also learned to execute on-line bidding.
+ Indian Oil Corporation Ltd., Mathura Refinery (from 08 th June 2007 to 07 th July 2007)
+I was engaged in machine shop where I have learned to perform various operations on lathe machine
+
+ ACHIEVEMENTS
+ Overall topper of CAD-CAM branch.
+ GATE 2011 qualified in Mechanical stream with 425 score
+ Project of generating software for CNC programming was accessed as the best B.E. project of the year
+2009 by Tata Consultancy Services (TCS)
+ Won 100% attendance award during my tenure of B.E.
+EXTRA CURRICULAR ACTIVITIES
+ Training & Placement Representative (TPR)ofM.Tech.students at NIT Hamirpur 2012-13.
+ Participated in various group discussion and paper presentation competitions at various colleges during
+B.E. duration
+ Participated in blood donation camp held every year at B.V.P. University.
+ HOBBIES
+Delivering knowledge, Hindi Poetry and Dancing
+ STRENGTH
+ Quick Learner
+ Team player with pragmatic approach
+ Workaholic
+ PERSONAL PROFILE
+Father’s Name
+Sh. Dinesh Chand Goyal
+Date of birth
+24 th November, 1985
+Marital Status
+Married
+Permanent Address
+Amarshri Niwas, C-23 Krishna Nagar, Mathura, (U.P.)
+INDIA - 281004.
+Languages Known
+Hindi, English

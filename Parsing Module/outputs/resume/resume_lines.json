@@ -1,0 +1,1889 @@
+{
+  "meta": {
+    "source_path": "/var/folders/8y/b39zbltj6qd412h6sqnv2fp00000gn/T/apply_z59pp1s9/in/resume.pdf",
+    "pages": 1,
+    "strategy": "two_column_first",
+    "interleave": false
+  },
+  "lines": [
+    {
+      "page": 1,
+      "text": "YEAR",
+      "bbox": [
+        61.439998626708984,
+        60.4482421875,
+        85.88593292236328,
+        70.99951171875
+      ],
+      "left_indent": 61.439998626708984,
+      "width": 24.445934295654297,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "2018",
+      "bbox": [
+        63.50400161743164,
+        73.40997314453125,
+        83.77867126464844,
+        82.40997314453125
+      ],
+      "left_indent": 63.50400161743164,
+      "width": 20.274669647216797,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "2017",
+      "bbox": [
+        63.50400161743164,
+        84.95001220703125,
+        83.77867126464844,
+        93.95001220703125
+      ],
+      "left_indent": 63.50400161743164,
+      "width": 20.274669647216797,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "2013",
+      "bbox": [
+        63.50400161743164,
+        96.469970703125,
+        83.77867126464844,
+        105.469970703125
+      ],
+      "left_indent": 63.50400161743164,
+      "width": 20.274669647216797,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "2011",
+      "bbox": [
+        63.50400161743164,
+        107.8699951171875,
+        83.77867126464844,
+        116.8699951171875
+      ],
+      "left_indent": 63.50400161743164,
+      "width": 20.274669647216797,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "INTERNSHIPS",
+      "bbox": [
+        24.959999084472656,
+        117.63603210449219,
+        87.76959228515625,
+        129.31277465820312
+      ],
+      "left_indent": 24.959999084472656,
+      "width": 62.809593200683594,
+      "is_bold": true,
+      "font_size": 9.960000038146973,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Elucidata",
+      "bbox": [
+        24.959999084472656,
+        131.86996459960938,
+        219.981689453125,
+        141.82997131347656
+      ],
+      "left_indent": 24.959999084472656,
+      "width": 195.02169036865234,
+      "is_bold": true,
+      "font_size": 9.960000038146973,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Data Consulting Pvt. Ltd. (New Delhi)",
+      "bbox": [
+        24.959999084472656,
+        131.86996459960938,
+        219.981689453125,
+        141.82997131347656
+      ],
+      "left_indent": 24.959999084472656,
+      "width": 195.02169036865234,
+      "is_bold": true,
+      "font_size": 9.960000038146973,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "EluciTrack (Tracker for",
+      "bbox": [
+        24.959999084472656,
+        144.3499755859375,
+        189.65603637695312,
+        153.3499755859375
+      ],
+      "left_indent": 24.959999084472656,
+      "width": 164.69603729248047,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Data Science projects)",
+      "bbox": [
+        24.959999084472656,
+        144.3499755859375,
+        189.65603637695312,
+        153.3499755859375
+      ],
+      "left_indent": 24.959999084472656,
+      "width": 164.69603729248047,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        29.520000457763672,
+        152.34495544433594,
+        35.26199722290039,
+        164.71095275878906
+      ],
+      "left_indent": 29.520000457763672,
+      "width": 5.741996765136719,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        29.520000457763672,
+        163.38499450683594,
+        35.26199722290039,
+        175.75099182128906
+      ],
+      "left_indent": 29.520000457763672,
+      "width": 5.741996765136719,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        29.520000457763672,
+        185.34495544433594,
+        35.26199722290039,
+        197.71095275878906
+      ],
+      "left_indent": 29.520000457763672,
+      "width": 5.741996765136719,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        29.520000457763672,
+        196.38499450683594,
+        35.26199722290039,
+        208.75099182128906
+      ],
+      "left_indent": 29.520000457763672,
+      "width": 5.741996765136719,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        29.520000457763672,
+        207.3049774169922,
+        35.26199722290039,
+        219.6709747314453
+      ],
+      "left_indent": 29.520000457763672,
+      "width": 5.741996765136719,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "IndiaMart (Noida, Head Office)",
+      "bbox": [
+        24.959999084472656,
+        221.98995971679688,
+        151.24009704589844,
+        231.94996643066406
+      ],
+      "left_indent": 24.959999084472656,
+      "width": 126.28009796142578,
+      "is_bold": true,
+      "font_size": 9.960000038146973,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        29.520000457763672,
+        242.46495056152344,
+        35.26199722290039,
+        254.83094787597656
+      ],
+      "left_indent": 29.520000457763672,
+      "width": 5.741996765136719,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        29.520000457763672,
+        264.54498291015625,
+        35.26199722290039,
+        276.9109802246094
+      ],
+      "left_indent": 29.520000457763672,
+      "width": 5.741996765136719,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        29.520000457763672,
+        275.4949951171875,
+        35.26199722290039,
+        287.8609924316406
+      ],
+      "left_indent": 29.520000457763672,
+      "width": 5.741996765136719,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        29.520000457763672,
+        297.45501708984375,
+        35.26199722290039,
+        309.8210144042969
+      ],
+      "left_indent": 29.520000457763672,
+      "width": 5.741996765136719,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Stock Price Prediction",
+      "bbox": [
+        24.959999084472656,
+        324.6199951171875,
+        110.29467010498047,
+        333.6199951171875
+      ],
+      "left_indent": 24.959999084472656,
+      "width": 85.33467102050781,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        29.520000457763672,
+        332.614990234375,
+        35.26199722290039,
+        344.9809875488281
+      ],
+      "left_indent": 29.520000457763672,
+      "width": 5.741996765136719,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        29.520000457763672,
+        343.6549987792969,
+        35.26199722290039,
+        356.02099609375
+      ],
+      "left_indent": 29.520000457763672,
+      "width": 5.741996765136719,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "specific factors such as company growth, EPS change etc",
+      "bbox": [
+        47.52000045776367,
+        357.4999694824219,
+        256.96466064453125,
+        366.4999694824219
+      ],
+      "left_indent": 47.52000045776367,
+      "width": 209.44466018676758,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "ACADEMIC PROJECTS",
+      "bbox": [
+        24.959999084472656,
+        412.98602294921875,
+        122.4204330444336,
+        424.66278076171875
+      ],
+      "left_indent": 24.959999084472656,
+      "width": 97.46043395996094,
+      "is_bold": true,
+      "font_size": 9.960000038146973,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        29.520000457763672,
+        434.9750061035156,
+        35.26199722290039,
+        447.34100341796875
+      ],
+      "left_indent": 29.520000457763672,
+      "width": 5.741996765136719,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        29.520000457763672,
+        446.0149841308594,
+        35.26199722290039,
+        458.3809814453125
+      ],
+      "left_indent": 29.520000457763672,
+      "width": 5.741996765136719,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        29.520000457763672,
+        456.9549865722656,
+        35.26199722290039,
+        469.32098388671875
+      ],
+      "left_indent": 29.520000457763672,
+      "width": 5.741996765136719,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        29.520000457763672,
+        489.9549865722656,
+        35.26199722290039,
+        502.32098388671875
+      ],
+      "left_indent": 29.520000457763672,
+      "width": 5.741996765136719,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        29.520000457763672,
+        500.9949951171875,
+        35.26199722290039,
+        513.3609619140625
+      ],
+      "left_indent": 29.520000457763672,
+      "width": 5.741996765136719,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        29.520000457763672,
+        533.875,
+        35.26199722290039,
+        546.240966796875
+      ],
+      "left_indent": 29.520000457763672,
+      "width": 5.741996765136719,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        29.520000457763672,
+        544.9149780273438,
+        35.26199722290039,
+        557.2809448242188
+      ],
+      "left_indent": 29.520000457763672,
+      "width": 5.741996765136719,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        29.520000457763672,
+        566.875,
+        35.26199722290039,
+        579.240966796875
+      ],
+      "left_indent": 29.520000457763672,
+      "width": 5.741996765136719,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        29.520000457763672,
+        577.7949829101562,
+        35.26199722290039,
+        590.1609497070312
+      ],
+      "left_indent": 29.520000457763672,
+      "width": 5.741996765136719,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "TECHNICAL SKILLS",
+      "bbox": [
+        24.959999084472656,
+        590.4860229492188,
+        114.17333984375,
+        602.1627197265625
+      ],
+      "left_indent": 24.959999084472656,
+      "width": 89.21334075927734,
+      "is_bold": true,
+      "font_size": 9.960000038146973,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "POSITIONS OF RESPONSIBILITY",
+      "bbox": [
+        24.959999084472656,
+        614.2460327148438,
+        172.0133514404297,
+        625.9227294921875
+      ],
+      "left_indent": 24.959999084472656,
+      "width": 147.05335235595703,
+      "is_bold": true,
+      "font_size": 9.960000038146973,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        29.520000457763672,
+        636.2349853515625,
+        35.26199722290039,
+        648.6009521484375
+      ],
+      "left_indent": 29.520000457763672,
+      "width": 5.741996765136719,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        29.520000457763672,
+        647.3049926757812,
+        35.26199722290039,
+        659.6709594726562
+      ],
+      "left_indent": 29.520000457763672,
+      "width": 5.741996765136719,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        29.520000457763672,
+        658.2249755859375,
+        35.26199722290039,
+        670.5909423828125
+      ],
+      "left_indent": 29.520000457763672,
+      "width": 5.741996765136719,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        29.520000457763672,
+        680.1849975585938,
+        35.26199722290039,
+        692.5509643554688
+      ],
+      "left_indent": 29.520000457763672,
+      "width": 5.741996765136719,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        29.520000457763672,
+        691.2249755859375,
+        35.26199722290039,
+        703.5909423828125
+      ],
+      "left_indent": 29.520000457763672,
+      "width": 5.741996765136719,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        29.520000457763672,
+        724.2249755859375,
+        35.26199722290039,
+        736.5909423828125
+      ],
+      "left_indent": 29.520000457763672,
+      "width": 5.741996765136719,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        29.520000457763672,
+        735.1409912109375,
+        35.26199722290039,
+        747.5069580078125
+      ],
+      "left_indent": 29.520000457763672,
+      "width": 5.741996765136719,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "EXTRA CURRICULARS",
+      "bbox": [
+        24.959999084472656,
+        747.83203125,
+        126.41333770751953,
+        759.5087280273438
+      ],
+      "left_indent": 24.959999084472656,
+      "width": 101.45333862304688,
+      "is_bold": true,
+      "font_size": 9.960000038146973,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Analytics",
+      "bbox": [
+        37.31999969482422,
+        760.0242309570312,
+        77.48593139648438,
+        770.5755004882812
+      ],
+      "left_indent": 37.31999969482422,
+      "width": 40.165931701660156,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Scouts",
+      "bbox": [
+        43.08000183105469,
+        772.1442260742188,
+        71.84593200683594,
+        782.6954956054688
+      ],
+      "left_indent": 43.08000183105469,
+      "width": 28.76593017578125,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Films & Media",
+      "bbox": [
+        27.0,
+        784.2642211914062,
+        87.8059310913086,
+        794.8154907226562
+      ],
+      "left_indent": 27.0,
+      "width": 60.805931091308594,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "Sports",
+      "bbox": [
+        43.08000183105469,
+        796.3842163085938,
+        71.72593688964844,
+        806.9354858398438
+      ],
+      "left_indent": 43.08000183105469,
+      "width": 28.64593505859375,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 1
+    },
+    {
+      "page": 1,
+      "text": "DURGA KANT GUPTA Email : durgak@iitk.ac.in Contact: 919044994891",
+      "bbox": [
+        24.959999084472656,
+        26.69647216796875,
+        570.1442260742188,
+        47.79901123046875
+      ],
+      "left_indent": 24.959999084472656,
+      "width": 545.1842269897461,
+      "is_bold": true,
+      "font_size": 12.431999969482423,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "ACADEMIC DETAILS",
+      "bbox": [
+        24.959999084472656,
+        48.37602233886719,
+        433.25787353515625,
+        60.052757263183594
+      ],
+      "left_indent": 24.959999084472656,
+      "width": 408.2978744506836,
+      "is_bold": true,
+      "font_size": 9.960000038146973,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "DEGREE",
+      "bbox": [
+        211.49000549316406,
+        60.4482421875,
+        247.1919403076172,
+        70.99951171875
+      ],
+      "left_indent": 211.49000549316406,
+      "width": 35.701934814453125,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "INSTITUTE",
+      "bbox": [
+        381.07000732421875,
+        60.4482421875,
+        428.6519470214844,
+        70.99951171875
+      ],
+      "left_indent": 381.07000732421875,
+      "width": 47.581939697265625,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "CGPA",
+      "bbox": [
+        509.739990234375,
+        60.4482421875,
+        534.0419311523438,
+        70.99951171875
+      ],
+      "left_indent": 509.739990234375,
+      "width": 24.30194091796875,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "M.Tech (Industrial & Management Engineering) IIT Kanpur",
+      "bbox": [
+        141.25999450683594,
+        73.40997314453125,
+        424.6246643066406,
+        82.40997314453125
+      ],
+      "left_indent": 141.25999450683594,
+      "width": 176.18467712402344,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "9.2/10",
+      "bbox": [
+        508.8999938964844,
+        73.40997314453125,
+        534.9346923828125,
+        82.40997314453125
+      ],
+      "left_indent": 508.8999938964844,
+      "width": 26.034698486328125,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "B.Tech (Biological Sciences & Bio Engineering) IIT Kanpur",
+      "bbox": [
+        144.74000549316406,
+        84.95001220703125,
+        424.6246643066406,
+        93.95001220703125
+      ],
+      "left_indent": 144.74000549316406,
+      "width": 169.3446502685547,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "7.3/10",
+      "bbox": [
+        508.8999938964844,
+        84.95001220703125,
+        534.9346923828125,
+        93.95001220703125
+      ],
+      "left_indent": 508.8999938964844,
+      "width": 26.034698486328125,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Intermediate (CBSE)",
+      "bbox": [
+        191.5399932861328,
+        96.469970703125,
+        267.1646728515625,
+        105.469970703125
+      ],
+      "left_indent": 191.5399932861328,
+      "width": 75.62467956542969,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "JNV, Bangalore",
+      "bbox": [
+        376.3900146484375,
+        96.469970703125,
+        433.3846740722656,
+        105.469970703125
+      ],
+      "left_indent": 376.3900146484375,
+      "width": 56.994659423828125,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "89.6%",
+      "bbox": [
+        509.739990234375,
+        96.469970703125,
+        534.2146606445312,
+        105.469970703125
+      ],
+      "left_indent": 509.739990234375,
+      "width": 24.47467041015625,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "High School (CBSE)",
+      "bbox": [
+        194.05999755859375,
+        107.8699951171875,
+        264.7646789550781,
+        116.8699951171875
+      ],
+      "left_indent": 194.05999755859375,
+      "width": 70.70468139648438,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "JNV, Kannauj",
+      "bbox": [
+        380.1099853515625,
+        107.8699951171875,
+        429.9046630859375,
+        116.8699951171875
+      ],
+      "left_indent": 380.1099853515625,
+      "width": 49.794677734375,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "10/10",
+      "bbox": [
+        510.1000061035156,
+        107.8699951171875,
+        533.8546752929688,
+        116.8699951171875
+      ],
+      "left_indent": 510.1000061035156,
+      "width": 23.754669189453125,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "(MayJuly 2017)",
+      "bbox": [
+        504.70001220703125,
+        131.86996459960938,
+        569.4000854492188,
+        141.82997131347656
+      ],
+      "left_indent": 504.70001220703125,
+      "width": 64.7000732421875,
+      "is_bold": false,
+      "font_size": 9.960000038146973,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Implemented Airbnb’s Knowledge Repo to make analysis/insights of different",
+      "bbox": [
+        47.52000045776367,
+        155.26995849609375,
+        555.9346923828125,
+        164.26995849609375
+      ],
+      "left_indent": 47.52000045776367,
+      "width": 508.4146919250488,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Data Science projects reproducible, trackable and shareable",
+      "bbox": [
+        47.52000045776367,
+        155.26995849609375,
+        555.9346923828125,
+        164.26995849609375
+      ],
+      "left_indent": 47.52000045776367,
+      "width": 508.4146919250488,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Created a Python package for generating signed URLs corresponding to files on Amazon S3 to facilitatenavigation and viewing files",
+      "bbox": [
+        47.52000045776367,
+        166.30999755859375,
+        531.0946655273438,
+        175.30999755859375
+      ],
+      "left_indent": 47.52000045776367,
+      "width": 483.5746650695801,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "cBioportal_Wrapper (cBioportal is a website to access and analyze opensource Cancer Genomics datasets)",
+      "bbox": [
+        24.959999084472656,
+        177.3499755859375,
+        416.4389953613281,
+        186.3499755859375
+      ],
+      "left_indent": 24.959999084472656,
+      "width": 391.47899627685547,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Contributed in creating an Rpackage namely cBioportal_Wrapper for downloading and analyzing all the cancer data from cBioportal website",
+      "bbox": [
+        47.52000045776367,
+        188.26995849609375,
+        566.8546752929688,
+        197.26995849609375
+      ],
+      "left_indent": 47.52000045776367,
+      "width": 519.3346748352051,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Created scripts to perform Survival Analysis on cancer patients data, mutual exclusivity analysis using Fisher’s Exact Test for different genes",
+      "bbox": [
+        47.52000045776367,
+        199.30999755859375,
+        566.3746948242188,
+        208.30999755859375
+      ],
+      "left_indent": 47.52000045776367,
+      "width": 518.8546943664551,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Used R API’s to connect this package to a mutation curating database to extract the existing literature associated with the known mutations",
+      "bbox": [
+        47.52000045776367,
+        210.22998046875,
+        565.4146728515625,
+        219.22998046875
+      ],
+      "left_indent": 47.52000045776367,
+      "width": 517.8946723937988,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "(MayJuly 2016)",
+      "bbox": [
+        504.70001220703125,
+        221.98995971679688,
+        569.3892211914062,
+        231.94996643066406
+      ],
+      "left_indent": 504.70001220703125,
+      "width": 64.689208984375,
+      "is_bold": false,
+      "font_size": 9.960000038146973,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Buy Leads Enrichment and Prediction using Advanced",
+      "bbox": [
+        24.959999084472656,
+        234.469970703125,
+        425.6341552734375,
+        243.469970703125
+      ],
+      "left_indent": 24.959999084472656,
+      "width": 400.67415618896484,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Data Analytics (Buy Leads: Online buyer requirements)",
+      "bbox": [
+        24.959999084472656,
+        234.469970703125,
+        425.6341552734375,
+        243.469970703125
+      ],
+      "left_indent": 24.959999084472656,
+      "width": 400.67415618896484,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Performed CostBenefit Analysis of AutoRejection of Intent generated leads by matching product name with its secondary micro category",
+      "bbox": [
+        47.52000045776367,
+        245.38995361328125,
+        560.0146484375,
+        254.38995361328125
+      ],
+      "left_indent": 47.52000045776367,
+      "width": 512.4946479797363,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Impact: Saved 8440 genuine leads/week from deletion by suggesting not to implement auto rejection inside the system",
+      "bbox": [
+        49.08000183105469,
+        256.42999267578125,
+        490.6546630859375,
+        265.42999267578125
+      ],
+      "left_indent": 49.08000183105469,
+      "width": 441.5746612548828,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Developed, analyzed and initiated the implementation of Automatic",
+      "bbox": [
+        47.52000045776367,
+        267.469970703125,
+        561.8917236328125,
+        276.469970703125
+      ],
+      "left_indent": 47.52000045776367,
+      "width": 514.3717231750488,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Product Mapper to map a product to its most relevant Micro Category",
+      "bbox": [
+        47.52000045776367,
+        267.469970703125,
+        561.8917236328125,
+        276.469970703125
+      ],
+      "left_indent": 47.52000045776367,
+      "width": 514.3717231750488,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Considered maximum string match (of product name with Mcat name) and maximum no. of leads for that Mcat in previous 3 months data",
+      "bbox": [
+        47.52000045776367,
+        278.41998291015625,
+        559.4146728515625,
+        287.41998291015625
+      ],
+      "left_indent": 47.52000045776367,
+      "width": 511.8946723937988,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Impact: Resulted in >100% increase from 142 to 321 leads per product when compared to the existing search algorithm on IndiaMart portal",
+      "bbox": [
+        47.400001525878906,
+        289.4599609375,
+        563.8546752929688,
+        298.4599609375
+      ],
+      "left_indent": 47.400001525878906,
+      "width": 516.4546737670898,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Performed Text Analytics to create an extensive database of most recurred Brands for a particular Micro category of products",
+      "bbox": [
+        47.52000045776367,
+        300.3800048828125,
+        516.3346557617188,
+        309.3800048828125
+      ],
+      "left_indent": 47.52000045776367,
+      "width": 468.8146553039551,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "YavTech LLC (Washington DC, USA) (Dec 2015)",
+      "bbox": [
+        24.959999084472656,
+        312.1399841308594,
+        568.9199829101562,
+        322.0999755859375
+      ],
+      "left_indent": 24.959999084472656,
+      "width": 543.9599838256836,
+      "is_bold": true,
+      "font_size": 9.960000038146973,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Developed a Linear Regression model in R for the prediction of Future Stock prices of a company based on its past financial data",
+      "bbox": [
+        47.52000045776367,
+        335.53997802734375,
+        521.3746948242188,
+        344.53997802734375
+      ],
+      "left_indent": 47.52000045776367,
+      "width": 473.8546943664551,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Modeling factorsused for the prediction were GDP (Economic Growth), Interest rates, sector specific factors such as P/E ratio and company",
+      "bbox": [
+        47.52000045776367,
+        346.5799865722656,
+        563.3627319335938,
+        355.5799865722656
+      ],
+      "left_indent": 47.52000045776367,
+      "width": 515.8427314758301,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "RELEVANT COURSES",
+      "bbox": [
+        24.959999084472656,
+        367.2660217285156,
+        537.2403564453125,
+        378.9427795410156
+      ],
+      "left_indent": 24.959999084472656,
+      "width": 512.2803573608398,
+      "is_bold": true,
+      "font_size": 9.960000038146973,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Statistics and Computing:",
+      "bbox": [
+        24.959999084472656,
+        381.2599792480469,
+        545.9746704101562,
+        390.2599792480469
+      ],
+      "left_indent": 24.959999084472656,
+      "width": 521.0146713256836,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Data Mining and Knowledge Discovery| Machine Learning Techniques| Statistical Modeling for Business Analytics",
+      "bbox": [
+        24.959999084472656,
+        381.2599792480469,
+        545.9746704101562,
+        390.2599792480469
+      ],
+      "left_indent": 24.959999084472656,
+      "width": 521.0146713256836,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Data Structure & Algorithms | Probability & Statistics |Basic Computing | Advanced Statistical Methods for Business Analytics |Regression Analysis",
+      "bbox": [
+        24.959999084472656,
+        392.29998779296875,
+        563.3746948242188,
+        401.29998779296875
+      ],
+      "left_indent": 24.959999084472656,
+      "width": 538.4146957397461,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Finance & others: Accounting and Finance | Financial Engineering | Introduction to Economics | Marketing",
+      "bbox": [
+        24.959999084472656,
+        403.219970703125,
+        547.4146728515625,
+        412.219970703125
+      ],
+      "left_indent": 24.959999084472656,
+      "width": 522.4546737670898,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Research | Social Media Analytics",
+      "bbox": [
+        24.959999084472656,
+        403.219970703125,
+        547.4146728515625,
+        412.219970703125
+      ],
+      "left_indent": 24.959999084472656,
+      "width": 522.4546737670898,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Credit Card Fraud Detection using",
+      "bbox": [
+        24.959999084472656,
+        426.97998046875,
+        568.989013671875,
+        435.97998046875
+      ],
+      "left_indent": 24.959999084472656,
+      "width": 544.0290145874023,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Machine Learning Algorithms (Under Graduate Project) (JanApr 2017)",
+      "bbox": [
+        24.959999084472656,
+        426.97998046875,
+        568.989013671875,
+        435.97998046875
+      ],
+      "left_indent": 24.959999084472656,
+      "width": 544.0290145874023,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Dataset consisted of 284, 807 tuples and 28 features with only 492 cases of frauds ( 0.172% ) leading to the problem of class Imbalance",
+      "bbox": [
+        47.52000045776367,
+        437.8999938964844,
+        536.9746704101562,
+        446.8999938964844
+      ],
+      "left_indent": 47.52000045776367,
+      "width": 489.4546699523926,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Applied SMOTE to handle Class Imbalance problem and used Confusion matrix and ROC curve for quantification of accuracy of the model",
+      "bbox": [
+        47.52000045776367,
+        448.9399719238281,
+        556.294677734375,
+        457.9399719238281
+      ],
+      "left_indent": 47.52000045776367,
+      "width": 508.7746772766113,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Performed classification using Logistic Regression, Decision Tree, KNearest Neighbors, Support Vector Machines and Adaboost",
+      "bbox": [
+        47.52000045776367,
+        459.8799743652344,
+        518.8331909179688,
+        468.8799743652344
+      ],
+      "left_indent": 47.52000045776367,
+      "width": 471.3131904602051,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Result: On considering the tradeoff b/w accuracy and specificity, Decision tree performed best with 95.27% accuracy and specificity of 95.6%",
+      "bbox": [
+        47.400001525878906,
+        470.91998291015625,
+        567.4210815429688,
+        479.91998291015625
+      ],
+      "left_indent": 47.400001525878906,
+      "width": 520.0210800170898,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Prediction of Fuel Flow rate of an Aircraft during different phases of a Flight (",
+      "bbox": [
+        24.959999084472656,
+        481.8399963378906,
+        568.2689819335938,
+        490.8399963378906
+      ],
+      "left_indent": 24.959999084472656,
+      "width": 543.3089828491211,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Data Mining - IME672A) (JanApr 2017)",
+      "bbox": [
+        24.959999084472656,
+        481.8399963378906,
+        568.2689819335938,
+        490.8399963378906
+      ],
+      "left_indent": 24.959999084472656,
+      "width": 543.3089828491211,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Applied",
+      "bbox": [
+        47.52000045776367,
+        492.8799743652344,
+        555.3025512695312,
+        501.8799743652344
+      ],
+      "left_indent": 47.52000045776367,
+      "width": 507.7825508117676,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Data preprocessing techniques and PCA for dimensionality reduction on data taken from live competition on CrowdAnalytics.com",
+      "bbox": [
+        47.52000045776367,
+        492.8799743652344,
+        555.3025512695312,
+        501.8799743652344
+      ],
+      "left_indent": 47.52000045776367,
+      "width": 507.7825508117676,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Modeled using Lasso and Ridge Regression , Regression Tree , Artificial Neural network and Ensemble methods ( Random Forest and XGBoost )",
+      "bbox": [
+        47.52000045776367,
+        503.91998291015625,
+        570.0946655273438,
+        512.9199829101562
+      ],
+      "left_indent": 47.52000045776367,
+      "width": 522.5746650695801,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Result: Ensemble Methods performed better with RMSE of only ~2.6% compared to ~ 5% error rate obtained using other methods",
+      "bbox": [
+        47.400001525878906,
+        514.8399658203125,
+        523.9039916992188,
+        523.8399658203125
+      ],
+      "left_indent": 47.400001525878906,
+      "width": 476.50399017333984,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Time Series Forecasting model for Quarterly RBI lending rates (Statistical Modelling for Business Analytics - MBA652A) (JanApr 2017)",
+      "bbox": [
+        24.959999084472656,
+        525.8800048828125,
+        569.468994140625,
+        534.8800048828125
+      ],
+      "left_indent": 24.959999084472656,
+      "width": 544.5089950561523,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Approach1: Forecasted the RBI lending rate using ARIMA model, plotted Autocorrelation function to quantify the optimum no. of lags",
+      "bbox": [
+        47.52000045776367,
+        536.7999877929688,
+        543.9346923828125,
+        545.7999877929688
+      ],
+      "left_indent": 47.52000045776367,
+      "width": 496.4146919250488,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Approach2: Performed Autoregressive Distributed Lag Modeling of Interest rate with AR1 and Inflation rate of Immediate next quarters",
+      "bbox": [
+        47.52000045776367,
+        547.8399658203125,
+        549.2146606445312,
+        556.8399658203125
+      ],
+      "left_indent": 47.52000045776367,
+      "width": 501.6946601867676,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Result: Established that the current RBI lending rate depends significantly on the rate during the previous quarter for Autoregression",
+      "bbox": [
+        47.400001525878906,
+        558.760009765625,
+        539.1346435546875,
+        567.760009765625
+      ],
+      "left_indent": 47.400001525878906,
+      "width": 491.7346420288086,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Model resulted in a positive correlation between change in Inflation rate and change in Interest rate with a lag order of 2",
+      "bbox": [
+        47.52000045776367,
+        569.7999877929688,
+        489.9775695800781,
+        578.7999877929688
+      ],
+      "left_indent": 47.52000045776367,
+      "width": 442.45756912231445,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Concluded from this lag of order 2 that the Policy changes by government for countering inflation do not come into effect immediately",
+      "bbox": [
+        47.52000045776367,
+        580.719970703125,
+        547.0546875,
+        589.719970703125
+      ],
+      "left_indent": 47.52000045776367,
+      "width": 499.5346870422363,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Programming Language : R| Python| C |C++ |SQL |HTML | CSS |Bootstrap",
+      "bbox": [
+        24.959999084472656,
+        604.47998046875,
+        566.4467163085938,
+        613.47998046875
+      ],
+      "left_indent": 24.959999084472656,
+      "width": 541.4867172241211,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Software : RStudio |Excel Platforms : Windows | Linux Database: MySQL",
+      "bbox": [
+        24.959999084472656,
+        604.47998046875,
+        566.4467163085938,
+        613.47998046875
+      ],
+      "left_indent": 24.959999084472656,
+      "width": 541.4867172241211,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Department Placement Coordinator (Student Placement Cell, IIT Kanpur) (Apr 2016Apr 2017)",
+      "bbox": [
+        24.959999084472656,
+        628.239990234375,
+        572.3746948242188,
+        637.239990234375
+      ],
+      "left_indent": 24.959999084472656,
+      "width": 547.4146957397461,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Part of a 24member team entrusted with the responsibility of conducting successful placement session for 2017 graduating batch",
+      "bbox": [
+        47.52000045776367,
+        639.1599731445312,
+        523.4935913085938,
+        648.1599731445312
+      ],
+      "left_indent": 47.52000045776367,
+      "width": 475.9735908508301,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Negotiating with pharmaceutical, biotechnology, life sciences companies throughout the country to recruit students from the department",
+      "bbox": [
+        47.52000045776367,
+        650.22998046875,
+        551.6135864257812,
+        659.22998046875
+      ],
+      "left_indent": 47.52000045776367,
+      "width": 504.0935859680176,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Consulted HOD & professors to get more companies on board, Formulated proposals and conducted placement/internship sessions",
+      "bbox": [
+        47.52000045776367,
+        661.1499633789062,
+        533.2503051757812,
+        670.1499633789062
+      ],
+      "left_indent": 47.52000045776367,
+      "width": 485.7303047180176,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Coordinator, Informal’s, Udghosh`15 (Annual Intercollege sports festival of IIT Kanpur) (JanSep 2015)",
+      "bbox": [
+        24.959999084472656,
+        672.1900024414062,
+        568.8690185546875,
+        681.1900024414062
+      ],
+      "left_indent": 24.959999084472656,
+      "width": 543.9090194702148,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Leadership: Led a team of 25 secretaries for conducting over 20 midfestival informal events",
+      "bbox": [
+        47.52000045776367,
+        683.1099853515625,
+        389.14697265625,
+        692.1099853515625
+      ],
+      "left_indent": 47.52000045776367,
+      "width": 341.6269721984863,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Developed a detailed layout plan for the events and procured logistics for the setup through a number of dealers from Kanpur, Lucknow",
+      "bbox": [
+        47.52000045776367,
+        694.1499633789062,
+        551.7346801757812,
+        703.1499633789062
+      ],
+      "left_indent": 47.52000045776367,
+      "width": 504.2146797180176,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Initiatives: Started online registration portal for participants and new events such as blind date, paint ball etc. to add a new dimension of fun",
+      "bbox": [
+        47.52000045776367,
+        705.0699462890625,
+        566.8184814453125,
+        714.0699462890625
+      ],
+      "left_indent": 47.52000045776367,
+      "width": 519.2984809875488,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Senior Executive, Public Relations, Antaragni’15 (Annual Intercollege cultural festival of IIT Kanpur) (JanNov 2015)",
+      "bbox": [
+        24.959999084472656,
+        716.1099853515625,
+        568.2689819335938,
+        725.1099853515625
+      ],
+      "left_indent": 24.959999084472656,
+      "width": 543.3089828491211,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Part of a 25 member 3 tiered PR team responsible for contacting famouspersonalities",
+      "bbox": [
+        47.52000045776367,
+        727.1499633789062,
+        361.4500732421875,
+        736.1499633789062
+      ],
+      "left_indent": 47.52000045776367,
+      "width": 313.9300727844238,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "Responsible for the execution of Kavi Sammelan and India Haat, also for hospitality/accommodation of the celebrities coming to the festival",
+      "bbox": [
+        47.52000045776367,
+        738.0659790039062,
+        562.9588012695312,
+        747.0659790039062
+      ],
+      "left_indent": 47.52000045776367,
+      "width": 515.4388008117676,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "• Secured 1st position in Battlefield, a National Level Analytics Competition organized by Tiger Analytics & Techkriti IIT Kanpur",
+      "bbox": [
+        97.2239990234375,
+        758.9010009765625,
+        568.797607421875,
+        771.2669677734375
+      ],
+      "left_indent": 97.2239990234375,
+      "width": 471.5736083984375,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "• Recipient of Rajya Puraskar in scout, Received A grade in 248th National Adventure Program held at Pachmarhi hill station",
+      "bbox": [
+        97.2239990234375,
+        771.5009765625,
+        568.1746215820312,
+        783.866943359375
+      ],
+      "left_indent": 97.2239990234375,
+      "width": 470.95062255859375,
+      "is_bold": false,
+      "font_size": 9.0,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "• Represented the pool and Secured 1 st position in Bicycle Ad competition in Spectrum’14 (Annual Event, Films & Media Council)",
+      "bbox": [
+        97.2239990234375,
+        784.1010131835938,
+        569.6969604492188,
+        796.4669799804688
+      ],
+      "left_indent": 97.2239990234375,
+      "width": 472.47296142578125,
+      "is_bold": false,
+      "font_size": 8.5,
+      "column": 2
+    },
+    {
+      "page": 1,
+      "text": "• Participated in Cluster level Hand Ball Meet held at JNV Etah and cluster level Badminton Meet held at JNV Hathras (UP)",
+      "bbox": [
+        97.2239990234375,
+        796.8209838867188,
+        569.37451171875,
+        809.1869506835938
+      ],
+      "left_indent": 97.2239990234375,
+      "width": 472.1505126953125,
+      "is_bold": true,
+      "font_size": 9.0,
+      "column": 2
+    }
+  ],
+  "text_per_page": [
+    "YEAR\n2018\n2017\n2013\n2011\nINTERNSHIPS\nElucidata\nData Consulting Pvt. Ltd. (New Delhi)\nEluciTrack (Tracker for\nData Science projects)\n•\n•\n•\n•\n•\nIndiaMart (Noida, Head Office)\n•\n•\n•\n•\nStock Price Prediction\n•\n•\nspecific factors such as company growth, EPS change etc\nACADEMIC PROJECTS\n•\n•\n•\n•\n•\n•\n•\n•\n•\nTECHNICAL SKILLS\nPOSITIONS OF RESPONSIBILITY\n•\n•\n•\n•\n•\n•\n•\nEXTRA CURRICULARS\nAnalytics\nScouts\nFilms & Media\nSports\nDURGA KANT GUPTA Email : durgak@iitk.ac.in Contact: 919044994891\nACADEMIC DETAILS\nDEGREE\nINSTITUTE\nCGPA\nM.Tech (Industrial & Management Engineering) IIT Kanpur\n9.2/10\nB.Tech (Biological Sciences & Bio Engineering) IIT Kanpur\n7.3/10\nIntermediate (CBSE)\nJNV, Bangalore\n89.6%\nHigh School (CBSE)\nJNV, Kannauj\n10/10\n(MayJuly 2017)\nImplemented Airbnb’s Knowledge Repo to make analysis/insights of different\nData Science projects reproducible, trackable and shareable\nCreated a Python package for generating signed URLs corresponding to files on Amazon S3 to facilitatenavigation and viewing files\ncBioportal_Wrapper (cBioportal is a website to access and analyze opensource Cancer Genomics datasets)\nContributed in creating an Rpackage namely cBioportal_Wrapper for downloading and analyzing all the cancer data from cBioportal website\nCreated scripts to perform Survival Analysis on cancer patients data, mutual exclusivity analysis using Fisher’s Exact Test for different genes\nUsed R API’s to connect this package to a mutation curating database to extract the existing literature associated with the known mutations\n(MayJuly 2016)\nBuy Leads Enrichment and Prediction using Advanced\nData Analytics (Buy Leads: Online buyer requirements)\nPerformed CostBenefit Analysis of AutoRejection of Intent generated leads by matching product name with its secondary micro category\nImpact: Saved 8440 genuine leads/week from deletion by suggesting not to implement auto rejection inside the system\nDeveloped, analyzed and initiated the implementation of Automatic\nProduct Mapper to map a product to its most relevant Micro Category\nConsidered maximum string match (of product name with Mcat name) and maximum no. of leads for that Mcat in previous 3 months data\nImpact: Resulted in >100% increase from 142 to 321 leads per product when compared to the existing search algorithm on IndiaMart portal\nPerformed Text Analytics to create an extensive database of most recurred Brands for a particular Micro category of products\nYavTech LLC (Washington DC, USA) (Dec 2015)\nDeveloped a Linear Regression model in R for the prediction of Future Stock prices of a company based on its past financial data\nModeling factorsused for the prediction were GDP (Economic Growth), Interest rates, sector specific factors such as P/E ratio and company\nRELEVANT COURSES\nStatistics and Computing:\nData Mining and Knowledge Discovery| Machine Learning Techniques| Statistical Modeling for Business Analytics\nData Structure & Algorithms | Probability & Statistics |Basic Computing | Advanced Statistical Methods for Business Analytics |Regression Analysis\nFinance & others: Accounting and Finance | Financial Engineering | Introduction to Economics | Marketing\nResearch | Social Media Analytics\nCredit Card Fraud Detection using\nMachine Learning Algorithms (Under Graduate Project) (JanApr 2017)\nDataset consisted of 284, 807 tuples and 28 features with only 492 cases of frauds ( 0.172% ) leading to the problem of class Imbalance\nApplied SMOTE to handle Class Imbalance problem and used Confusion matrix and ROC curve for quantification of accuracy of the model\nPerformed classification using Logistic Regression, Decision Tree, KNearest Neighbors, Support Vector Machines and Adaboost\nResult: On considering the tradeoff b/w accuracy and specificity, Decision tree performed best with 95.27% accuracy and specificity of 95.6%\nPrediction of Fuel Flow rate of an Aircraft during different phases of a Flight (\nData Mining - IME672A) (JanApr 2017)\nApplied\nData preprocessing techniques and PCA for dimensionality reduction on data taken from live competition on CrowdAnalytics.com\nModeled using Lasso and Ridge Regression , Regression Tree , Artificial Neural network and Ensemble methods ( Random Forest and XGBoost )\nResult: Ensemble Methods performed better with RMSE of only ~2.6% compared to ~ 5% error rate obtained using other methods\nTime Series Forecasting model for Quarterly RBI lending rates (Statistical Modelling for Business Analytics - MBA652A) (JanApr 2017)\nApproach1: Forecasted the RBI lending rate using ARIMA model, plotted Autocorrelation function to quantify the optimum no. of lags\nApproach2: Performed Autoregressive Distributed Lag Modeling of Interest rate with AR1 and Inflation rate of Immediate next quarters\nResult: Established that the current RBI lending rate depends significantly on the rate during the previous quarter for Autoregression\nModel resulted in a positive correlation between change in Inflation rate and change in Interest rate with a lag order of 2\nConcluded from this lag of order 2 that the Policy changes by government for countering inflation do not come into effect immediately\nProgramming Language : R| Python| C |C++ |SQL |HTML | CSS |Bootstrap\nSoftware : RStudio |Excel Platforms : Windows | Linux Database: MySQL\nDepartment Placement Coordinator (Student Placement Cell, IIT Kanpur) (Apr 2016Apr 2017)\nPart of a 24member team entrusted with the responsibility of conducting successful placement session for 2017 graduating batch\nNegotiating with pharmaceutical, biotechnology, life sciences companies throughout the country to recruit students from the department\nConsulted HOD & professors to get more companies on board, Formulated proposals and conducted placement/internship sessions\nCoordinator, Informal’s, Udghosh`15 (Annual Intercollege sports festival of IIT Kanpur) (JanSep 2015)\nLeadership: Led a team of 25 secretaries for conducting over 20 midfestival informal events\nDeveloped a detailed layout plan for the events and procured logistics for the setup through a number of dealers from Kanpur, Lucknow\nInitiatives: Started online registration portal for participants and new events such as blind date, paint ball etc. to add a new dimension of fun\nSenior Executive, Public Relations, Antaragni’15 (Annual Intercollege cultural festival of IIT Kanpur) (JanNov 2015)\nPart of a 25 member 3 tiered PR team responsible for contacting famouspersonalities\nResponsible for the execution of Kavi Sammelan and India Haat, also for hospitality/accommodation of the celebrities coming to the festival\n• Secured 1st position in Battlefield, a National Level Analytics Competition organized by Tiger Analytics & Techkriti IIT Kanpur\n• Recipient of Rajya Puraskar in scout, Received A grade in 248th National Adventure Program held at Pachmarhi hill station\n• Represented the pool and Secured 1 st position in Bicycle Ad competition in Spectrum’14 (Annual Event, Films & Media Council)\n• Participated in Cluster level Hand Ball Meet held at JNV Etah and cluster level Badminton Meet held at JNV Hathras (UP)"
+  ],
+  "text_all": "YEAR\n2018\n2017\n2013\n2011\nINTERNSHIPS\nElucidata\nData Consulting Pvt. Ltd. (New Delhi)\nEluciTrack (Tracker for\nData Science projects)\n•\n•\n•\n•\n• IndiaMart (Noida, Head Office)\n•\n•\n•\n• Stock Price Prediction\n•\n• specific factors such as company growth, EPS change etc\nACADEMIC PROJECTS\n•\n•\n•\n•\n•\n•\n•\n•\n• TECHNICAL SKILLS\nPOSITIONS OF RESPONSIBILITY\n•\n•\n•\n•\n•\n•\n• EXTRA CURRICULARS\nAnalytics\nScouts\nFilms & Media\nSports\nDURGA KANT GUPTA Email : durgak@iitk.ac.in Contact: 919044994891\nACADEMIC DETAILS\nDEGREE\nINSTITUTE\nCGPA\nM.Tech (Industrial & Management Engineering) IIT Kanpur\n9.2/10\nB.Tech (Biological Sciences & Bio Engineering) IIT Kanpur\n7.3/10\nIntermediate (CBSE)\nJNV, Bangalore\n89.6%\nHigh School (CBSE)\nJNV, Kannauj\n10/10\n(MayJuly 2017)\nImplemented Airbnb’s Knowledge Repo to make analysis/insights of different\nData Science projects reproducible, trackable and shareable\nCreated a Python package for generating signed URLs corresponding to files on Amazon S3 to facilitatenavigation and viewing files\ncBioportal_Wrapper (cBioportal is a website to access and analyze opensource Cancer Genomics datasets)\nContributed in creating an Rpackage namely cBioportal_Wrapper for downloading and analyzing all the cancer data from cBioportal website\nCreated scripts to perform Survival Analysis on cancer patients data, mutual exclusivity analysis using Fisher’s Exact Test for different genes\nUsed R API’s to connect this package to a mutation curating database to extract the existing literature associated with the known mutations\n(MayJuly 2016)\nBuy Leads Enrichment and Prediction using Advanced\nData Analytics (Buy Leads: Online buyer requirements)\nPerformed CostBenefit Analysis of AutoRejection of Intent generated leads by matching product name with its secondary micro category\nImpact: Saved 8440 genuine leads/week from deletion by suggesting not to implement auto rejection inside the system\nDeveloped, analyzed and initiated the implementation of Automatic\nProduct Mapper to map a product to its most relevant Micro Category\nConsidered maximum string match (of product name with Mcat name) and maximum no. of leads for that Mcat in previous 3 months data\nImpact: Resulted in >100% increase from 142 to 321 leads per product when compared to the existing search algorithm on IndiaMart portal\nPerformed Text Analytics to create an extensive database of most recurred Brands for a particular Micro category of products\nYavTech LLC (Washington DC, USA) (Dec 2015)\nDeveloped a Linear Regression model in R for the prediction of Future Stock prices of a company based on its past financial data\nModeling factorsused for the prediction were GDP (Economic Growth), Interest rates, sector specific factors such as P/E ratio and company\nRELEVANT COURSES\nStatistics and Computing:\nData Mining and Knowledge Discovery| Machine Learning Techniques| Statistical Modeling for Business Analytics\nData Structure & Algorithms | Probability & Statistics |Basic Computing | Advanced Statistical Methods for Business Analytics |Regression Analysis\nFinance & others: Accounting and Finance | Financial Engineering | Introduction to Economics | Marketing\nResearch | Social Media Analytics\nCredit Card Fraud Detection using\nMachine Learning Algorithms (Under Graduate Project) (JanApr 2017)\nDataset consisted of 284, 807 tuples and 28 features with only 492 cases of frauds ( 0.172% ) leading to the problem of class Imbalance\nApplied SMOTE to handle Class Imbalance problem and used Confusion matrix and ROC curve for quantification of accuracy of the model\nPerformed classification using Logistic Regression, Decision Tree, KNearest Neighbors, Support Vector Machines and Adaboost\nResult: On considering the tradeoff b/w accuracy and specificity, Decision tree performed best with 95.27% accuracy and specificity of 95.6%\nPrediction of Fuel Flow rate of an Aircraft during different phases of a Flight (\nData Mining - IME672A) (JanApr 2017)\nApplied\nData preprocessing techniques and PCA for dimensionality reduction on data taken from live competition on CrowdAnalytics.com\nModeled using Lasso and Ridge Regression , Regression Tree , Artificial Neural network and Ensemble methods ( Random Forest and XGBoost )\nResult: Ensemble Methods performed better with RMSE of only ~2.6% compared to ~ 5% error rate obtained using other methods\nTime Series Forecasting model for Quarterly RBI lending rates (Statistical Modelling for Business Analytics - MBA652A) (JanApr 2017)\nApproach1: Forecasted the RBI lending rate using ARIMA model, plotted Autocorrelation function to quantify the optimum no. of lags\nApproach2: Performed Autoregressive Distributed Lag Modeling of Interest rate with AR1 and Inflation rate of Immediate next quarters\nResult: Established that the current RBI lending rate depends significantly on the rate during the previous quarter for Autoregression\nModel resulted in a positive correlation between change in Inflation rate and change in Interest rate with a lag order of 2\nConcluded from this lag of order 2 that the Policy changes by government for countering inflation do not come into effect immediately\nProgramming Language : R| Python| C |C++ |SQL |HTML | CSS |Bootstrap\nSoftware : RStudio |Excel Platforms : Windows | Linux Database: MySQL\nDepartment Placement Coordinator (Student Placement Cell, IIT Kanpur) (Apr 2016Apr 2017)\nPart of a 24member team entrusted with the responsibility of conducting successful placement session for 2017 graduating batch\nNegotiating with pharmaceutical, biotechnology, life sciences companies throughout the country to recruit students from the department\nConsulted HOD & professors to get more companies on board, Formulated proposals and conducted placement/internship sessions\nCoordinator, Informal’s, Udghosh`15 (Annual Intercollege sports festival of IIT Kanpur) (JanSep 2015)\nLeadership: Led a team of 25 secretaries for conducting over 20 midfestival informal events\nDeveloped a detailed layout plan for the events and procured logistics for the setup through a number of dealers from Kanpur, Lucknow\nInitiatives: Started online registration portal for participants and new events such as blind date, paint ball etc. to add a new dimension of fun\nSenior Executive, Public Relations, Antaragni’15 (Annual Intercollege cultural festival of IIT Kanpur) (JanNov 2015)\nPart of a 25 member 3 tiered PR team responsible for contacting famouspersonalities\nResponsible for the execution of Kavi Sammelan and India Haat, also for hospitality/accommodation of the celebrities coming to the festival\n• Secured 1st position in Battlefield, a National Level Analytics Competition organized by Tiger Analytics & Techkriti IIT Kanpur\n• Recipient of Rajya Puraskar in scout, Received A grade in 248th National Adventure Program held at Pachmarhi hill station\n• Represented the pool and Secured 1 st position in Bicycle Ad competition in Spectrum’14 (Annual Event, Films & Media Council)\n• Participated in Cluster level Hand Ball Meet held at JNV Etah and cluster level Badminton Meet held at JNV Hathras (UP)"
+}

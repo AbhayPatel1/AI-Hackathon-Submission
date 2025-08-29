@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "source_path": "data/resume_single/four_two_column_resumes.pdf",
+    "pages": 4,
+    "model": "facebook/bart-large-mnli"
+  },
+  "candidate": {
+    "full_name": "Profile",
+    "emails": [
+      "alice.smith@email.com",
+      "rahul.verma@email.com",
+      "sophia.lee@email.com",
+      "david.kim@email.com"
+    ],
+    "phones": [
+      "+15552223333",
+      "+919876543210",
+      "+15557779999",
+      "+821012345678"
+    ],
+    "links": {
+      "linkedin": "linkedin.com/in/alicesmith",
+      "github": null
+    }
+  },
+  "sectioned_text": [
+    {
+      "section_type": "other",
+      "text": "Alice Smith\nI San Francisco, USA | I alice.smith@email.com | I +15552223333 | I linkedin.com/in/alicesmith\nProfile\nExperience\nDetailoriented\nData Scientist with 4 years of experience in NLP, recommendation systems, and\nData Scientist – Netflix\n2023–Present\nproduct analytics.\n- Built recommendation pipelines improving watchtime by 12%.",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "skills",
+      "text": "Skills\n- Deployed\nNLP models for personalized search results.\n- Python\n- SQL\nML Intern – Google\n- TensorFlow 2021–2022\n- PyTorch\n- Developed classification models with 89% accuracy.\n- Tableau\n- Data Wrangling\n- Optimized data preprocessing pipelines, reducing runtime by 25%.\n- A/B Testing",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "Education",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "Projects\nM.Sc,\nData Science Stanford University (2021–2023)\n- Movie Recommendation Engine: Collaborative + contentbased hybrid model.\n- NLP Chatbot: Built intentbased chatbot using Rasa framework. B.Sc,\nComputer Science UCLA (2017–2021)\nRahul Verma\nProfile\nExperience\nProduct Manager with 5+ years of experience in SaaS product lifecycle management and\nProduct Manager – Freshworks\n2021–Present\ncrossfunctional leadership.\n- Led SaaS CRM product roadmap, boosting adoption by 30%.",
+      "page_range": [
+        1,
+        2
+      ]
+    },
+    {
+      "section_type": "skills",
+      "text": "Skills\n- Launched integrations with thirdparty apps (Slack, Jira).\n- Product Strategy\n- Agile\nBusiness\nAnalyst – Infosys\n- JIRA 2017–2019\n- SQL\n- Created SQL dashboards for enterprise clients.\n- Wireframing\n- Worked with UX teams to streamline user onboarding flows.\n- Stakeholder Management",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "Education",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "Projects\nMBA, IIM Bangalore (2019–2021)\n- Customer Churn Prediction: Built\nML pipeline to predict churn.\nB.Tech, Information Technology NIT Trichy (2013–2017)\n- Workflow Automation Tool: Reduced manual reporting by 40%.\nSophia Lee\nProfile\nExperience\nUX Designer with 6 years of experience crafting\nSenior UX Designer – Shopify\nintuitive interfacesfor fintech and ecommerce\n2019–Present\napplications.\n- Redesigned checkout flow increasing conversion rate by 18%.",
+      "page_range": [
+        2,
+        3
+      ]
+    },
+    {
+      "section_type": "skills",
+      "text": "Skills\n- Conducted usability studies across international markets.\n- Figma\n- Sketch\nUX Designer – PayPal\n- Adobe XD 2016–2019\n- User\nResearch\n- Designed responsive dashboards for merchant tools.",
+      "page_range": [
+        3,
+        3
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "- Prototyping\n- Usability Testing\n- Collaborated with product managers for roadmap alignment.",
+      "page_range": [
+        3,
+        3
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "Education",
+      "page_range": [
+        3,
+        3
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "Projects\nM.Des, Human-\nComputer Interaction\nUniversity of Toronto (2016–2018)\n- Ecommerce Mobile App Redesign: Boosted engagement by 20%. B.Des, Communication Design\n- Fintech Dashboard UI: Simplified complex workflows. OCAD University (2012–2016)\nDavid Kim\nProfile\nExperience\nFullStack Developer with 7 years of experience in cloudnative applications, microservices, and\nSenior FullStack Developer – Samsung\n2018–Present\nDevOps.\n- Built scalable microservices with Node.js and Kubernetes.",
+      "page_range": [
+        3,
+        4
+      ]
+    },
+    {
+      "section_type": "skills",
+      "text": "Skills\n- Migrated legacy systems to AWS cloud, reducing costs by 20%.\n- JavaScript\n- React\nSoftware Engineer – LG Electronics\n- Node.js 2016–2018\n- Docker\n- Developed internal APIs and automation tools.\n- Kubernetes\n- Implemented CI/CD pipelines to accelerate releases.\n- AWS",
+      "page_range": [
+        4,
+        4
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "Projects",
+      "page_range": [
+        4,
+        4
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "Education",
+      "page_range": [
+        4,
+        4
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "- IoT Device Management Platform: Integrated 100k+ devices. M.Sc,\nSoftware Engineering KAIST (2016–2018)\n- Cloud Migration Project: Modernized enterprise applications. B.Sc,\nComputer Engineering Yonsei University (2012–2016)",
+      "page_range": [
+        4,
+        4
+      ]
+    }
+  ],
+  "stats": {
+    "sections": 15,
+    "contacts_found": {
+      "name": true,
+      "email": true,
+      "phone": true
+    }
+  }
+}

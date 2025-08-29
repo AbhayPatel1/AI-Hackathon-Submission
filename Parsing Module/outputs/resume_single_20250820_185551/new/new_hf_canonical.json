@@ -1,0 +1,133 @@
+{
+  "candidate": {
+    "full_name": "Taro Tanaka",
+    "emails": [
+      "XXXXXX@gmail.com"
+    ],
+    "phones": [],
+    "location": {
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": "linkedin.com/in/XXXXXX",
+      "github": null
+    },
+    "resume_text_hash": "sha256:01b4ec3ff7125ca9efc5ff6dc7e1a12d501e8ed98be1aca8565cb17caca03433",
+    "source_file_id": "new.pdf",
+    "parsed_at": "2025-08-20T13:36:34Z",
+    "parser_version": "v0.3.0"
+  },
+  "experience": [],
+  "education": [
+    {
+      "degree_raw": null,
+      "degree_level": null,
+      "field_raw": null,
+      "institution_raw": "AAA University Tokyo",
+      "start_date": null,
+      "end_date": null,
+      "gpa": "3.75/4",
+      "extraction_confidence": 0.6,
+      "source_page": null
+    }
+  ],
+  "skills": [
+    {
+      "name": "aws",
+      "category": null
+    },
+    {
+      "name": "c",
+      "category": null
+    },
+    {
+      "name": "c++",
+      "category": null
+    },
+    {
+      "name": "css",
+      "category": null
+    },
+    {
+      "name": "docker",
+      "category": null
+    },
+    {
+      "name": "gcp",
+      "category": null
+    },
+    {
+      "name": "git",
+      "category": null
+    },
+    {
+      "name": "html",
+      "category": null
+    },
+    {
+      "name": "java",
+      "category": null
+    },
+    {
+      "name": "javascript",
+      "category": null
+    },
+    {
+      "name": "linux",
+      "category": null
+    },
+    {
+      "name": "python",
+      "category": null
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "publications": [],
+  "achievements": [],
+  "languages": [],
+  "sectioned_text": [
+    {
+      "section_type": "other",
+      "text": "Taro Tanaka\nTokyo, Japan\na XXXXXX@gmail.com\nȲ (+81) XXXXXXXXXX\nEXPERIENCE\nAAA Company . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\nData Scientist and Engineer\nJul 2020 - Jun 2023, Tokyo, Japan\nAcceleration of Multivariate Testing\n- Led team of 7 in collaborative project with the UI/UX team to enhance multivariate testing processes.\n- Developed and implemented mathematical models to address UI/UX challenges, translating academic research into Python code.\n- Optimized web application testing by applying \"best arm identification\" algorithm from multiarmed bandit theory, reducing the number of test patterns and improving conversion rates by 8%.\nRecommendation System for Real Estate Webpages\n- Developed machine learning API to provide personalized property recommendations on real estate webpages, enhancing user experience by aligning suggestions with customer preferences.\n- Chose LightGBM for the recommendation engine due to its compatibility with BigQuery data, achieving 5% increase in recall@5 compared to existing models.\nData Validation System\n- Participated in developing system to detect data anomalies that could impair machine learning models, including recommendation systems, preventing significant profit loss.\n- Implemented wrapper interfacefor AWS Deequ, the core module of system, and developed extensions for various use cases in Scala.\nBBB company . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\nWeb Engineer and Math Teacher\nApr 2019 - Mar 2020, Kyoto, Japan\nWeb Page Development and Maintenance\n- Deployed websites to promote the founder’s initiatives, attracting prospective students and enhancing online visibility.\n- Built the websites using 3tier architecture, implemented in Python with Flask framework; containerized with Docker for streamlined maintenance and deployed on GCP to optimize costs.\nCCC company . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\nQuantitative\nAnalyst and Engineer\nApr 2018 - Mar 2019, Tokyo, Japan\nPrice Calculation Module for Binary Options\n- Led development of price calculation library, collaborating with IT system department to launch new binary options products (type of financial derivative).\n- Developed Python library from scratch based on the BlackScholes model to accurately price binary options.\n- Replaced outsourced system, enhancing work efficiency and reducing operational time by 3 hours weekly.\nMonitoring of CFDs (Contract for Differences)\n- Developed batch processing system to visualize bid prices, trade records, and revenues of CFDs by extracting transaction data from Oracle and creating plots using Python. ] linkedin.com/in/XXXXXX",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "skills",
+      "text": "Skilled data scientist specializing in machine learning and financial engi-\nneering with 4 years of experience. Per-\nsistent dedication, analytical prowess\nand strong soft skills for fostering col-\nlaborative work relationships.\nSKILLS\nPython, C++\nBack End\nHTML, CSS, JavaScript\nFront End\nBigQuery, Oracle\nDBMS\nmacOS, Linux(CentOS)\nOS\nDocker, GitLab, GitLab CI\nDevOps\nAWS, GCP, L A TEX\nMisc.\nResilience, Attentiveness\nSoft Skills",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "AAA University\nTokyo, Japan\nMaster of Science - Mathematics GPA: 3.75/4.00, BBB University\nTokyo, Japan\nBachelor of Science - Mathematics",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "courses",
+      "text": "IELTS (General Training)\nOverall: 7.5\nAtCoder\nRate: 1800+, Solved problems: 1800+\nLeetCode\nRate: 2400+, Solved problems: 800+\nLANGUAGES\n- Japanese (Native)\n- English (Advanced)",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "interests",
+      "text": "- Learning Languages\n- Fitness\n- Classical Piano",
+      "page_range": [
+        1,
+        1
+      ]
+    }
+  ]
+}

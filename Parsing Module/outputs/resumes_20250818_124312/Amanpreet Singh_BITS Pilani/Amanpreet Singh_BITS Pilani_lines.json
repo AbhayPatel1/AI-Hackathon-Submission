@@ -1,0 +1,1118 @@
+{
+  "meta": {
+    "source_path": "data/resumes/Amanpreet Singh_BITS Pilani.pdf",
+    "pages": 1
+  },
+  "lines": [
+    {
+      "page": 1,
+      "text": "A M A N P R E E T S I N G H",
+      "bbox": [
+        195.1699981689453,
+        11.303474426269531,
+        416.5830993652344,
+        30.544313430786133
+      ],
+      "left_indent": 195.1699981689453,
+      "width": 221.41310119628906,
+      "is_bold": true,
+      "font_size": 15.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "M A L E , 2 1 Y R S",
+      "bbox": [
+        18.239999771118164,
+        32.455406188964844,
+        77.96400451660156,
+        39.74540710449219
+      ],
+      "left_indent": 18.239999771118164,
+      "width": 59.7240047454834,
+      "is_bold": false,
+      "font_size": 6.480000019073486
+    },
+    {
+      "page": 1,
+      "text": "EDUCATION",
+      "bbox": [
+        22.440000534057617,
+        45.88355255126953,
+        89.39399719238281,
+        57.890995025634766
+      ],
+      "left_indent": 22.440000534057617,
+      "width": 66.9539966583252,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "M.Sc. (Hons.) Mathematics",
+      "bbox": [
+        20.399999618530273,
+        72.78351593017578,
+        142.07000732421875,
+        84.79095458984375
+      ],
+      "left_indent": 20.399999618530273,
+      "width": 121.67000770568848,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "2010-2015",
+      "bbox": [
+        225.77000427246094,
+        79.02350616455078,
+        271.5799865722656,
+        91.03094482421875
+      ],
+      "left_indent": 225.77000427246094,
+      "width": 45.80998229980469,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "B.I.T.S. Pilani, Pilani Campus",
+      "bbox": [
+        287.69000244140625,
+        79.02350616455078,
+        419.44000244140625,
+        91.03094482421875
+      ],
+      "left_indent": 287.69000244140625,
+      "width": 131.75,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "5.04/10",
+      "bbox": [
+        522.219970703125,
+        79.02350616455078,
+        558.3099975585938,
+        91.03094482421875
+      ],
+      "left_indent": 522.219970703125,
+      "width": 36.09002685546875,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "B.E. (Hons.) Chemical Engineering",
+      "bbox": [
+        20.399999618530273,
+        85.14356231689453,
+        176.38999938964844,
+        97.1510009765625
+      ],
+      "left_indent": 20.399999618530273,
+      "width": 155.98999977111816,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "AISSCE (Class XII)",
+      "bbox": [
+        20.399999618530273,
+        102.90351104736328,
+        106.30999755859375,
+        114.91094970703125
+      ],
+      "left_indent": 20.399999618530273,
+      "width": 85.90999794006348,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "2010",
+      "bbox": [
+        225.77000427246094,
+        102.90351104736328,
+        248.3000030517578,
+        114.91094970703125
+      ],
+      "left_indent": 225.77000427246094,
+      "width": 22.529998779296875,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "G.G.N. Public School, Ludhiana",
+      "bbox": [
+        287.69000244140625,
+        102.90351104736328,
+        431.3199768066406,
+        114.91094970703125
+      ],
+      "left_indent": 287.69000244140625,
+      "width": 143.62997436523438,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "81%",
+      "bbox": [
+        522.219970703125,
+        102.90351104736328,
+        543.0700073242188,
+        114.91094970703125
+      ],
+      "left_indent": 522.219970703125,
+      "width": 20.85003662109375,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "AISCE (Class X)",
+      "bbox": [
+        20.399999618530273,
+        120.54352569580078,
+        94.31399536132812,
+        132.55096435546875
+      ],
+      "left_indent": 20.399999618530273,
+      "width": 73.91399574279785,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "2008",
+      "bbox": [
+        225.77000427246094,
+        120.54352569580078,
+        248.3000030517578,
+        132.55096435546875
+      ],
+      "left_indent": 225.77000427246094,
+      "width": 22.529998779296875,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "G.G.N. Public School, Ludhiana",
+      "bbox": [
+        287.69000244140625,
+        120.54352569580078,
+        431.3199768066406,
+        132.55096435546875
+      ],
+      "left_indent": 287.69000244140625,
+      "width": 143.62997436523438,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "80%",
+      "bbox": [
+        522.219970703125,
+        120.54352569580078,
+        543.0700073242188,
+        132.55096435546875
+      ],
+      "left_indent": 522.219970703125,
+      "width": 20.85003662109375,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Relevant Coursework:",
+      "bbox": [
+        20.399999618530273,
+        139.1435546875,
+        122.02999877929688,
+        151.1510009765625
+      ],
+      "left_indent": 20.399999618530273,
+      "width": 101.6299991607666,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Computer Programing, Data Processing, Object Oriented Programing, Graphs and Networks ,",
+      "bbox": [
+        152.05999755859375,
+        139.2635498046875,
+        570.9100341796875,
+        151.27099609375
+      ],
+      "left_indent": 152.05999755859375,
+      "width": 418.85003662109375,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Computer Graphics, New Venture Creation, Symbolic Logic, Print & Audio-Visual Advertisement",
+      "bbox": [
+        152.05999755859375,
+        151.7435302734375,
+        591.9299926757812,
+        163.7509765625
+      ],
+      "left_indent": 152.05999755859375,
+      "width": 439.8699951171875,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "INTERNSHIPS",
+      "bbox": [
+        22.440000534057617,
+        174.54351806640625,
+        96.11399841308594,
+        186.55096435546875
+      ],
+      "left_indent": 22.440000534057617,
+      "width": 73.67399787902832,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Google Summer of Code Student",
+      "bbox": [
+        18.239999771118164,
+        191.70355224609375,
+        172.4300079345703,
+        203.71099853515625
+      ],
+      "left_indent": 18.239999771118164,
+      "width": 154.19000816345215,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "May 2014-Aug 2014",
+      "bbox": [
+        510.2200012207031,
+        191.94354248046875,
+        600.4500122070312,
+        203.95098876953125
+      ],
+      "left_indent": 510.2200012207031,
+      "width": 90.23001098632812,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": " Ported Flumotion (an open source media streaming server) from Gstreamer 0.10 to 1.0 API under TimVideos.us",
+      "bbox": [
+        36.2400016784668,
+        208.76654052734375,
+        540.7899780273438,
+        221.59100341796875
+      ],
+      "left_indent": 36.2400016784668,
+      "width": 504.54997634887695,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Web Development Intern, Klientas, Trivandrum, Kerela",
+      "bbox": [
+        18.239999771118164,
+        232.1435546875,
+        271.2172546386719,
+        244.1510009765625
+      ],
+      "left_indent": 18.239999771118164,
+      "width": 252.9772548675537,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "July 2014-present",
+      "bbox": [
+        521.3800048828125,
+        232.1435546875,
+        600.4500122070312,
+        244.1510009765625
+      ],
+      "left_indent": 521.3800048828125,
+      "width": 79.07000732421875,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": " Worked on various client websites to build and deploy websites as per requirement",
+      "bbox": [
+        36.0,
+        248.87652587890625,
+        417.03997802734375,
+        261.70098876953125
+      ],
+      "left_indent": 36.0,
+      "width": 381.03997802734375,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "ACADEMIC PROJECTS",
+      "bbox": [
+        22.440000534057617,
+        272.613525390625,
+        137.38999938964844,
+        284.6209716796875
+      ],
+      "left_indent": 22.440000534057617,
+      "width": 114.94999885559082,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        18.239999771118164,
+        289.676513671875,
+        22.821210861206055,
+        301.87847900390625
+      ],
+      "left_indent": 18.239999771118164,
+      "width": 4.581211090087891,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Course Management Tool (HTML/CSS and PHP/MySQL):",
+      "bbox": [
+        36.47999954223633,
+        290.4935302734375,
+        307.8199768066406,
+        302.5009765625
+      ],
+      "left_indent": 36.47999954223633,
+      "width": 271.3399772644043,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Developed an online portal for instructors to help them perform the course related tasks easily",
+      "bbox": [
+        72.50399780273438,
+        302.9735412597656,
+        492.30999755859375,
+        314.9809875488281
+      ],
+      "left_indent": 72.50399780273438,
+      "width": 419.8059997558594,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "o",
+      "bbox": [
+        54.47999954223633,
+        303.87811279296875,
+        60.456974029541016,
+        315.1609191894531
+      ],
+      "left_indent": 54.47999954223633,
+      "width": 5.9769744873046875,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        18.479999542236328,
+        314.99652099609375,
+        23.06121063232422,
+        327.198486328125
+      ],
+      "left_indent": 18.479999542236328,
+      "width": 4.581211090087891,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Data storage and analysis for Wireless Sensor Nodes :",
+      "bbox": [
+        36.47999954223633,
+        315.81353759765625,
+        281.17999267578125,
+        327.82098388671875
+      ],
+      "left_indent": 36.47999954223633,
+      "width": 244.69999313354492,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Developed a python flask web app that logs in continuous stream of data and helps in its analysis",
+      "bbox": [
+        72.50399780273438,
+        328.29351806640625,
+        506.9499816894531,
+        340.30096435546875
+      ],
+      "left_indent": 72.50399780273438,
+      "width": 434.44598388671875,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "o",
+      "bbox": [
+        54.47999954223633,
+        329.1980895996094,
+        60.456974029541016,
+        340.48089599609375
+      ],
+      "left_indent": 54.47999954223633,
+      "width": 5.9769744873046875,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        18.479999542236328,
+        340.3164978027344,
+        23.06121063232422,
+        352.5184631347656
+      ],
+      "left_indent": 18.479999542236328,
+      "width": 4.581211090087891,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Analysis of Simple modeling with Polygon Primitives : analyzed and demonstrated effect of change of slices and stacks for",
+      "bbox": [
+        36.47999954223633,
+        341.1335144042969,
+        600.3021240234375,
+        353.1409606933594
+      ],
+      "left_indent": 36.47999954223633,
+      "width": 563.8221244812012,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "the modeling of primitive solids and wireframes using GLUT in OpenGL.",
+      "bbox": [
+        36.47999954223633,
+        353.4935302734375,
+        362.06256103515625,
+        365.5009765625
+      ],
+      "left_indent": 36.47999954223633,
+      "width": 325.5825614929199,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "SELF MOTIVATED PROJECTS",
+      "bbox": [
+        22.440000534057617,
+        375.81353759765625,
+        171.11000061035156,
+        387.82098388671875
+      ],
+      "left_indent": 22.440000534057617,
+      "width": 148.67000007629395,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        18.479999542236328,
+        392.99652099609375,
+        23.06121063232422,
+        405.198486328125
+      ],
+      "left_indent": 18.479999542236328,
+      "width": 4.581211090087891,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Gtalk/SMS notifications of PU notices: Developed a Python script that sends notifications to users whenever a new notice is",
+      "bbox": [
+        36.47999954223633,
+        393.81353759765625,
+        600.0573120117188,
+        405.82098388671875
+      ],
+      "left_indent": 36.47999954223633,
+      "width": 563.5773124694824,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "uploaded on Placement Unit website",
+      "bbox": [
+        36.47999954223633,
+        406.19354248046875,
+        202.22000122070312,
+        418.20098876953125
+      ],
+      "left_indent": 36.47999954223633,
+      "width": 165.7400016784668,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        18.479999542236328,
+        418.2165222167969,
+        23.06121063232422,
+        430.4184875488281
+      ],
+      "left_indent": 18.479999542236328,
+      "width": 4.581211090087891,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Social Food Sharing App: Developed a web app, that helps reduce food wastage, using HTML5, CSS and Google Maps API",
+      "bbox": [
+        36.47999954223633,
+        419.0335388183594,
+        600.3977661132812,
+        431.0409851074219
+      ],
+      "left_indent": 36.47999954223633,
+      "width": 563.9177665710449,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "with Rails backend; awarded 2 nd prize in Google Social Hackathon",
+      "bbox": [
+        36.47999954223633,
+        431.5135192871094,
+        336.232666015625,
+        443.5209655761719
+      ],
+      "left_indent": 36.47999954223633,
+      "width": 299.7526664733887,
+      "is_bold": true,
+      "font_size": 9.380000034968058
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        18.479999542236328,
+        443.5364990234375,
+        23.06121063232422,
+        455.73846435546875
+      ],
+      "left_indent": 18.479999542236328,
+      "width": 4.581211090087891,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "File indexing site : built a django web app that provides indexing and searching of files shared on LAN",
+      "bbox": [
+        36.47999954223633,
+        444.353515625,
+        494.8299865722656,
+        456.3609619140625
+      ],
+      "left_indent": 36.47999954223633,
+      "width": 458.3499870300293,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        18.479999542236328,
+        456.49652099609375,
+        23.06121063232422,
+        468.698486328125
+      ],
+      "left_indent": 18.479999542236328,
+      "width": 4.581211090087891,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Managed LAN Sharing facility for students and implemented various python scripts for getting Live football updates,",
+      "bbox": [
+        36.47999954223633,
+        457.31353759765625,
+        563.6194458007812,
+        469.32098388671875
+      ],
+      "left_indent": 36.47999954223633,
+      "width": 527.1394462585449,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "IMDb info, CS Servers list",
+      "bbox": [
+        36.47999954223633,
+        469.43353271484375,
+        157.61358642578125,
+        481.44097900390625
+      ],
+      "left_indent": 36.47999954223633,
+      "width": 121.13358688354492,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "POSITIONS OF RESPONSIBILITY",
+      "bbox": [
+        22.440000534057617,
+        497.2735290527344,
+        187.79000854492188,
+        509.2809753417969
+      ],
+      "left_indent": 22.440000534057617,
+      "width": 165.35000801086426,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        18.239999771118164,
+        514.4564819335938,
+        22.821210861206055,
+        526.658447265625
+      ],
+      "left_indent": 18.239999771118164,
+      "width": 4.581211090087891,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "President, Chemical Engineering Association, BITS Pilani, 2013-14",
+      "bbox": [
+        36.2400016784668,
+        515.2734985351562,
+        331.7200012207031,
+        527.2809448242188
+      ],
+      "left_indent": 36.2400016784668,
+      "width": 295.4799995422363,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        18.239999771118164,
+        527.2965087890625,
+        22.821210861206055,
+        539.4984741210938
+      ],
+      "left_indent": 18.239999771118164,
+      "width": 4.581211090087891,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Webmaster, Chemical Engineering Association, BITS Pilani, 2012-13: created websites for events like SCHEMCON 2012",
+      "bbox": [
+        36.2400016784668,
+        528.113525390625,
+        567.1016235351562,
+        540.1209716796875
+      ],
+      "left_indent": 36.2400016784668,
+      "width": 530.8616218566895,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        18.239999771118164,
+        540.2565307617188,
+        22.821210861206055,
+        552.45849609375
+      ],
+      "left_indent": 18.239999771118164,
+      "width": 4.581211090087891,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Core Team Member, Dept. of Visual Media (previously CCTV): created websites and promotion videos for college fests",
+      "bbox": [
+        36.2400016784668,
+        541.0735473632812,
+        575.7099609375,
+        553.0809936523438
+      ],
+      "left_indent": 36.2400016784668,
+      "width": 539.4699592590332,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        18.239999771118164,
+        553.0964965820312,
+        22.821210861206055,
+        565.2984619140625
+      ],
+      "left_indent": 18.239999771118164,
+      "width": 4.581211090087891,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Elected Student Representative for Students’ Mess Council(SMC), 2011-12",
+      "bbox": [
+        36.2400016784668,
+        553.9135131835938,
+        375.8800048828125,
+        565.9209594726562
+      ],
+      "left_indent": 36.2400016784668,
+      "width": 339.6400032043457,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        18.239999771118164,
+        565.9365234375,
+        22.821210861206055,
+        578.1384887695312
+      ],
+      "left_indent": 18.239999771118164,
+      "width": 4.581211090087891,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Core Team Member, Embryo Club: organized various cross-campus talks",
+      "bbox": [
+        36.2400016784668,
+        566.7535400390625,
+        366.03997802734375,
+        578.760986328125
+      ],
+      "left_indent": 36.2400016784668,
+      "width": 329.79997634887695,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        18.239999771118164,
+        578.926513671875,
+        22.821210861206055,
+        591.1284790039062
+      ],
+      "left_indent": 18.239999771118164,
+      "width": 4.581211090087891,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Co-founder and Tech Lead at Fabriso: Printed and delivered 5000+ custom merchandise to BITS and other institutes",
+      "bbox": [
+        36.2400016784668,
+        579.7435302734375,
+        555.3099975585938,
+        591.7509765625
+      ],
+      "left_indent": 36.2400016784668,
+      "width": 519.069995880127,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "EXTRA-CURRICULAR ACTIVITIES AND ACHIEVEMENTS",
+      "bbox": [
+        22.440000534057617,
+        607.7035522460938,
+        308.53997802734375,
+        619.7109985351562
+      ],
+      "left_indent": 22.440000534057617,
+      "width": 286.09997749328613,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        18.0,
+        623.0864868164062,
+        22.58121109008789,
+        635.2884521484375
+      ],
+      "left_indent": 18.0,
+      "width": 4.581211090087891,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Runner-up in Google Social Hackathon and Ethical Hacking Contest , APOGEE 2013",
+      "bbox": [
+        36.2400016784668,
+        623.9035034179688,
+        418.5999755859375,
+        635.9109497070312
+      ],
+      "left_indent": 36.2400016784668,
+      "width": 382.3599739074707,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        18.0,
+        635.926513671875,
+        22.58121109008789,
+        648.1284790039062
+      ],
+      "left_indent": 18.0,
+      "width": 4.581211090087891,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Performed at various cultural events including Institute Founder’s Day, 2011",
+      "bbox": [
+        36.2400016784668,
+        636.7435302734375,
+        378.1600036621094,
+        648.7509765625
+      ],
+      "left_indent": 36.2400016784668,
+      "width": 341.9200019836426,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "TECHNICAL SKILLS",
+      "bbox": [
+        22.440000534057617,
+        659.5435180664062,
+        125.2699966430664,
+        671.5509643554688
+      ],
+      "left_indent": 22.440000534057617,
+      "width": 102.82999610900879,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        18.0,
+        676.7265014648438,
+        22.58121109008789,
+        688.928466796875
+      ],
+      "left_indent": 18.0,
+      "width": 4.581211090087891,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Programing Languages: Python, C, C++, JAVA, HTML/CSS, Javascript, PHP, SQL",
+      "bbox": [
+        36.2400016784668,
+        677.5435180664062,
+        405.5199890136719,
+        689.5509643554688
+      ],
+      "left_indent": 36.2400016784668,
+      "width": 369.2799873352051,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        18.0,
+        689.5625,
+        22.58121109008789,
+        701.7644653320312
+      ],
+      "left_indent": 18.0,
+      "width": 4.581211090087891,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Web technologies: Django and Flask web frameworks",
+      "bbox": [
+        36.2400016784668,
+        690.3795166015625,
+        279.3800048828125,
+        702.386962890625
+      ],
+      "left_indent": 36.2400016784668,
+      "width": 243.1400032043457,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        18.239999771118164,
+        702.5225219726562,
+        22.821210861206055,
+        714.7244873046875
+      ],
+      "left_indent": 18.239999771118164,
+      "width": 4.581211090087891,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Software: Adobe Creative Suite (Photoshop, Illustrator, After Effects, Premiere Pro, Audition, etc.), Microsoft Office Suite",
+      "bbox": [
+        36.2400016784668,
+        703.3395385742188,
+        575.1099853515625,
+        715.3469848632812
+      ],
+      "left_indent": 36.2400016784668,
+      "width": 538.8699836730957,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "",
+      "bbox": [
+        18.0,
+        715.3624877929688,
+        22.58121109008789,
+        727.564453125
+      ],
+      "left_indent": 18.0,
+      "width": 4.581211090087891,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Operating Systems: Windows, Linux",
+      "bbox": [
+        36.2400016784668,
+        716.1795043945312,
+        204.62001037597656,
+        728.1869506835938
+      ],
+      "left_indent": 36.2400016784668,
+      "width": 168.38000869750977,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "PHONE +91 80 89 241042 • EMAIL aps.sids@gmail.com",
+      "bbox": [
+        189.86000061035156,
+        747.27099609375,
+        424.1199951171875,
+        756.3159790039062
+      ],
+      "left_indent": 189.86000061035156,
+      "width": 234.25999450683594,
+      "is_bold": false,
+      "font_size": 8.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "http://aps-sids.github.io • BITS-PILANI, RAJASTHAN – 333 031",
+      "bbox": [
+        171.13999938964844,
+        757.5910034179688,
+        442.8399963378906,
+        766.635986328125
+      ],
+      "left_indent": 171.13999938964844,
+      "width": 271.6999969482422,
+      "is_bold": false,
+      "font_size": 8.039999961853027
+    }
+  ],
+  "text_per_page": [
+    "A M A N P R E E T S I N G H\nM A L E , 2 1 Y R S\nEDUCATION\nM.Sc. (Hons.) Mathematics\n2010-2015\nB.I.T.S. Pilani, Pilani Campus\n5.04/10\nB.E. (Hons.) Chemical Engineering\nAISSCE (Class XII)\n2010\nG.G.N. Public School, Ludhiana\n81%\nAISCE (Class X)\n2008\nG.G.N. Public School, Ludhiana\n80%\nRelevant Coursework:\nComputer Programing, Data Processing, Object Oriented Programing, Graphs and Networks ,\nComputer Graphics, New Venture Creation, Symbolic Logic, Print & Audio-Visual Advertisement\nINTERNSHIPS\nGoogle Summer of Code Student\nMay 2014-Aug 2014\n Ported Flumotion (an open source media streaming server) from Gstreamer 0.10 to 1.0 API under TimVideos.us\nWeb Development Intern, Klientas, Trivandrum, Kerela\nJuly 2014-present\n Worked on various client websites to build and deploy websites as per requirement\nACADEMIC PROJECTS\n\nCourse Management Tool (HTML/CSS and PHP/MySQL):\nDeveloped an online portal for instructors to help them perform the course related tasks easily\no\n\nData storage and analysis for Wireless Sensor Nodes :\nDeveloped a python flask web app that logs in continuous stream of data and helps in its analysis\no\n\nAnalysis of Simple modeling with Polygon Primitives : analyzed and demonstrated effect of change of slices and stacks for\nthe modeling of primitive solids and wireframes using GLUT in OpenGL.\nSELF MOTIVATED PROJECTS\n\nGtalk/SMS notifications of PU notices: Developed a Python script that sends notifications to users whenever a new notice is\nuploaded on Placement Unit website\n\nSocial Food Sharing App: Developed a web app, that helps reduce food wastage, using HTML5, CSS and Google Maps API\nwith Rails backend; awarded 2 nd prize in Google Social Hackathon\n\nFile indexing site : built a django web app that provides indexing and searching of files shared on LAN\n\nManaged LAN Sharing facility for students and implemented various python scripts for getting Live football updates,\nIMDb info, CS Servers list\nPOSITIONS OF RESPONSIBILITY\n\nPresident, Chemical Engineering Association, BITS Pilani, 2013-14\n\nWebmaster, Chemical Engineering Association, BITS Pilani, 2012-13: created websites for events like SCHEMCON 2012\n\nCore Team Member, Dept. of Visual Media (previously CCTV): created websites and promotion videos for college fests\n\nElected Student Representative for Students’ Mess Council(SMC), 2011-12\n\nCore Team Member, Embryo Club: organized various cross-campus talks\n\nCo-founder and Tech Lead at Fabriso: Printed and delivered 5000+ custom merchandise to BITS and other institutes\nEXTRA-CURRICULAR ACTIVITIES AND ACHIEVEMENTS\n\nRunner-up in Google Social Hackathon and Ethical Hacking Contest , APOGEE 2013\n\nPerformed at various cultural events including Institute Founder’s Day, 2011\nTECHNICAL SKILLS\n\nPrograming Languages: Python, C, C++, JAVA, HTML/CSS, Javascript, PHP, SQL\n\nWeb technologies: Django and Flask web frameworks\n\nSoftware: Adobe Creative Suite (Photoshop, Illustrator, After Effects, Premiere Pro, Audition, etc.), Microsoft Office Suite\n\nOperating Systems: Windows, Linux\nPHONE +91 80 89 241042 • EMAIL aps.sids@gmail.com\nhttp://aps-sids.github.io • BITS-PILANI, RAJASTHAN – 333 031"
+  ],
+  "text_all": "A M A N P R E E T S I N G H\nM A L E , 2 1 Y R S\nEDUCATION\nM.Sc. (Hons.) Mathematics\n2010-2015\nB.I.T.S. Pilani, Pilani Campus\n5.04/10\nB.E. (Hons.) Chemical Engineering\nAISSCE (Class XII)\n2010\nG.G.N. Public School, Ludhiana\n81%\nAISCE (Class X)\n2008\nG.G.N. Public School, Ludhiana\n80%\nRelevant Coursework:\nComputer Programing, Data Processing, Object Oriented Programing, Graphs and Networks ,\nComputer Graphics, New Venture Creation, Symbolic Logic, Print & Audio-Visual Advertisement\nINTERNSHIPS\nGoogle Summer of Code Student\nMay 2014-Aug 2014\n Ported Flumotion (an open source media streaming server) from Gstreamer 0.10 to 1.0 API under TimVideos.us\nWeb Development Intern, Klientas, Trivandrum, Kerela\nJuly 2014-present\n Worked on various client websites to build and deploy websites as per requirement\nACADEMIC PROJECTS\n\nCourse Management Tool (HTML/CSS and PHP/MySQL):\nDeveloped an online portal for instructors to help them perform the course related tasks easily\no\n\nData storage and analysis for Wireless Sensor Nodes :\nDeveloped a python flask web app that logs in continuous stream of data and helps in its analysis\no\n\nAnalysis of Simple modeling with Polygon Primitives : analyzed and demonstrated effect of change of slices and stacks for\nthe modeling of primitive solids and wireframes using GLUT in OpenGL.\nSELF MOTIVATED PROJECTS\n\nGtalk/SMS notifications of PU notices: Developed a Python script that sends notifications to users whenever a new notice is\nuploaded on Placement Unit website\n\nSocial Food Sharing App: Developed a web app, that helps reduce food wastage, using HTML5, CSS and Google Maps API\nwith Rails backend; awarded 2 nd prize in Google Social Hackathon\n\nFile indexing site : built a django web app that provides indexing and searching of files shared on LAN\n\nManaged LAN Sharing facility for students and implemented various python scripts for getting Live football updates,\nIMDb info, CS Servers list\nPOSITIONS OF RESPONSIBILITY\n\nPresident, Chemical Engineering Association, BITS Pilani, 2013-14\n\nWebmaster, Chemical Engineering Association, BITS Pilani, 2012-13: created websites for events like SCHEMCON 2012\n\nCore Team Member, Dept. of Visual Media (previously CCTV): created websites and promotion videos for college fests\n\nElected Student Representative for Students’ Mess Council(SMC), 2011-12\n\nCore Team Member, Embryo Club: organized various cross-campus talks\n\nCo-founder and Tech Lead at Fabriso: Printed and delivered 5000+ custom merchandise to BITS and other institutes\nEXTRA-CURRICULAR ACTIVITIES AND ACHIEVEMENTS\n\nRunner-up in Google Social Hackathon and Ethical Hacking Contest , APOGEE 2013\n\nPerformed at various cultural events including Institute Founder’s Day, 2011\nTECHNICAL SKILLS\n\nPrograming Languages: Python, C, C++, JAVA, HTML/CSS, Javascript, PHP, SQL\n\nWeb technologies: Django and Flask web frameworks\n\nSoftware: Adobe Creative Suite (Photoshop, Illustrator, After Effects, Premiere Pro, Audition, etc.), Microsoft Office Suite\n\nOperating Systems: Windows, Linux\nPHONE +91 80 89 241042 • EMAIL aps.sids@gmail.com\nhttp://aps-sids.github.io • BITS-PILANI, RAJASTHAN – 333 031"
+}

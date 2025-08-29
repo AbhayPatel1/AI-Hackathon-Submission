@@ -1,0 +1,361 @@
+{
+  "systems": [
+    "spacy",
+    "hf",
+    "ens"
+  ],
+  "candidate": {
+    "emails": {
+      "sizes": {
+        "spacy": 0,
+        "hf": 0,
+        "ens": 0
+      },
+      "jaccard": {
+        "spacy__hf": 1.0,
+        "spacy__ens": 1.0,
+        "hf__ens": 1.0
+      },
+      "sample_diffs": {
+        "spacy_minus_hf": [],
+        "hf_minus_spacy": [],
+        "spacy_minus_ens": [],
+        "ens_minus_spacy": [],
+        "hf_minus_ens": [],
+        "ens_minus_hf": []
+      },
+      "union_count": 0
+    },
+    "phones": {
+      "sizes": {
+        "spacy": 0,
+        "hf": 0,
+        "ens": 0
+      },
+      "jaccard": {
+        "spacy__hf": 1.0,
+        "spacy__ens": 1.0,
+        "hf__ens": 1.0
+      },
+      "sample_diffs": {
+        "spacy_minus_hf": [],
+        "hf_minus_spacy": [],
+        "spacy_minus_ens": [],
+        "ens_minus_spacy": [],
+        "hf_minus_ens": [],
+        "ens_minus_hf": []
+      },
+      "union_count": 0
+    },
+    "links": {
+      "sizes": {
+        "spacy": 0,
+        "hf": 0,
+        "ens": 0
+      },
+      "jaccard": {
+        "spacy__hf": 1.0,
+        "spacy__ens": 1.0,
+        "hf__ens": 1.0
+      },
+      "sample_diffs": {
+        "spacy_minus_hf": [],
+        "hf_minus_spacy": [],
+        "spacy_minus_ens": [],
+        "ens_minus_spacy": [],
+        "hf_minus_ens": [],
+        "ens_minus_hf": []
+      },
+      "union_count": 0
+    }
+  },
+  "experience": {
+    "companies": {
+      "sizes": {
+        "spacy": 1,
+        "hf": 1,
+        "ens": 1
+      },
+      "jaccard": {
+        "spacy__hf": 0.0,
+        "spacy__ens": 0.0,
+        "hf__ens": 1.0
+      },
+      "sample_diffs": {
+        "spacy_minus_hf": [
+          "the kerala public works department"
+        ],
+        "hf_minus_spacy": [
+          "kerala public works department"
+        ],
+        "spacy_minus_ens": [
+          "the kerala public works department"
+        ],
+        "ens_minus_spacy": [
+          "kerala public works department"
+        ],
+        "hf_minus_ens": [],
+        "ens_minus_hf": []
+      },
+      "union_count": 2
+    },
+    "titles": {
+      "sizes": {
+        "spacy": 2,
+        "hf": 2,
+        "ens": 2
+      },
+      "jaccard": {
+        "spacy__hf": 1.0,
+        "spacy__ens": 1.0,
+        "hf__ens": 1.0
+      },
+      "sample_diffs": {
+        "spacy_minus_hf": [],
+        "hf_minus_spacy": [],
+        "spacy_minus_ens": [],
+        "ens_minus_spacy": [],
+        "hf_minus_ens": [],
+        "ens_minus_hf": []
+      },
+      "union_count": 2
+    },
+    "locations": {
+      "sizes": {
+        "spacy": 0,
+        "hf": 0,
+        "ens": 0
+      },
+      "jaccard": {
+        "spacy__hf": 1.0,
+        "spacy__ens": 1.0,
+        "hf__ens": 1.0
+      },
+      "sample_diffs": {
+        "spacy_minus_hf": [],
+        "hf_minus_spacy": [],
+        "spacy_minus_ens": [],
+        "ens_minus_spacy": [],
+        "hf_minus_ens": [],
+        "ens_minus_hf": []
+      },
+      "union_count": 0
+    },
+    "start_dates": {
+      "sizes": {
+        "spacy": 0,
+        "hf": 0,
+        "ens": 0
+      },
+      "jaccard": {
+        "spacy__hf": 1.0,
+        "spacy__ens": 1.0,
+        "hf__ens": 1.0
+      },
+      "sample_diffs": {
+        "spacy_minus_hf": [],
+        "hf_minus_spacy": [],
+        "spacy_minus_ens": [],
+        "ens_minus_spacy": [],
+        "hf_minus_ens": [],
+        "ens_minus_hf": []
+      },
+      "union_count": 0
+    },
+    "end_dates": {
+      "sizes": {
+        "spacy": 0,
+        "hf": 0,
+        "ens": 0
+      },
+      "jaccard": {
+        "spacy__hf": 1.0,
+        "spacy__ens": 1.0,
+        "hf__ens": 1.0
+      },
+      "sample_diffs": {
+        "spacy_minus_hf": [],
+        "hf_minus_spacy": [],
+        "spacy_minus_ens": [],
+        "ens_minus_spacy": [],
+        "hf_minus_ens": [],
+        "ens_minus_hf": []
+      },
+      "union_count": 0
+    }
+  },
+  "education": {
+    "degrees": {
+      "sizes": {
+        "spacy": 0,
+        "hf": 0,
+        "ens": 0
+      },
+      "jaccard": {
+        "spacy__hf": 1.0,
+        "spacy__ens": 1.0,
+        "hf__ens": 1.0
+      },
+      "sample_diffs": {
+        "spacy_minus_hf": [],
+        "hf_minus_spacy": [],
+        "spacy_minus_ens": [],
+        "ens_minus_spacy": [],
+        "hf_minus_ens": [],
+        "ens_minus_hf": []
+      },
+      "union_count": 0
+    },
+    "fields": {
+      "sizes": {
+        "spacy": 0,
+        "hf": 0,
+        "ens": 0
+      },
+      "jaccard": {
+        "spacy__hf": 1.0,
+        "spacy__ens": 1.0,
+        "hf__ens": 1.0
+      },
+      "sample_diffs": {
+        "spacy_minus_hf": [],
+        "hf_minus_spacy": [],
+        "spacy_minus_ens": [],
+        "ens_minus_spacy": [],
+        "hf_minus_ens": [],
+        "ens_minus_hf": []
+      },
+      "union_count": 0
+    },
+    "institutions": {
+      "sizes": {
+        "spacy": 1,
+        "hf": 1,
+        "ens": 1
+      },
+      "jaccard": {
+        "spacy__hf": 0.0,
+        "spacy__ens": 0.0,
+        "hf__ens": 1.0
+      },
+      "sample_diffs": {
+        "spacy_minus_hf": [
+          "board of higher secondary holy angels'"
+        ],
+        "hf_minus_spacy": [
+          "board of higher secondary holy angels ' convent hss"
+        ],
+        "spacy_minus_ens": [
+          "board of higher secondary holy angels'"
+        ],
+        "ens_minus_spacy": [
+          "board of higher secondary holy angels ' convent hss"
+        ],
+        "hf_minus_ens": [],
+        "ens_minus_hf": []
+      },
+      "union_count": 2
+    },
+    "dates": {
+      "sizes": {
+        "spacy": 0,
+        "hf": 0,
+        "ens": 0
+      },
+      "jaccard": {
+        "spacy__hf": 1.0,
+        "spacy__ens": 1.0,
+        "hf__ens": 1.0
+      },
+      "sample_diffs": {
+        "spacy_minus_hf": [],
+        "hf_minus_spacy": [],
+        "spacy_minus_ens": [],
+        "ens_minus_spacy": [],
+        "hf_minus_ens": [],
+        "ens_minus_hf": []
+      },
+      "union_count": 0
+    }
+  },
+  "projects": {
+    "names": {
+      "sizes": {
+        "spacy": 16,
+        "hf": 16,
+        "ens": 16
+      },
+      "jaccard": {
+        "spacy__hf": 1.0,
+        "spacy__ens": 1.0,
+        "hf__ens": 1.0
+      },
+      "sample_diffs": {
+        "spacy_minus_hf": [],
+        "hf_minus_spacy": [],
+        "spacy_minus_ens": [],
+        "ens_minus_spacy": [],
+        "hf_minus_ens": [],
+        "ens_minus_hf": []
+      },
+      "union_count": 16
+    }
+  },
+  "skills": {
+    "sizes": {
+      "spacy": 1,
+      "hf": 6,
+      "ens": 4
+    },
+    "jaccard": {
+      "spacy__hf": 0.1667,
+      "spacy__ens": 0.0,
+      "hf__ens": 0.6667
+    },
+    "sample_diffs": {
+      "spacy_minus_hf": [],
+      "hf_minus_spacy": [
+        "autocad",
+        "matlab",
+        "plaxis",
+        "revit",
+        "staad pro"
+      ],
+      "spacy_minus_ens": [
+        "c"
+      ],
+      "ens_minus_spacy": [
+        "autocad",
+        "matlab",
+        "revit",
+        "staad pro"
+      ],
+      "hf_minus_ens": [
+        "c",
+        "plaxis"
+      ],
+      "ens_minus_hf": []
+    },
+    "union_count": 6
+  },
+  "winners_most_items": {
+    "emails": "spacy",
+    "phones": "spacy",
+    "links": "spacy",
+    "companies": "spacy",
+    "titles": "spacy",
+    "locations": "spacy",
+    "start_dates": "spacy",
+    "end_dates": "spacy",
+    "degrees": "spacy",
+    "fields": "spacy",
+    "institutions": "spacy",
+    "dates": "spacy",
+    "names": "spacy",
+    "skills": {
+      "spacy": 1,
+      "hf": 6,
+      "ens": 4
+    }
+  }
+}

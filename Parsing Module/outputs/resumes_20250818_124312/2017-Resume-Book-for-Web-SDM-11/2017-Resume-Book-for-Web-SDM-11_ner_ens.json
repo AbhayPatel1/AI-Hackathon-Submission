@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "source_path": "data/resumes/2017-Resume-Book-for-Web-SDM-11.pdf",
+    "pages": 1,
+    "model": "facebook/bart-large-mnli"
+  },
+  "candidate": {
+    "full_name": "Chahat Jain",
+    "emails": [
+      "chahat@mit.edu"
+    ],
+    "phones": [
+      "+16173869369"
+    ],
+    "links": {
+      "linkedin": null,
+      "github": null
+    }
+  },
+  "experience": [],
+  "education": [
+    {
+      "degree_raw": "B.Tech/B.E.",
+      "degree_level": "bachelors",
+      "field_raw": null,
+      "institution_raw": "Massachusetts Institute of Technology School of Engineering & Sloan School of Management",
+      "start_date": "2011-07-01",
+      "end_date": "2016-06-01",
+      "gpa": "9.37/10",
+      "extraction_confidence": 0.8,
+      "source_page": null
+    },
+    {
+      "degree_raw": null,
+      "degree_level": null,
+      "field_raw": null,
+      "institution_raw": "eVidyaloka Trust",
+      "start_date": "2014-05-01",
+      "end_date": null,
+      "gpa": null,
+      "extraction_confidence": 0.7,
+      "source_page": null
+    }
+  ],
+  "skills": [
+    {
+      "name": "c",
+      "category": null
+    },
+    {
+      "name": "java",
+      "category": null
+    },
+    {
+      "name": "javascript",
+      "category": null
+    },
+    {
+      "name": "python",
+      "category": null
+    },
+    {
+      "name": "sql",
+      "category": null
+    }
+  ],
+  "projects": [
+    {
+      "name": "Product Management, Cross-functional Leadership, and Project Management",
+      "summary": "• Ideated and launched eight features of cloud CRM (SAP Cloud for Customer) add-in solutions (150+ live customers) Prioritized requirements, collaborated with multiple stakeholders, and led development of four solution releases o • Working with UI/UX designers, conducted product design analysis (using design thinking) and played a key role in the ideation to launch process of SAP’s first B2C solution - SAP Utilities Customer Engagement mobile application • As scrum-master/development lead, led cross-functional teams of 14, 8 and 6 members (for three project releases) across US and India locations for agile development of ~$14M Retail In-Store customer engagement solution • Handled project scope, task estimation & scheduling, and quality adherence for timely delivery of three project releases • Managed team of four developers to develop a Micro-ATM solution (for rural India) as part of SAP Ganges project (B2B Retail Network). The platform was bought by a financial institution in India to strengthen its financial inclusion efforts Client Engagement, Product Design & Development, and Process Optimization • Managed 25+ clients (across 10 countries) single-handedly to solve critical issues, improving client satisfaction by 15% • Reduced average time of fixing a customer issue by 45% using data-driven approach to redesign business process • Led full-stack design and development of product features, application modules and m-commerce platform for the successful release of six mobile and cloud solutions, generating $9M+ revenue for the company • Produced optimal recommendations for four utilities clients to adopt a mobile solution as per their business requirements • Developed five internal code generation tools that helped save ~400 man-hours in project deliverables",
+      "role": null,
+      "tech_stack": [],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    }
+  ],
+  "certifications": [],
+  "publications": [],
+  "achievements": [
+    "Awards and Accomplishments",
+    "Awarded ‘Move SAP Award’ (Top 2% employees) for successfully managing a solution single-handedly from India",
+    "Recognized as ‘Global Top Talent’ (Top 5% employees) for extraordinary contribution and leadership",
+    "Conferred ‘Spot award’ and ‘Recognition award’ for initiatives in enabling project success and customer success"
+  ],
+  "languages": [],
+  "sectioned_text": [
+    {
+      "section_type": "other",
+      "text": "CHAHAT JAIN\n70 Pacific Street, Apt 828 - Cambridge, MA 02139\n+1 (617) 386-9369 | chahat@mit.edu",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "Massachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management (GPA – 5.0/5.0)\nM.S., Engg & Management (System Design and Management)\n• Focus – Marketing, Strategy, Data Analytics, Innovation, Technology Management and Systems Thinking\n• VP, Alumni Relations (SDM). Member - Product Management Club, Technology Club, Design Club, Net Impact Club\n• Data Analytics Lab - Built a predictive model using machine learning and data mining to increase user engagement of an\ne-commerce website. Experience working with large data-sets.\nPEC University of Technology\nB.E. (Hons.), Information Technology (GPA – 9.37/10)\n• 1 of 395 in the university to be awarded both Gold Medal (highest GPA in my discipline) and Honors degree\nEXPERIENCE\nSAP Labs India Pvt. Ltd.\nProduct Owner | Sr. Software Engg, B2B/B2C solutions (Retail, Utilities, and Banking industries) July 2011 - June 2016",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "Product Management, Cross-functional Leadership, and Project Management\n• Ideated and launched eight features of cloud CRM (SAP Cloud for Customer) add-in solutions (150+ live customers)\nPrioritized requirements, collaborated with multiple stakeholders, and led development of four solution releases\no\n• Working with UI/UX designers, conducted product design analysis (using design thinking) and played a key role in the\nideation to launch process of SAP’s first B2C solution - SAP Utilities Customer Engagement mobile application\n• As scrum-master/development lead, led cross-functional teams of 14, 8 and 6 members (for three project releases) across\nUS and India locations for agile development of ~$14M Retail In-Store customer engagement solution\n• Handled project scope, task estimation & scheduling, and quality adherence for timely delivery of three project releases\n• Managed team of four developers to develop a Micro-ATM solution (for rural India) as part of SAP Ganges project (B2B\nRetail Network). The platform was bought by a financial institution in India to strengthen its financial inclusion efforts\nClient Engagement, Product Design & Development, and Process Optimization\n• Managed 25+ clients (across 10 countries) single-handedly to solve critical issues, improving client satisfaction by 15%\n• Reduced average time of fixing a customer issue by 45% using data-driven approach to redesign business process\n• Led full-stack design and development of product features, application modules and m-commerce platform for the\nsuccessful release of six mobile and cloud solutions, generating $9M+ revenue for the company\n• Produced optimal recommendations for four utilities clients to adopt a mobile solution as per their business requirements\n• Developed five internal code generation tools that helped save ~400 man-hours in project deliverables",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "achievements",
+      "text": "Awards and Accomplishments\n• Awarded ‘Move SAP Award’ (Top 2% employees) for successfully managing a solution single-handedly from India\n• Recognized as ‘Global Top Talent’ (Top 5% employees) for extraordinary contribution and leadership\n• Conferred ‘Spot award’ and ‘Recognition award’ for initiatives in enabling project success and customer success",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "eVidyaloka Trust ( NGO connecting passionate volunteers to teach children of rural India )\nProgram Manager & Curriculum Administrator (Volunteer) May 2014 - Present\n• Increased volunteer participation by 20% by designing a workflow for Content Development Engagement\n• Managed 186 volunteers for development of high quality course material as part of a Corporate Engagement Program\nHeRu Technologies Pvt. Ltd. ( Tech Start-up providing low cost enterprise solutions )\nCo-Founder & Solution Architect March 2015 - July 2016\n• Gathered business requirements from clients (Founders of NGOs), and defined the roadmap of technology solutions\n• Constructed business strategy for the company as well as pricing strategy for the ~$1M product portfolio\n• Worked on-site with senior management of Goonj, amongst top five NGOs in India, to understand business problems\nADDITIONAL INFORMATION\n• Mentored employees and improved business operations of an early stage tech start-up (cheerzlabs.com, India) that\nprovides technology services, resulting in 12% YoY growth of the startup\n• Spearheaded a civil society campaign that lead to participation of 500+ people to increase awareness about ‘Lokpal Bill’",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "skills",
+      "text": "• Technical Skills: Java, C, C#, JavaScript, Python, Web-Services, Shell Scripting, Algorithms, Data Structures, SQL, R",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "interests",
+      "text": "• Interests : Cooking, practice mindfulness, and reading books & articles (especially about start-ups and venture capital)",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "other",
+      "text": "Cambridge (MA), USA\nAugust 2016 - February 2018 (expected)\nChandigarh, India\nJuly 2007- May 2011\nBangalore, India | Palo Alto, United States\nBangalore, India\nBangalore, India",
+      "page_range": [
+        1,
+        1
+      ]
+    }
+  ]
+}

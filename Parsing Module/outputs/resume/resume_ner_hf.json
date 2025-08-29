@@ -1,0 +1,438 @@
+{
+  "meta": {
+    "source_path": "/var/folders/8y/b39zbltj6qd412h6sqnv2fp00000gn/T/apply_z59pp1s9/in/resume.pdf",
+    "pages": 1,
+    "model": "facebook/bart-large-mnli"
+  },
+  "candidate": {
+    "full_name": "Year",
+    "emails": [
+      "durgak@iitk.ac.in"
+    ],
+    "phones": [
+      "919044994891"
+    ],
+    "links": {
+      "linkedin": null,
+      "github": null
+    }
+  },
+  "experience": [
+    {
+      "company_raw": "Elucidata",
+      "company_norm": "Elucidata",
+      "title_raw": "Elucidata",
+      "title_norm": null,
+      "seniority": null,
+      "employment_type": "internship",
+      "location": null,
+      "start_date": null,
+      "end_date": null,
+      "is_current": false,
+      "extraction_confidence": 0.8,
+      "source_page": null,
+      "bullets": [
+        {
+          "bullet_text": "Data Consulting Pvt. Ltd. (New Delhi) EluciTrack (Tracker for",
+          "metrics": {},
+          "skills_mentioned": [
+            "c"
+          ],
+          "source_page": null
+        }
+      ]
+    },
+    {
+      "company_raw": "In",
+      "company_norm": "In",
+      "title_raw": "Coordinator, Informal’s, Udghosh`15 (Annual Intercollege sports festival of IIT Kanpur) (JanSep 2015)",
+      "title_norm": null,
+      "seniority": null,
+      "employment_type": "internship",
+      "location": null,
+      "start_date": null,
+      "end_date": null,
+      "is_current": false,
+      "extraction_confidence": 0.8,
+      "source_page": null,
+      "bullets": [
+        {
+          "bullet_text": "Leadership: Led a team of 25 secretaries for conducting over 20 midfestival informal events Developed a detailed layout plan for the events and procured logistics for the setup through a number of dealers from Kanpur, Lucknow Initiatives: Started online registration portal for participants and new events such as blind date, paint ball etc. to add a new dimension of fun Senior Executive, Public Relations, Antaragni’15 (Annual Intercollege cultural festival of IIT Kanpur) (JanNov 2015) Part of a 25 member 3 tiered PR team responsible for contacting famouspersonalities Responsible for the execution of Kavi Sammelan and India Haat, also for hospitality/accommodation of the celebrities coming to the festival",
+          "metrics": {},
+          "skills_mentioned": [
+            "c"
+          ],
+          "source_page": null
+        },
+        {
+          "bullet_text": "Secured 1st position in Battlefield, a National Level Analytics Competition organized by Tiger Analytics & Techkriti IIT Kanpur",
+          "metrics": {},
+          "skills_mentioned": [
+            "c"
+          ],
+          "source_page": null
+        },
+        {
+          "bullet_text": "Recipient of Rajya Puraskar in scout, Received A grade in 248th National Adventure Program held at Pachmarhi hill station",
+          "metrics": {},
+          "skills_mentioned": [
+            "c"
+          ],
+          "source_page": null
+        },
+        {
+          "bullet_text": "Represented the pool and Secured 1 st position in Bicycle Ad competition in Spectrum’14 (Annual Event, Films & Media Council)",
+          "metrics": {},
+          "skills_mentioned": [
+            "c"
+          ],
+          "source_page": null
+        },
+        {
+          "bullet_text": "Participated in Cluster level Hand Ball Meet held at JNV Etah and cluster level Badminton Meet held at JNV Hathras (UP)",
+          "metrics": {},
+          "skills_mentioned": [
+            "c"
+          ],
+          "source_page": null
+        }
+      ]
+    }
+  ],
+  "education": [],
+  "skills": [],
+  "projects": [
+    {
+      "name": "•",
+      "summary": "• • • • IndiaMart (Noida, Head Office) • • • •",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Stock Price Prediction",
+      "summary": "• • specific factors such as company growth, EPS change etc • • • • • • • • •",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Created a Python package for generating signed URLs corresponding to files on Amazon S3 to facilitatenavigation and viewing files",
+      "summary": "cBioportal_Wrapper (cBioportal is a website to access and analyze opensource Cancer Genomics datasets) Contributed in creating an Rpackage namely cBioportal_Wrapper for downloading and analyzing all the cancer data from cBioportal website Created scripts to perform Survival Analysis on cancer patients data, mutual exclusivity analysis using Fisher’s Exact Test for different genes Used R API’s to connect this package to a mutation curating database to extract the existing literature associated with the known mutations (MayJuly 2016)",
+      "role": null,
+      "tech_stack": [
+        "c",
+        "python"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Buy Leads Enrichment and Prediction using Advanced",
+      "summary": "Data Analytics (Buy Leads: Online buyer requirements)",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Performed CostBenefit Analysis of AutoRejection of Intent generated leads by matching product name with its secondary micro category",
+      "summary": "Impact: Saved 8440 genuine leads/week from deletion by suggesting not to implement auto rejection inside the system Developed, analyzed and initiated the implementation of Automatic",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Product Mapper to map a product to its most relevant Micro Category",
+      "summary": "Considered maximum string match (of product name with Mcat name) and maximum no. of leads for that Mcat in previous 3 months data Impact: Resulted in >100% increase from 142 to 321 leads per product when compared to the existing search algorithm on IndiaMart portal",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Performed Text Analytics to create an extensive database of most recurred Brands for a particular Micro category of products",
+      "summary": "YavTech LLC (Washington DC, USA) (Dec 2015)",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Developed a Linear Regression model in R for the prediction of Future Stock prices of a company based on its past financial data",
+      "summary": "Modeling factorsused for the prediction were GDP (Economic Growth), Interest rates, sector specific factors such as P/E ratio and company",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "RELEVANT COURSES",
+      "summary": "Statistics and Computing: Data Mining and Knowledge Discovery| Machine Learning Techniques| Statistical Modeling for Business Analytics Data Structure & Algorithms | Probability & Statistics |Basic Computing | Advanced Statistical Methods for Business Analytics |Regression Analysis Finance & others: Accounting and Finance | Financial Engineering | Introduction to Economics | Marketing Research | Social Media Analytics",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Credit Card Fraud Detection using",
+      "summary": null,
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Machine Learning Algorithms (Under Graduate Project) (JanApr 2017)",
+      "summary": "Dataset consisted of 284, 807 tuples and 28 features with only 492 cases of frauds ( 0.172% ) leading to the problem of class Imbalance",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Applied SMOTE to handle Class Imbalance problem and used Confusion matrix and ROC curve for quantification of accuracy of the model",
+      "summary": "Performed classification using Logistic Regression, Decision Tree, KNearest Neighbors, Support Vector Machines and Adaboost Result: On considering the tradeoff b/w accuracy and specificity, Decision tree performed best with 95.27% accuracy and specificity of 95.6%",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {
+        "accuracy_pct": 27
+      },
+      "source_page": null
+    },
+    {
+      "name": "Prediction of Fuel Flow rate of an Aircraft during different phases of a Flight (",
+      "summary": null,
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Data Mining - IME672A) (JanApr 2017)",
+      "summary": null,
+      "role": null,
+      "tech_stack": [],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Applied",
+      "summary": "Data preprocessing techniques and PCA for dimensionality reduction on data taken from live competition on CrowdAnalytics.com Modeled using Lasso and Ridge Regression , Regression Tree , Artificial Neural network and Ensemble methods ( Random Forest and XGBoost ) Result: Ensemble Methods performed better with RMSE of only ~2.6% compared to ~ 5% error rate obtained using other methods",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Time Series Forecasting model for Quarterly RBI lending rates (Statistical Modelling for Business Analytics - MBA652A) (JanApr 2017)",
+      "summary": "Approach1: Forecasted the RBI lending rate using ARIMA model, plotted Autocorrelation function to quantify the optimum no. of lags Approach2: Performed Autoregressive Distributed Lag Modeling of Interest rate with AR1 and Inflation rate of Immediate next quarters Result: Established that the current RBI lending rate depends significantly on the rate during the previous quarter for Autoregression",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Model resulted in a positive correlation between change in Inflation rate and change in Interest rate with a lag order of 2",
+      "summary": null,
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Concluded from this lag of order 2 that the Policy changes by government for countering inflation do not come into effect immediately",
+      "summary": "Programming Language : R| Python| C |C++ |SQL |HTML | CSS |Bootstrap Software : RStudio |Excel Platforms : Windows | Linux Database: MySQL Department Placement Coordinator (Student Placement Cell, IIT Kanpur) (Apr 2016Apr 2017)",
+      "role": null,
+      "tech_stack": [
+        "c",
+        "c++",
+        "css",
+        "excel",
+        "html",
+        "linux",
+        "mysql",
+        "python",
+        "sql"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Part of a 24member team entrusted with the responsibility of conducting successful placement session for 2017 graduating batch",
+      "summary": "Negotiating with pharmaceutical, biotechnology, life sciences companies throughout the country to recruit students from the department",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    }
+  ],
+  "certifications": [],
+  "publications": [],
+  "achievements": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "EXTRA CURRICULARS",
+    "Analytics",
+    "Scouts",
+    "Films & Media",
+    "Sports",
+    "DURGA KANT GUPTA Email : durgak@iitk.ac.in Contact: 919044994891",
+    "ACADEMIC DETAILS",
+    "DEGREE",
+    "INSTITUTE",
+    "CGPA",
+    "M.Tech (Industrial & Management Engineering) IIT Kanpur",
+    "9.2/10",
+    "B.Tech (Biological Sciences & Bio Engineering) IIT Kanpur",
+    "7.3/10",
+    "Intermediate (CBSE)",
+    "JNV, Bangalore",
+    "89.6%",
+    "High School (CBSE)",
+    "JNV, Kannauj",
+    "10/10",
+    "(MayJuly 2017)",
+    "Implemented Airbnb’s Knowledge Repo to make analysis/insights of different"
+  ],
+  "languages": [],
+  "sectioned_text": [
+    {
+      "section_type": "internships",
+      "text": "Elucidata\nData Consulting Pvt. Ltd. (New Delhi)\nEluciTrack (Tracker for",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "•\n•\n•\n•\n•\nIndiaMart (Noida, Head Office)\n•\n•\n•\n•\nStock Price Prediction\n•\n•\nspecific factors such as company growth, EPS change etc\n•\n•\n•\n•\n•\n•\n•\n•\n•",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "responsibility",
+      "text": "•\n•\n•\n•\n•\n•\n•\nEXTRA CURRICULARS\nAnalytics\nScouts\nFilms & Media\nSports\nDURGA KANT GUPTA Email : durgak@iitk.ac.in Contact: 919044994891\nACADEMIC DETAILS\nDEGREE\nINSTITUTE\nCGPA\nM.Tech (Industrial & Management Engineering) IIT Kanpur\n9.2/10\nB.Tech (Biological Sciences & Bio Engineering) IIT Kanpur\n7.3/10\nIntermediate (CBSE)\nJNV, Bangalore\n89.6%\nHigh School (CBSE)\nJNV, Kannauj\n10/10\n(MayJuly 2017)\nImplemented Airbnb’s Knowledge Repo to make analysis/insights of different",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "Created a Python package for generating signed URLs corresponding to files on Amazon S3 to facilitatenavigation and viewing files\ncBioportal_Wrapper (cBioportal is a website to access and analyze opensource Cancer Genomics datasets)\nContributed in creating an Rpackage namely cBioportal_Wrapper for downloading and analyzing all the cancer data from cBioportal website\nCreated scripts to perform Survival Analysis on cancer patients data, mutual exclusivity analysis using Fisher’s Exact Test for different genes\nUsed R API’s to connect this package to a mutation curating database to extract the existing literature associated with the known mutations\n(MayJuly 2016)\nBuy Leads Enrichment and Prediction using Advanced\nData Analytics (Buy Leads: Online buyer requirements)\nPerformed CostBenefit Analysis of AutoRejection of Intent generated leads by matching product name with its secondary micro category\nImpact: Saved 8440 genuine leads/week from deletion by suggesting not to implement auto rejection inside the system\nDeveloped, analyzed and initiated the implementation of Automatic\nProduct Mapper to map a product to its most relevant Micro Category\nConsidered maximum string match (of product name with Mcat name) and maximum no. of leads for that Mcat in previous 3 months data\nImpact: Resulted in >100% increase from 142 to 321 leads per product when compared to the existing search algorithm on IndiaMart portal\nPerformed Text Analytics to create an extensive database of most recurred Brands for a particular Micro category of products\nYavTech LLC (Washington DC, USA) (Dec 2015)\nDeveloped a Linear Regression model in R for the prediction of Future Stock prices of a company based on its past financial data\nModeling factorsused for the prediction were GDP (Economic Growth), Interest rates, sector specific factors such as P/E ratio and company\nRELEVANT COURSES\nStatistics and Computing:\nData Mining and Knowledge Discovery| Machine Learning Techniques| Statistical Modeling for Business Analytics\nData Structure & Algorithms | Probability & Statistics |Basic Computing | Advanced Statistical Methods for Business Analytics |Regression Analysis\nFinance & others: Accounting and Finance | Financial Engineering | Introduction to Economics | Marketing\nResearch | Social Media Analytics\nCredit Card Fraud Detection using\nMachine Learning Algorithms (Under Graduate Project) (JanApr 2017)\nDataset consisted of 284, 807 tuples and 28 features with only 492 cases of frauds ( 0.172% ) leading to the problem of class Imbalance\nApplied SMOTE to handle Class Imbalance problem and used Confusion matrix and ROC curve for quantification of accuracy of the model\nPerformed classification using Logistic Regression, Decision Tree, KNearest Neighbors, Support Vector Machines and Adaboost\nResult: On considering the tradeoff b/w accuracy and specificity, Decision tree performed best with 95.27% accuracy and specificity of 95.6%\nPrediction of Fuel Flow rate of an Aircraft during different phases of a Flight (\nData Mining - IME672A) (JanApr 2017)\nApplied\nData preprocessing techniques and PCA for dimensionality reduction on data taken from live competition on CrowdAnalytics.com\nModeled using Lasso and Ridge Regression , Regression Tree , Artificial Neural network and Ensemble methods ( Random Forest and XGBoost )\nResult: Ensemble Methods performed better with RMSE of only ~2.6% compared to ~ 5% error rate obtained using other methods\nTime Series Forecasting model for Quarterly RBI lending rates (Statistical Modelling for Business Analytics - MBA652A) (JanApr 2017)\nApproach1: Forecasted the RBI lending rate using ARIMA model, plotted Autocorrelation function to quantify the optimum no. of lags\nApproach2: Performed Autoregressive Distributed Lag Modeling of Interest rate with AR1 and Inflation rate of Immediate next quarters\nResult: Established that the current RBI lending rate depends significantly on the rate during the previous quarter for Autoregression\nModel resulted in a positive correlation between change in Inflation rate and change in Interest rate with a lag order of 2\nConcluded from this lag of order 2 that the Policy changes by government for countering inflation do not come into effect immediately\nProgramming Language : R| Python| C |C++ |SQL |HTML | CSS |Bootstrap\nSoftware : RStudio |Excel Platforms : Windows | Linux Database: MySQL\nDepartment Placement Coordinator (Student Placement Cell, IIT Kanpur) (Apr 2016Apr 2017)\nPart of a 24member team entrusted with the responsibility of conducting successful placement session for 2017 graduating batch\nNegotiating with pharmaceutical, biotechnology, life sciences companies throughout the country to recruit students from the department",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "internships",
+      "text": "Coordinator, Informal’s, Udghosh`15 (Annual Intercollege sports festival of IIT Kanpur) (JanSep 2015)\nLeadership: Led a team of 25 secretaries for conducting over 20 midfestival informal events\nDeveloped a detailed layout plan for the events and procured logistics for the setup through a number of dealers from Kanpur, Lucknow\nInitiatives: Started online registration portal for participants and new events such as blind date, paint ball etc. to add a new dimension of fun\nSenior Executive, Public Relations, Antaragni’15 (Annual Intercollege cultural festival of IIT Kanpur) (JanNov 2015)\nPart of a 25 member 3 tiered PR team responsible for contacting famouspersonalities\nResponsible for the execution of Kavi Sammelan and India Haat, also for hospitality/accommodation of the celebrities coming to the festival\n• Secured 1st position in Battlefield, a National Level Analytics Competition organized by Tiger Analytics & Techkriti IIT Kanpur\n• Recipient of Rajya Puraskar in scout, Received A grade in 248th National Adventure Program held at Pachmarhi hill station\n• Represented the pool and Secured 1 st position in Bicycle Ad competition in Spectrum’14 (Annual Event, Films & Media Council)\n• Participated in Cluster level Hand Ball Meet held at JNV Etah and cluster level Badminton Meet held at JNV Hathras (UP)",
+      "page_range": [
+        1,
+        1
+      ]
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "meta": {
+    "source_path": "data/resumes/Amanpreet Singh_BITS Pilani.pdf",
+    "pages": 1,
+    "model": "facebook/bart-large-mnli"
+  },
+  "candidate": {
+    "full_name": "Amanpreetsingh",
+    "emails": [
+      "aps.sids@gmail.com"
+    ],
+    "phones": [
+      "+918089241042"
+    ],
+    "links": {
+      "linkedin": null,
+      "github": null
+    }
+  },
+  "experience": [
+    {
+      "company_raw": "Klientas",
+      "company_norm": "Klientas",
+      "title_raw": "Web Development Intern, Klientas, Trivandrum, Kerela",
+      "title_norm": "intern",
+      "seniority": null,
+      "employment_type": "internship",
+      "location": null,
+      "start_date": "2014-07-01",
+      "end_date": null,
+      "is_current": true,
+      "extraction_confidence": 0.85,
+      "source_page": null,
+      "bullets": [
+        {
+          "bullet_text": "July 2014-present  Worked on various client websites to build and deploy websites as per requirement ACADEMIC PROJECTS ",
+          "metrics": {},
+          "skills_mentioned": [
+            "c"
+          ],
+          "source_page": null
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree_raw": null,
+      "degree_level": null,
+      "field_raw": null,
+      "institution_raw": null,
+      "start_date": "2010-08-01",
+      "end_date": "2015-08-01",
+      "gpa": null,
+      "extraction_confidence": 0.3,
+      "source_page": null
+    }
+  ],
+  "skills": [
+    {
+      "name": "c",
+      "category": null
+    },
+    {
+      "name": "c++",
+      "category": null
+    },
+    {
+      "name": "css",
+      "category": null
+    },
+    {
+      "name": "django",
+      "category": null
+    },
+    {
+      "name": "flask",
+      "category": null
+    },
+    {
+      "name": "html",
+      "category": null
+    },
+    {
+      "name": "java",
+      "category": null
+    },
+    {
+      "name": "javascript",
+      "category": null
+    },
+    {
+      "name": "linux",
+      "category": null
+    },
+    {
+      "name": "python",
+      "category": null
+    },
+    {
+      "name": "sql",
+      "category": null
+    }
+  ],
+  "projects": [
+    {
+      "name": "",
+      "summary": "Gtalk/SMS notifications of PU notices: Developed a Python script that sends notifications to users whenever a new notice is uploaded on Placement Unit website  Social Food Sharing App: Developed a web app, that helps reduce food wastage, using HTML5, CSS and Google Maps API with Rails backend; awarded 2 nd prize in Google Social Hackathon  File indexing site : built a django web app that provides indexing and searching of files shared on LAN  Managed LAN Sharing facility for students and implemented various python scripts for getting Live football updates, IMDb info, CS Servers list",
+      "role": null,
+      "tech_stack": [
+        "c",
+        "css",
+        "django",
+        "html",
+        "python"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    }
+  ],
+  "certifications": [],
+  "publications": [],
+  "achievements": [
+    "",
+    "President, Chemical Engineering Association, BITS Pilani, 2013-14",
+    "",
+    "Webmaster, Chemical Engineering Association, BITS Pilani, 2012-13: created websites for events like SCHEMCON 2012",
+    "",
+    "Core Team Member, Dept. of Visual Media (previously CCTV): created websites and promotion videos for college fests",
+    "",
+    "Elected Student Representative for Students’ Mess Council(SMC), 2011-12",
+    "",
+    "Core Team Member, Embryo Club: organized various cross-campus talks",
+    "",
+    "Co-founder and Tech Lead at Fabriso: Printed and delivered 5000+ custom merchandise to BITS and other institutes",
+    "",
+    "Runner-up in Google Social Hackathon and Ethical Hacking Contest , APOGEE 2013",
+    "",
+    "Performed at various cultural events including Institute Founder’s Day, 2011"
+  ],
+  "languages": [],
+  "sectioned_text": [
+    {
+      "section_type": "other",
+      "text": "A M A N P R E E T S I N G H\nM A L E , 2 1 Y R S",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "M.Sc. (Hons.) Mathematics\n2010-2015",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "courses",
+      "text": "B.I.T.S. Pilani, Pilani Campus\n5.04/10\nB.E. (Hons.) Chemical Engineering\nAISSCE (Class XII)\n2010\nG.G.N. Public School, Ludhiana\n81%\nAISCE (Class X)\n2008\nG.G.N. Public School, Ludhiana\n80%\nRelevant Coursework:\nComputer Programing, Data Processing, Object Oriented Programing, Graphs and Networks ,\nComputer Graphics, New Venture Creation, Symbolic Logic, Print & Audio-Visual Advertisement\nINTERNSHIPS\nGoogle Summer of Code Student\nMay 2014-Aug 2014\n Ported Flumotion (an open source media streaming server) from Gstreamer 0.10 to 1.0 API under TimVideos.us",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "internships",
+      "text": "Web Development Intern, Klientas, Trivandrum, Kerela\nJuly 2014-present\n Worked on various client websites to build and deploy websites as per requirement\nACADEMIC PROJECTS\n",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "courses",
+      "text": "Course Management Tool (HTML/CSS and PHP/MySQL):\nDeveloped an online portal for instructors to help them perform the course related tasks easily\no\n\nData storage and analysis for Wireless Sensor Nodes :\nDeveloped a python flask web app that logs in continuous stream of data and helps in its analysis\no\n\nAnalysis of Simple modeling with Polygon Primitives : analyzed and demonstrated effect of change of slices and stacks for\nthe modeling of primitive solids and wireframes using GLUT in OpenGL.",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "\nGtalk/SMS notifications of PU notices: Developed a Python script that sends notifications to users whenever a new notice is\nuploaded on Placement Unit website\n\nSocial Food Sharing App: Developed a web app, that helps reduce food wastage, using HTML5, CSS and Google Maps API\nwith Rails backend; awarded 2 nd prize in Google Social Hackathon\n\nFile indexing site : built a django web app that provides indexing and searching of files shared on LAN\n\nManaged LAN Sharing facility for students and implemented various python scripts for getting Live football updates,\nIMDb info, CS Servers list",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "responsibility",
+      "text": "\nPresident, Chemical Engineering Association, BITS Pilani, 2013-14\n\nWebmaster, Chemical Engineering Association, BITS Pilani, 2012-13: created websites for events like SCHEMCON 2012\n\nCore Team Member, Dept. of Visual Media (previously CCTV): created websites and promotion videos for college fests\n\nElected Student Representative for Students’ Mess Council(SMC), 2011-12\n\nCore Team Member, Embryo Club: organized various cross-campus talks\n\nCo-founder and Tech Lead at Fabriso: Printed and delivered 5000+ custom merchandise to BITS and other institutes",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "achievements",
+      "text": "\nRunner-up in Google Social Hackathon and Ethical Hacking Contest , APOGEE 2013\n\nPerformed at various cultural events including Institute Founder’s Day, 2011",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "skills",
+      "text": "\nPrograming Languages: Python, C, C++, JAVA, HTML/CSS, Javascript, PHP, SQL\n\nWeb technologies: Django and Flask web frameworks\n\nSoftware: Adobe Creative Suite (Photoshop, Illustrator, After Effects, Premiere Pro, Audition, etc.), Microsoft Office Suite\n\nOperating Systems: Windows, Linux\nPHONE +91 80 89 241042 • EMAIL aps.sids@gmail.com",
+      "page_range": [
+        1,
+        1
+      ]
+    }
+  ]
+}

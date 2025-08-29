@@ -1,0 +1,922 @@
+{
+  "meta": {
+    "source_path": "/Users/samarthya/Desktop/Extarct_NER/ABHAY_20ME02040.pdf",
+    "pages": 1
+  },
+  "lines": [
+    {
+      "page": 1,
+      "text": "ABHAY PRATAP S INGH PATEL",
+      "bbox": [
+        198.419189453125,
+        21.599998474121094,
+        427.0857849121094,
+        45.95199966430664
+      ],
+      "left_indent": 198.419189453125,
+      "width": 228.66659545898438,
+      "is_bold": false,
+      "font_size": 15.0
+    },
+    {
+      "page": 1,
+      "text": "LinkedIn |",
+      "bbox": [
+        158.31675720214844,
+        45.95199966430664,
+        206.5986328125,
+        61.172000885009766
+      ],
+      "left_indent": 158.31675720214844,
+      "width": 48.28187561035156,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "+91 9695213908 |",
+      "bbox": [
+        222.0956573486328,
+        45.95199966430664,
+        294.5679931640625,
+        61.172000885009766
+      ],
+      "left_indent": 222.0956573486328,
+      "width": 72.47233581542969,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "20me02040@iitbbs.ac.in |",
+      "bbox": [
+        315.06304931640625,
+        45.95199966430664,
+        427.7894592285156,
+        61.172000885009766
+      ],
+      "left_indent": 315.06304931640625,
+      "width": 112.72640991210938,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "GitHub",
+      "bbox": [
+        446.5355224609375,
+        45.95199966430664,
+        480.1844787597656,
+        61.172000885009766
+      ],
+      "left_indent": 446.5355224609375,
+      "width": 33.648956298828125,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Work Experience __________________________________________________________________________________",
+      "bbox": [
+        22.5,
+        61.1719970703125,
+        513.8978881835938,
+        74.81199645996094
+      ],
+      "left_indent": 22.5,
+      "width": 491.39788818359375,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Technical Product Manager Intern | AdrenL",
+      "bbox": [
+        27.75,
+        81.44425201416016,
+        203.06597900390625,
+        93.72025299072266
+      ],
+      "left_indent": 27.75,
+      "width": 175.31597900390625,
+      "is_bold": true,
+      "font_size": 8.5
+    },
+    {
+      "page": 1,
+      "text": "Aug, 2023 - March, 2024",
+      "bbox": [
+        477.62615966796875,
+        81.44425201416016,
+        582.0,
+        93.72025299072266
+      ],
+      "left_indent": 477.62615966796875,
+      "width": 104.37384033203125,
+      "is_bold": true,
+      "font_size": 9.0
+    },
+    {
+      "page": 1,
+      "text": "• Led the end-to-end development of a SaaS platform from concept to beta launch within 4 months, collaborating with the founder in Jordan and the",
+      "bbox": [
+        22.5,
+        99.18700408935547,
+        560.7793579101562,
+        110.0989990234375
+      ],
+      "left_indent": 22.5,
+      "width": 538.2793579101562,
+      "is_bold": true,
+      "font_size": 8.0
+    },
+    {
+      "page": 1,
+      "text": "marketing team in Singapore, ensuring alignment with international business objectives.",
+      "bbox": [
+        22.5,
+        110.45199584960938,
+        337.1173095703125,
+        121.3639907836914
+      ],
+      "left_indent": 22.5,
+      "width": 314.6173095703125,
+      "is_bold": false,
+      "font_size": 8.0
+    },
+    {
+      "page": 1,
+      "text": "• Drove key feature development , including chat, review system, and secure payment integration with PhonePe, enhancing product offerings and effectively",
+      "bbox": [
+        22.5,
+        121.36399841308594,
+        583.919189453125,
+        132.2760009765625
+      ],
+      "left_indent": 22.5,
+      "width": 561.419189453125,
+      "is_bold": true,
+      "font_size": 8.0
+    },
+    {
+      "page": 1,
+      "text": "managing partnerships with stakeholders like PhonePe and Digio .",
+      "bbox": [
+        22.5,
+        132.2760009765625,
+        257.849853515625,
+        143.18800354003906
+      ],
+      "left_indent": 22.5,
+      "width": 235.349853515625,
+      "is_bold": false,
+      "font_size": 8.0
+    },
+    {
+      "page": 1,
+      "text": "• Conducted market analysis by interviewing over 25 adventure service providers in Uttarakhand to identify market gaps and enhance platform offerings.",
+      "bbox": [
+        22.5,
+        143.18798828125,
+        573.4874267578125,
+        154.09999084472656
+      ],
+      "left_indent": 22.5,
+      "width": 550.9874267578125,
+      "is_bold": true,
+      "font_size": 8.0
+    },
+    {
+      "page": 1,
+      "text": "• Implemented data-driven decision-making by integrating the Google Trends API to optimize homepage sorting, resulting in improved customer",
+      "bbox": [
+        22.5,
+        154.09999084472656,
+        547.050537109375,
+        165.01199340820312
+      ],
+      "left_indent": 22.5,
+      "width": 524.550537109375,
+      "is_bold": true,
+      "font_size": 8.0
+    },
+    {
+      "page": 1,
+      "text": "engagement and a reduced bounce rate.",
+      "bbox": [
+        22.5,
+        165.0120086669922,
+        166.18655395507812,
+        175.92401123046875
+      ],
+      "left_indent": 22.5,
+      "width": 143.68655395507812,
+      "is_bold": false,
+      "font_size": 8.0
+    },
+    {
+      "page": 1,
+      "text": "• Designed Figma mockups, site maps , and layouts for better user retention, including SEO and Google Analytics integration. Implemented user-centric",
+      "bbox": [
+        22.5,
+        175.92401123046875,
+        567.4880981445312,
+        186.8360137939453
+      ],
+      "left_indent": 22.5,
+      "width": 544.9880981445312,
+      "is_bold": false,
+      "font_size": 8.0
+    },
+    {
+      "page": 1,
+      "text": "policies like cancellation policy, enhancing satisfaction, and supporting profitability.",
+      "bbox": [
+        22.5,
+        186.83599853515625,
+        318.4789123535156,
+        197.7480010986328
+      ],
+      "left_indent": 22.5,
+      "width": 295.9789123535156,
+      "is_bold": false,
+      "font_size": 8.0
+    },
+    {
+      "page": 1,
+      "text": "Research Consultant | Worldquant Brain",
+      "bbox": [
+        27.37804412841797,
+        197.7480010986328,
+        187.91505432128906,
+        210.0240020751953
+      ],
+      "left_indent": 27.37804412841797,
+      "width": 160.5370101928711,
+      "is_bold": true,
+      "font_size": 8.5
+    },
+    {
+      "page": 1,
+      "text": "• Developed and implemented advanced trading strategies by formulating alpha models using a simulation-based platform and statistical analysis for",
+      "bbox": [
+        22.5,
+        210.02401733398438,
+        560.2364501953125,
+        220.93601989746094
+      ],
+      "left_indent": 22.5,
+      "width": 537.7364501953125,
+      "is_bold": false,
+      "font_size": 8.0
+    },
+    {
+      "page": 1,
+      "text": "out-of-sample testing.",
+      "bbox": [
+        22.5,
+        220.93600463867188,
+        102.83194732666016,
+        231.84800720214844
+      ],
+      "left_indent": 22.5,
+      "width": 80.33194732666016,
+      "is_bold": false,
+      "font_size": 8.0
+    },
+    {
+      "page": 1,
+      "text": "Projects __________________________________________________________________________________________",
+      "bbox": [
+        22.5,
+        235.94000244140625,
+        512.508544921875,
+        249.5800018310547
+      ],
+      "left_indent": 22.5,
+      "width": 490.008544921875,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Cold Email Generator",
+      "bbox": [
+        27.37804412841797,
+        249.58001708984375,
+        117.00068664550781,
+        261.85601806640625
+      ],
+      "left_indent": 27.37804412841797,
+      "width": 89.62264251708984,
+      "is_bold": true,
+      "font_size": 9.0
+    },
+    {
+      "page": 1,
+      "text": "• Developed a cold email generator tool using Groq, Langchain, and Streamlit to automate outreach by extracting job listings from company careers pages and",
+      "bbox": [
+        22.5,
+        261.8559875488281,
+        588.348388671875,
+        272.76800537109375
+      ],
+      "left_indent": 22.5,
+      "width": 565.848388671875,
+      "is_bold": false,
+      "font_size": 8.0
+    },
+    {
+      "page": 1,
+      "text": "generating personalized emails.",
+      "bbox": [
+        22.5,
+        272.76800537109375,
+        136.01580810546875,
+        283.6800231933594
+      ],
+      "left_indent": 22.5,
+      "width": 113.51580810546875,
+      "is_bold": false,
+      "font_size": 8.0
+    },
+    {
+      "page": 1,
+      "text": "• Integrated portfolio link sourcing from a vector database to align email content with job descriptions, improving relevance and personalization.",
+      "bbox": [
+        22.5,
+        283.67999267578125,
+        535.9404907226562,
+        294.5920104980469
+      ],
+      "left_indent": 22.5,
+      "width": 513.4404907226562,
+      "is_bold": false,
+      "font_size": 8.0
+    },
+    {
+      "page": 1,
+      "text": "• Deployed a user-friendly Streamlit app that assists business development teams in reaching out to potential clients, providing value propositions for",
+      "bbox": [
+        22.5,
+        294.5920104980469,
+        559.973876953125,
+        305.5040283203125
+      ],
+      "left_indent": 22.5,
+      "width": 537.473876953125,
+      "is_bold": false,
+      "font_size": 8.0
+    },
+    {
+      "page": 1,
+      "text": "dedicated software engineering services.",
+      "bbox": [
+        22.5,
+        305.5039978027344,
+        168.1686553955078,
+        316.416015625
+      ],
+      "left_indent": 22.5,
+      "width": 145.6686553955078,
+      "is_bold": false,
+      "font_size": 8.0
+    },
+    {
+      "page": 1,
+      "text": "Ride Demand Surge Price Prediction",
+      "bbox": [
+        22.5,
+        316.416015625,
+        173.90811157226562,
+        328.6920166015625
+      ],
+      "left_indent": 22.5,
+      "width": 151.40811157226562,
+      "is_bold": true,
+      "font_size": 9.0
+    },
+    {
+      "page": 1,
+      "text": "Collab",
+      "bbox": [
+        552.195068359375,
+        317.427001953125,
+        576.2242431640625,
+        328.3390197753906
+      ],
+      "left_indent": 552.195068359375,
+      "width": 24.0291748046875,
+      "is_bold": true,
+      "font_size": 8.0
+    },
+    {
+      "page": 1,
+      "text": "• Developed a predictive model to forecast surge pricing types, improving cab-to-customer matching efficiency.",
+      "bbox": [
+        22.5,
+        328.6920166015625,
+        421.3951721191406,
+        339.6040344238281
+      ],
+      "left_indent": 22.5,
+      "width": 398.8951721191406,
+      "is_bold": false,
+      "font_size": 8.0
+    },
+    {
+      "page": 1,
+      "text": "• Conducted exploratory data analysis (EDA), handled missing values, and encoded categorical variables to prepare the dataset for machine learning.",
+      "bbox": [
+        22.5,
+        339.60400390625,
+        562.0587768554688,
+        350.5160217285156
+      ],
+      "left_indent": 22.5,
+      "width": 539.5587768554688,
+      "is_bold": false,
+      "font_size": 8.0
+    },
+    {
+      "page": 1,
+      "text": "• Built and tuned models, achieving 73% accuracy through feature selection and hyperparameter tuning.",
+      "bbox": [
+        22.5,
+        350.5159912109375,
+        398.88922119140625,
+        361.4280090332031
+      ],
+      "left_indent": 22.5,
+      "width": 376.38922119140625,
+      "is_bold": false,
+      "font_size": 8.0
+    },
+    {
+      "page": 1,
+      "text": "• Improved service efficiency during peak demand times by enabling proactive surge pricing predictions using Python, Pandas, and Scikit-learn",
+      "bbox": [
+        22.5,
+        361.427978515625,
+        537.5502319335938,
+        372.3399963378906
+      ],
+      "left_indent": 22.5,
+      "width": 515.0502319335938,
+      "is_bold": true,
+      "font_size": 8.0
+    },
+    {
+      "page": 1,
+      "text": "Human Activity Recognition",
+      "bbox": [
+        22.5,
+        372.3399963378906,
+        139.30282592773438,
+        384.6159973144531
+      ],
+      "left_indent": 22.5,
+      "width": 116.80282592773438,
+      "is_bold": true,
+      "font_size": 9.0
+    },
+    {
+      "page": 1,
+      "text": "• Built machine learning models (Random Forest, LSTM) for classifying human activities from smartphone sensor data, achieving 90%+ accuracy.",
+      "bbox": [
+        22.5,
+        384.61602783203125,
+        539.2490234375,
+        395.5280456542969
+      ],
+      "left_indent": 22.5,
+      "width": 516.7490234375,
+      "is_bold": false,
+      "font_size": 8.0
+    },
+    {
+      "page": 1,
+      "text": "• Performed time-series preprocessing and feature extraction to enhance model performance.",
+      "bbox": [
+        22.5,
+        395.52801513671875,
+        356.9538879394531,
+        406.4400329589844
+      ],
+      "left_indent": 22.5,
+      "width": 334.4538879394531,
+      "is_bold": false,
+      "font_size": 8.0
+    },
+    {
+      "page": 1,
+      "text": "• Optimized deep learning models using TensorFlow for real-time activity recognition.",
+      "bbox": [
+        22.5,
+        406.44000244140625,
+        328.892578125,
+        417.3520202636719
+      ],
+      "left_indent": 22.5,
+      "width": 306.392578125,
+      "is_bold": false,
+      "font_size": 8.0
+    },
+    {
+      "page": 1,
+      "text": "Education ________________________________________________________________________________________",
+      "bbox": [
+        22.5,
+        428.26397705078125,
+        511.03924560546875,
+        441.90399169921875
+      ],
+      "left_indent": 22.5,
+      "width": 488.53924560546875,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Dual Degree (B.Tech + M.Tech)",
+      "bbox": [
+        29.25,
+        447.9482727050781,
+        156.87994384765625,
+        460.2242736816406
+      ],
+      "left_indent": 29.25,
+      "width": 127.62994384765625,
+      "is_bold": true,
+      "font_size": 9.0
+    },
+    {
+      "page": 1,
+      "text": "Indian Institute of Technology (IIT)",
+      "bbox": [
+        210.64596557617188,
+        447.9482727050781,
+        354.85400390625,
+        460.2242736816406
+      ],
+      "left_indent": 210.64596557617188,
+      "width": 144.20803833007812,
+      "is_bold": true,
+      "font_size": 9.0
+    },
+    {
+      "page": 1,
+      "text": "Bhubaneswar, Odisha",
+      "bbox": [
+        393.74334716796875,
+        447.9482727050781,
+        482.2499694824219,
+        460.2242736816406
+      ],
+      "left_indent": 393.74334716796875,
+      "width": 88.50662231445312,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 1,
+      "text": "2020 - 2025",
+      "bbox": [
+        530.0155639648438,
+        447.9482727050781,
+        582.0,
+        460.2242736816406
+      ],
+      "left_indent": 530.0155639648438,
+      "width": 51.98443603515625,
+      "is_bold": true,
+      "font_size": 9.0
+    },
+    {
+      "page": 1,
+      "text": "• Major in Mechanical Engineering",
+      "bbox": [
+        22.5,
+        464.67999267578125,
+        147.88351440429688,
+        475.5920104980469
+      ],
+      "left_indent": 22.5,
+      "width": 125.38351440429688,
+      "is_bold": false,
+      "font_size": 7.5
+    },
+    {
+      "page": 1,
+      "text": "Positions of Responsibility _________________________________________________________________________",
+      "bbox": [
+        22.5,
+        479.68402099609375,
+        512.798583984375,
+        493.3240051269531
+      ],
+      "left_indent": 22.5,
+      "width": 490.298583984375,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "88 Inter IIT Vice Captain | Medichain",
+      "bbox": [
+        23.249988555908203,
+        497.99200439453125,
+        165.57093811035156,
+        510.26800537109375
+      ],
+      "left_indent": 23.249988555908203,
+      "width": 142.32094955444336,
+      "is_bold": true,
+      "font_size": 6.0
+    },
+    {
+      "page": 1,
+      "text": "Github",
+      "bbox": [
+        554.6341552734375,
+        499.00299072265625,
+        579.8305053710938,
+        509.9150085449219
+      ],
+      "left_indent": 554.6341552734375,
+      "width": 25.19635009765625,
+      "is_bold": true,
+      "font_size": 8.0
+    },
+    {
+      "page": 1,
+      "text": "• Originated the idea for a decentralized application to securely store patient medical histories, leading the team in a tech entrepreneurship competition at",
+      "bbox": [
+        22.5,
+        510.6209716796875,
+        575.9826049804688,
+        521.532958984375
+      ],
+      "left_indent": 22.5,
+      "width": 553.4826049804688,
+      "is_bold": false,
+      "font_size": 8.0
+    },
+    {
+      "page": 1,
+      "text": "the Inter IIT Tech Meet among 22 IITs to present this innovative concept.",
+      "bbox": [
+        22.5,
+        521.532958984375,
+        279.45977783203125,
+        532.4449462890625
+      ],
+      "left_indent": 22.5,
+      "width": 256.95977783203125,
+      "is_bold": false,
+      "font_size": 8.0
+    },
+    {
+      "page": 1,
+      "text": "• Developed comprehensive Figma mockups to visualize the user interface and experience, and built a functional prototype using Solidity, leveraging crypto",
+      "bbox": [
+        22.5,
+        532.4450073242188,
+        585.0078125,
+        543.3569946289062
+      ],
+      "left_indent": 22.5,
+      "width": 562.5078125,
+      "is_bold": false,
+      "font_size": 8.0
+    },
+    {
+      "page": 1,
+      "text": "for decentralization",
+      "bbox": [
+        22.5,
+        543.3569946289062,
+        91.39754486083984,
+        554.2689819335938
+      ],
+      "left_indent": 22.5,
+      "width": 68.89754486083984,
+      "is_bold": false,
+      "font_size": 8.0
+    },
+    {
+      "page": 1,
+      "text": "Governor | Finance Society of IIT Bhubaneswar",
+      "bbox": [
+        27.37804412841797,
+        555.2799682617188,
+        222.64344787597656,
+        567.5559692382812
+      ],
+      "left_indent": 27.37804412841797,
+      "width": 195.2654037475586,
+      "is_bold": true,
+      "font_size": 9.0
+    },
+    {
+      "page": 1,
+      "text": "• Founded and led FEBS into a top finance society with 100+ members. Hosted events with 300+ attendees, featuring speakers like Zerodha Founder and",
+      "bbox": [
+        22.5,
+        567.9089965820312,
+        573.2666625976562,
+        578.8209838867188
+      ],
+      "left_indent": 22.5,
+      "width": 550.7666625976562,
+      "is_bold": false,
+      "font_size": 8.0
+    },
+    {
+      "page": 1,
+      "text": "Anil Bhasan. Partnered with WorldQuant, ISB, and managed a Product Development Club. Conducted workshops in finance, math, statistics, and quant.",
+      "bbox": [
+        22.5,
+        579.83203125,
+        564.4563598632812,
+        590.7440185546875
+      ],
+      "left_indent": 22.5,
+      "width": 541.9563598632812,
+      "is_bold": false,
+      "font_size": 8.0
+    },
+    {
+      "page": 1,
+      "text": "WebND Coordinator | Sports Fest IIT BBS",
+      "bbox": [
+        27.14403533935547,
+        591.0969848632812,
+        201.5203094482422,
+        603.3729858398438
+      ],
+      "left_indent": 27.14403533935547,
+      "width": 174.37627410888672,
+      "is_bold": true,
+      "font_size": 9.0
+    },
+    {
+      "page": 1,
+      "text": "Github",
+      "bbox": [
+        555.4344482421875,
+        592.1079711914062,
+        580.630859375,
+        603.0199584960938
+      ],
+      "left_indent": 555.4344482421875,
+      "width": 25.1964111328125,
+      "is_bold": true,
+      "font_size": 8.0
+    },
+    {
+      "page": 1,
+      "text": "• Managed a 30+ member team to create a multifunctional website for registrations and event publicity, while overseeing sponsorship acquisition, organizing",
+      "bbox": [
+        22.5,
+        603.3729858398438,
+        584.9993896484375,
+        614.2849731445312
+      ],
+      "left_indent": 22.5,
+      "width": 562.4993896484375,
+      "is_bold": false,
+      "font_size": 8.0
+    },
+    {
+      "page": 1,
+      "text": "offline events, and coordinating logistics, contributing to a successful fest with over 1,000 attendees across three days.",
+      "bbox": [
+        22.5,
+        614.2850341796875,
+        445.8350830078125,
+        625.197021484375
+      ],
+      "left_indent": 22.5,
+      "width": 423.3350830078125,
+      "is_bold": false,
+      "font_size": 8.0
+    },
+    {
+      "page": 1,
+      "text": "\\",
+      "bbox": [
+        22.5,
+        625.197021484375,
+        23.43899917602539,
+        629.2890625
+      ],
+      "left_indent": 22.5,
+      "width": 0.9389991760253906,
+      "is_bold": true,
+      "font_size": 3.0
+    },
+    {
+      "page": 1,
+      "text": "Achievements _______________________________________________________________________________________",
+      "bbox": [
+        22.5,
+        629.2890014648438,
+        525.213623046875,
+        642.9290161132812
+      ],
+      "left_indent": 22.5,
+      "width": 502.713623046875,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "• Codeforces : Pupil on CodeForces (Max rating: 1334).",
+      "bbox": [
+        22.5,
+        642.928955078125,
+        221.75595092773438,
+        653.8409423828125
+      ],
+      "left_indent": 22.5,
+      "width": 199.25595092773438,
+      "is_bold": true,
+      "font_size": 8.0
+    },
+    {
+      "page": 1,
+      "text": "• CodeRelay - Secured rank 1 out of 1600 participants on unstop in a 3-day software development hackathon",
+      "bbox": [
+        22.5,
+        653.8410034179688,
+        418.76849365234375,
+        664.7529907226562
+      ],
+      "left_indent": 22.5,
+      "width": 396.26849365234375,
+      "is_bold": false,
+      "font_size": 8.0
+    },
+    {
+      "page": 1,
+      "text": "• Secured a rank within the top 4% in JEE Advanced (2020) among more than 10 lakh students.",
+      "bbox": [
+        22.5,
+        664.7529907226562,
+        368.1352233886719,
+        675.6649780273438
+      ],
+      "left_indent": 22.5,
+      "width": 345.6352233886719,
+      "is_bold": false,
+      "font_size": 8.0
+    },
+    {
+      "page": 1,
+      "text": "Skills ________________________________________________________________________________",
+      "bbox": [
+        22.5,
+        679.7569580078125,
+        447.7639465332031,
+        693.39697265625
+      ],
+      "left_indent": 22.5,
+      "width": 425.2639465332031,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "• Python, SQL, DBMS, C, C++, DataStructures and Algorithms, Tableau, Project Management, Excel, Google Analytics, Figma, Premier Pro, Mixpanel, Root",
+      "bbox": [
+        22.5,
+        705.5869750976562,
+        576.6698608398438,
+        716.4989624023438
+      ],
+      "left_indent": 22.5,
+      "width": 554.1698608398438,
+      "is_bold": false,
+      "font_size": 8.0
+    },
+    {
+      "page": 1,
+      "text": "cause analysis, Problem-solving",
+      "bbox": [
+        22.5,
+        716.4989624023438,
+        137.2330780029297,
+        727.4109497070312
+      ],
+      "left_indent": 22.5,
+      "width": 114.73307800292969,
+      "is_bold": false,
+      "font_size": 8.0
+    }
+  ],
+  "text_per_page": [
+    "ABHAY PRATAP S INGH PATEL\nLinkedIn |\n+91 9695213908 |\n20me02040@iitbbs.ac.in |\nGitHub\nWork Experience __________________________________________________________________________________\nTechnical Product Manager Intern | AdrenL\nAug, 2023 - March, 2024\n• Led the end-to-end development of a SaaS platform from concept to beta launch within 4 months, collaborating with the founder in Jordan and the\nmarketing team in Singapore, ensuring alignment with international business objectives.\n• Drove key feature development , including chat, review system, and secure payment integration with PhonePe, enhancing product offerings and effectively\nmanaging partnerships with stakeholders like PhonePe and Digio .\n• Conducted market analysis by interviewing over 25 adventure service providers in Uttarakhand to identify market gaps and enhance platform offerings.\n• Implemented data-driven decision-making by integrating the Google Trends API to optimize homepage sorting, resulting in improved customer\nengagement and a reduced bounce rate.\n• Designed Figma mockups, site maps , and layouts for better user retention, including SEO and Google Analytics integration. Implemented user-centric\npolicies like cancellation policy, enhancing satisfaction, and supporting profitability.\nResearch Consultant | Worldquant Brain\n• Developed and implemented advanced trading strategies by formulating alpha models using a simulation-based platform and statistical analysis for\nout-of-sample testing.\nProjects __________________________________________________________________________________________\nCold Email Generator\n• Developed a cold email generator tool using Groq, Langchain, and Streamlit to automate outreach by extracting job listings from company careers pages and\ngenerating personalized emails.\n• Integrated portfolio link sourcing from a vector database to align email content with job descriptions, improving relevance and personalization.\n• Deployed a user-friendly Streamlit app that assists business development teams in reaching out to potential clients, providing value propositions for\ndedicated software engineering services.\nRide Demand Surge Price Prediction\nCollab\n• Developed a predictive model to forecast surge pricing types, improving cab-to-customer matching efficiency.\n• Conducted exploratory data analysis (EDA), handled missing values, and encoded categorical variables to prepare the dataset for machine learning.\n• Built and tuned models, achieving 73% accuracy through feature selection and hyperparameter tuning.\n• Improved service efficiency during peak demand times by enabling proactive surge pricing predictions using Python, Pandas, and Scikit-learn\nHuman Activity Recognition\n• Built machine learning models (Random Forest, LSTM) for classifying human activities from smartphone sensor data, achieving 90%+ accuracy.\n• Performed time-series preprocessing and feature extraction to enhance model performance.\n• Optimized deep learning models using TensorFlow for real-time activity recognition.\nEducation ________________________________________________________________________________________\nDual Degree (B.Tech + M.Tech)\nIndian Institute of Technology (IIT)\nBhubaneswar, Odisha\n2020 - 2025\n• Major in Mechanical Engineering\nPositions of Responsibility _________________________________________________________________________\n88 Inter IIT Vice Captain | Medichain\nGithub\n• Originated the idea for a decentralized application to securely store patient medical histories, leading the team in a tech entrepreneurship competition at\nthe Inter IIT Tech Meet among 22 IITs to present this innovative concept.\n• Developed comprehensive Figma mockups to visualize the user interface and experience, and built a functional prototype using Solidity, leveraging crypto\nfor decentralization\nGovernor | Finance Society of IIT Bhubaneswar\n• Founded and led FEBS into a top finance society with 100+ members. Hosted events with 300+ attendees, featuring speakers like Zerodha Founder and\nAnil Bhasan. Partnered with WorldQuant, ISB, and managed a Product Development Club. Conducted workshops in finance, math, statistics, and quant.\nWebND Coordinator | Sports Fest IIT BBS\nGithub\n• Managed a 30+ member team to create a multifunctional website for registrations and event publicity, while overseeing sponsorship acquisition, organizing\noffline events, and coordinating logistics, contributing to a successful fest with over 1,000 attendees across three days.\n\\\nAchievements _______________________________________________________________________________________\n• Codeforces : Pupil on CodeForces (Max rating: 1334).\n• CodeRelay - Secured rank 1 out of 1600 participants on unstop in a 3-day software development hackathon\n• Secured a rank within the top 4% in JEE Advanced (2020) among more than 10 lakh students.\nSkills ________________________________________________________________________________\n• Python, SQL, DBMS, C, C++, DataStructures and Algorithms, Tableau, Project Management, Excel, Google Analytics, Figma, Premier Pro, Mixpanel, Root\ncause analysis, Problem-solving"
+  ],
+  "text_all": "ABHAY PRATAP S INGH PATEL\nLinkedIn |\n+91 9695213908 |\n20me02040@iitbbs.ac.in |\nGitHub\nWork Experience __________________________________________________________________________________\nTechnical Product Manager Intern | AdrenL\nAug, 2023 - March, 2024\n• Led the end-to-end development of a SaaS platform from concept to beta launch within 4 months, collaborating with the founder in Jordan and the\nmarketing team in Singapore, ensuring alignment with international business objectives.\n• Drove key feature development , including chat, review system, and secure payment integration with PhonePe, enhancing product offerings and effectively\nmanaging partnerships with stakeholders like PhonePe and Digio .\n• Conducted market analysis by interviewing over 25 adventure service providers in Uttarakhand to identify market gaps and enhance platform offerings.\n• Implemented data-driven decision-making by integrating the Google Trends API to optimize homepage sorting, resulting in improved customer\nengagement and a reduced bounce rate.\n• Designed Figma mockups, site maps , and layouts for better user retention, including SEO and Google Analytics integration. Implemented user-centric\npolicies like cancellation policy, enhancing satisfaction, and supporting profitability.\nResearch Consultant | Worldquant Brain\n• Developed and implemented advanced trading strategies by formulating alpha models using a simulation-based platform and statistical analysis for\nout-of-sample testing.\nProjects __________________________________________________________________________________________\nCold Email Generator\n• Developed a cold email generator tool using Groq, Langchain, and Streamlit to automate outreach by extracting job listings from company careers pages and\ngenerating personalized emails.\n• Integrated portfolio link sourcing from a vector database to align email content with job descriptions, improving relevance and personalization.\n• Deployed a user-friendly Streamlit app that assists business development teams in reaching out to potential clients, providing value propositions for\ndedicated software engineering services.\nRide Demand Surge Price Prediction\nCollab\n• Developed a predictive model to forecast surge pricing types, improving cab-to-customer matching efficiency.\n• Conducted exploratory data analysis (EDA), handled missing values, and encoded categorical variables to prepare the dataset for machine learning.\n• Built and tuned models, achieving 73% accuracy through feature selection and hyperparameter tuning.\n• Improved service efficiency during peak demand times by enabling proactive surge pricing predictions using Python, Pandas, and Scikit-learn\nHuman Activity Recognition\n• Built machine learning models (Random Forest, LSTM) for classifying human activities from smartphone sensor data, achieving 90%+ accuracy.\n• Performed time-series preprocessing and feature extraction to enhance model performance.\n• Optimized deep learning models using TensorFlow for real-time activity recognition.\nEducation ________________________________________________________________________________________\nDual Degree (B.Tech + M.Tech)\nIndian Institute of Technology (IIT)\nBhubaneswar, Odisha\n2020 - 2025\n• Major in Mechanical Engineering\nPositions of Responsibility _________________________________________________________________________\n88 Inter IIT Vice Captain | Medichain\nGithub\n• Originated the idea for a decentralized application to securely store patient medical histories, leading the team in a tech entrepreneurship competition at\nthe Inter IIT Tech Meet among 22 IITs to present this innovative concept.\n• Developed comprehensive Figma mockups to visualize the user interface and experience, and built a functional prototype using Solidity, leveraging crypto\nfor decentralization\nGovernor | Finance Society of IIT Bhubaneswar\n• Founded and led FEBS into a top finance society with 100+ members. Hosted events with 300+ attendees, featuring speakers like Zerodha Founder and\nAnil Bhasan. Partnered with WorldQuant, ISB, and managed a Product Development Club. Conducted workshops in finance, math, statistics, and quant.\nWebND Coordinator | Sports Fest IIT BBS\nGithub\n• Managed a 30+ member team to create a multifunctional website for registrations and event publicity, while overseeing sponsorship acquisition, organizing\noffline events, and coordinating logistics, contributing to a successful fest with over 1,000 attendees across three days.\n\\\nAchievements _______________________________________________________________________________________\n• Codeforces : Pupil on CodeForces (Max rating: 1334).\n• CodeRelay - Secured rank 1 out of 1600 participants on unstop in a 3-day software development hackathon\n• Secured a rank within the top 4% in JEE Advanced (2020) among more than 10 lakh students.\nSkills ________________________________________________________________________________\n• Python, SQL, DBMS, C, C++, DataStructures and Algorithms, Tableau, Project Management, Excel, Google Analytics, Figma, Premier Pro, Mixpanel, Root\ncause analysis, Problem-solving"
+}

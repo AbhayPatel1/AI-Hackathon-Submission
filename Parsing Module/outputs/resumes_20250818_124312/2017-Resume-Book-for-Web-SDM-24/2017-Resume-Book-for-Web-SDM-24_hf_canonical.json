@@ -1,0 +1,82 @@
+{
+  "candidate": {
+    "full_name": "Ashley Whitney",
+    "emails": [
+      "ashwhit@mit.edu"
+    ],
+    "phones": [],
+    "location": {
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null
+    },
+    "resume_text_hash": "sha256:045a0eab9c59ab683711de372dfb4bb697cbe74596812b97d964f45781960cde",
+    "source_file_id": "2017-Resume-Book-for-Web-SDM-24.pdf",
+    "parsed_at": "2025-08-18T08:14:25Z",
+    "parser_version": "v0.3.0"
+  },
+  "experience": [],
+  "education": [
+    {
+      "degree_raw": null,
+      "degree_level": null,
+      "field_raw": null,
+      "institution_raw": "Massachusetts Institute of Technology School of Engineering & Sloan School of Management",
+      "start_date": null,
+      "end_date": null,
+      "gpa": null,
+      "extraction_confidence": 0.6,
+      "source_page": null
+    }
+  ],
+  "skills": [],
+  "projects": [
+    {
+      "name": "Research & Development Co-op",
+      "summary": "• Managed concept development and selection process for key component of medical device prototype. • Performed tolerance stack-up analysis on multiple surgical device components. • Performed finite element analysis to optimize design of vibration simulation test fixture. OTHER QUALIFICATIONS_______________________________________________________________________ Medical device regulations (ISO 13485), deign controls, requirement management, risk management, system architecture, system design, program management, program design, design for six sigma, mechanical design, CAD modeling (Solidworks), design for manufacture and assembly, tolerance analysis, statistical analysis (Minitab), test design, product verification, root cause analysis. Cambridge, MA 9/2015 – 6/2017 (anticipated) Urbana-Champaign, IL 9/2004-5/2009 Boston, MA 1/2016 – 9/2016 1/2012 – 1/2016 Round Lake, IL 7/2011-1/2012 7/2009-7/2011 Cincinnati, OH 8/2006-6/2008",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    }
+  ],
+  "certifications": [],
+  "publications": [],
+  "achievements": [],
+  "languages": [],
+  "sectioned_text": [
+    {
+      "section_type": "other",
+      "text": "ASHLEY WHITNEY\nashwhit@mit.edu",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "Massachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nM.S., System Design and Management\nUniversity of Illinois\nSchool of Engineering\nB.S., Mechanical Engineering (with honors)\nEXPERIENCE\nCambridge Consultants\nCambridge Consultants is a global product development and technology consultancy providing outsourced research and\ndevelopment services to start-ups and blue-chip companies.\nPrincipal Mechanical Engineer – Medical Technologies\nLed technical design efforts in development of a portable, reliable, low-cost laparoscopic surgical platform\nprototype targeted to address unique needs of surgery in emerging markets.\nManaged program to explore feasibility of integrating energy harvesting technology into a drug delivery device for\ndose compliance tracking.\nActively contributed to helping build the company’s drug delivery service offering in the US office through\nrecruitment, employee mentoring, and demonstrated thought leadership.\nDesigned and implemented design verification training curriculum within organization.\nSenior Mechanical Engineer – Medical Technologies\nManaged program to support first combination product launch for pharmaceutical company.\nLed mechanical engineering efforts on a multi-disciplinary team redesigning a complex fluidic management system\nused in surgical procedures from concept generation to product launch.\nLed mechanical engineering efforts on a multi-disciplinary team to design a home healthcare monitor device\ncurrently on the market in the US.\nBaxter Healthcare\nBaxter Healthcare is a globally diversified healthcare company providing products and expertise in medical devices,\npharmaceuticals, and biotechnologies that save and sustain lives.\nSenior Mechanical Engineer – Electromechanical Devices\nCreated a simulation model to quantify the effects of critical environmental and usage factors on infusion pump flow\nrate accuracy. Earned DFSS green belt certification in conjunction with project.\nSupported requirement generation and concept generation activities for a next generation infusion pump.\nMechanical Engineer - Engineering Development Program\n• Developed and evaluated multiple iterations of prototypes for anesthetic container closure project.\n• Led product verification efforts including test planning and management of test team for multiple products.\n• Managed implementation of infusion pump rework related to remediation efforts, including component redesign,\nprocedure creation, personnel training, and troubleshooting.\nEthicon Endo-Surgery\nEthicon Endo-Surgery is a Johnson & Johnson family company that develops medical devices for minimally invasive\nand open surgical procedures.",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "Research & Development Co-op\n• Managed concept development and selection process for key component of medical device prototype.\n• Performed tolerance stack-up analysis on multiple surgical device components.\n• Performed finite element analysis to optimize design of vibration simulation test fixture.\nOTHER QUALIFICATIONS_______________________________________________________________________\nMedical device regulations (ISO 13485), deign controls, requirement management, risk management, system\narchitecture, system design, program management, program design, design for six sigma, mechanical design, CAD\nmodeling (Solidworks), design for manufacture and assembly, tolerance analysis, statistical analysis (Minitab), test\ndesign, product verification, root cause analysis.\nCambridge, MA\n9/2015 – 6/2017 (anticipated)\nUrbana-Champaign, IL\n9/2004-5/2009\nBoston, MA\n1/2016 – 9/2016\n1/2012 – 1/2016\nRound Lake, IL\n7/2011-1/2012\n7/2009-7/2011\nCincinnati, OH\n8/2006-6/2008",
+      "page_range": [
+        1,
+        1
+      ]
+    }
+  ]
+}

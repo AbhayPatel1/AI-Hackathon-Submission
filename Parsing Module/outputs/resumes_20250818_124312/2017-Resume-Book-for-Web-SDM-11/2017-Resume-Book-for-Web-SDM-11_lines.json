@@ -1,0 +1,866 @@
+{
+  "meta": {
+    "source_path": "data/resumes/2017-Resume-Book-for-Web-SDM-11.pdf",
+    "pages": 1
+  },
+  "lines": [
+    {
+      "page": 1,
+      "text": "CHAHAT JAIN",
+      "bbox": [
+        274.6000061035156,
+        33.75202941894531,
+        361.3999938964844,
+        50.37202835083008
+      ],
+      "left_indent": 274.6000061035156,
+      "width": 86.79998779296875,
+      "is_bold": true,
+      "font_size": 12.0
+    },
+    {
+      "page": 1,
+      "text": "70 Pacific Street, Apt 828 - Cambridge, MA 02139",
+      "bbox": [
+        214.0800018310547,
+        46.750030517578125,
+        421.67999267578125,
+        60.090030670166016
+      ],
+      "left_indent": 214.0800018310547,
+      "width": 207.59999084472656,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "+1 (617) 386-9369 | chahat@mit.edu",
+      "bbox": [
+        242.35000610351562,
+        57.750030517578125,
+        393.1499938964844,
+        71.09002685546875
+      ],
+      "left_indent": 242.35000610351562,
+      "width": 150.79998779296875,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "EDUCATION",
+      "bbox": [
+        57.775001525878906,
+        73.84002685546875,
+        121.30000305175781,
+        87.69003295898438
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 63.525001525878906,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Massachusetts Institute of Technology",
+      "bbox": [
+        57.775001525878906,
+        87.84002685546875,
+        220.59506225585938,
+        101.69003295898438
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 162.82006072998047,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "School of Engineering & Sloan School of Management (GPA – 5.0/5.0)",
+      "bbox": [
+        57.775001525878906,
+        98.75003051757812,
+        364.3999938964844,
+        112.09002685546875
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 306.62499237060547,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "M.S., Engg & Management (System Design and Management)",
+      "bbox": [
+        57.775001525878906,
+        109.76998901367188,
+        314.3800048828125,
+        123.1099853515625
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 256.6050033569336,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "• Focus – Marketing, Strategy, Data Analytics, Innovation, Technology Management and Systems Thinking",
+      "bbox": [
+        57.775001525878906,
+        121.76998901367188,
+        501.20001220703125,
+        135.1099853515625
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 443.42501068115234,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "• VP, Alumni Relations (SDM). Member - Product Management Club, Technology Club, Design Club, Net Impact Club",
+      "bbox": [
+        57.775001525878906,
+        134.01998901367188,
+        550.719970703125,
+        147.3599853515625
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 492.9449691772461,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "• Data Analytics Lab - Built a predictive model using machine learning and data mining to increase user engagement of an",
+      "bbox": [
+        57.775001525878906,
+        146.01998901367188,
+        561.219970703125,
+        159.3599853515625
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 503.4449691772461,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "e-commerce website. Experience working with large data-sets.",
+      "bbox": [
+        57.775001525878906,
+        157.51998901367188,
+        313.8800048828125,
+        170.8599853515625
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 256.1050033569336,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "PEC University of Technology",
+      "bbox": [
+        57.775001525878906,
+        178.1099853515625,
+        187.38504028320312,
+        191.95999145507812
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 129.61003875732422,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "B.E. (Hons.), Information Technology (GPA – 9.37/10)",
+      "bbox": [
+        57.775001525878906,
+        189.05001831054688,
+        300.6300048828125,
+        202.3900146484375
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 242.8550033569336,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "• 1 of 395 in the university to be awarded both Gold Medal (highest GPA in my discipline) and Honors degree",
+      "bbox": [
+        57.775001525878906,
+        201.05001831054688,
+        510.45001220703125,
+        214.3900146484375
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 452.67501068115234,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "EXPERIENCE",
+      "bbox": [
+        57.775001525878906,
+        218.6400146484375,
+        125.80000305175781,
+        232.49002075195312
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 68.0250015258789,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "SAP Labs India Pvt. Ltd.",
+      "bbox": [
+        57.775001525878906,
+        232.6400146484375,
+        165.5800018310547,
+        246.49002075195312
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 107.80500030517578,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Product Owner | Sr. Software Engg, B2B/B2C solutions (Retail, Utilities, and Banking industries) July 2011 - June 2016",
+      "bbox": [
+        57.775001525878906,
+        243.55001831054688,
+        557.4400024414062,
+        256.8900146484375
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 499.66500091552734,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Product Management, Cross-functional Leadership, and Project Management",
+      "bbox": [
+        57.775001525878906,
+        258.2900085449219,
+        369.8999938964844,
+        271.6300048828125
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 312.12499237060547,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "• Ideated and launched eight features of cloud CRM (SAP Cloud for Customer) add-in solutions (150+ live customers)",
+      "bbox": [
+        57.775001525878906,
+        274.57000732421875,
+        543.72998046875,
+        287.9100036621094
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 485.9549789428711,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Prioritized requirements, collaborated with multiple stakeholders, and led development of four solution releases",
+      "bbox": [
+        90.0250015258789,
+        286.07000732421875,
+        539.969970703125,
+        299.4100036621094
+      ],
+      "left_indent": 90.0250015258789,
+      "width": 449.9449691772461,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "o",
+      "bbox": [
+        72.0250015258789,
+        288.2748107910156,
+        78.0259780883789,
+        299.6029357910156
+      ],
+      "left_indent": 72.0250015258789,
+      "width": 6.0009765625,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "• Working with UI/UX designers, conducted product design analysis (using design thinking) and played a key role in the",
+      "bbox": [
+        57.775001525878906,
+        298.32000732421875,
+        563.7100219726562,
+        311.6600036621094
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 505.93502044677734,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "ideation to launch process of SAP’s first B2C solution - SAP Utilities Customer Engagement mobile application",
+      "bbox": [
+        72.0250015258789,
+        309.82000732421875,
+        524.2000122070312,
+        323.1600036621094
+      ],
+      "left_indent": 72.0250015258789,
+      "width": 452.17501068115234,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "• As scrum-master/development lead, led cross-functional teams of 14, 8 and 6 members (for three project releases) across",
+      "bbox": [
+        57.775001525878906,
+        322.07000732421875,
+        563.679931640625,
+        335.4100036621094
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 505.9049301147461,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "US and India locations for agile development of ~$14M Retail In-Store customer engagement solution",
+      "bbox": [
+        72.0250015258789,
+        333.57000732421875,
+        485.45001220703125,
+        346.9100036621094
+      ],
+      "left_indent": 72.0250015258789,
+      "width": 413.42501068115234,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "• Handled project scope, task estimation & scheduling, and quality adherence for timely delivery of three project releases",
+      "bbox": [
+        57.775001525878906,
+        345.82000732421875,
+        555.969970703125,
+        359.1600036621094
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 498.1949691772461,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "• Managed team of four developers to develop a Micro-ATM solution (for rural India) as part of SAP Ganges project (B2B",
+      "bbox": [
+        57.775001525878906,
+        357.8399963378906,
+        563.699951171875,
+        371.17999267578125
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 505.9249496459961,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Retail Network). The platform was bought by a financial institution in India to strengthen its financial inclusion efforts",
+      "bbox": [
+        72.0250015258789,
+        369.3399963378906,
+        550.219970703125,
+        382.67999267578125
+      ],
+      "left_indent": 72.0250015258789,
+      "width": 478.1949691772461,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Client Engagement, Product Design & Development, and Process Optimization",
+      "bbox": [
+        57.775001525878906,
+        386.5899963378906,
+        378.6499938964844,
+        399.92999267578125
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 320.87499237060547,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "• Managed 25+ clients (across 10 countries) single-handedly to solve critical issues, improving client satisfaction by 15%",
+      "bbox": [
+        57.775001525878906,
+        402.8399963378906,
+        553.97998046875,
+        416.17999267578125
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 496.2049789428711,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "• Reduced average time of fixing a customer issue by 45% using data-driven approach to redesign business process",
+      "bbox": [
+        57.775001525878906,
+        415.0899963378906,
+        534.72998046875,
+        428.42999267578125
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 476.9549789428711,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "• Led full-stack design and development of product features, application modules and m-commerce platform for the",
+      "bbox": [
+        57.775001525878906,
+        427.3399963378906,
+        563.7100219726562,
+        440.67999267578125
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 505.93502044677734,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "successful release of six mobile and cloud solutions, generating $9M+ revenue for the company",
+      "bbox": [
+        72.0250015258789,
+        438.8699951171875,
+        457.92999267578125,
+        452.2099914550781
+      ],
+      "left_indent": 72.0250015258789,
+      "width": 385.90499114990234,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "• Produced optimal recommendations for four utilities clients to adopt a mobile solution as per their business requirements",
+      "bbox": [
+        57.775001525878906,
+        451.1199951171875,
+        558.47998046875,
+        464.4599914550781
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 500.7049789428711,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "• Developed five internal code generation tools that helped save ~400 man-hours in project deliverables",
+      "bbox": [
+        57.775001525878906,
+        463.3699951171875,
+        483.45001220703125,
+        476.7099914550781
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 425.67501068115234,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Awards and Accomplishments",
+      "bbox": [
+        57.775001525878906,
+        480.6199951171875,
+        183.0800018310547,
+        493.9599914550781
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 125.30500030517578,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "• Awarded ‘Move SAP Award’ (Top 2% employees) for successfully managing a solution single-handedly from India",
+      "bbox": [
+        57.775001525878906,
+        496.8699951171875,
+        541.219970703125,
+        510.2099914550781
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 483.4449691772461,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "• Recognized as ‘Global Top Talent’ (Top 5% employees) for extraordinary contribution and leadership",
+      "bbox": [
+        57.775001525878906,
+        509.1400451660156,
+        484.45001220703125,
+        522.4800415039062
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 426.67501068115234,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "• Conferred ‘Spot award’ and ‘Recognition award’ for initiatives in enabling project success and customer success",
+      "bbox": [
+        57.775001525878906,
+        521.1400146484375,
+        526.2000122070312,
+        534.4800415039062
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 468.42501068115234,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "eVidyaloka Trust ( NGO connecting passionate volunteers to teach children of rural India )",
+      "bbox": [
+        57.775001525878906,
+        541.3899536132812,
+        424.92999267578125,
+        555.3299560546875
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 367.15499114990234,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Program Manager & Curriculum Administrator (Volunteer) May 2014 - Present",
+      "bbox": [
+        57.775001525878906,
+        552.8899536132812,
+        560.969970703125,
+        566.22998046875
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 503.1949691772461,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "• Increased volunteer participation by 20% by designing a workflow for Content Development Engagement",
+      "bbox": [
+        57.775001525878906,
+        567.1399536132812,
+        499.20001220703125,
+        580.47998046875
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 441.42501068115234,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "• Managed 186 volunteers for development of high quality course material as part of a Corporate Engagement Program",
+      "bbox": [
+        57.775001525878906,
+        579.3999633789062,
+        545.719970703125,
+        592.739990234375
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 487.9449691772461,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "HeRu Technologies Pvt. Ltd. ( Tech Start-up providing low cost enterprise solutions )",
+      "bbox": [
+        57.775001525878906,
+        599.6699829101562,
+        402.72998046875,
+        613.6099853515625
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 344.9549789428711,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Co-Founder & Solution Architect March 2015 - July 2016",
+      "bbox": [
+        57.775001525878906,
+        610.9199829101562,
+        566.22998046875,
+        624.260009765625
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 508.4549789428711,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "• Gathered business requirements from clients (Founders of NGOs), and defined the roadmap of technology solutions",
+      "bbox": [
+        57.775001525878906,
+        626.1699829101562,
+        538.719970703125,
+        639.510009765625
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 480.9449691772461,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "• Constructed business strategy for the company as well as pricing strategy for the ~$1M product portfolio",
+      "bbox": [
+        57.775001525878906,
+        638.4199829101562,
+        496.70001220703125,
+        651.760009765625
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 438.92501068115234,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "• Worked on-site with senior management of Goonj, amongst top five NGOs in India, to understand business problems",
+      "bbox": [
+        57.775001525878906,
+        650.6699829101562,
+        544.719970703125,
+        664.010009765625
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 486.9449691772461,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "ADDITIONAL INFORMATION",
+      "bbox": [
+        57.775001525878906,
+        670.5299682617188,
+        202.3300018310547,
+        684.3799438476562
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 144.55500030517578,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "• Mentored employees and improved business operations of an early stage tech start-up (cheerzlabs.com, India) that",
+      "bbox": [
+        57.775001525878906,
+        683.4449462890625,
+        531.7200317382812,
+        696.7849731445312
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 473.94503021240234,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "provides technology services, resulting in 12% YoY growth of the startup",
+      "bbox": [
+        72.0250015258789,
+        694.9449462890625,
+        369.8999938964844,
+        708.2849731445312
+      ],
+      "left_indent": 72.0250015258789,
+      "width": 297.87499237060547,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "• Spearheaded a civil society campaign that lead to participation of 500+ people to increase awareness about ‘Lokpal Bill’",
+      "bbox": [
+        57.775001525878906,
+        709.4449462890625,
+        557.22998046875,
+        722.7849731445312
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 499.4549789428711,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "• Technical Skills: Java, C, C#, JavaScript, Python, Web-Services, Shell Scripting, Algorithms, Data Structures, SQL, R",
+      "bbox": [
+        57.775001525878906,
+        723.9449462890625,
+        552.969970703125,
+        737.8849487304688
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 495.1949691772461,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "• Interests : Cooking, practice mindfulness, and reading books & articles (especially about start-ups and venture capital)",
+      "bbox": [
+        57.775001525878906,
+        738.4449462890625,
+        548.969970703125,
+        752.3849487304688
+      ],
+      "left_indent": 57.775001525878906,
+      "width": 491.1949691772461,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Cambridge (MA), USA",
+      "bbox": [
+        463.45001220703125,
+        87.75003051757812,
+        560.72998046875,
+        101.09002685546875
+      ],
+      "left_indent": 463.45001220703125,
+      "width": 97.27996826171875,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "August 2016 - February 2018 (expected)",
+      "bbox": [
+        395.1499938964844,
+        98.75003051757812,
+        560.72998046875,
+        112.09002685546875
+      ],
+      "left_indent": 395.1499938964844,
+      "width": 165.57998657226562,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Chandigarh, India",
+      "bbox": [
+        485.95001220703125,
+        178.01998901367188,
+        560.72998046875,
+        191.3599853515625
+      ],
+      "left_indent": 485.95001220703125,
+      "width": 74.77996826171875,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "July 2007- May 2011",
+      "bbox": [
+        472.45001220703125,
+        189.05001831054688,
+        560.72998046875,
+        202.3900146484375
+      ],
+      "left_indent": 472.45001220703125,
+      "width": 88.27996826171875,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Bangalore, India | Palo Alto, United States",
+      "bbox": [
+        387.8999938964844,
+        232.55001831054688,
+        560.72998046875,
+        245.8900146484375
+      ],
+      "left_indent": 387.8999938964844,
+      "width": 172.82998657226562,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Bangalore, India",
+      "bbox": [
+        483.95001220703125,
+        541.3899536132812,
+        560.72998046875,
+        554.72998046875
+      ],
+      "left_indent": 483.95001220703125,
+      "width": 76.77996826171875,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Bangalore, India",
+      "bbox": [
+        491.45001220703125,
+        599.6699829101562,
+        560.72998046875,
+        613.010009765625
+      ],
+      "left_indent": 491.45001220703125,
+      "width": 69.27996826171875,
+      "is_bold": false,
+      "font_size": 10.0
+    }
+  ],
+  "text_per_page": [
+    "CHAHAT JAIN\n70 Pacific Street, Apt 828 - Cambridge, MA 02139\n+1 (617) 386-9369 | chahat@mit.edu\nEDUCATION\nMassachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management (GPA – 5.0/5.0)\nM.S., Engg & Management (System Design and Management)\n• Focus – Marketing, Strategy, Data Analytics, Innovation, Technology Management and Systems Thinking\n• VP, Alumni Relations (SDM). Member - Product Management Club, Technology Club, Design Club, Net Impact Club\n• Data Analytics Lab - Built a predictive model using machine learning and data mining to increase user engagement of an\ne-commerce website. Experience working with large data-sets.\nPEC University of Technology\nB.E. (Hons.), Information Technology (GPA – 9.37/10)\n• 1 of 395 in the university to be awarded both Gold Medal (highest GPA in my discipline) and Honors degree\nEXPERIENCE\nSAP Labs India Pvt. Ltd.\nProduct Owner | Sr. Software Engg, B2B/B2C solutions (Retail, Utilities, and Banking industries) July 2011 - June 2016\nProduct Management, Cross-functional Leadership, and Project Management\n• Ideated and launched eight features of cloud CRM (SAP Cloud for Customer) add-in solutions (150+ live customers)\nPrioritized requirements, collaborated with multiple stakeholders, and led development of four solution releases\no\n• Working with UI/UX designers, conducted product design analysis (using design thinking) and played a key role in the\nideation to launch process of SAP’s first B2C solution - SAP Utilities Customer Engagement mobile application\n• As scrum-master/development lead, led cross-functional teams of 14, 8 and 6 members (for three project releases) across\nUS and India locations for agile development of ~$14M Retail In-Store customer engagement solution\n• Handled project scope, task estimation & scheduling, and quality adherence for timely delivery of three project releases\n• Managed team of four developers to develop a Micro-ATM solution (for rural India) as part of SAP Ganges project (B2B\nRetail Network). The platform was bought by a financial institution in India to strengthen its financial inclusion efforts\nClient Engagement, Product Design & Development, and Process Optimization\n• Managed 25+ clients (across 10 countries) single-handedly to solve critical issues, improving client satisfaction by 15%\n• Reduced average time of fixing a customer issue by 45% using data-driven approach to redesign business process\n• Led full-stack design and development of product features, application modules and m-commerce platform for the\nsuccessful release of six mobile and cloud solutions, generating $9M+ revenue for the company\n• Produced optimal recommendations for four utilities clients to adopt a mobile solution as per their business requirements\n• Developed five internal code generation tools that helped save ~400 man-hours in project deliverables\nAwards and Accomplishments\n• Awarded ‘Move SAP Award’ (Top 2% employees) for successfully managing a solution single-handedly from India\n• Recognized as ‘Global Top Talent’ (Top 5% employees) for extraordinary contribution and leadership\n• Conferred ‘Spot award’ and ‘Recognition award’ for initiatives in enabling project success and customer success\neVidyaloka Trust ( NGO connecting passionate volunteers to teach children of rural India )\nProgram Manager & Curriculum Administrator (Volunteer) May 2014 - Present\n• Increased volunteer participation by 20% by designing a workflow for Content Development Engagement\n• Managed 186 volunteers for development of high quality course material as part of a Corporate Engagement Program\nHeRu Technologies Pvt. Ltd. ( Tech Start-up providing low cost enterprise solutions )\nCo-Founder & Solution Architect March 2015 - July 2016\n• Gathered business requirements from clients (Founders of NGOs), and defined the roadmap of technology solutions\n• Constructed business strategy for the company as well as pricing strategy for the ~$1M product portfolio\n• Worked on-site with senior management of Goonj, amongst top five NGOs in India, to understand business problems\nADDITIONAL INFORMATION\n• Mentored employees and improved business operations of an early stage tech start-up (cheerzlabs.com, India) that\nprovides technology services, resulting in 12% YoY growth of the startup\n• Spearheaded a civil society campaign that lead to participation of 500+ people to increase awareness about ‘Lokpal Bill’\n• Technical Skills: Java, C, C#, JavaScript, Python, Web-Services, Shell Scripting, Algorithms, Data Structures, SQL, R\n• Interests : Cooking, practice mindfulness, and reading books & articles (especially about start-ups and venture capital)\nCambridge (MA), USA\nAugust 2016 - February 2018 (expected)\nChandigarh, India\nJuly 2007- May 2011\nBangalore, India | Palo Alto, United States\nBangalore, India\nBangalore, India"
+  ],
+  "text_all": "CHAHAT JAIN\n70 Pacific Street, Apt 828 - Cambridge, MA 02139\n+1 (617) 386-9369 | chahat@mit.edu\nEDUCATION\nMassachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management (GPA – 5.0/5.0)\nM.S., Engg & Management (System Design and Management)\n• Focus – Marketing, Strategy, Data Analytics, Innovation, Technology Management and Systems Thinking\n• VP, Alumni Relations (SDM). Member - Product Management Club, Technology Club, Design Club, Net Impact Club\n• Data Analytics Lab - Built a predictive model using machine learning and data mining to increase user engagement of an\ne-commerce website. Experience working with large data-sets.\nPEC University of Technology\nB.E. (Hons.), Information Technology (GPA – 9.37/10)\n• 1 of 395 in the university to be awarded both Gold Medal (highest GPA in my discipline) and Honors degree\nEXPERIENCE\nSAP Labs India Pvt. Ltd.\nProduct Owner | Sr. Software Engg, B2B/B2C solutions (Retail, Utilities, and Banking industries) July 2011 - June 2016\nProduct Management, Cross-functional Leadership, and Project Management\n• Ideated and launched eight features of cloud CRM (SAP Cloud for Customer) add-in solutions (150+ live customers)\nPrioritized requirements, collaborated with multiple stakeholders, and led development of four solution releases\no\n• Working with UI/UX designers, conducted product design analysis (using design thinking) and played a key role in the\nideation to launch process of SAP’s first B2C solution - SAP Utilities Customer Engagement mobile application\n• As scrum-master/development lead, led cross-functional teams of 14, 8 and 6 members (for three project releases) across\nUS and India locations for agile development of ~$14M Retail In-Store customer engagement solution\n• Handled project scope, task estimation & scheduling, and quality adherence for timely delivery of three project releases\n• Managed team of four developers to develop a Micro-ATM solution (for rural India) as part of SAP Ganges project (B2B\nRetail Network). The platform was bought by a financial institution in India to strengthen its financial inclusion efforts\nClient Engagement, Product Design & Development, and Process Optimization\n• Managed 25+ clients (across 10 countries) single-handedly to solve critical issues, improving client satisfaction by 15%\n• Reduced average time of fixing a customer issue by 45% using data-driven approach to redesign business process\n• Led full-stack design and development of product features, application modules and m-commerce platform for the\nsuccessful release of six mobile and cloud solutions, generating $9M+ revenue for the company\n• Produced optimal recommendations for four utilities clients to adopt a mobile solution as per their business requirements\n• Developed five internal code generation tools that helped save ~400 man-hours in project deliverables\nAwards and Accomplishments\n• Awarded ‘Move SAP Award’ (Top 2% employees) for successfully managing a solution single-handedly from India\n• Recognized as ‘Global Top Talent’ (Top 5% employees) for extraordinary contribution and leadership\n• Conferred ‘Spot award’ and ‘Recognition award’ for initiatives in enabling project success and customer success\neVidyaloka Trust ( NGO connecting passionate volunteers to teach children of rural India )\nProgram Manager & Curriculum Administrator (Volunteer) May 2014 - Present\n• Increased volunteer participation by 20% by designing a workflow for Content Development Engagement\n• Managed 186 volunteers for development of high quality course material as part of a Corporate Engagement Program\nHeRu Technologies Pvt. Ltd. ( Tech Start-up providing low cost enterprise solutions )\nCo-Founder & Solution Architect March 2015 - July 2016\n• Gathered business requirements from clients (Founders of NGOs), and defined the roadmap of technology solutions\n• Constructed business strategy for the company as well as pricing strategy for the ~$1M product portfolio\n• Worked on-site with senior management of Goonj, amongst top five NGOs in India, to understand business problems\nADDITIONAL INFORMATION\n• Mentored employees and improved business operations of an early stage tech start-up (cheerzlabs.com, India) that\nprovides technology services, resulting in 12% YoY growth of the startup\n• Spearheaded a civil society campaign that lead to participation of 500+ people to increase awareness about ‘Lokpal Bill’\n• Technical Skills: Java, C, C#, JavaScript, Python, Web-Services, Shell Scripting, Algorithms, Data Structures, SQL, R\n• Interests : Cooking, practice mindfulness, and reading books & articles (especially about start-ups and venture capital)\nCambridge (MA), USA\nAugust 2016 - February 2018 (expected)\nChandigarh, India\nJuly 2007- May 2011\nBangalore, India | Palo Alto, United States\nBangalore, India\nBangalore, India"
+}

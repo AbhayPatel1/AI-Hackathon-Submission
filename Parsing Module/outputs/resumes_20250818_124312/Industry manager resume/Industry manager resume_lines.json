@@ -1,0 +1,502 @@
+{
+  "meta": {
+    "source_path": "data/resumes/Industry manager resume.pdf",
+    "pages": 1
+  },
+  "lines": [
+    {
+      "page": 1,
+      "text": "May Riley",
+      "bbox": [
+        63.14400100708008,
+        50.37851333618164,
+        185.7736358642578,
+        83.29847717285156
+      ],
+      "left_indent": 63.14400100708008,
+      "width": 122.62963485717773,
+      "is_bold": false,
+      "font_size": 28.079999923706055
+    },
+    {
+      "page": 1,
+      "text": "4567 Main Street, Buffalo, New York 98052 | (716) 555-0100 | m.riley@live.com | www.linkedin.com/in/m.riley",
+      "bbox": [
+        57.624000549316406,
+        96.76205444335938,
+        538.5697631835938,
+        108.57948303222656
+      ],
+      "left_indent": 57.624000549316406,
+      "width": 480.94576263427734,
+      "is_bold": false,
+      "font_size": 10.079999923706055
+    },
+    {
+      "page": 1,
+      "text": "Profile",
+      "bbox": [
+        57.624000549316406,
+        124.58328247070312,
+        104.39539337158203,
+        140.90257263183594
+      ],
+      "left_indent": 57.624000549316406,
+      "width": 46.771392822265625,
+      "is_bold": true,
+      "font_size": 13.920000076293945
+    },
+    {
+      "page": 1,
+      "text": "Friendly and engaging team player and leader able to inspire staff to perform their best. Detail oriented",
+      "bbox": [
+        57.624000549316406,
+        145.79981994628906,
+        543.3012084960938,
+        158.74270629882812
+      ],
+      "left_indent": 57.624000549316406,
+      "width": 485.67720794677734,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "and experienced restaurant manager passionate about food and beverages. A multi-tasker who excels at",
+      "bbox": [
+        57.624000549316406,
+        158.7598419189453,
+        547.0872192382812,
+        171.70272827148438
+      ],
+      "left_indent": 57.624000549316406,
+      "width": 489.46321868896484,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "staff training and recruiting with a track record of inspiring great customer service and customer",
+      "bbox": [
+        57.624000549316406,
+        171.71986389160156,
+        513.7549438476562,
+        184.66275024414062
+      ],
+      "left_indent": 57.624000549316406,
+      "width": 456.13094329833984,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "satisfaction. Regularly exceed sales goals. A master in the art of upselling.",
+      "bbox": [
+        57.624000549316406,
+        184.67982482910156,
+        402.1711730957031,
+        197.62271118164062
+      ],
+      "left_indent": 57.624000549316406,
+      "width": 344.5471725463867,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "Experience",
+      "bbox": [
+        57.624000549316406,
+        213.64328002929688,
+        132.7153778076172,
+        229.9625701904297
+      ],
+      "left_indent": 57.624000549316406,
+      "width": 75.09137725830078,
+      "is_bold": true,
+      "font_size": 13.920000076293945
+    },
+    {
+      "page": 1,
+      "text": "RESTAURANT MANAGER | CONTOSO BAR AND GRILL | SEPTEMBER 20XX – PRESENT",
+      "bbox": [
+        57.624000549316406,
+        235.14764404296875,
+        519.0725708007812,
+        249.21600341796875
+      ],
+      "left_indent": 57.624000549316406,
+      "width": 461.44857025146484,
+      "is_bold": true,
+      "font_size": 12.0
+    },
+    {
+      "page": 1,
+      "text": "· Recruit, hire, train, and coach over 30 staff members on customer service skills, food & beverage",
+      "bbox": [
+        57.624000549316406,
+        250.93983459472656,
+        520.5582885742188,
+        263.8827209472656
+      ],
+      "left_indent": 57.624000549316406,
+      "width": 462.93428802490234,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "knowledge, sales, and health & safety standards.",
+      "bbox": [
+        68.42400360107422,
+        266.2998352050781,
+        296.5511779785156,
+        279.2427062988281
+      ],
+      "left_indent": 68.42400360107422,
+      "width": 228.1271743774414,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "· Reduced costs by 7% through controls on overtime, operational efficiencies, and reduced waste.",
+      "bbox": [
+        57.624000549316406,
+        281.6898498535156,
+        522.701171875,
+        294.6327209472656
+      ],
+      "left_indent": 57.624000549316406,
+      "width": 465.0771713256836,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "· Consistently exceed monthly sales goals by a minimum of 10% by training FOH staff on upselling",
+      "bbox": [
+        57.624000549316406,
+        297.28985595703125,
+        523.3405151367188,
+        310.23272705078125
+      ],
+      "left_indent": 57.624000549316406,
+      "width": 465.71651458740234,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "techniques and by creating a featured food and beverage program.",
+      "bbox": [
+        68.42400360107422,
+        312.6498718261719,
+        382.01116943359375,
+        325.5927429199219
+      ],
+      "left_indent": 68.42400360107422,
+      "width": 313.58716583251953,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "RESTAURANT MANAGER | FOURTH COFFEE BISTRO | JUNE 20XX – AUGUST 20XX",
+      "bbox": [
+        57.624000549316406,
+        340.53765869140625,
+        498.9125671386719,
+        354.60601806640625
+      ],
+      "left_indent": 57.624000549316406,
+      "width": 441.28856658935547,
+      "is_bold": true,
+      "font_size": 12.0
+    },
+    {
+      "page": 1,
+      "text": "· Created a cross-training program ensuring FOH staff members were able to perform confidently and",
+      "bbox": [
+        57.624000549316406,
+        356.3298645019531,
+        540.72509765625,
+        369.2727355957031
+      ],
+      "left_indent": 57.624000549316406,
+      "width": 483.1010971069336,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "effectively in all positions.",
+      "bbox": [
+        68.42400360107422,
+        371.7098693847656,
+        194.98117065429688,
+        384.6527404785156
+      ],
+      "left_indent": 68.42400360107422,
+      "width": 126.55716705322266,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "· Grew customer based and increased restaurant social media accounts by 19% through interactive",
+      "bbox": [
+        57.624000549316406,
+        387.3098449707031,
+        528.6616821289062,
+        400.2527160644531
+      ],
+      "left_indent": 57.624000549316406,
+      "width": 471.03768157958984,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "promotions, engaging postings, and contests.",
+      "bbox": [
+        68.42400360107422,
+        402.66986083984375,
+        283.5711975097656,
+        415.61273193359375
+      ],
+      "left_indent": 68.42400360107422,
+      "width": 215.1471939086914,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "· Created and implemented staff health and safety standards compliance training program, achieving a",
+      "bbox": [
+        57.624000549316406,
+        418.2698669433594,
+        543.5215454101562,
+        431.2127380371094
+      ],
+      "left_indent": 57.624000549316406,
+      "width": 485.89754486083984,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "score of 99% from the Board of Health.",
+      "bbox": [
+        68.42400360107422,
+        433.6298522949219,
+        255.73117065429688,
+        446.5727233886719
+      ],
+      "left_indent": 68.42400360107422,
+      "width": 187.30716705322266,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "· Successfully redesigned existing inventory system, ordering and food storage practices, resulting in a",
+      "bbox": [
+        57.624000549316406,
+        449.2498474121094,
+        543.2565307617188,
+        462.1927185058594
+      ],
+      "left_indent": 57.624000549316406,
+      "width": 485.63253021240234,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "6% decrease in food waste and higher net profits.",
+      "bbox": [
+        68.42400360107422,
+        464.60986328125,
+        302.7911682128906,
+        477.552734375
+      ],
+      "left_indent": 68.42400360107422,
+      "width": 234.3671646118164,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "Education",
+      "bbox": [
+        57.624000549316406,
+        496.43328857421875,
+        125.51538848876953,
+        512.7525634765625
+      ],
+      "left_indent": 57.624000549316406,
+      "width": 67.89138793945312,
+      "is_bold": true,
+      "font_size": 13.920000076293945
+    },
+    {
+      "page": 1,
+      "text": "B.S. IN BUSINESS ADMINISTRATION | JUNE 20XX | BIGTOWN COLLEGE, CHICAGO, ILLINOIS",
+      "bbox": [
+        57.624000549316406,
+        517.6976318359375,
+        550.0325927734375,
+        531.7659912109375
+      ],
+      "left_indent": 57.624000549316406,
+      "width": 492.4085922241211,
+      "is_bold": true,
+      "font_size": 12.0
+    },
+    {
+      "page": 1,
+      "text": "A.A. IN HOSPITALITY MANAGEMENT | JUNE 20XX | BIGTOWN COLLEGE, CHICAGO, ILLINOIS",
+      "bbox": [
+        57.624000549316406,
+        546.0476684570312,
+        554.62255859375,
+        560.1160278320312
+      ],
+      "left_indent": 57.624000549316406,
+      "width": 496.9985580444336,
+      "is_bold": true,
+      "font_size": 12.0
+    },
+    {
+      "page": 1,
+      "text": "Skills & Abilities",
+      "bbox": [
+        57.624000549316406,
+        576.1432495117188,
+        166.0953826904297,
+        592.4625854492188
+      ],
+      "left_indent": 57.624000549316406,
+      "width": 108.47138214111328,
+      "is_bold": true,
+      "font_size": 13.920000076293945
+    },
+    {
+      "page": 1,
+      "text": "· Accounting & Budgeting",
+      "bbox": [
+        57.624000549316406,
+        597.1198120117188,
+        184.42117309570312,
+        610.062744140625
+      ],
+      "left_indent": 57.624000549316406,
+      "width": 126.79717254638672,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "· Poised under pressure",
+      "bbox": [
+        323.1600036621094,
+        597.1198120117188,
+        442.28118896484375,
+        610.062744140625
+      ],
+      "left_indent": 323.1600036621094,
+      "width": 119.12118530273438,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "· Proficient with POS systems",
+      "bbox": [
+        57.624000549316406,
+        612.7198486328125,
+        202.42117309570312,
+        625.6627807617188
+      ],
+      "left_indent": 57.624000549316406,
+      "width": 144.79717254638672,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "· Experienced in most restaurant positions",
+      "bbox": [
+        323.1600036621094,
+        612.7198486328125,
+        530.1411743164062,
+        625.6627807617188
+      ],
+      "left_indent": 323.1600036621094,
+      "width": 206.98117065429688,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "· Excellent interpersonal and communication skills",
+      "bbox": [
+        57.624000549316406,
+        628.0997924804688,
+        302.7911682128906,
+        641.042724609375
+      ],
+      "left_indent": 57.624000549316406,
+      "width": 245.16716766357422,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "· Fun and energetic",
+      "bbox": [
+        323.1600036621094,
+        628.0997924804688,
+        420.89117431640625,
+        641.042724609375
+      ],
+      "left_indent": 323.1600036621094,
+      "width": 97.73117065429688,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    },
+    {
+      "page": 1,
+      "text": "Activities and Interests",
+      "bbox": [
+        57.624000549316406,
+        671.9232788085938,
+        209.29537963867188,
+        688.2426147460938
+      ],
+      "left_indent": 57.624000549316406,
+      "width": 151.67137908935547,
+      "is_bold": true,
+      "font_size": 13.920000076293945
+    },
+    {
+      "page": 1,
+      "text": "Theater, environmental conservation, art, hiking, skiing, travel",
+      "bbox": [
+        57.624000549316406,
+        693.3818359375,
+        352.2311706542969,
+        706.3247680664062
+      ],
+      "left_indent": 57.624000549316406,
+      "width": 294.60717010498047,
+      "is_bold": false,
+      "font_size": 11.039999961853027
+    }
+  ],
+  "text_per_page": [
+    "May Riley\n4567 Main Street, Buffalo, New York 98052 | (716) 555-0100 | m.riley@live.com | www.linkedin.com/in/m.riley\nProfile\nFriendly and engaging team player and leader able to inspire staff to perform their best. Detail oriented\nand experienced restaurant manager passionate about food and beverages. A multi-tasker who excels at\nstaff training and recruiting with a track record of inspiring great customer service and customer\nsatisfaction. Regularly exceed sales goals. A master in the art of upselling.\nExperience\nRESTAURANT MANAGER | CONTOSO BAR AND GRILL | SEPTEMBER 20XX – PRESENT\n· Recruit, hire, train, and coach over 30 staff members on customer service skills, food & beverage\nknowledge, sales, and health & safety standards.\n· Reduced costs by 7% through controls on overtime, operational efficiencies, and reduced waste.\n· Consistently exceed monthly sales goals by a minimum of 10% by training FOH staff on upselling\ntechniques and by creating a featured food and beverage program.\nRESTAURANT MANAGER | FOURTH COFFEE BISTRO | JUNE 20XX – AUGUST 20XX\n· Created a cross-training program ensuring FOH staff members were able to perform confidently and\neffectively in all positions.\n· Grew customer based and increased restaurant social media accounts by 19% through interactive\npromotions, engaging postings, and contests.\n· Created and implemented staff health and safety standards compliance training program, achieving a\nscore of 99% from the Board of Health.\n· Successfully redesigned existing inventory system, ordering and food storage practices, resulting in a\n6% decrease in food waste and higher net profits.\nEducation\nB.S. IN BUSINESS ADMINISTRATION | JUNE 20XX | BIGTOWN COLLEGE, CHICAGO, ILLINOIS\nA.A. IN HOSPITALITY MANAGEMENT | JUNE 20XX | BIGTOWN COLLEGE, CHICAGO, ILLINOIS\nSkills & Abilities\n· Accounting & Budgeting\n· Poised under pressure\n· Proficient with POS systems\n· Experienced in most restaurant positions\n· Excellent interpersonal and communication skills\n· Fun and energetic\nActivities and Interests\nTheater, environmental conservation, art, hiking, skiing, travel"
+  ],
+  "text_all": "May Riley\n4567 Main Street, Buffalo, New York 98052 | (716) 555-0100 | m.riley@live.com | www.linkedin.com/in/m.riley\nProfile\nFriendly and engaging team player and leader able to inspire staff to perform their best. Detail oriented\nand experienced restaurant manager passionate about food and beverages. A multi-tasker who excels at\nstaff training and recruiting with a track record of inspiring great customer service and customer\nsatisfaction. Regularly exceed sales goals. A master in the art of upselling.\nExperience\nRESTAURANT MANAGER | CONTOSO BAR AND GRILL | SEPTEMBER 20XX – PRESENT\n· Recruit, hire, train, and coach over 30 staff members on customer service skills, food & beverage\nknowledge, sales, and health & safety standards.\n· Reduced costs by 7% through controls on overtime, operational efficiencies, and reduced waste.\n· Consistently exceed monthly sales goals by a minimum of 10% by training FOH staff on upselling\ntechniques and by creating a featured food and beverage program.\nRESTAURANT MANAGER | FOURTH COFFEE BISTRO | JUNE 20XX – AUGUST 20XX\n· Created a cross-training program ensuring FOH staff members were able to perform confidently and\neffectively in all positions.\n· Grew customer based and increased restaurant social media accounts by 19% through interactive\npromotions, engaging postings, and contests.\n· Created and implemented staff health and safety standards compliance training program, achieving a\nscore of 99% from the Board of Health.\n· Successfully redesigned existing inventory system, ordering and food storage practices, resulting in a\n6% decrease in food waste and higher net profits.\nEducation\nB.S. IN BUSINESS ADMINISTRATION | JUNE 20XX | BIGTOWN COLLEGE, CHICAGO, ILLINOIS\nA.A. IN HOSPITALITY MANAGEMENT | JUNE 20XX | BIGTOWN COLLEGE, CHICAGO, ILLINOIS\nSkills & Abilities\n· Accounting & Budgeting\n· Poised under pressure\n· Proficient with POS systems\n· Experienced in most restaurant positions\n· Excellent interpersonal and communication skills\n· Fun and energetic\nActivities and Interests\nTheater, environmental conservation, art, hiking, skiing, travel"
+}

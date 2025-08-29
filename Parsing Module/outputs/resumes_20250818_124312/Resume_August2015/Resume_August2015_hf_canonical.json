@@ -1,0 +1,423 @@
+{
+  "candidate": {
+    "full_name": "Resume",
+    "emails": [
+      "ajay.goyal2411@gmail.com"
+    ],
+    "phones": [
+      "+919815459175",
+      "+919927020157"
+    ],
+    "location": {
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null
+    },
+    "resume_text_hash": "sha256:30eed4c5593f88b5e1d465ff2b99eba6dba83434d994d4ed707d709e8df1603b",
+    "source_file_id": "Resume_August2015.pdf",
+    "parsed_at": "2025-08-18T09:44:39Z",
+    "parser_version": "v0.3.0"
+  },
+  "experience": [
+    {
+      "company_raw": "GLA University",
+      "company_norm": "GLA University",
+      "title_raw": " GLA University, Mathura (15 th July 2014 to 30 th December 2014)",
+      "title_norm": null,
+      "seniority": null,
+      "employment_type": null,
+      "location": null,
+      "start_date": null,
+      "end_date": null,
+      "is_current": false,
+      "extraction_confidence": 0.8,
+      "source_page": null,
+      "bullets": [
+        {
+          "bullet_text": "Working as Assistant Professor in Mechanical Engineering Department  Mangalayatan University, Aligarh (from 15 th July 2013 to 10 th July 2014) Worked as Assistant Professor in Mechanical Engineering Department",
+          "metrics": {},
+          "skills_mentioned": [
+            "c"
+          ],
+          "source_page": null
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree_raw": null,
+      "degree_level": null,
+      "field_raw": null,
+      "institution_raw": "Board",
+      "start_date": null,
+      "end_date": null,
+      "gpa": null,
+      "extraction_confidence": 0.6,
+      "source_page": null
+    },
+    {
+      "degree_raw": null,
+      "degree_level": null,
+      "field_raw": null,
+      "institution_raw": "Se",
+      "start_date": "2001-08-01",
+      "end_date": "2002-08-01",
+      "gpa": null,
+      "extraction_confidence": 0.6,
+      "source_page": null
+    }
+  ],
+  "skills": [
+    {
+      "name": "c",
+      "category": null
+    },
+    {
+      "name": "c",
+      "category": null
+    },
+    {
+      "name": "matlab",
+      "category": null
+    }
+  ],
+  "projects": [
+    {
+      "name": " PROJECTS UNDERTAKEN AT COLLEGE LEVEL",
+      "summary": null,
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Project Title",
+      "summary": null,
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Mathematical Computation of Thermal Modeling of EN31 Steel machined with",
+      "summary": "(Masters of Technology)",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "CVD coated carbide insert for turning process using MATLAB programming",
+      "summary": null,
+      "role": null,
+      "tech_stack": [
+        "c",
+        "matlab"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Analytical models capable of determining temperature rise distribution at work piece and chip due to combined effect",
+      "summary": "of deformation zones during machining are simplified in a step by step manner along with relating them with basic machining parameters with the help of MATLAB programming. The coding is validated with already developed results of scientists for various machining parameters. The coding serves as generalized algorithm to generate temperature rise contour graphs with respect to various coordinates of work piece and chip for any set of machining parameters in few seconds.",
+      "role": null,
+      "tech_stack": [
+        "c",
+        "matlab"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "The developed coding is used to determine temperature rise distribution at work piece and chip of EN31 Steel when",
+      "summary": "machined with MTCVD coated carbide insert. Total 27 experiments were performed with various combinations of cutting parameters to obtain input parameters like cutting forces (dynamometer), chip thickness (Vernier) etc. These input parameters are used to calculate other input parameters like shear angle, friction angle, other developed forces, tool-chip contact length etc. Contour graphs are developed using obtained input parameters and tabulated to compare variation of temperature rise and cutting forces with respect to cutting parameters.",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Project Title",
+      "summary": null,
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Development of CNC programming software",
+      "summary": "( Bachelor of Engineering )",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Developing software in Visual Basic which has the capability to generate CNC Programming just by pressing buttons",
+      "summary": "visible on window of software  PhD Research Title",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Invertible Computer Model for Bone Adaptation to Mechanical Environment",
+      "summary": " INDUSTRIAL TRAINING  Janta Engineers & Company (Iron), Faridabad ( from 13 th June 2009 to 10 th September 2009 )",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "I was the part of a team which handles all the work related to bidding (excluding estimating cost of",
+      "summary": "project). I have also learned to execute on-line bidding.  Indian Oil Corporation Ltd., Mathura Refinery (from 08 th June 2007 to 07 th July 2007)",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "I was engaged in machine shop where I have learned to perform various operations on lathe machine",
+      "summary": null,
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": " Project of generating software for CNC programming was accessed as the best B.E. project of the year",
+      "summary": "2009 by Tata Consultancy Services (TCS)  Won 100% attendance award during my tenure of B.E.",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    }
+  ],
+  "certifications": [],
+  "publications": [],
+  "achievements": [
+    " ACHIEVEMENTS",
+    " Overall topper of CAD-CAM branch."
+  ],
+  "languages": [],
+  "sectioned_text": [
+    {
+      "section_type": "other",
+      "text": "RESUME\n Ajay Goyal\n +91-9815459175,9927020157\n ajay.goyal2411@gmail.com",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "certifications",
+      "text": "Intend to carry out research work in an academic environment with young and dedicated brains where ideas\ncan be gathered and communicated.",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "skills",
+      "text": "Metal Cutting modeling, Fourier series and transformation, Bone mechanotransduction, Strength of",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "courses",
+      "text": "Materials, Mechanics, optimization methods, fatigue failure, regression methods, neural networks",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "work_experience",
+      "text": " GLA University, Mathura (15 th July 2014 to 30 th December 2014)\nWorking as Assistant Professor in Mechanical Engineering Department\n Mangalayatan University, Aligarh (from 15 th July 2013 to 10 th July 2014)\nWorked as Assistant Professor in Mechanical Engineering Department",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "courses",
+      "text": "Courses taught: Machine Design 1 and 2, Heat and Mass Transfer\n Gateforum (GATE coaching classes), Aligarh.\nSubjects taught: Strength of Materials\n Sachdeva Institute of Technology, Mathura (from 22 th July 2010 to 22 th July 2011)\nWorked as Lecturer in Mechanical department\nCourses taught: Manufacturing science II, Mechanics, Strength of Materials, and Mechanical Workshop\n Starion India Pvt. Ltd., NOIDA (from 26 th September 2009 to 21 st June 2010)\nWorked as Production Engineer, deployed in washing machine department where semi-automatic\nmachines are manufactured",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "publications",
+      "text": " PUBLICATIONS\n A.Goyal, R.K. Sharma,” Simplified Mathematical Modeling of Temperature Rise inTurning Operation\nUsing MATLAB”, Jordan Journal of Mechanical and Industrial Engineering, vol. 9(2), pp 103-111, 2015\n A. Goyal, “Generation of Temperature Rise Distribution at Chip of EN31 Steel Due to Primary\nDeformation Zone during Turning Using MATLAB® and to Study its Machinability Behavior with CVD\nCarbide Insert”, International Journal of Engineering Trends and Technology, vol. 15, pp. 145-152, 2014\n A. Goyal , S. Kumar , S. Dhiman , R.K. Sharma,“Studying methods of estimating Heat Generation at\nThree Different Zones in Metal cutting: A review of Analytical models’, International Journal of\nEngineering Trends and Technology, vol. 8 pp 532 – 545, 2014\n A. Singh, A. Goyal, S. Dhiman, R.K. Sharma, S. Kumar, “Machinability Behavior of Medium Carbon Steel\n(EN38) using PCBN inserts during turning process”, International Conference on Smart Technologies for\nMechanical Engineering , Delhi College of Engineering’, ISBN 978-93-83083-35-0 , pp 1253 – 1257,\nJune 2013\n A. Goyal, S. Kumar, S. Dhiman, R.K. Sharma, “A study of temperature measuring experimental\ntechniques used in metal cutting”, Jordan Journal of Mechanical and Industrial Engineering, vol. 8, pp 82-\n93, 2014\n A. Goyal, S. Kumar, S. Dhiman, R.K. Sharma, “A Study of Analytical Models of Heat Generation at Three\nDifferent Zones in Metal Cutting”, 3 rd International Conference of National Institute of Technology,\nJalandhar, Department of Industrial and Production engineering’ pp 882 – 894, March 2013",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "workshops",
+      "text": " WORKSHOPS\n 3 day workshop at GLA University on Faculty Development Program in July 14.\n REVIEWER",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "publications",
+      "text": " Premier Publication Journals since August 2014.\n Jordan Journal of Mechanical and Industrial Engineering since October 2014.",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "skills",
+      "text": "MATLAB9 (Image Processing, Neural Networks), Pro Engineer, MS Office Suite, Rstudio, ImageJ, ABACUS",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "Examination\nDiscipline/Board\nInstitution",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "courses",
+      "text": "Duration of course\nPercentage\nIndian Institute of\nDoctor of Philosophy\nBioMechanics\nTechnology, Ropar,\nSince January 2015\n(Ph.D.)\nPunjab\nCAD CAM\nMasters of Technology\nNIT Hamirpur (Himachal\n(Mechanical\n2011-2013\n8.79/10 (absolute)\nPradesh)\n(M.Tech.)\nEngineering\nDepartment)\nBharatiVidyapeeth\nBachelor of Engineering",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "publications",
+      "text": "Production\n(B.V.P.) University, Pune\n2005-2009\n64.30%\n(B.E.)\n(Maharashtra)\nModi Public School\nXII\nC.B.S.E.\n2003-2004\n65.20%\n(Rajasthan)\nSacred Heart Convent\nX\nI.C.S.E.",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "Higher Sec. School,\n2001-2002\n80.66%\nMathura (Uttar Pradesh)",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": " PROJECTS UNDERTAKEN AT COLLEGE LEVEL\nProject Title\nMathematical Computation of Thermal Modeling of EN31 Steel machined with\n(Masters of Technology)\nCVD coated carbide insert for turning process using MATLAB programming\nAnalytical models capable of determining temperature rise distribution at work piece and chip due to combined effect\nof deformation zones during machining are simplified in a step by step manner along with relating them with basic\nmachining parameters with the help of MATLAB programming. The coding is validated with already developed results\nof scientists for various machining parameters. The coding serves as generalized algorithm to generate temperature\nrise contour graphs with respect to various coordinates of work piece and chip for any set of machining parameters in\nfew seconds.\nThe developed coding is used to determine temperature rise distribution at work piece and chip of EN31 Steel when\nmachined with MTCVD coated carbide insert. Total 27 experiments were performed with various combinations of\ncutting parameters to obtain input parameters like cutting forces (dynamometer), chip thickness (Vernier) etc. These\ninput parameters are used to calculate other input parameters like shear angle, friction angle, other developed forces,\ntool-chip contact length etc. Contour graphs are developed using obtained input parameters and tabulated to\ncompare variation of temperature rise and cutting forces with respect to cutting parameters.\nProject Title\nDevelopment of CNC programming software\n( Bachelor of Engineering )\nDeveloping software in Visual Basic which has the capability to generate CNC Programming just by pressing buttons\nvisible on window of software\n PhD Research Title\nInvertible Computer Model for Bone Adaptation to Mechanical Environment\n INDUSTRIAL TRAINING\n Janta Engineers & Company (Iron), Faridabad ( from 13 th June 2009 to 10 th September 2009 )\nI was the part of a team which handles all the work related to bidding (excluding estimating cost of\nproject). I have also learned to execute on-line bidding.\n Indian Oil Corporation Ltd., Mathura Refinery (from 08 th June 2007 to 07 th July 2007)\nI was engaged in machine shop where I have learned to perform various operations on lathe machine",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_type": "achievements",
+      "text": " ACHIEVEMENTS\n Overall topper of CAD-CAM branch.",
+      "page_range": [
+        3,
+        3
+      ]
+    },
+    {
+      "section_type": "other",
+      "text": " GATE 2011 qualified in Mechanical stream with 425 score",
+      "page_range": [
+        3,
+        3
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": " Project of generating software for CNC programming was accessed as the best B.E. project of the year\n2009 by Tata Consultancy Services (TCS)\n Won 100% attendance award during my tenure of B.E.",
+      "page_range": [
+        3,
+        3
+      ]
+    },
+    {
+      "section_type": "courses",
+      "text": " Training & Placement Representative (TPR)ofM.Tech.students at NIT Hamirpur 2012-13.\n Participated in various group discussion and paper presentation competitions at various colleges during\nB.E. duration\n Participated in blood donation camp held every year at B.V.P. University.\n HOBBIES\nDelivering knowledge, Hindi Poetry and Dancing\n STRENGTH\n Quick Learner\n Team player with pragmatic approach\n Workaholic\n PERSONAL PROFILE\nFather’s Name\nSh. Dinesh Chand Goyal\nDate of birth\n24 th November, 1985\nMarital Status\nMarried\nPermanent Address\nAmarshri Niwas, C-23 Krishna Nagar, Mathura, (U.P.)\nINDIA - 281004.\nLanguages Known\nHindi, English",
+      "page_range": [
+        3,
+        3
+      ]
+    }
+  ]
+}

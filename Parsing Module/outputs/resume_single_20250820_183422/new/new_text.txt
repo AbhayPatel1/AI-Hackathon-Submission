@@ -1,0 +1,59 @@
+Taro Tanaka
+Tokyo, Japan
+a XXXXXX@gmail.com
+Ȳ (+81) XXXXXXXXXX
+] linkedin.com/in/XXXXXX
+EXPERIENCE
+SUMMARY
+AAA Company . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Skilled data scientist specializing in machine learning and financial engi-
+Data Scientist and Engineer
+Jul 2020 - Jun 2023, Tokyo, Japan
+neering with 4 years of experience. Per-
+Acceleration of Multivariate Testing
+sistent dedication, analytical prowess
+- Led team of 7 in collaborative project with the UI/UX team to enhance multivariate testing processes. and strong soft skills for fostering collaborative work relationships.
+- Developed and implemented mathematical models to address UI/UX challenges, translating academic research into Python code. SKILLS
+- Optimized web application testing by applying "best arm identification" algorithm from multiarmed bandit theory, reducing the number of test patterns and improving conversion rates by 8%. Python, C++ Back End
+HTML, CSS, JavaScript
+Front End
+Recommendation System for Real Estate Webpages
+BigQuery, Oracle
+DBMS
+- Developed machine learning API to provide personalized property recommendations on real estate webpages, enhancing user experience by aligning suggestions with customer preferences. macOS, Linux(CentOS) OS
+Docker, GitLab, GitLab CI
+DevOps
+AWS, GCP, L A TEX
+Misc.
+- Chose LightGBM for the recommendation engine due to its compatibility with BigQuery data, achieving 5% increase in recall@5 compared to existing models. Resilience, Attentiveness Soft Skills
+EDUCATION
+Data Validation System
+AAA University
+Tokyo, Japan
+- Participated in developing system to detect data anomalies that could impair machine learning models, including recommendation systems, preventing significant profit loss. Master of Science - Mathematics GPA: 3.75/4.00, BBB University
+- Implemented wrapper interfacefor AWS Deequ, the core module of system, and developed extensions for various use cases in Scala. Tokyo, Japan
+Bachelor of Science - Mathematics
+BBB company . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+SCORES
+Web Engineer and Math Teacher
+Apr 2019 - Mar 2020, Kyoto, Japan
+Web Page Development and Maintenance
+IELTS (General Training)
+- Deployed websites to promote the founder’s initiatives, attracting prospective students and enhancing online visibility. Overall: 7.5 AtCoder
+- Built the websites using 3tier architecture, implemented in Python with Flask framework; containerized with Docker for streamlined maintenance and deployed on GCP to optimize costs. Rate: 1800+, Solved problems: 1800+ LeetCode
+Rate: 2400+, Solved problems: 800+
+CCC company . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Quantitative
+Analyst and Engineer
+Apr 2018 - Mar 2019, Tokyo, Japan
+LANGUAGES
+Price Calculation Module for Binary Options
+- Led development of price calculation library, collaborating with IT system department to launch new binary options products (type of financial derivative).
+- Japanese (Native)
+- English (Advanced)
+- Developed Python library from scratch based on the BlackScholes model to accurately price binary options. INTERESTS
+- Replaced outsourced system, enhancing work efficiency and reducing operational time by 3 hours weekly.
+- Learning Languages
+- Fitness Monitoring of CFDs (Contract for Differences)
+- Classical Piano
+- Developed batch processing system to visualize bid prices, trade records, and revenues of CFDs by extracting transaction data from Oracle and creating plots using Python.

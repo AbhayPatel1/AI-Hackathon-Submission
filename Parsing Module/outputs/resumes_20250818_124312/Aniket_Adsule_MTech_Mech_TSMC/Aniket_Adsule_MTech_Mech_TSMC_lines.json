@@ -1,0 +1,2113 @@
+{
+  "meta": {
+    "source_path": "data/resumes/Aniket_Adsule_MTech_Mech_TSMC.pdf",
+    "pages": 2
+  },
+  "lines": [
+    {
+      "page": 1,
+      "text": "Aniket Shashikant Adsule",
+      "bbox": [
+        150.0,
+        39.55999755859375,
+        261.1399841308594,
+        53.40999984741211
+      ],
+      "left_indent": 150.0,
+      "width": 111.13998413085938,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "183106003",
+      "bbox": [
+        400.0,
+        39.55999755859375,
+        445.0,
+        53.40999984741211
+      ],
+      "left_indent": 400.0,
+      "width": 45.0,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Mechanical Engineering",
+      "bbox": [
+        150.0,
+        54.55999755859375,
+        254.1699981689453,
+        68.41000366210938
+      ],
+      "left_indent": 150.0,
+      "width": 104.16999816894531,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "M.Tech.",
+      "bbox": [
+        400.0,
+        54.55999755859375,
+        435.5500183105469,
+        68.41000366210938
+      ],
+      "left_indent": 400.0,
+      "width": 35.550018310546875,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Indian Institute of Technology, Bombay",
+      "bbox": [
+        150.0,
+        69.55999755859375,
+        320.29998779296875,
+        83.41000366210938
+      ],
+      "left_indent": 150.0,
+      "width": 170.29998779296875,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Gender: Male",
+      "bbox": [
+        400.0,
+        69.55999755859375,
+        459.7099914550781,
+        83.41000366210938
+      ],
+      "left_indent": 400.0,
+      "width": 59.709991455078125,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Specialization: Manufacturing Engineering",
+      "bbox": [
+        150.0,
+        84.55999755859375,
+        335.010009765625,
+        98.41000366210938
+      ],
+      "left_indent": 150.0,
+      "width": 185.010009765625,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "DOB: 20-12-1994",
+      "bbox": [
+        400.0,
+        84.55999755859375,
+        476.65997314453125,
+        98.41000366210938
+      ],
+      "left_indent": 400.0,
+      "width": 76.65997314453125,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Examination",
+      "bbox": [
+        50.0,
+        110.55999755859375,
+        105.00999450683594,
+        124.41000366210938
+      ],
+      "left_indent": 50.0,
+      "width": 55.00999450683594,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "University",
+      "bbox": [
+        150.0,
+        110.55999755859375,
+        194.44000244140625,
+        124.41000366210938
+      ],
+      "left_indent": 150.0,
+      "width": 44.44000244140625,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Institute",
+      "bbox": [
+        300.0,
+        110.55999755859375,
+        336.1099853515625,
+        124.41000366210938
+      ],
+      "left_indent": 300.0,
+      "width": 36.1099853515625,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Year",
+      "bbox": [
+        475.0,
+        110.55999755859375,
+        496.1000061035156,
+        124.41000366210938
+      ],
+      "left_indent": 475.0,
+      "width": 21.100006103515625,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "CPI / %",
+      "bbox": [
+        510.0,
+        110.55999755859375,
+        545.0,
+        124.41000366210938
+      ],
+      "left_indent": 510.0,
+      "width": 35.0,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Post Graduation",
+      "bbox": [
+        50.0,
+        127.47000122070312,
+        114.72000885009766,
+        140.80999755859375
+      ],
+      "left_indent": 50.0,
+      "width": 64.72000885009766,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "IIT Bombay",
+      "bbox": [
+        150.0,
+        127.47000122070312,
+        199.16000366210938,
+        140.80999755859375
+      ],
+      "left_indent": 150.0,
+      "width": 49.160003662109375,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "IIT Bombay",
+      "bbox": [
+        300.0,
+        127.47000122070312,
+        349.15997314453125,
+        140.80999755859375
+      ],
+      "left_indent": 300.0,
+      "width": 49.15997314453125,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "2021",
+      "bbox": [
+        475.0,
+        127.47000122070312,
+        495.0,
+        140.80999755859375
+      ],
+      "left_indent": 475.0,
+      "width": 20.0,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "9.19",
+      "bbox": [
+        510.0,
+        127.47000122070312,
+        527.5,
+        140.80999755859375
+      ],
+      "left_indent": 510.0,
+      "width": 17.5,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Graduation",
+      "bbox": [
+        50.0,
+        140.47000122070312,
+        94.99000549316406,
+        153.80999755859375
+      ],
+      "left_indent": 50.0,
+      "width": 44.99000549316406,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Dr BAMU, Aurangabad",
+      "bbox": [
+        150.0,
+        140.47000122070312,
+        246.92001342773438,
+        153.80999755859375
+      ],
+      "left_indent": 150.0,
+      "width": 96.92001342773438,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "MIT, Aurangabad",
+      "bbox": [
+        300.0,
+        140.47000122070312,
+        372.1999816894531,
+        153.80999755859375
+      ],
+      "left_indent": 300.0,
+      "width": 72.19998168945312,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "2017",
+      "bbox": [
+        475.0,
+        140.47000122070312,
+        495.0,
+        153.80999755859375
+      ],
+      "left_indent": 475.0,
+      "width": 20.0,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "9.35",
+      "bbox": [
+        510.0,
+        140.47000122070312,
+        527.5,
+        153.80999755859375
+      ],
+      "left_indent": 510.0,
+      "width": 17.5,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Graduation Specialization: Mechanical Engineering",
+      "bbox": [
+        50.0,
+        153.47000122070312,
+        257.46002197265625,
+        166.80999755859375
+      ],
+      "left_indent": 50.0,
+      "width": 207.46002197265625,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Intermediate",
+      "bbox": [
+        50.0,
+        166.47000122070312,
+        100.54000854492188,
+        179.80999755859375
+      ],
+      "left_indent": 50.0,
+      "width": 50.540008544921875,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "MSBTE",
+      "bbox": [
+        150.0,
+        166.47000122070312,
+        183.33999633789062,
+        179.80999755859375
+      ],
+      "left_indent": 150.0,
+      "width": 33.339996337890625,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "MIT, Aurangabad",
+      "bbox": [
+        300.0,
+        166.47000122070312,
+        372.1999816894531,
+        179.80999755859375
+      ],
+      "left_indent": 300.0,
+      "width": 72.19998168945312,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "2014",
+      "bbox": [
+        475.0,
+        166.47000122070312,
+        495.0,
+        179.80999755859375
+      ],
+      "left_indent": 475.0,
+      "width": 20.0,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "83.16%",
+      "bbox": [
+        510.0,
+        166.47000122070312,
+        540.8300170898438,
+        179.80999755859375
+      ],
+      "left_indent": 510.0,
+      "width": 30.83001708984375,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Matriculation",
+      "bbox": [
+        50.0,
+        179.47000122070312,
+        104.44000244140625,
+        192.80999755859375
+      ],
+      "left_indent": 50.0,
+      "width": 54.44000244140625,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Maharashtra State Board",
+      "bbox": [
+        150.0,
+        179.47000122070312,
+        249.42001342773438,
+        192.80999755859375
+      ],
+      "left_indent": 150.0,
+      "width": 99.42001342773438,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Shri Saraswati Bhuwan, Aurangabad",
+      "bbox": [
+        300.0,
+        179.47000122070312,
+        447.75,
+        192.80999755859375
+      ],
+      "left_indent": 300.0,
+      "width": 147.75,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "2011",
+      "bbox": [
+        475.0,
+        179.47000122070312,
+        495.0,
+        192.80999755859375
+      ],
+      "left_indent": 475.0,
+      "width": 20.0,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "89.27%",
+      "bbox": [
+        510.0,
+        179.47000122070312,
+        540.8300170898438,
+        192.80999755859375
+      ],
+      "left_indent": 510.0,
+      "width": 30.83001708984375,
+      "is_bold": false,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Technical Skills",
+      "bbox": [
+        28.31999969482422,
+        200.41995239257812,
+        110.10992431640625,
+        213.3799591064453
+      ],
+      "left_indent": 28.31999969482422,
+      "width": 81.78992462158203,
+      "is_bold": false,
+      "font_size": 12.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "• Programming Languages & Databases : Python, C++, MATLAB, PHP, HTML, CSS, JS, AJAX, SQL, NoSQL, AutoIT",
+      "bbox": [
+        42.47999954223633,
+        216.20648193359375,
+        495.55169677734375,
+        228.70997619628906
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 453.0716972351074,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "• Hardware : Arduino, ESP32, Raspberry Pi, Intel NCS2",
+      "bbox": [
+        42.47999954223633,
+        228.926513671875,
+        294.6217041015625,
+        241.4300079345703
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 252.14170455932617,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "• CAD/CAE Packages : PTC Creo, Ansys",
+      "bbox": [
+        336.7900085449219,
+        228.926513671875,
+        501.07171630859375,
+        241.4300079345703
+      ],
+      "left_indent": 336.7900085449219,
+      "width": 164.28170776367188,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "• Libraries & Platforms : OpenCV, TensorFlow Keras, PyTorch, Darknet, Django, AWS",
+      "bbox": [
+        42.47999954223633,
+        241.646484375,
+        390.0417175292969,
+        254.1499786376953
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 347.56171798706055,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Professional Experience",
+      "bbox": [
+        28.31999969482422,
+        262.9700012207031,
+        152.94992065429688,
+        275.92999267578125
+      ],
+      "left_indent": 28.31999969482422,
+      "width": 124.62992095947266,
+      "is_bold": false,
+      "font_size": 12.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Machine Intelligence Program (Project Research Assistant | Dept: IoT and Data Analytics | IIT Bombay) [Aug’19 - Present]",
+      "bbox": [
+        28.31999969482422,
+        280.8500061035156,
+        564.9627685546875,
+        291.8900146484375
+      ],
+      "left_indent": 28.31999969482422,
+      "width": 536.6427688598633,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "• Leading a team of 7 people with diverse backgrounds - Mechanical, Electronics and CS for ML and IoT based projects",
+      "bbox": [
+        42.47999954223633,
+        292.19647216796875,
+        523.6317138671875,
+        304.699951171875
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 481.1517143249512,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "• Mentored 10+ interns for ML, computer vision & IoT projects; Prepared stepwise course content for initial training",
+      "bbox": [
+        42.47999954223633,
+        304.91650390625,
+        516.9116821289062,
+        317.41998291015625
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 474.4316825866699,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Digitization Solution for Gold Assaying & Hallmarking Process to Enhance Credibility & Efficiency (Industrial Project)",
+      "bbox": [
+        35.400001525878906,
+        323.77996826171875,
+        503.1114196777344,
+        333.7399597167969
+      ],
+      "left_indent": 35.400001525878906,
+      "width": 467.71141815185547,
+      "is_bold": true,
+      "font_size": 9.480000019073486
+    },
+    {
+      "page": 1,
+      "text": "• Integrated IoT at each process stage, CNN & object detection for surveillance & display reading",
+      "bbox": [
+        42.47999954223633,
+        333.95648193359375,
+        439.99169921875,
+        346.4599609375
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 397.5116996765137,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "• Developed authority wise dashboards with a combination of local server & cloud computing",
+      "bbox": [
+        42.47999954223633,
+        346.6764831542969,
+        427.3616943359375,
+        359.1799621582031
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 384.8816947937012,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "• Achieved traceability of jewellery using RFID & blockchain with unique hash-code containing metadata",
+      "bbox": [
+        42.47999954223633,
+        359.396484375,
+        467.4717102050781,
+        371.89996337890625
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 424.9917106628418,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Generic IoT Device & Platform Development (Research Project)",
+      "bbox": [
+        35.400001525878906,
+        378.1399841308594,
+        286.7373962402344,
+        388.0999755859375
+      ],
+      "left_indent": 35.400001525878906,
+      "width": 251.33739471435547,
+      "is_bold": true,
+      "font_size": 9.480000019073486
+    },
+    {
+      "page": 1,
+      "text": "• Features: Analog, digital, I2C & SPI sensor communication protocols, on the air update, onboard FFT, local data storage on SD",
+      "bbox": [
+        42.47999954223633,
+        388.3164978027344,
+        569.125732421875,
+        400.8199768066406
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 526.6457328796387,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "card, RTC, access point to set up a device, GPS, OLED, HTTPS & MQTT communication, 4 treads for simultaneous processing",
+      "bbox": [
+        56.63999938964844,
+        403.0999755859375,
+        554.4716796875,
+        413.0599670410156
+      ],
+      "left_indent": 56.63999938964844,
+      "width": 497.83168029785156,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "• Customizable dashboard & analytics engine with machine learning algorithm – MLR, LR, KNN, SVM, Tree-based algorithms",
+      "bbox": [
+        42.47999954223633,
+        413.2764892578125,
+        546.0717163085938,
+        425.77996826171875
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 503.5917167663574,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "National Centre for Aerospace Innovation and Research (Research Assistant | Dept: IoT & Data Analytics) [Jun’17 - Jul’19]",
+      "bbox": [
+        28.31999969482422,
+        434.1099853515625,
+        565.0918579101562,
+        445.1499938964844
+      ],
+      "left_indent": 28.31999969482422,
+      "width": 536.771858215332,
+      "is_bold": true,
+      "font_size": 10.0
+    },
+    {
+      "page": 1,
+      "text": "Remote, Secure & Real-Time Machine Effectiveness & Status Monitoring Solution, Deployed in HAL, Bengaluru (Industrial Project)",
+      "bbox": [
+        35.400001525878906,
+        447.5199890136719,
+        562.29248046875,
+        457.47998046875
+      ],
+      "left_indent": 35.400001525878906,
+      "width": 526.8924789428711,
+      "is_bold": true,
+      "font_size": 9.480000019073486
+    },
+    {
+      "page": 1,
+      "text": "• Developed ESP32 based IoT device, firmware for data collection, its conditioning & transmission to the server using HTTPS",
+      "bbox": [
+        42.47999954223633,
+        457.6965026855469,
+        547.271728515625,
+        470.1999816894531
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 504.7917289733887,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "• Developed Random Forest Classifier as back-end ML algorithm with cross-validation & hyperparameter tuning",
+      "bbox": [
+        42.47999954223633,
+        470.41650390625,
+        500.3517150878906,
+        482.91998291015625
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 457.8717155456543,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "• Developed an interactive dashboard with PHP, HTML Bootstrap, JS & AJAX which generates real-time SMS & email alerts",
+      "bbox": [
+        42.47999954223633,
+        483.1365051269531,
+        537.4317016601562,
+        495.6399841308594
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 494.9517021179199,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Furnace Automation with Remote Intelligent Control (Industrial Project)",
+      "bbox": [
+        35.400001525878906,
+        501.8799743652344,
+        323.3344421386719,
+        511.8399658203125
+      ],
+      "left_indent": 35.400001525878906,
+      "width": 287.93444061279297,
+      "is_bold": true,
+      "font_size": 9.480000019073486
+    },
+    {
+      "page": 1,
+      "text": "• Developed a cyber-physical system using regression data model & deployed over ESP32 development board",
+      "bbox": [
+        42.47999954223633,
+        512.0564575195312,
+        490.51171875,
+        524.5599365234375
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 448.0317192077637,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "• Implemented IoT solution for real-time monitoring & remote control; Developed an interactive dashboard",
+      "bbox": [
+        42.47999954223633,
+        524.896484375,
+        480.9117126464844,
+        537.3999633789062
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 438.43171310424805,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "M.Tech Research Project",
+      "bbox": [
+        28.31999969482422,
+        544.1500244140625,
+        158.5899200439453,
+        557.1099853515625
+      ],
+      "left_indent": 28.31999969482422,
+      "width": 130.2699203491211,
+      "is_bold": false,
+      "font_size": 12.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Development & Demonstration of Service-Based Industry 4.0 Architecture with Digital Twin & Analytics",
+      "bbox": [
+        28.31999969482422,
+        562.0,
+        459.9117126464844,
+        571.9599609375
+      ],
+      "left_indent": 28.31999969482422,
+      "width": 431.59171295166016,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "(Guide: Prof. Asim Tewari & Prof. Makarand Kulkarni) [July’19 - Present]",
+      "bbox": [
+        28.31999969482422,
+        573.8800048828125,
+        569.03466796875,
+        582.8800048828125
+      ],
+      "left_indent": 28.31999969482422,
+      "width": 540.7146682739258,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        46.31999969482422,
+        583.0964965820312,
+        50.90121078491211,
+        595.2984619140625
+      ],
+      "left_indent": 46.31999969482422,
+      "width": 4.581211090087891,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Objective : Develop service-based Industry 4.0 architecture to cater the manufacturing ecosystem in achieving interoperability",
+      "bbox": [
+        64.34400177001953,
+        585.6400146484375,
+        571.53173828125,
+        595.5999755859375
+      ],
+      "left_indent": 64.34400177001953,
+      "width": 507.18773651123047,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        46.31999969482422,
+        595.9364624023438,
+        50.90121078491211,
+        608.138427734375
+      ],
+      "left_indent": 46.31999969482422,
+      "width": 4.581211090087891,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Methodology :",
+      "bbox": [
+        64.34400177001953,
+        598.47998046875,
+        125.27169799804688,
+        608.43994140625
+      ],
+      "left_indent": 64.34400177001953,
+      "width": 60.927696228027344,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "o Transform conventional 3-axis CNC milling machine into a smart machine using ZVIE’s smart product criteria",
+      "bbox": [
+        56.63999938964844,
+        609.9281005859375,
+        506.3517150878906,
+        621.2108764648438
+      ],
+      "left_indent": 56.63999938964844,
+      "width": 449.7117156982422,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "o Develop machine’s digital twin for condition-based maintenance & production system’s digital twin for optimized scheduling",
+      "bbox": [
+        56.7599983215332,
+        622.048095703125,
+        569.251708984375,
+        633.3308715820312
+      ],
+      "left_indent": 56.7599983215332,
+      "width": 512.4917106628418,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "o Secure M2M communication with OPC-UA, edge devices & IoT with sensors",
+      "bbox": [
+        56.7599983215332,
+        634.2880859375,
+        379.1217041015625,
+        645.5708618164062
+      ],
+      "left_indent": 56.7599983215332,
+      "width": 322.3617057800293,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "o Demonstrate communication between machine, digital twin, service & product to achieve their own & global objectives",
+      "bbox": [
+        56.63999938964844,
+        646.528076171875,
+        553.3917236328125,
+        657.8108520507812
+      ],
+      "left_indent": 56.63999938964844,
+      "width": 496.75172424316406,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "o Use of Analytics viz. ML, DL, RL & computer vision to achieve overall operations planning",
+      "bbox": [
+        56.63999938964844,
+        658.6481323242188,
+        427.7217102050781,
+        669.930908203125
+      ],
+      "left_indent": 56.63999938964844,
+      "width": 371.0817108154297,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        46.31999969482422,
+        669.646484375,
+        50.90121078491211,
+        681.8484497070312
+      ],
+      "left_indent": 46.31999969482422,
+      "width": 4.581211090087891,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Impact : Transforming existing facilities into a smart factory while achieving overall organizational objective",
+      "bbox": [
+        64.34400177001953,
+        672.1900024414062,
+        494.4717102050781,
+        682.1499633789062
+      ],
+      "left_indent": 64.34400177001953,
+      "width": 430.1277084350586,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Machine Learning & Computer Vision Projects",
+      "bbox": [
+        28.31999969482422,
+        692.97998046875,
+        266.97991943359375,
+        705.93994140625
+      ],
+      "left_indent": 28.31999969482422,
+      "width": 238.65991973876953,
+      "is_bold": false,
+      "font_size": 12.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Reinforcement Learning for Optimal Policy Learning in Condition Based Maintenance (CBM)",
+      "bbox": [
+        28.31999969482422,
+        710.8300170898438,
+        415.1217041015625,
+        720.7899780273438
+      ],
+      "left_indent": 28.31999969482422,
+      "width": 386.8017044067383,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "(Research Project | Guide: Prof. Makarand Kulkarni) [Oct’19 - Feb’20]",
+      "bbox": [
+        28.31999969482422,
+        722.8299560546875,
+        566.1779174804688,
+        731.8299560546875
+      ],
+      "left_indent": 28.31999969482422,
+      "width": 537.8579177856445,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 1,
+      "text": "• Objective: Develop an agent for CBM, which prescribe maintenance action & inspection interval for long term cost optimization",
+      "bbox": [
+        42.47999954223633,
+        732.04248046875,
+        568.1716918945312,
+        744.5459594726562
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 525.6916923522949,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "• Modelled multi-objective optimization problem using Semi MDP with 100 states, 4 maintenance actions & 19 inspection intervals",
+      "bbox": [
+        42.47999954223633,
+        744.7625122070312,
+        569.251708984375,
+        757.2659912109375
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 526.7717094421387,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "• Developed Reinforcement Learning based Q-learning algorithm (SMART algorithm) to prescribe optimal policy",
+      "bbox": [
+        42.47999954223633,
+        757.4824829101562,
+        497.7117004394531,
+        769.9859619140625
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 455.2317008972168,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "Personal Protective Equipment (PPE) Conformity Detection using YOLO (Research Project | Guide: Prof. Asim Tewari) [Jan’20 - Jun’20]",
+      "bbox": [
+        28.31999969482422,
+        776.2260131835938,
+        565.8118896484375,
+        786.1859741210938
+      ],
+      "left_indent": 28.31999969482422,
+      "width": 537.4918899536133,
+      "is_bold": true,
+      "font_size": 9.320000012715658
+    },
+    {
+      "page": 1,
+      "text": "• Objective: To ensure workers wear PPE on the shop floor using real-time application based on YOLO & transfer learning",
+      "bbox": [
+        42.47999954223633,
+        786.426513671875,
+        535.8717041015625,
+        798.9299926757812
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 493.3917045593262,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 1,
+      "text": "• Trained YOLO on custom labelled data and achieved 83% mAP with parameter tuning",
+      "bbox": [
+        42.47999954223633,
+        799.146484375,
+        400.3616943359375,
+        811.6499633789062
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 357.8816947937012,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Machine Learning-Based Image Classification System to Predict Changing Fashion Trends",
+      "bbox": [
+        28.31999969482422,
+        30.449981689453125,
+        397.7217102050781,
+        40.40998458862305
+      ],
+      "left_indent": 28.31999969482422,
+      "width": 369.4017105102539,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "(Course Project | Machine Learning for Remote Sensing-I | Guide: Prof. Biplab Banerjee) [Apr’20 - Jun’20]",
+      "bbox": [
+        28.31999969482422,
+        42.45001220703125,
+        565.92578125,
+        51.45001220703125
+      ],
+      "left_indent": 28.31999969482422,
+      "width": 537.6057815551758,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "• Objective: To classify garment into a full sleeve, half sleeve and ¾ th sleeve using ML algorithms",
+      "bbox": [
+        42.47999954223633,
+        51.66649627685547,
+        436.7217102050781,
+        64.16999053955078
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 394.2417106628418,
+      "is_bold": false,
+      "font_size": 9.090000033378601
+    },
+    {
+      "page": 2,
+      "text": "• Utilized OpenCV for image pre-processing like background removal & thresholding; Employed KNN, SVM, Decision Tree, Gradient",
+      "bbox": [
+        42.47999954223633,
+        64.38646697998047,
+        569.2147216796875,
+        76.88996124267578
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 526.7347221374512,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Boosting classifier using scikit-learn python libraries along with hyperparameter tuning & cross-validation technique",
+      "bbox": [
+        56.63999938964844,
+        79.18997192382812,
+        521.4716796875,
+        89.14997100830078
+      ],
+      "left_indent": 56.63999938964844,
+      "width": 464.83168029785156,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "• Compared their performance using accuracy, ROC & confusion matrix; Got the best accuracy of 95% using KNN",
+      "bbox": [
+        42.47999954223633,
+        89.36650848388672,
+        501.19171142578125,
+        101.87000274658203
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 458.7117118835449,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Digital Twin Based on ML Data Model for Electronic Chip Cooling System",
+      "bbox": [
+        28.31999969482422,
+        108.10995483398438,
+        327.7854919433594,
+        118.06995391845703
+      ],
+      "left_indent": 28.31999969482422,
+      "width": 299.46549224853516,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "(Course Project | Computational Tools for Process Modeling | Guide: Prof. Shyam Karagadde) [Mar’20 - Jun’20]",
+      "bbox": [
+        28.31999969482422,
+        119.989990234375,
+        566.0457763671875,
+        128.989990234375
+      ],
+      "left_indent": 28.31999969482422,
+      "width": 537.7257766723633,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "• Objective: To develop a digital twin of the processor’s cooling system to control cooling parameters in real-time",
+      "bbox": [
+        42.47999954223633,
+        129.20648193359375,
+        505.6317138671875,
+        141.70997619628906
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 463.1517143249512,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "• Developed physics-based 2D transient heat transfer model using a finite difference method (FDM)",
+      "bbox": [
+        42.47999954223633,
+        142.0465087890625,
+        450.6717224121094,
+        154.5500030517578
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 408.19172286987305,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "• Developed a digital twin using a regression model with 0.9919 R 2 , trained on large simulation data generated by the FDM model",
+      "bbox": [
+        42.47999954223633,
+        154.7664794921875,
+        569.251708984375,
+        167.2699737548828
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 526.7717094421387,
+      "is_bold": false,
+      "font_size": 9.090000033378601
+    },
+    {
+      "page": 2,
+      "text": "Flight Delay Classification Model for the Airport Authorities",
+      "bbox": [
+        28.31999969482422,
+        173.50997924804688,
+        276.7117919921875,
+        183.46998596191406
+      ],
+      "left_indent": 28.31999969482422,
+      "width": 248.39179229736328,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "(Course Project | Machine Learning for Remote Sensing-I | Guide: Prof. Biplab Banerjee) [Feb’20 - Mar’20]",
+      "bbox": [
+        28.31999969482422,
+        185.38995361328125,
+        565.451904296875,
+        194.38995361328125
+      ],
+      "left_indent": 28.31999969482422,
+      "width": 537.1319046020508,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "• Performed EDA, one-hot encoding, data engineering, feature selection, hyperparameter tuning & cross-validation",
+      "bbox": [
+        42.47999954223633,
+        194.60650634765625,
+        514.8717041015625,
+        207.11000061035156
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 472.3917045593262,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "• Developed a Decision Tree Classifier as the best model with 92.5% accuracy compared to KNN, RBF SVM & Logistic Regression",
+      "bbox": [
+        42.47999954223633,
+        207.44647216796875,
+        563.3516845703125,
+        219.94996643066406
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 520.8716850280762,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Industry 4.0, Automation & Social Responsibility Projects",
+      "bbox": [
+        28.31999969482422,
+        228.73995971679688,
+        320.99993896484375,
+        241.69996643066406
+      ],
+      "left_indent": 28.31999969482422,
+      "width": 292.67993927001953,
+      "is_bold": false,
+      "font_size": 12.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Automatic Internal Thread Inspection Machine – 3 rd prize in IMTEX-17, Bengaluru (Industrial Project | SS Controls) [Jun’18 & Jun’16]",
+      "bbox": [
+        28.31999969482422,
+        245.71995544433594,
+        566.039794921875,
+        256.54998779296875
+      ],
+      "left_indent": 28.31999969482422,
+      "width": 537.7197952270508,
+      "is_bold": true,
+      "font_size": 8.850000023841858
+    },
+    {
+      "page": 2,
+      "text": "• Achieved ROI: 642.85%; Developed a novel method based on monitoring the current data of inspection gauge motor",
+      "bbox": [
+        42.47999954223633,
+        256.7965087890625,
+        525.9116821289062,
+        269.29998779296875
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 483.4316825866699,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "• Deployed in Dekson Castings Ltd & Accrete Electromech Pvt Ltd to inspect respective daily 1500 & 5500 components",
+      "bbox": [
+        42.47999954223633,
+        269.5164794921875,
+        522.4317016601562,
+        282.01995849609375
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 479.9517021179199,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "• Updates inspection data of each thread using IoT and employed dashboard for process monitoring",
+      "bbox": [
+        42.47999954223633,
+        282.23651123046875,
+        452.95172119140625,
+        294.739990234375
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 410.4717216491699,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Analytics & IoT Implementation in Powder Coating Plant & Assembly Line (Industrial Project | SS Controls) [Jun’18 - Oct’19]",
+      "bbox": [
+        28.31999969482422,
+        300.9800109863281,
+        565.910888671875,
+        310.94000244140625
+      ],
+      "left_indent": 28.31999969482422,
+      "width": 537.5908889770508,
+      "is_bold": true,
+      "font_size": 9.480000019073486
+    },
+    {
+      "page": 2,
+      "text": "• Objective: Achieve JIT & kitting process, product tracing, OEE calculation & utility monitoring",
+      "bbox": [
+        42.47999954223633,
+        311.156494140625,
+        424.3616943359375,
+        323.65997314453125
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 381.8816947937012,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "• Installed proximity & temperature sensors at powder coating plant & RFID for Job tracking along with ERP data integration",
+      "bbox": [
+        42.47999954223633,
+        323.8764953613281,
+        548.3516845703125,
+        336.3799743652344
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 505.8716850280762,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "• Provided HMI to each worker for monitoring & action execution",
+      "bbox": [
+        42.47999954223633,
+        336.59649658203125,
+        314.9217224121094,
+        349.0999755859375
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 272.44172286987305,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Economical & Easily Manufacturable Face Shield Development (Social Responsibility Project) [Mar’20 - Apr’20]",
+      "bbox": [
+        28.31999969482422,
+        355.4599914550781,
+        566.4058837890625,
+        365.41998291015625
+      ],
+      "left_indent": 28.31999969482422,
+      "width": 538.0858840942383,
+      "is_bold": true,
+      "font_size": 9.480000019073486
+    },
+    {
+      "page": 2,
+      "text": "• Designed economical, easily scalable and manufacturable face shield following WHO guidelines amid COVID-19 pandemic, which",
+      "bbox": [
+        42.47999954223633,
+        365.6365051269531,
+        569.1898193359375,
+        378.1399841308594
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 526.7098197937012,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "requires simple tailoring equipment & consists only 2 components",
+      "bbox": [
+        56.63999938964844,
+        380.41998291015625,
+        322.2088623046875,
+        390.3799743652344
+      ],
+      "left_indent": 56.63999938964844,
+      "width": 265.56886291503906,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "• Achieved 3000+ sales to industries with unit manufacturing cost of ₹ 4.0 whereas 1000+ face shields donated to hospital & police",
+      "bbox": [
+        42.47999954223633,
+        390.59649658203125,
+        569.251708984375,
+        403.0999755859375
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 526.7717094421387,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Modular Camera Recording System in Hospital Operation Theatre (OT) for Clinical Training & Legal Evidence",
+      "bbox": [
+        28.31999969482422,
+        409.3399963378906,
+        475.34552001953125,
+        419.29998779296875
+      ],
+      "left_indent": 28.31999969482422,
+      "width": 447.02552032470703,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "(Course Project | Collaborative Engineering | Guide: Prof. B. Ravi) [Jan’20 - Jun’20]",
+      "bbox": [
+        28.31999969482422,
+        421.219970703125,
+        565.5718994140625,
+        430.219970703125
+      ],
+      "left_indent": 28.31999969482422,
+      "width": 537.2518997192383,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "• Analyzed shortcomings of the existing system by attending the live surgery and visiting the manufacturing facility",
+      "bbox": [
+        42.47999954223633,
+        430.45648193359375,
+        513.5516967773438,
+        442.9599609375
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 471.0716972351074,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "• Improved performance of an existing system with features: compact size, modularity, 180-degree adjustable camera, 10x optical",
+      "bbox": [
+        42.47999954223633,
+        443.1764831542969,
+        569.1219482421875,
+        455.6799621582031
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 526.6419486999512,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "zoom, auto-white balance, rechargeable battery, sterilizable cover, wireless 1080p video transmission",
+      "bbox": [
+        56.63999938964844,
+        457.9599914550781,
+        467.2317199707031,
+        467.91998291015625
+      ],
+      "left_indent": 56.63999938964844,
+      "width": 410.5917205810547,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "• Appreciated by doctors of Nanavati Super Speciality Hospital & Reliance Hospital, Mumbai",
+      "bbox": [
+        42.47999954223633,
+        468.1365051269531,
+        418.6017150878906,
+        480.6399841308594
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 376.1217155456543,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Key Courses",
+      "bbox": [
+        28.31999969482422,
+        489.54998779296875,
+        93.15983581542969,
+        502.5099792480469
+      ],
+      "left_indent": 28.31999969482422,
+      "width": 64.83983612060547,
+      "is_bold": false,
+      "font_size": 12.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "• Machine Learning for Remote Sensing-I [AU]",
+      "bbox": [
+        42.47999954223633,
+        505.70166015625,
+        237.02169799804688,
+        517.239990234375
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 194.54169845581055,
+      "is_bold": false,
+      "font_size": 9.480000019073486
+    },
+    {
+      "page": 2,
+      "text": "• Engineering Data Mining and Applications",
+      "bbox": [
+        329.5899963378906,
+        505.70166015625,
+        513.6716918945312,
+        517.239990234375
+      ],
+      "left_indent": 329.5899963378906,
+      "width": 184.08169555664062,
+      "is_bold": false,
+      "font_size": 9.480000019073486
+    },
+    {
+      "page": 2,
+      "text": "• Foundations of Intelligent and Learning Agents [AU]",
+      "bbox": [
+        42.47999954223633,
+        517.941650390625,
+        266.4217224121094,
+        529.47998046875
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 223.94172286987305,
+      "is_bold": false,
+      "font_size": 9.480000019073486
+    },
+    {
+      "page": 2,
+      "text": "• Computer Integrated Manufacturing",
+      "bbox": [
+        329.5899963378906,
+        517.941650390625,
+        492.6717224121094,
+        529.47998046875
+      ],
+      "left_indent": 329.5899963378906,
+      "width": 163.08172607421875,
+      "is_bold": false,
+      "font_size": 9.480000019073486
+    },
+    {
+      "page": 2,
+      "text": "• Reliability Modelling & Analysis for Engineering Systems",
+      "bbox": [
+        42.47999954223633,
+        530.181640625,
+        282.26171875,
+        541.719970703125
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 239.78171920776367,
+      "is_bold": false,
+      "font_size": 9.480000019073486
+    },
+    {
+      "page": 2,
+      "text": "• Computational Tools for Process Modeling",
+      "bbox": [
+        329.5899963378906,
+        530.181640625,
+        514.0435791015625,
+        541.719970703125
+      ],
+      "left_indent": 329.5899963378906,
+      "width": 184.45358276367188,
+      "is_bold": false,
+      "font_size": 9.480000019073486
+    },
+    {
+      "page": 2,
+      "text": "International Journal Publication",
+      "bbox": [
+        28.31999969482422,
+        550.510009765625,
+        197.7399139404297,
+        563.469970703125
+      ],
+      "left_indent": 28.31999969482422,
+      "width": 169.41991424560547,
+      "is_bold": false,
+      "font_size": 12.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Title: Reinforcement Learning for Optimal Policy Learning in Condition Based Maintenance [’20]",
+      "bbox": [
+        42.47999954223633,
+        568.3599853515625,
+        565.9348754882812,
+        578.3199462890625
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 523.4548759460449,
+      "is_bold": false,
+      "font_size": 9.480000019073486
+    },
+    {
+      "page": 2,
+      "text": "Status: Provisionally accepted in IET Collaborative Intelligent Manufacturing Journal",
+      "bbox": [
+        42.47999954223633,
+        580.47998046875,
+        383.44171142578125,
+        590.43994140625
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 340.9617118835449,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Positions of Responsibility",
+      "bbox": [
+        28.31999969482422,
+        599.22998046875,
+        164.22991943359375,
+        612.18994140625
+      ],
+      "left_indent": 28.31999969482422,
+      "width": 135.90991973876953,
+      "is_bold": false,
+      "font_size": 12.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Teaching Assistant (ME 781 Engineering Data Mining & Applications | Guide: Prof. Vinay Kulkarni) [Jan’19 - May’19]",
+      "bbox": [
+        28.31999969482422,
+        617.1099853515625,
+        565.931884765625,
+        627.0699462890625
+      ],
+      "left_indent": 28.31999969482422,
+      "width": 537.6118850708008,
+      "is_bold": true,
+      "font_size": 9.640000025431315
+    },
+    {
+      "page": 2,
+      "text": "• Assisted in organizing exams, correction of answer sheets & mentored 30 student groups for their course projects",
+      "bbox": [
+        42.47999954223633,
+        629.3499755859375,
+        513.4317016601562,
+        639.3099365234375
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 470.9517021179199,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Institute Student Companion (Institute Student Companion Programme, IIT Bombay)",
+      "bbox": [
+        28.31999969482422,
+        643.510009765625,
+        372.8817138671875,
+        653.469970703125
+      ],
+      "left_indent": 28.31999969482422,
+      "width": 344.5617141723633,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "[Apr’19 - Arp’20]",
+      "bbox": [
+        506.1400146484375,
+        644.22998046875,
+        566.054931640625,
+        653.22998046875
+      ],
+      "left_indent": 506.1400146484375,
+      "width": 59.9149169921875,
+      "is_bold": false,
+      "font_size": 9.0
+    },
+    {
+      "page": 2,
+      "text": "• Got trained from Student Wellness Centre & Gender Cell; Mentored 8 PG freshmen on academic & non-academic fronts",
+      "bbox": [
+        42.47999954223633,
+        655.75,
+        539.4716796875,
+        665.7099609375
+      ],
+      "left_indent": 42.47999954223633,
+      "width": 496.9916801452637,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Key Achievements",
+      "bbox": [
+        28.31999969482422,
+        674.5,
+        124.98992156982422,
+        687.4599609375
+      ],
+      "left_indent": 28.31999969482422,
+      "width": 96.669921875,
+      "is_bold": false,
+      "font_size": 12.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "• 2 nd rank at University in B.Tech Mechanical Engineering (Dr BAMU University, Aurangabad) [’17]",
+      "bbox": [
+        99.86399841308594,
+        695.211669921875,
+        561.7288818359375,
+        706.75
+      ],
+      "left_indent": 99.86399841308594,
+      "width": 461.86488342285156,
+      "is_bold": false,
+      "font_size": 9.060000022252401
+    },
+    {
+      "page": 2,
+      "text": "Awards",
+      "bbox": [
+        33.720001220703125,
+        696.7900390625,
+        67.31570434570312,
+        706.75
+      ],
+      "left_indent": 33.720001220703125,
+      "width": 33.595703125,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "• 3rd Prize in IMTEX-2017, Bengaluru (Among 70 national-level participants) [’17]",
+      "bbox": [
+        99.86399841308594,
+        707.45166015625,
+        561.8548583984375,
+        718.989990234375
+      ],
+      "left_indent": 99.86399841308594,
+      "width": 461.99085998535156,
+      "is_bold": false,
+      "font_size": 9.480000019073486
+    },
+    {
+      "page": 2,
+      "text": "Project Title: Internal Tread Inspection using IoT",
+      "bbox": [
+        99.86399841308594,
+        721.27001953125,
+        300.9031982421875,
+        731.22998046875
+      ],
+      "left_indent": 99.86399841308594,
+      "width": 201.03919982910156,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "• Best Demonstration Award in International Conference on Precision, Meso, Micro & Nano Engineering, IITI [’19]",
+      "bbox": [
+        99.86399841308594,
+        731.8116455078125,
+        561.6148681640625,
+        743.3499755859375
+      ],
+      "left_indent": 99.86399841308594,
+      "width": 461.75086975097656,
+      "is_bold": false,
+      "font_size": 9.320000012715658
+    },
+    {
+      "page": 2,
+      "text": "Demonstration Entitled: Condition Based Maintenance Learning using SMART Algorithm",
+      "bbox": [
+        108.62000274658203,
+        745.6260375976562,
+        463.8717041015625,
+        755.5859985351562
+      ],
+      "left_indent": 108.62000274658203,
+      "width": 355.25170135498047,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "• Deep Learning Specialization of 5 courses on Coursera [‘20]",
+      "bbox": [
+        99.86399841308594,
+        756.7676391601562,
+        349.0648193359375,
+        768.3059692382812
+      ],
+      "left_indent": 99.86399841308594,
+      "width": 249.20082092285156,
+      "is_bold": false,
+      "font_size": 9.320000012715658
+    },
+    {
+      "page": 2,
+      "text": "• Online Certifications - Blockchain, Big Data &",
+      "bbox": [
+        359.8299865722656,
+        756.7676391601562,
+        548.5916748046875,
+        768.3059692382812
+      ],
+      "left_indent": 359.8299865722656,
+      "width": 188.76168823242188,
+      "is_bold": false,
+      "font_size": 9.480000019073486
+    },
+    {
+      "page": 2,
+      "text": "Certifications",
+      "bbox": [
+        33.720001220703125,
+        758.3460083007812,
+        91.1957015991211,
+        768.3059692382812
+      ],
+      "left_indent": 33.720001220703125,
+      "width": 57.47570037841797,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "• Green Belt - Lean Six Sigma Certification [’19]",
+      "bbox": [
+        99.86399841308594,
+        769.0076293945312,
+        349.184814453125,
+        780.5459594726562
+      ],
+      "left_indent": 99.86399841308594,
+      "width": 249.32081604003906,
+      "is_bold": false,
+      "font_size": 9.320000012715658
+    },
+    {
+      "page": 2,
+      "text": "Computer Vision",
+      "bbox": [
+        368.5899963378906,
+        770.5859985351562,
+        436.6017150878906,
+        780.5459594726562
+      ],
+      "left_indent": 368.5899963378906,
+      "width": 68.01171875,
+      "is_bold": false,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "• Gold Medal in Inter Dept. Kho-Kho Competition, IITB [’19]",
+      "bbox": [
+        99.86399841308594,
+        781.7276611328125,
+        349.0648193359375,
+        793.2659912109375
+      ],
+      "left_indent": 99.86399841308594,
+      "width": 249.20082092285156,
+      "is_bold": false,
+      "font_size": 9.320000012715658
+    },
+    {
+      "page": 2,
+      "text": "• Hampta pass trekking, (14100 ft Altitude) [‘19]",
+      "bbox": [
+        359.8299865722656,
+        781.7276611328125,
+        561.6148681640625,
+        793.2659912109375
+      ],
+      "left_indent": 359.8299865722656,
+      "width": 201.78488159179688,
+      "is_bold": false,
+      "font_size": 9.320000012715658
+    },
+    {
+      "page": 2,
+      "text": "Sports &",
+      "bbox": [
+        33.720001220703125,
+        783.3060302734375,
+        71.75569915771484,
+        793.2659912109375
+      ],
+      "left_indent": 33.720001220703125,
+      "width": 38.03569793701172,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "• Love to travel new places",
+      "bbox": [
+        359.8299865722656,
+        793.8716430664062,
+        472.51171875,
+        805.4099731445312
+      ],
+      "left_indent": 359.8299865722656,
+      "width": 112.68173217773438,
+      "is_bold": false,
+      "font_size": 9.480000019073486
+    },
+    {
+      "page": 2,
+      "text": "Travel",
+      "bbox": [
+        33.720001220703125,
+        795.4500122070312,
+        61.675697326660156,
+        805.4099731445312
+      ],
+      "left_indent": 33.720001220703125,
+      "width": 27.95569610595703,
+      "is_bold": true,
+      "font_size": 9.960000038146973
+    },
+    {
+      "page": 2,
+      "text": "Scholastic achievements and extracurricular activities are not verified by the Placement Cell",
+      "bbox": [
+        130.6739959716797,
+        824.3609619140625,
+        465.8793029785156,
+        835.3499755859375
+      ],
+      "left_indent": 130.6739959716797,
+      "width": 335.20530700683594,
+      "is_bold": false,
+      "font_size": 9.0
+    }
+  ],
+  "text_per_page": [
+    "Aniket Shashikant Adsule\n183106003\nMechanical Engineering\nM.Tech.\nIndian Institute of Technology, Bombay\nGender: Male\nSpecialization: Manufacturing Engineering\nDOB: 20-12-1994\nExamination\nUniversity\nInstitute\nYear\nCPI / %\nPost Graduation\nIIT Bombay\nIIT Bombay\n2021\n9.19\nGraduation\nDr BAMU, Aurangabad\nMIT, Aurangabad\n2017\n9.35\nGraduation Specialization: Mechanical Engineering\nIntermediate\nMSBTE\nMIT, Aurangabad\n2014\n83.16%\nMatriculation\nMaharashtra State Board\nShri Saraswati Bhuwan, Aurangabad\n2011\n89.27%\nTechnical Skills\n• Programming Languages & Databases : Python, C++, MATLAB, PHP, HTML, CSS, JS, AJAX, SQL, NoSQL, AutoIT\n• Hardware : Arduino, ESP32, Raspberry Pi, Intel NCS2\n• CAD/CAE Packages : PTC Creo, Ansys\n• Libraries & Platforms : OpenCV, TensorFlow Keras, PyTorch, Darknet, Django, AWS\nProfessional Experience\nMachine Intelligence Program (Project Research Assistant | Dept: IoT and Data Analytics | IIT Bombay) [Aug’19 - Present]\n• Leading a team of 7 people with diverse backgrounds - Mechanical, Electronics and CS for ML and IoT based projects\n• Mentored 10+ interns for ML, computer vision & IoT projects; Prepared stepwise course content for initial training\nDigitization Solution for Gold Assaying & Hallmarking Process to Enhance Credibility & Efficiency (Industrial Project)\n• Integrated IoT at each process stage, CNN & object detection for surveillance & display reading\n• Developed authority wise dashboards with a combination of local server & cloud computing\n• Achieved traceability of jewellery using RFID & blockchain with unique hash-code containing metadata\nGeneric IoT Device & Platform Development (Research Project)\n• Features: Analog, digital, I2C & SPI sensor communication protocols, on the air update, onboard FFT, local data storage on SD\ncard, RTC, access point to set up a device, GPS, OLED, HTTPS & MQTT communication, 4 treads for simultaneous processing\n• Customizable dashboard & analytics engine with machine learning algorithm – MLR, LR, KNN, SVM, Tree-based algorithms\nNational Centre for Aerospace Innovation and Research (Research Assistant | Dept: IoT & Data Analytics) [Jun’17 - Jul’19]\nRemote, Secure & Real-Time Machine Effectiveness & Status Monitoring Solution, Deployed in HAL, Bengaluru (Industrial Project)\n• Developed ESP32 based IoT device, firmware for data collection, its conditioning & transmission to the server using HTTPS\n• Developed Random Forest Classifier as back-end ML algorithm with cross-validation & hyperparameter tuning\n• Developed an interactive dashboard with PHP, HTML Bootstrap, JS & AJAX which generates real-time SMS & email alerts\nFurnace Automation with Remote Intelligent Control (Industrial Project)\n• Developed a cyber-physical system using regression data model & deployed over ESP32 development board\n• Implemented IoT solution for real-time monitoring & remote control; Developed an interactive dashboard\nM.Tech Research Project\nDevelopment & Demonstration of Service-Based Industry 4.0 Architecture with Digital Twin & Analytics\n(Guide: Prof. Asim Tewari & Prof. Makarand Kulkarni) [July’19 - Present]\n•\nObjective : Develop service-based Industry 4.0 architecture to cater the manufacturing ecosystem in achieving interoperability\n•\nMethodology :\no Transform conventional 3-axis CNC milling machine into a smart machine using ZVIE’s smart product criteria\no Develop machine’s digital twin for condition-based maintenance & production system’s digital twin for optimized scheduling\no Secure M2M communication with OPC-UA, edge devices & IoT with sensors\no Demonstrate communication between machine, digital twin, service & product to achieve their own & global objectives\no Use of Analytics viz. ML, DL, RL & computer vision to achieve overall operations planning\n•\nImpact : Transforming existing facilities into a smart factory while achieving overall organizational objective\nMachine Learning & Computer Vision Projects\nReinforcement Learning for Optimal Policy Learning in Condition Based Maintenance (CBM)\n(Research Project | Guide: Prof. Makarand Kulkarni) [Oct’19 - Feb’20]\n• Objective: Develop an agent for CBM, which prescribe maintenance action & inspection interval for long term cost optimization\n• Modelled multi-objective optimization problem using Semi MDP with 100 states, 4 maintenance actions & 19 inspection intervals\n• Developed Reinforcement Learning based Q-learning algorithm (SMART algorithm) to prescribe optimal policy\nPersonal Protective Equipment (PPE) Conformity Detection using YOLO (Research Project | Guide: Prof. Asim Tewari) [Jan’20 - Jun’20]\n• Objective: To ensure workers wear PPE on the shop floor using real-time application based on YOLO & transfer learning\n• Trained YOLO on custom labelled data and achieved 83% mAP with parameter tuning",
+    "Machine Learning-Based Image Classification System to Predict Changing Fashion Trends\n(Course Project | Machine Learning for Remote Sensing-I | Guide: Prof. Biplab Banerjee) [Apr’20 - Jun’20]\n• Objective: To classify garment into a full sleeve, half sleeve and ¾ th sleeve using ML algorithms\n• Utilized OpenCV for image pre-processing like background removal & thresholding; Employed KNN, SVM, Decision Tree, Gradient\nBoosting classifier using scikit-learn python libraries along with hyperparameter tuning & cross-validation technique\n• Compared their performance using accuracy, ROC & confusion matrix; Got the best accuracy of 95% using KNN\nDigital Twin Based on ML Data Model for Electronic Chip Cooling System\n(Course Project | Computational Tools for Process Modeling | Guide: Prof. Shyam Karagadde) [Mar’20 - Jun’20]\n• Objective: To develop a digital twin of the processor’s cooling system to control cooling parameters in real-time\n• Developed physics-based 2D transient heat transfer model using a finite difference method (FDM)\n• Developed a digital twin using a regression model with 0.9919 R 2 , trained on large simulation data generated by the FDM model\nFlight Delay Classification Model for the Airport Authorities\n(Course Project | Machine Learning for Remote Sensing-I | Guide: Prof. Biplab Banerjee) [Feb’20 - Mar’20]\n• Performed EDA, one-hot encoding, data engineering, feature selection, hyperparameter tuning & cross-validation\n• Developed a Decision Tree Classifier as the best model with 92.5% accuracy compared to KNN, RBF SVM & Logistic Regression\nIndustry 4.0, Automation & Social Responsibility Projects\nAutomatic Internal Thread Inspection Machine – 3 rd prize in IMTEX-17, Bengaluru (Industrial Project | SS Controls) [Jun’18 & Jun’16]\n• Achieved ROI: 642.85%; Developed a novel method based on monitoring the current data of inspection gauge motor\n• Deployed in Dekson Castings Ltd & Accrete Electromech Pvt Ltd to inspect respective daily 1500 & 5500 components\n• Updates inspection data of each thread using IoT and employed dashboard for process monitoring\nAnalytics & IoT Implementation in Powder Coating Plant & Assembly Line (Industrial Project | SS Controls) [Jun’18 - Oct’19]\n• Objective: Achieve JIT & kitting process, product tracing, OEE calculation & utility monitoring\n• Installed proximity & temperature sensors at powder coating plant & RFID for Job tracking along with ERP data integration\n• Provided HMI to each worker for monitoring & action execution\nEconomical & Easily Manufacturable Face Shield Development (Social Responsibility Project) [Mar’20 - Apr’20]\n• Designed economical, easily scalable and manufacturable face shield following WHO guidelines amid COVID-19 pandemic, which\nrequires simple tailoring equipment & consists only 2 components\n• Achieved 3000+ sales to industries with unit manufacturing cost of ₹ 4.0 whereas 1000+ face shields donated to hospital & police\nModular Camera Recording System in Hospital Operation Theatre (OT) for Clinical Training & Legal Evidence\n(Course Project | Collaborative Engineering | Guide: Prof. B. Ravi) [Jan’20 - Jun’20]\n• Analyzed shortcomings of the existing system by attending the live surgery and visiting the manufacturing facility\n• Improved performance of an existing system with features: compact size, modularity, 180-degree adjustable camera, 10x optical\nzoom, auto-white balance, rechargeable battery, sterilizable cover, wireless 1080p video transmission\n• Appreciated by doctors of Nanavati Super Speciality Hospital & Reliance Hospital, Mumbai\nKey Courses\n• Machine Learning for Remote Sensing-I [AU]\n• Engineering Data Mining and Applications\n• Foundations of Intelligent and Learning Agents [AU]\n• Computer Integrated Manufacturing\n• Reliability Modelling & Analysis for Engineering Systems\n• Computational Tools for Process Modeling\nInternational Journal Publication\nTitle: Reinforcement Learning for Optimal Policy Learning in Condition Based Maintenance [’20]\nStatus: Provisionally accepted in IET Collaborative Intelligent Manufacturing Journal\nPositions of Responsibility\nTeaching Assistant (ME 781 Engineering Data Mining & Applications | Guide: Prof. Vinay Kulkarni) [Jan’19 - May’19]\n• Assisted in organizing exams, correction of answer sheets & mentored 30 student groups for their course projects\nInstitute Student Companion (Institute Student Companion Programme, IIT Bombay)\n[Apr’19 - Arp’20]\n• Got trained from Student Wellness Centre & Gender Cell; Mentored 8 PG freshmen on academic & non-academic fronts\nKey Achievements\n• 2 nd rank at University in B.Tech Mechanical Engineering (Dr BAMU University, Aurangabad) [’17]\nAwards\n• 3rd Prize in IMTEX-2017, Bengaluru (Among 70 national-level participants) [’17]\nProject Title: Internal Tread Inspection using IoT\n• Best Demonstration Award in International Conference on Precision, Meso, Micro & Nano Engineering, IITI [’19]\nDemonstration Entitled: Condition Based Maintenance Learning using SMART Algorithm\n• Deep Learning Specialization of 5 courses on Coursera [‘20]\n• Online Certifications - Blockchain, Big Data &\nCertifications\n• Green Belt - Lean Six Sigma Certification [’19]\nComputer Vision\n• Gold Medal in Inter Dept. Kho-Kho Competition, IITB [’19]\n• Hampta pass trekking, (14100 ft Altitude) [‘19]\nSports &\n• Love to travel new places\nTravel\nScholastic achievements and extracurricular activities are not verified by the Placement Cell"
+  ],
+  "text_all": "Aniket Shashikant Adsule\n183106003\nMechanical Engineering\nM.Tech.\nIndian Institute of Technology, Bombay\nGender: Male\nSpecialization: Manufacturing Engineering\nDOB: 20-12-1994\nExamination\nUniversity\nInstitute\nYear\nCPI / %\nPost Graduation\nIIT Bombay\nIIT Bombay\n2021\n9.19\nGraduation\nDr BAMU, Aurangabad\nMIT, Aurangabad\n2017\n9.35\nGraduation Specialization: Mechanical Engineering\nIntermediate\nMSBTE\nMIT, Aurangabad\n2014\n83.16%\nMatriculation\nMaharashtra State Board\nShri Saraswati Bhuwan, Aurangabad\n2011\n89.27%\nTechnical Skills\n• Programming Languages & Databases : Python, C++, MATLAB, PHP, HTML, CSS, JS, AJAX, SQL, NoSQL, AutoIT\n• Hardware : Arduino, ESP32, Raspberry Pi, Intel NCS2\n• CAD/CAE Packages : PTC Creo, Ansys\n• Libraries & Platforms : OpenCV, TensorFlow Keras, PyTorch, Darknet, Django, AWS\nProfessional Experience\nMachine Intelligence Program (Project Research Assistant | Dept: IoT and Data Analytics | IIT Bombay) [Aug’19 - Present]\n• Leading a team of 7 people with diverse backgrounds - Mechanical, Electronics and CS for ML and IoT based projects\n• Mentored 10+ interns for ML, computer vision & IoT projects; Prepared stepwise course content for initial training\nDigitization Solution for Gold Assaying & Hallmarking Process to Enhance Credibility & Efficiency (Industrial Project)\n• Integrated IoT at each process stage, CNN & object detection for surveillance & display reading\n• Developed authority wise dashboards with a combination of local server & cloud computing\n• Achieved traceability of jewellery using RFID & blockchain with unique hash-code containing metadata\nGeneric IoT Device & Platform Development (Research Project)\n• Features: Analog, digital, I2C & SPI sensor communication protocols, on the air update, onboard FFT, local data storage on SD\ncard, RTC, access point to set up a device, GPS, OLED, HTTPS & MQTT communication, 4 treads for simultaneous processing\n• Customizable dashboard & analytics engine with machine learning algorithm – MLR, LR, KNN, SVM, Tree-based algorithms\nNational Centre for Aerospace Innovation and Research (Research Assistant | Dept: IoT & Data Analytics) [Jun’17 - Jul’19]\nRemote, Secure & Real-Time Machine Effectiveness & Status Monitoring Solution, Deployed in HAL, Bengaluru (Industrial Project)\n• Developed ESP32 based IoT device, firmware for data collection, its conditioning & transmission to the server using HTTPS\n• Developed Random Forest Classifier as back-end ML algorithm with cross-validation & hyperparameter tuning\n• Developed an interactive dashboard with PHP, HTML Bootstrap, JS & AJAX which generates real-time SMS & email alerts\nFurnace Automation with Remote Intelligent Control (Industrial Project)\n• Developed a cyber-physical system using regression data model & deployed over ESP32 development board\n• Implemented IoT solution for real-time monitoring & remote control; Developed an interactive dashboard\nM.Tech Research Project\nDevelopment & Demonstration of Service-Based Industry 4.0 Architecture with Digital Twin & Analytics\n(Guide: Prof. Asim Tewari & Prof. Makarand Kulkarni) [July’19 - Present]\n•\nObjective : Develop service-based Industry 4.0 architecture to cater the manufacturing ecosystem in achieving interoperability\n•\nMethodology :\no Transform conventional 3-axis CNC milling machine into a smart machine using ZVIE’s smart product criteria\no Develop machine’s digital twin for condition-based maintenance & production system’s digital twin for optimized scheduling\no Secure M2M communication with OPC-UA, edge devices & IoT with sensors\no Demonstrate communication between machine, digital twin, service & product to achieve their own & global objectives\no Use of Analytics viz. ML, DL, RL & computer vision to achieve overall operations planning\n•\nImpact : Transforming existing facilities into a smart factory while achieving overall organizational objective\nMachine Learning & Computer Vision Projects\nReinforcement Learning for Optimal Policy Learning in Condition Based Maintenance (CBM)\n(Research Project | Guide: Prof. Makarand Kulkarni) [Oct’19 - Feb’20]\n• Objective: Develop an agent for CBM, which prescribe maintenance action & inspection interval for long term cost optimization\n• Modelled multi-objective optimization problem using Semi MDP with 100 states, 4 maintenance actions & 19 inspection intervals\n• Developed Reinforcement Learning based Q-learning algorithm (SMART algorithm) to prescribe optimal policy\nPersonal Protective Equipment (PPE) Conformity Detection using YOLO (Research Project | Guide: Prof. Asim Tewari) [Jan’20 - Jun’20]\n• Objective: To ensure workers wear PPE on the shop floor using real-time application based on YOLO & transfer learning\n• Trained YOLO on custom labelled data and achieved 83% mAP with parameter tuning\n\nMachine Learning-Based Image Classification System to Predict Changing Fashion Trends\n(Course Project | Machine Learning for Remote Sensing-I | Guide: Prof. Biplab Banerjee) [Apr’20 - Jun’20]\n• Objective: To classify garment into a full sleeve, half sleeve and ¾ th sleeve using ML algorithms\n• Utilized OpenCV for image pre-processing like background removal & thresholding; Employed KNN, SVM, Decision Tree, Gradient\nBoosting classifier using scikit-learn python libraries along with hyperparameter tuning & cross-validation technique\n• Compared their performance using accuracy, ROC & confusion matrix; Got the best accuracy of 95% using KNN\nDigital Twin Based on ML Data Model for Electronic Chip Cooling System\n(Course Project | Computational Tools for Process Modeling | Guide: Prof. Shyam Karagadde) [Mar’20 - Jun’20]\n• Objective: To develop a digital twin of the processor’s cooling system to control cooling parameters in real-time\n• Developed physics-based 2D transient heat transfer model using a finite difference method (FDM)\n• Developed a digital twin using a regression model with 0.9919 R 2 , trained on large simulation data generated by the FDM model\nFlight Delay Classification Model for the Airport Authorities\n(Course Project | Machine Learning for Remote Sensing-I | Guide: Prof. Biplab Banerjee) [Feb’20 - Mar’20]\n• Performed EDA, one-hot encoding, data engineering, feature selection, hyperparameter tuning & cross-validation\n• Developed a Decision Tree Classifier as the best model with 92.5% accuracy compared to KNN, RBF SVM & Logistic Regression\nIndustry 4.0, Automation & Social Responsibility Projects\nAutomatic Internal Thread Inspection Machine – 3 rd prize in IMTEX-17, Bengaluru (Industrial Project | SS Controls) [Jun’18 & Jun’16]\n• Achieved ROI: 642.85%; Developed a novel method based on monitoring the current data of inspection gauge motor\n• Deployed in Dekson Castings Ltd & Accrete Electromech Pvt Ltd to inspect respective daily 1500 & 5500 components\n• Updates inspection data of each thread using IoT and employed dashboard for process monitoring\nAnalytics & IoT Implementation in Powder Coating Plant & Assembly Line (Industrial Project | SS Controls) [Jun’18 - Oct’19]\n• Objective: Achieve JIT & kitting process, product tracing, OEE calculation & utility monitoring\n• Installed proximity & temperature sensors at powder coating plant & RFID for Job tracking along with ERP data integration\n• Provided HMI to each worker for monitoring & action execution\nEconomical & Easily Manufacturable Face Shield Development (Social Responsibility Project) [Mar’20 - Apr’20]\n• Designed economical, easily scalable and manufacturable face shield following WHO guidelines amid COVID-19 pandemic, which\nrequires simple tailoring equipment & consists only 2 components\n• Achieved 3000+ sales to industries with unit manufacturing cost of ₹ 4.0 whereas 1000+ face shields donated to hospital & police\nModular Camera Recording System in Hospital Operation Theatre (OT) for Clinical Training & Legal Evidence\n(Course Project | Collaborative Engineering | Guide: Prof. B. Ravi) [Jan’20 - Jun’20]\n• Analyzed shortcomings of the existing system by attending the live surgery and visiting the manufacturing facility\n• Improved performance of an existing system with features: compact size, modularity, 180-degree adjustable camera, 10x optical\nzoom, auto-white balance, rechargeable battery, sterilizable cover, wireless 1080p video transmission\n• Appreciated by doctors of Nanavati Super Speciality Hospital & Reliance Hospital, Mumbai\nKey Courses\n• Machine Learning for Remote Sensing-I [AU]\n• Engineering Data Mining and Applications\n• Foundations of Intelligent and Learning Agents [AU]\n• Computer Integrated Manufacturing\n• Reliability Modelling & Analysis for Engineering Systems\n• Computational Tools for Process Modeling\nInternational Journal Publication\nTitle: Reinforcement Learning for Optimal Policy Learning in Condition Based Maintenance [’20]\nStatus: Provisionally accepted in IET Collaborative Intelligent Manufacturing Journal\nPositions of Responsibility\nTeaching Assistant (ME 781 Engineering Data Mining & Applications | Guide: Prof. Vinay Kulkarni) [Jan’19 - May’19]\n• Assisted in organizing exams, correction of answer sheets & mentored 30 student groups for their course projects\nInstitute Student Companion (Institute Student Companion Programme, IIT Bombay)\n[Apr’19 - Arp’20]\n• Got trained from Student Wellness Centre & Gender Cell; Mentored 8 PG freshmen on academic & non-academic fronts\nKey Achievements\n• 2 nd rank at University in B.Tech Mechanical Engineering (Dr BAMU University, Aurangabad) [’17]\nAwards\n• 3rd Prize in IMTEX-2017, Bengaluru (Among 70 national-level participants) [’17]\nProject Title: Internal Tread Inspection using IoT\n• Best Demonstration Award in International Conference on Precision, Meso, Micro & Nano Engineering, IITI [’19]\nDemonstration Entitled: Condition Based Maintenance Learning using SMART Algorithm\n• Deep Learning Specialization of 5 courses on Coursera [‘20]\n• Online Certifications - Blockchain, Big Data &\nCertifications\n• Green Belt - Lean Six Sigma Certification [’19]\nComputer Vision\n• Gold Medal in Inter Dept. Kho-Kho Competition, IITB [’19]\n• Hampta pass trekking, (14100 ft Altitude) [‘19]\nSports &\n• Love to travel new places\nTravel\nScholastic achievements and extracurricular activities are not verified by the Placement Cell"
+}

@@ -1,0 +1,175 @@
+{
+  "candidate": {
+    "full_name": "Davide Lasi",
+    "emails": [
+      "davide.lasi@sdm.mit.edu"
+    ],
+    "phones": [],
+    "location": {
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null
+    },
+    "resume_text_hash": "sha256:d562d2fab9dce2d85a18efb8d848aa9f1812775c326a249ec309defb2d8a9dd3",
+    "source_file_id": "2017-Resume-Book-for-Web-SDM-12.pdf",
+    "parsed_at": "2025-08-18T07:21:44Z",
+    "parser_version": "v0.3.0"
+  },
+  "experience": [],
+  "education": [
+    {
+      "degree_raw": null,
+      "degree_level": null,
+      "field_raw": null,
+      "institution_raw": "Massachusetts Institute of Technology School of Engineering & Sloan School of Management",
+      "start_date": null,
+      "end_date": null,
+      "gpa": null,
+      "extraction_confidence": 0.6,
+      "source_page": null
+    }
+  ],
+  "skills": [],
+  "projects": [
+    {
+      "name": "Project Manager",
+      "summary": "Lead two teams of 8 and 9 engineers (mechanics, electronics, and software), thermal and structural modelers, and scientists for the design and development of three leading-edge mass spectrometers for space missions. Negotiate and supervise industry contracts for the development of software and hardware. Chair meetings and design reviews with contractors. Draft and implement new agile-contract models.",
+      "role": null,
+      "tech_stack": [],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Represent the projects at the European Space Agency (ESTEC Headquarters) and at the Space Research",
+      "summary": "Institute of the Russian Academy of Sciences (IKI) on occasion of major design reviews and project meetings. Plan and execute radiation tests of detectors and materials at electron and proton irradiation facilities.",
+      "role": null,
+      "tech_stack": [],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Cerbios-Pharma SA",
+      "summary": "Pharmaceutical company manufacturing both chemical and biological APIs and HPAIs. Material Manager (50%) & Project Manager (50%) Procured advanced pharmaceutical intermediates from China and India; drafted new model of supply agreement; negotiated supply contracts and attended trade fairs and suppliers’ site visits in Europe and China.",
+      "role": null,
+      "tech_stack": [],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Collected and analyzed requirements to define optimizations of the company ERP (Oracle E-Business Suite) for",
+      "summary": "the optimal and GMP compliant handling of materials and their specifications through their complete lifecycle.",
+      "role": null,
+      "tech_stack": [],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Dipharma Francis Srl",
+      "summary": null,
+      "role": null,
+      "tech_stack": [],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Scrum Alliance®",
+      "summary": null,
+      "role": null,
+      "tech_stack": [],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    }
+  ],
+  "certifications": [],
+  "publications": [],
+  "achievements": [],
+  "languages": [],
+  "sectioned_text": [
+    {
+      "section_type": "other",
+      "text": "DAVIDE LASI\ndavide.lasi@sdm.mit.edu",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "Massachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nM.S., System Design and Management\nUniversity of Milano\nDepartment of Chemistry\nM.Sc., Physical-Chemistry, graduated with honors\nThesis: developed new methods in the field of the Quantum Theory of Atoms in Molecules.\nB.Sc., Chemistry, graduated with honors\nThesis: built and tested a Mössbauer Spectrometer at the National Institute of Nuclear Physics.\nEXPERIENCE\nUniversity of Bern, Space Research & Planetary Sciences (Physics Institute)\nProvider of scientific instrumentation for space exploration missions of ESA, NASA, and Roscosmos.",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "Project Manager\nLead two teams of 8 and 9 engineers (mechanics, electronics, and software), thermal and structural modelers,\nand scientists for the design and development of three leading-edge mass spectrometers for space missions.\nNegotiate and supervise industry contracts for the development of software and hardware.\nChair meetings and design reviews with contractors. Draft and implement new agile-contract models.\nRepresent the projects at the European Space Agency (ESTEC Headquarters) and at the Space Research\nInstitute of the Russian Academy of Sciences (IKI) on occasion of major design reviews and project meetings.\nPlan and execute radiation tests of detectors and materials at electron and proton irradiation facilities.\nCerbios-Pharma SA\nPharmaceutical company manufacturing both chemical and biological APIs and HPAIs.\nMaterial Manager (50%) & Project Manager (50%)\nProcured advanced pharmaceutical intermediates from China and India; drafted new model of supply\nagreement; negotiated supply contracts and attended trade fairs and suppliers’ site visits in Europe and China.\nCollected and analyzed requirements to define optimizations of the company ERP (Oracle E-Business Suite) for\nthe optimal and GMP compliant handling of materials and their specifications through their complete lifecycle.\nDipharma Francis Srl",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "patents",
+      "text": "Generic active pharmaceutical ingredients manufacturer with a strong portfolio of more than 150 patents.\nAssistant to the Head of Intellectual Property\nDrafted, filed, and prosecuted patent applications in Europe, USA, Japan, India, China, Israel, and Canada.",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "Scrum Alliance®",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "certifications",
+      "text": "Certified Scrum Product Owner (with Mike Cohn), employer sponsored.\nStanford Centre for Professional Development\nStanford Advanced Project Management Certificate, employer sponsored.",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "publications",
+      "text": "D. Lasi , M. Tulej, S. Meyer, M. Lüthi, A. Galli, D. Piazza, P. Wurz, D. Reggiani, H. Xiao, R. Marcinkowski,\nW. Hajdas, A. Cervelli, S. Karlsson, T. Knight, M. Grande, and S. Barabash, Shielding an MCP detector for a\nspace-borne mass spectrometer against the harsh radiation environment in Jupiter's Magnetosphere , IEEE\nTrans. Nucl. Sc. 99 (2016).\nP. Wurz, D. Lasi , N. Thomas, D. Piazza, A. Galli, M. Jutzi, S. Barabash, M. Wieser, W. Magnes, H. Lammer,\nU. Auster, L. Gurvits, and W. Hajdas , An Impacting Descent Probe for Europa and the other Galilean Moons of\nJupiter, Earth, Moon, and Planets (2017) submitted .\nC. Gatti, D. Lasi , Source function description of metal-metal bonding in d-block organometallic compounds ;\nFaraday Discussions; 135:55-78; discussion 125-49, 503-6 (2007).",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "interests",
+      "text": "Sailing regattas, surfing, windsurfing, scuba diving, ski, 4x4 road trips, chess, contemporary photography, playing piano.\nCambridge, MA\n08/2016 - present\nMilano, Italy\n09/2004 - 07/2006\n09/2001 - 10/2004\nBern, Switzerland\n05/2011 - present\nLugano, Switzerland\n05/2008 - 04/2011\nMilano, Italy\n04/2007 - 04/2008\nLondon, United Kingdom\n03/2015\nStanford, CA\n03/2013 - 09/2013",
+      "page_range": [
+        1,
+        1
+      ]
+    }
+  ]
+}

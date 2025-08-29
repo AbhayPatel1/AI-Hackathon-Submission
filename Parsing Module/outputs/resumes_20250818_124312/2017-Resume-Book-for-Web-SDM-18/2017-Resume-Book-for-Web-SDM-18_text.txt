@@ -1,0 +1,69 @@
+JOLLY PRADHAN
+391 Broadway, Apt 504
+Somerville, MA, 02145
+603-682-3851
+jpradhan@mit.edu
+EDUCATION
+Massachusetts Institute of Technology
+School of Engineering & Sloan School of Management
+M.S., System Design and Management
+Rensselaer Polytechnic Institute
+Bachelor of Science in Mechanical Engineering Dec 2009
+EXPERIENCE
+Varian Semiconductor Equipment Associates
+Systems Engineer
+Crion Cold Implant
+•
+Crion is a cold system that enables customer to implant wafers at -100˚C. The system consists of cryo-chillers, a
+vacuum-sealed valve system, and cooling ring to cool the implant mechanism.
+•
+Conducted and documented characterization tests for Crion by validating cool down rate, throughput, wafer
+temperature uniformity and overall functionality of the system.
+•
+Operated the tool during 40 continuous hours of reliability growth testing and helped release the product from R&D
+to Production.
+•
+Supported customer escalations by analyzing archives from the field and determining root cause of the customer
+problems.
+26-Wafer Implementation
+•
+Led the project with a team of mechanical engineers, an electrical engineer and software engineers to create new
+hardware as well as software controls to implement the platen warm-up process. Released the hardware through
+ECO process to Production and conducted tests to help with software release.
+Center for Earthquake Engineering Simulation
+Research Engineer
+•
+Operated and troubleshot earthquake simulation machinery (centrifuge) while conducting experiments.
+•
+Gained hands-on experience by preparing and sealing centrifuge laminar container with Ph.D. students while using
+strain gauges, accelerometer, and pressure sensors.
+LEADERSHIP POSITIONS
+Fusion Engineering Development Program
+Graduate
+•
+This is a program for new graduates at Varian to expose them to various engineering departments within the
+company and to experience presenting to upper management.
+•
+Rotated through End Station (Robotics), Continuous Improvement and Physics Department (R&D) .
+Women’s Mentoring Program at RPI
+Co-Chair
+§
+Developed a new program providing opportunity for mentors and mentees to meet prior to the start of the school
+year. As a result of its success, this is now an annual program. Organized formal and informal events including:
+Chat with Shirley Ann Jackson (President of RPI) and Design Your Future Day to encourage women in science and
+engineering.
+TECHNICAL SKILLS
+•
+Expert in Signal Analysis and Archive Analysis
+•
+Proficient in Microsoft Excel, Microsoft PowerPoint, MINITAB Statistics, Adobe Illustrator, and Adobe Photoshop.
+Basic knowledge 3D CAD Modeling (SolidWorks and ProE), LabVIEW, and MATLAB.
+Cambridge, MA
+Sept 2015-Present
+Troy, NY
+Gloucester, MA
+Sept 2010-July 2015
+Troy, NY
+Jan 10-Sept 2010
+Sept 2010-Sept 2012
+Sept 2006-Sept 2008

@@ -1,0 +1,169 @@
+{
+  "candidate": {
+    "full_name": "Karan Sachan",
+    "emails": [
+      "ksachan@mit.edu"
+    ],
+    "phones": [],
+    "location": {
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null
+    },
+    "resume_text_hash": "sha256:6e6165dcca6570bad1b32040e8501f68720f194b9426c6cd021b0fdf3560c4f1",
+    "source_file_id": "2017-Resume-Book-for-Web-SDM-20.pdf",
+    "parsed_at": "2025-08-18T07:43:32Z",
+    "parser_version": "v0.3.0"
+  },
+  "experience": [],
+  "education": [
+    {
+      "degree_raw": "B.Tech/B.E.",
+      "degree_level": "bachelors",
+      "field_raw": null,
+      "institution_raw": "Massachusetts Institute of Technology School of Engineering & Sloan School of Management",
+      "start_date": "2013-07-01",
+      "end_date": "2016-08-01",
+      "gpa": null,
+      "extraction_confidence": 0.8,
+      "source_page": null
+    }
+  ],
+  "skills": [
+    {
+      "name": "google analytics",
+      "category": null
+    },
+    {
+      "name": "java",
+      "category": null
+    },
+    {
+      "name": "python",
+      "category": null
+    },
+    {
+      "name": "sql",
+      "category": null
+    },
+    {
+      "name": "tableau",
+      "category": null
+    }
+  ],
+  "projects": [
+    {
+      "name": "Led Open Mobile Project from Reliance in collaboration with Govt. of India, Facebook’s Internet.org, and Google’s",
+      "summary": "",
+      "role": null,
+      "tech_stack": [],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Project Loon to provide Internet connectivity to 500+ millions Indians in rural and remote areas",
+      "summary": null,
+      "role": null,
+      "tech_stack": [],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    }
+  ],
+  "certifications": [],
+  "publications": [],
+  "achievements": [
+    "Product/Program Manager for $120M product portfolio; Responsible for delivering product from ideation to launch",
+    "",
+    "Successfully built the world’s most economical 4G smartphone by focusing on 80:20 rule for feature-usage metrics",
+    "",
+    "driven by usability studies and eliminating less valuable components, improving Bill of Material (BOM) by 37%",
+    "Managed strategic vendor worldwide and grew partner ecosystem by 300% (incl. Fortune 500 companies), reducing",
+    "",
+    "the time to market by 23% and cutting down run-rate expenses and budgeted capital expenditures by 17%"
+  ],
+  "languages": [],
+  "sectioned_text": [
+    {
+      "section_type": "other",
+      "text": "Karan Sachan\nTang Hall # 06B3, 550 Memorial Dr, Cambridge, MA - 02139\n+1 617.401.5822 | ksachan@mit.edu",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "Massachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nM.S., Engineering and Management\n• VP of Marketing, Product Management Club; VP of Alumni relations, MIT-SDM\n• Core Member of Digital Currency Initiative, a group focusing on Blockchain and AR/VR at MIT Media Lab\nJSS Academy of Technical Education\nB.Tech (with Honors), Information Technology\nGraduated 1st /117 students in my department & among top 5% of university B.Tech batch of ~23,000 students\n\nEXPERIENCE\nWishing Well Technologies Pvt. Ltd.\nCo-founder & Head – Product & Engineering\nSuccessfully led fundraising efforts to build MVP, raising $500K from investors including ex-Fortune100 CEO\n\nLed the design and development of platform (Web & Mobile) through new data-driven approach, resulting in a 97%\n\nincrease in signups, doubling of mobile traffic time-on-site, and growing visitor traffic at non-peak times by 20%\nFinalist of India’s most premier start-up challenge – ‘10000 start-ups’ by NASSCOM; over 9000 start-ups applied\n\nReliance Industries Ltd.\nProduct Manager - Smartphone | Cloud Solutions – Saas & IaaS July 2013 – August 2016\nSelected among 30 candidates out of 30,000+ for the most renowned Leadership Development Program in India\n",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "responsibility",
+      "text": "Product/Program Manager for $120M product portfolio; Responsible for delivering product from ideation to launch\n\nSuccessfully built the world’s most economical 4G smartphone by focusing on 80:20 rule for feature-usage metrics\n\ndriven by usability studies and eliminating less valuable components, improving Bill of Material (BOM) by 37%\nManaged strategic vendor worldwide and grew partner ecosystem by 300% (incl. Fortune 500 companies), reducing\n\nthe time to market by 23% and cutting down run-rate expenses and budgeted capital expenditures by 17%",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "Led Open Mobile Project from Reliance in collaboration with Govt. of India, Facebook’s Internet.org, and Google’s\n\nProject Loon to provide Internet connectivity to 500+ millions Indians in rural and remote areas",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "patents",
+      "text": "Filed 4 key patents around security architecture of smart devices, strengthening intellectual property of our product\n\nSpearheaded product awareness and partnership by showcasing product at Mobile World Congress - Barcelona,\n\nattended by nearly 100,000+ participants from 190 countries and 3,600+ members of the international media\nQyuki Digital Media Pvt. Ltd.\nProduct Manager & Data Scientist\nLed the development of data science competencies for the platform, driving traffic up by 43% and increasing avg.\n\ntime spent per user per month by 33 mins; Increased EBIT by 37% by pushing personalized ads to customers\nIncreased viral invites by 27% by implementing a social graph to connect through Facebook and Google+\n\nDrove strategic product development by facilitating a feedback loop among engineering, sales, and marketing/PR\n\nMotorola Mobility Inc.\nSenior Engineer, Motorola Innovations Lab\nAwarded ‘Innovator of the Year’ in 2011 across all Motorola facilities for ideating the initial modular phone concept\n\nin a hack-a-thon, which later matured and pursued by Google as ‘Project ARA’\nOutlined and designed welcome experience for new and returning users of Motorola devices, introducing them to a\n\ncompletely re-imagined product experience including landing screen layout and guided tour for feature walkthrough\nManaged UserVoice account that aggregates user feedback to make data-driven decisions and prioritize product\n\nideas. Determined top addressable issues by churning and analyzing data and led teams to resolve these issues\nADDITIONAL INFORMATION",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "skills",
+      "text": "Technical Skills: Java, Cloud, Hadoop, Machine Learning, Python, R, NoSQL, JIRA, Google Analytics, Tableau",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "other",
+      "text": "",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "certifications",
+      "text": "Certifications: Harvard’s HBX CORe; Scrum Alliance’s Agile ScrumMaster; Design Thinking from Lynda.com",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "other",
+      "text": "\nAwarded Global Leaders scholarship by Fujitsu-JAIMS and Young Leader Program scholarship by Govt of Japan\n\nInvited as Delegate in 12th World Business Dialogue at Berlin and in Preparing Global Leaders Academy at Jordan\n\nCambridge, MA\nAugust 2016 - Present\nNoida, India\nJuly 2005- May 2009\nBangalore, India\nOctober 2014 – August 2016\nBangalore | Mumbai, India\nBangalore, India\nAugust 2012 – July 2013\nBangalore, India | Chicago, USA\nJuly 2011 – August 2012",
+      "page_range": [
+        1,
+        1
+      ]
+    }
+  ]
+}

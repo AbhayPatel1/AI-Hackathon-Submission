@@ -1,0 +1,206 @@
+{
+  "candidate": {
+    "full_name": "Shruti Banda",
+    "emails": [
+      "shruti.banda@sloan.mit.edu"
+    ],
+    "phones": [
+      "+14082039493"
+    ],
+    "location": {
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null
+    },
+    "resume_text_hash": "sha256:8736349f05527ff19043fa7dc3c69b17772240ffce318fe9e00523943023cf1f",
+    "source_file_id": "2017-Resume-Book-for-Web-SDM-4.pdf",
+    "parsed_at": "2025-08-18T08:30:00Z",
+    "parser_version": "v0.3.0"
+  },
+  "experience": [
+    {
+      "company_raw": "Product & Research Intern IntellADAP",
+      "company_norm": "Product & Research Intern IntellADAP",
+      "title_raw": "Product & Research Intern IntellADAPT May’2016 – Aug’2016",
+      "title_norm": "intern",
+      "seniority": null,
+      "employment_type": "internship",
+      "location": null,
+      "start_date": null,
+      "end_date": null,
+      "is_current": false,
+      "extraction_confidence": 0.8,
+      "source_page": null,
+      "bullets": [
+        {
+          "bullet_text": " Designed mobile apps to collect data & analyze the potential of EEG wearables for a brain computer interface (BCI)  Built commercialization plan & financial projections for the wearable technology which earned $1.5M in funding from the National Science Foundation.",
+          "metrics": {},
+          "skills_mentioned": [
+            "c"
+          ],
+          "source_page": null
+        }
+      ]
+    },
+    {
+      "company_raw": "Inter",
+      "company_norm": "Inter",
+      "title_raw": "Software Developer Intern Microsoft Apr’2011 – June’2011",
+      "title_norm": "intern",
+      "seniority": null,
+      "employment_type": "internship",
+      "location": null,
+      "start_date": null,
+      "end_date": null,
+      "is_current": false,
+      "extraction_confidence": 0.8,
+      "source_page": null,
+      "bullets": [
+        {
+          "bullet_text": " Pre-Placement Offer from Microsoft India; Implemented a Proof of Concept for posting an onsite application interface to the Microsoft cloud using Azure Connect that reduced the transfer time of 2GB file by 82%(23 to 4 min)  Built UI to automatically generate scripts that saved 7 hours of manual work & got integrated in next product release. LEADERSHIP MIT Clubs: Women in System Design & Management Chair & VP of education for Sloan Product Mgmt. club,’16 Intaglio International Business Event, IIM Calcutta  O r g an i ze d Marketplace, a versatile marketing plan building and flagship event of Marketing and Coordinator of Arena, a series of five spot events based on Marketing, S trategy and Finance, 2013-14 Sports Captain, Throw ball & kho-kho  Captained the school Throw Ball and Kho-Kho team at Sri Satya Sai Vidya Vihar High School, 2004-06  Winner of Intra School Throw ball competition in 2005-06 and Kho-Kho competition for two years ADDITIONAL INFORMATION",
+          "metrics": {
+            "percent": 82
+          },
+          "skills_mentioned": [
+            "azure",
+            "c"
+          ],
+          "source_page": null
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree_raw": null,
+      "degree_level": null,
+      "field_raw": null,
+      "institution_raw": "Massachusetts Institute of Technology",
+      "start_date": "2015-08-01",
+      "end_date": null,
+      "gpa": null,
+      "extraction_confidence": 0.6,
+      "source_page": null
+    },
+    {
+      "degree_raw": null,
+      "degree_level": null,
+      "field_raw": null,
+      "institution_raw": "Intern Mondelez International",
+      "start_date": null,
+      "end_date": null,
+      "gpa": null,
+      "extraction_confidence": 0.6,
+      "source_page": null
+    }
+  ],
+  "skills": [
+    {
+      "name": "c",
+      "category": null
+    },
+    {
+      "name": "c++",
+      "category": null
+    },
+    {
+      "name": "java",
+      "category": null
+    },
+    {
+      "name": "python",
+      "category": null
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "publications": [],
+  "achievements": [
+    " Responsible for product vision, strategy and roadmap for Personagraph analytics tool and partner portal.",
+    " Worked with cross-functional teams to gather, plan and implement the product requirements. Used Wireframing",
+    "tools such as Omnigraffle and Balsamiq to design the product for better data representation and Scrum process",
+    "for delivering the product.",
+    " Led the analytics UX redesign and re-architecture effort & built an advanced heuristic & clustering based model",
+    "named “high value users” for finding most profitable users",
+    " On-boarded 50+ app developers, resulting in 10M+ users with 50+ million inferences generated about them."
+  ],
+  "languages": [],
+  "sectioned_text": [
+    {
+      "section_type": "other",
+      "text": "SHRUTI BANDA\n550 Memorial Dr, Cambridge, MA\nshruti.banda@sloan.mit.edu , +1(408)2039493",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "Massachusetts Institute of Technology, Cambridge Aug’2015-Present\nMaster of Science in Management and Engineering, Sloan School of Management & MIT School of Engineering\n Developed a complete B-plan for a market-place to help restaurants source local farmers’ organic produce.\n Analyzed Amazon employee data to predict access needs using statistical tools R & python for data mining.\n Built a web application (Group’em) to help K-12 teachers to effortlessly create and manage classroom groups.\n Built an auto-cleaning database that predicts missing values in a column using appropriate machine learning\ntechnique on remaining columns.\n Teaching Assistant (2015-17): Manage EDX platform by assisting students & creating content for the premier",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "certifications",
+      "text": "MIT SCX online course awarding 1,200 certificates with a total of +20K students enrolled from 185 countries\nIndian Institute of Management , Calcutta June’2012-Apr’2014\nMaster of Business Administration ( MBA )\nNational Institute of Technology , Warangal June’2008-May’2012\nBachelor of Technology, Computer Science\nEXPERIENCE\nSenior Product Manager Personagraph Apr’2014 – July’2015",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "responsibility",
+      "text": " Responsible for product vision, strategy and roadmap for Personagraph analytics tool and partner portal.\n Worked with cross-functional teams to gather, plan and implement the product requirements. Used Wireframing\ntools such as Omnigraffle and Balsamiq to design the product for better data representation and Scrum process\nfor delivering the product.\n Led the analytics UX redesign and re-architecture effort & built an advanced heuristic & clustering based model\nnamed “high value users” for finding most profitable users\n On-boarded 50+ app developers, resulting in 10M+ users with 50+ million inferences generated about them.",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "internships",
+      "text": "Product & Research Intern IntellADAPT May’2016 – Aug’2016\n Designed mobile apps to collect data & analyze the potential of EEG wearables for a brain computer interface (BCI)\n Built commercialization plan & financial projections for the wearable technology which earned $1.5M in funding\nfrom the National Science Foundation.",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": " Prototyped a low cost wearable device with the potential to reach the billion-dollar education tech market.\nMarketing Intern Mondelez International May’2013 – Jul’2013\n Was offered Pre-Placement Interview after project review; Developed Integrated marketing communication\nideas with strong link to consumer insights ( 33 consumer immersions) to build desire for Cadbury Bournville\n Effectively used digital media in proposed ideas & analyzed their viability by contacting potential partners.",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "internships",
+      "text": "Software Developer Intern Microsoft Apr’2011 – June’2011\n Pre-Placement Offer from Microsoft India; Implemented a Proof of Concept for posting an onsite application\ninterface to the Microsoft cloud using Azure Connect that reduced the transfer time of 2GB file by 82%(23 to 4 min)\n Built UI to automatically generate scripts that saved 7 hours of manual work & got integrated in next product release.\nLEADERSHIP\nMIT Clubs: Women in System Design & Management Chair & VP of education for Sloan Product Mgmt. club,’16\nIntaglio International Business Event, IIM Calcutta\n O r g an i ze d Marketplace, a versatile marketing plan building and flagship event of Marketing and Coordinator of\nArena, a series of five spot events based on Marketing, S trategy and Finance, 2013-14\nSports Captain, Throw ball & kho-kho\n Captained the school Throw Ball and Kho-Kho team at Sri Satya Sai Vidya Vihar High School, 2004-06\n Winner of Intra School Throw ball competition in 2005-06 and Kho-Kho competition for two years\nADDITIONAL INFORMATION",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "skills",
+      "text": " Programming Languages & skills : C, C++, C#, Java, Python, sketch (design tool), R",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "other",
+      "text": " Scholarships: Top scorer in school from among 79 students in class X board exam, 2006. Runner-Up in Young\nMathematician Contest and among 25 people selected for project Ramanujan , 2001",
+      "page_range": [
+        1,
+        1
+      ]
+    }
+  ]
+}

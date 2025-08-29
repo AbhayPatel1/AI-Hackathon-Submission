@@ -1,0 +1,123 @@
+{
+  "candidate": {
+    "full_name": "Subhankar Das",
+    "emails": [
+      "s_das@mit.edu"
+    ],
+    "phones": [
+      "+916179094828",
+      "20160188758",
+      "20160191028"
+    ],
+    "location": {
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null
+    },
+    "resume_text_hash": "sha256:4c7f78abce0ee217134bd3e350cdc15ab077a6de6cf3f15b9a2497f90bac5f3d",
+    "source_file_id": "2017-Resume-Book-for-Web-SDM-7.pdf",
+    "parsed_at": "2025-08-18T08:40:54Z",
+    "parser_version": "v0.3.0"
+  },
+  "experience": [
+    {
+      "company_raw": "SENSATA TECHNOLO",
+      "company_norm": "SENSATA TECHNOLO",
+      "title_raw": "SENSATA TECHNOLOGIES",
+      "title_norm": null,
+      "seniority": null,
+      "employment_type": null,
+      "location": null,
+      "start_date": "2016-06-01",
+      "end_date": "2016-08-01",
+      "is_current": false,
+      "extraction_confidence": 0.9,
+      "source_page": null,
+      "bullets": [
+        {
+          "bullet_text": "Jun 2016 – Aug 2016 Leadership Development Program Attleboro, MA & Aguascalientes, Mexico Designed an analytical tool for evaluating individual parts holistically to make data-driven decisions. Successfully deployed the tool for an entire family of products, with estimated profit of $1. 3M over next 5 years Developed framework, discovered systemic process gaps, recommended and implemented long-term mitigation plans, for effective management of End-Of-Life and Service parts with long product life cycles of 20+ years TEXAS INSTRUMENTS Aug 2011 – Aug 2015 Team Lead, Microcontroller and Embedded Processing Bangalore, India Led a team of 8 to design and develop both ultra low-power and high speed digital standard cell libraries that formed the building blocks of almost all chips, across multiple technology nodes (130nm-28nm) Spearheaded efforts on building a robust QC system with buy-in from several design teams; the system reduced bugs reported in field, improved design cycle times by 10% and increased yield by 20% Collaborated with global cross-functional teams across TI sites - Germany, Norway, China and USA to gather unique requirements of each team, to build and manage ~15 (6000 cells each) optimal, high-performance libraries Awarded “Team TI-tanium award” thrice, for the most innovative project within a 300-member Business Unit Mentored 9 interns; identified and hired competent candidates to create a very technically competent workforce AMD Jan 2011 – Aug 2011 Team Lead, Technology and Manufacturing Group Bangalore, India Designed and developed High-speed Standard Cell Libraries for 30% area savings on 40nm/28nm nodes Recruited & mentored design team to grow from 3 to 11 members in 6 months to double the productivity KARNATAKA MICROELECTRONICS DESIGN CENTRE Aug 2003 – Jan 2011 Project Manager and Member of Technical Staff Manipal, India Managed several technical teams with sizes ranging from 6 to 40 members. Teams included peers and seniors Hired and provided on-the-job training to 70+ engineers to power growth and competency of the company from 28 members to 350 members over 7 years. Awarded 1% shares of the company for my contributions. Core designer of a unique product line of High Definition miniature projectors, at Syndiant Inc. Dallas, TX Headed a 3-member team to decide Compensation and Leave policies for the company",
+          "metrics": {
+            "percent": 10
+          },
+          "skills_mentioned": [
+            "git"
+          ],
+          "source_page": null
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree_raw": null,
+      "degree_level": null,
+      "field_raw": null,
+      "institution_raw": "Massachusetts Institute of Technology Cambridge",
+      "start_date": null,
+      "end_date": null,
+      "gpa": null,
+      "extraction_confidence": 0.6,
+      "source_page": null
+    }
+  ],
+  "skills": [],
+  "projects": [],
+  "certifications": [],
+  "publications": [],
+  "achievements": [],
+  "languages": [],
+  "sectioned_text": [
+    {
+      "section_type": "other",
+      "text": "SUBHANKAR DAS\ns_das@mit.edu | (617)-909-4828 | #705, Building W85, 540 Memorial Drive, Cambridge, MA-02139",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "summary",
+      "text": "Engineering and management professional with 12 years of experience in the Hi-Tech industry, leading several\nteams in successfully developing and shipping innovative products, both in the corporate and start-up environments.",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "Massachusetts Institute of Technology\nCambridge, MA\nSchool of Engineering & Sloan School of Management\nJune’17\nMasters - System Design and Management (SDM)\nGPA: 4.9/5.0\nVisvesvaraya Technological University\nBagalkot, KA, India\nBachelor of Engineering, Electrical and Electronics\nJuly’03",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "work_experience",
+      "text": "SENSATA TECHNOLOGIES\nJun 2016 – Aug 2016\nLeadership Development Program\nAttleboro, MA & Aguascalientes, Mexico\nDesigned an analytical tool for evaluating individual parts holistically to make data-driven decisions.\nSuccessfully deployed the tool for an entire family of products, with estimated profit of $1. 3M over next 5 years\nDeveloped framework, discovered systemic process gaps, recommended and implemented long-term mitigation\nplans, for effective management of End-Of-Life and Service parts with long product life cycles of 20+ years\nTEXAS INSTRUMENTS\nAug 2011 – Aug 2015\nTeam Lead, Microcontroller and Embedded Processing\nBangalore, India\nLed a team of 8 to design and develop both ultra low-power and high speed digital standard cell libraries that\nformed the building blocks of almost all chips, across multiple technology nodes (130nm-28nm)\nSpearheaded efforts on building a robust QC system with buy-in from several design teams; the system reduced\nbugs reported in field, improved design cycle times by 10% and increased yield by 20%\nCollaborated with global cross-functional teams across TI sites - Germany, Norway, China and USA to gather\nunique requirements of each team, to build and manage ~15 (6000 cells each) optimal, high-performance libraries\nAwarded “Team TI-tanium award” thrice, for the most innovative project within a 300-member Business Unit\nMentored 9 interns; identified and hired competent candidates to create a very technically competent workforce\nAMD\nJan 2011 – Aug 2011\nTeam Lead, Technology and Manufacturing Group\nBangalore, India\nDesigned and developed High-speed Standard Cell Libraries for 30% area savings on 40nm/28nm nodes\nRecruited & mentored design team to grow from 3 to 11 members in 6 months to double the productivity\nKARNATAKA MICROELECTRONICS DESIGN CENTRE\nAug 2003 – Jan 2011\nProject Manager and Member of Technical Staff\nManipal, India\nManaged several technical teams with sizes ranging from 6 to 40 members. Teams included peers and seniors\nHired and provided on-the-job training to 70+ engineers to power growth and competency of the company\nfrom 28 members to 350 members over 7 years. Awarded 1% shares of the company for my contributions.\nCore designer of a unique product line of High Definition miniature projectors, at Syndiant Inc. Dallas, TX\nHeaded a 3-member team to decide Compensation and Leave policies for the company",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "publications",
+      "text": "New High Performance and High Density Libraries in 65nm tuned for MCU, TIITC, Dec-14 ( Best Paper)",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "other",
+      "text": "Design techniques for PPA improvements in C28.P libraries, Texas Instruments Interconnect symposium, Feb-12\nOn-rail Passenger Information System, VLSI Design and Test Conference, May-04\nADDITIONAL INFORMATION\nTeaching Assistant for Global Supply Chain Mgmt, B2B Marketing & Architecture of Complex Systems (MITx)\nFellow, MIT Graduate Student Leadership Institute - A selected group of 30, across all schools at MIT\nAvid food enthusiast and food blogger. Fluent in 5 languages – English, Hindi, Oriya, Bengali & Kannada",
+      "page_range": [
+        1,
+        1
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1118 @@
+{
+  "meta": {
+    "source_path": "data/resumes/2017-Resume-Book-for-Web-SDM-12.pdf",
+    "pages": 1
+  },
+  "lines": [
+    {
+      "page": 1,
+      "text": "DAVIDE LASI",
+      "bbox": [
+        275.8212890625,
+        51.9466552734375,
+        354.1820068359375,
+        65.2357177734375
+      ],
+      "left_indent": 275.8212890625,
+      "width": 78.3607177734375,
+      "is_bold": true,
+      "font_size": 12.0
+    },
+    {
+      "page": 1,
+      "text": "davide.lasi@sdm.mit.edu",
+      "bbox": [
+        264.1528015136719,
+        64.91143798828125,
+        368.3070983886719,
+        75.8084716796875
+      ],
+      "left_indent": 264.1528015136719,
+      "width": 104.154296875,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "EDUCATION",
+      "bbox": [
+        72.0,
+        97.79144287109375,
+        135.5782012939453,
+        108.6884765625
+      ],
+      "left_indent": 72.0,
+      "width": 63.57820129394531,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Massachusetts Institute of Technology",
+      "bbox": [
+        72.0,
+        108.8314208984375,
+        234.96224975585938,
+        119.72845458984375
+      ],
+      "left_indent": 72.0,
+      "width": 162.96224975585938,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "School of Engineering & Sloan School of Management",
+      "bbox": [
+        72.0,
+        119.8714599609375,
+        294.15240478515625,
+        130.76849365234375
+      ],
+      "left_indent": 72.0,
+      "width": 222.15240478515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "M.S., System Design and Management",
+      "bbox": [
+        72.0,
+        130.91143798828125,
+        230.8321075439453,
+        141.8084716796875
+      ],
+      "left_indent": 72.0,
+      "width": 158.8321075439453,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "University of Milano",
+      "bbox": [
+        72.0,
+        152.991455078125,
+        162.7852020263672,
+        163.88848876953125
+      ],
+      "left_indent": 72.0,
+      "width": 90.78520202636719,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Department of Chemistry",
+      "bbox": [
+        72.0,
+        163.79144287109375,
+        173.57485961914062,
+        174.6884765625
+      ],
+      "left_indent": 72.0,
+      "width": 101.57485961914062,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "M.Sc., Physical-Chemistry, graduated with honors",
+      "bbox": [
+        72.0,
+        174.8314208984375,
+        276.65728759765625,
+        185.72845458984375
+      ],
+      "left_indent": 72.0,
+      "width": 204.65728759765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Thesis: developed new methods in the field of the Quantum Theory of Atoms in Molecules.",
+      "bbox": [
+        107.44999694824219,
+        185.8714599609375,
+        479.84649658203125,
+        196.76849365234375
+      ],
+      "left_indent": 107.44999694824219,
+      "width": 372.39649963378906,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        89.449951171875,
+        187.740478515625,
+        93.97596740722656,
+        197.5804901123047
+      ],
+      "left_indent": 89.449951171875,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "B.Sc., Chemistry, graduated with honors",
+      "bbox": [
+        72.0,
+        207.951416015625,
+        237.21881103515625,
+        218.84844970703125
+      ],
+      "left_indent": 72.0,
+      "width": 165.21881103515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Thesis: built and tested a Mössbauer Spectrometer at the National Institute of Nuclear Physics.",
+      "bbox": [
+        107.44999694824219,
+        218.991455078125,
+        488.70880126953125,
+        229.88848876953125
+      ],
+      "left_indent": 107.44999694824219,
+      "width": 381.25880432128906,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        89.449951171875,
+        220.8604736328125,
+        93.97596740722656,
+        230.7004852294922
+      ],
+      "left_indent": 89.449951171875,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "EXPERIENCE",
+      "bbox": [
+        72.0,
+        240.8314208984375,
+        140.0264129638672,
+        251.72845458984375
+      ],
+      "left_indent": 72.0,
+      "width": 68.02641296386719,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "University of Bern, Space Research & Planetary Sciences (Physics Institute)",
+      "bbox": [
+        72.0,
+        251.8714599609375,
+        395.24224853515625,
+        262.76849365234375
+      ],
+      "left_indent": 72.0,
+      "width": 323.24224853515625,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Provider of scientific instrumentation for space exploration missions of ESA, NASA, and Roscosmos.",
+      "bbox": [
+        72.0,
+        262.91143798828125,
+        483.0341796875,
+        273.8084716796875
+      ],
+      "left_indent": 72.0,
+      "width": 411.0341796875,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Project Manager",
+      "bbox": [
+        72.0,
+        273.9514465332031,
+        144.1768035888672,
+        284.8484802246094
+      ],
+      "left_indent": 72.0,
+      "width": 72.17680358886719,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Lead two teams of 8 and 9 engineers (mechanics, electronics, and software), thermal and structural modelers,",
+      "bbox": [
+        108.0,
+        284.991455078125,
+        560.4602661132812,
+        295.88848876953125
+      ],
+      "left_indent": 108.0,
+      "width": 452.46026611328125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        90.0,
+        286.8604736328125,
+        94.52601623535156,
+        296.7004699707031
+      ],
+      "left_indent": 90.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "and scientists for the design and development of three leading-edge mass spectrometers for space missions.",
+      "bbox": [
+        108.0,
+        295.79144287109375,
+        539.5176391601562,
+        306.6884765625
+      ],
+      "left_indent": 108.0,
+      "width": 431.51763916015625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Negotiate and supervise industry contracts for the development of software and hardware.",
+      "bbox": [
+        108.0,
+        306.8314514160156,
+        472.8476867675781,
+        317.7284851074219
+      ],
+      "left_indent": 108.0,
+      "width": 364.8476867675781,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        90.0,
+        308.7004699707031,
+        94.52601623535156,
+        318.54046630859375
+      ],
+      "left_indent": 90.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Chair meetings and design reviews with contractors. Draft and implement new agile-contract models.",
+      "bbox": [
+        108.0,
+        317.8714599609375,
+        516.4512329101562,
+        328.76849365234375
+      ],
+      "left_indent": 108.0,
+      "width": 408.45123291015625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        90.0,
+        319.740478515625,
+        94.52601623535156,
+        329.5804748535156
+      ],
+      "left_indent": 90.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Represent the projects at the European Space Agency (ESTEC Headquarters) and at the Space Research",
+      "bbox": [
+        108.0,
+        328.91143798828125,
+        560.59228515625,
+        339.8084716796875
+      ],
+      "left_indent": 108.0,
+      "width": 452.59228515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        90.0,
+        330.78045654296875,
+        94.52601623535156,
+        340.6204528808594
+      ],
+      "left_indent": 90.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Institute of the Russian Academy of Sciences (IKI) on occasion of major design reviews and project meetings.",
+      "bbox": [
+        108.0,
+        339.9514465332031,
+        552.3008422851562,
+        350.8484802246094
+      ],
+      "left_indent": 108.0,
+      "width": 444.30084228515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Plan and execute radiation tests of detectors and materials at electron and proton irradiation facilities.",
+      "bbox": [
+        108.0,
+        350.991455078125,
+        515.5967407226562,
+        361.88848876953125
+      ],
+      "left_indent": 108.0,
+      "width": 407.59674072265625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        90.0,
+        352.8604736328125,
+        94.52601623535156,
+        362.7004699707031
+      ],
+      "left_indent": 90.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Cerbios-Pharma SA",
+      "bbox": [
+        72.0,
+        372.8314514160156,
+        158.2495574951172,
+        383.7284851074219
+      ],
+      "left_indent": 72.0,
+      "width": 86.24955749511719,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Pharmaceutical company manufacturing both chemical and biological APIs and HPAIs.",
+      "bbox": [
+        72.0,
+        383.8714599609375,
+        426.0321960449219,
+        394.76849365234375
+      ],
+      "left_indent": 72.0,
+      "width": 354.0321960449219,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Material Manager (50%) & Project Manager (50%)",
+      "bbox": [
+        72.0,
+        394.91143798828125,
+        287.7655944824219,
+        405.8084716796875
+      ],
+      "left_indent": 72.0,
+      "width": 215.76559448242188,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Procured advanced pharmaceutical intermediates from China and India; drafted new model of supply",
+      "bbox": [
+        108.0,
+        405.9514465332031,
+        515.3442993164062,
+        416.8484802246094
+      ],
+      "left_indent": 108.0,
+      "width": 407.34429931640625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        90.0,
+        407.8204650878906,
+        94.52601623535156,
+        417.66046142578125
+      ],
+      "left_indent": 90.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "agreement; negotiated supply contracts and attended trade fairs and suppliers’ site visits in Europe and China.",
+      "bbox": [
+        108.0,
+        416.991455078125,
+        549.224609375,
+        427.88848876953125
+      ],
+      "left_indent": 108.0,
+      "width": 441.224609375,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Collected and analyzed requirements to define optimizations of the company ERP (Oracle E-Business Suite) for",
+      "bbox": [
+        108.0,
+        427.79144287109375,
+        559.2102661132812,
+        438.6884765625
+      ],
+      "left_indent": 108.0,
+      "width": 451.21026611328125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        90.0,
+        429.66046142578125,
+        94.52601623535156,
+        439.5004577636719
+      ],
+      "left_indent": 90.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "the optimal and GMP compliant handling of materials and their specifications through their complete lifecycle.",
+      "bbox": [
+        108.0,
+        438.8314514160156,
+        555.0693969726562,
+        449.7284851074219
+      ],
+      "left_indent": 108.0,
+      "width": 447.06939697265625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Dipharma Francis Srl",
+      "bbox": [
+        72.0,
+        460.91143798828125,
+        165.82374572753906,
+        471.8084716796875
+      ],
+      "left_indent": 72.0,
+      "width": 93.82374572753906,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Generic active pharmaceutical ingredients manufacturer with a strong portfolio of more than 150 patents.",
+      "bbox": [
+        72.0,
+        471.9514465332031,
+        495.43170166015625,
+        482.8484802246094
+      ],
+      "left_indent": 72.0,
+      "width": 423.43170166015625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Assistant to the Head of Intellectual Property",
+      "bbox": [
+        72.0,
+        482.991455078125,
+        260.57330322265625,
+        493.88848876953125
+      ],
+      "left_indent": 72.0,
+      "width": 188.57330322265625,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Drafted, filed, and prosecuted patent applications in Europe, USA, Japan, India, China, Israel, and Canada.",
+      "bbox": [
+        107.44999694824219,
+        493.79144287109375,
+        537.2830200195312,
+        504.6884765625
+      ],
+      "left_indent": 107.44999694824219,
+      "width": 429.83302307128906,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        89.449951171875,
+        495.66046142578125,
+        93.97596740722656,
+        505.5004577636719
+      ],
+      "left_indent": 89.449951171875,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "PROFESSIONAL DEVELOPMENT",
+      "bbox": [
+        72.0,
+        515.8714599609375,
+        233.0977020263672,
+        526.7684936523438
+      ],
+      "left_indent": 72.0,
+      "width": 161.0977020263672,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Scrum Alliance®",
+      "bbox": [
+        72.0,
+        526.9114379882812,
+        145.17880249023438,
+        537.8084716796875
+      ],
+      "left_indent": 72.0,
+      "width": 73.17880249023438,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Certified Scrum Product Owner (with Mike Cohn), employer sponsored.",
+      "bbox": [
+        72.0,
+        537.951416015625,
+        362.51324462890625,
+        548.8484497070312
+      ],
+      "left_indent": 72.0,
+      "width": 290.51324462890625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Stanford Centre for Professional Development",
+      "bbox": [
+        72.0,
+        559.7914428710938,
+        270.23309326171875,
+        570.6884765625
+      ],
+      "left_indent": 72.0,
+      "width": 198.23309326171875,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Stanford Advanced Project Management Certificate, employer sponsored.",
+      "bbox": [
+        72.0,
+        570.8314208984375,
+        368.0126953125,
+        581.7284545898438
+      ],
+      "left_indent": 72.0,
+      "width": 296.0126953125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "SELECTED PUBLICATIONS",
+      "bbox": [
+        72.0,
+        592.9114379882812,
+        206.44241333007812,
+        603.8084716796875
+      ],
+      "left_indent": 72.0,
+      "width": 134.44241333007812,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "D. Lasi , M. Tulej, S. Meyer, M. Lüthi, A. Galli, D. Piazza, P. Wurz, D. Reggiani, H. Xiao, R. Marcinkowski,",
+      "bbox": [
+        108.0,
+        603.951416015625,
+        548.47607421875,
+        614.8484497070312
+      ],
+      "left_indent": 108.0,
+      "width": 440.47607421875,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        90.0,
+        605.8204345703125,
+        94.52601623535156,
+        615.6604614257812
+      ],
+      "left_indent": 90.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "W. Hajdas, A. Cervelli, S. Karlsson, T. Knight, M. Grande, and S. Barabash, Shielding an MCP detector for a",
+      "bbox": [
+        108.0,
+        614.991455078125,
+        550.9563598632812,
+        625.8884887695312
+      ],
+      "left_indent": 108.0,
+      "width": 442.95635986328125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "space-borne mass spectrometer against the harsh radiation environment in Jupiter's Magnetosphere , IEEE",
+      "bbox": [
+        108.0,
+        625.7914428710938,
+        539.7455444335938,
+        636.6884765625
+      ],
+      "left_indent": 108.0,
+      "width": 431.74554443359375,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Trans. Nucl. Sc. 99 (2016).",
+      "bbox": [
+        108.0,
+        636.8314208984375,
+        219.32720947265625,
+        647.7284545898438
+      ],
+      "left_indent": 108.0,
+      "width": 111.32720947265625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "P. Wurz, D. Lasi , N. Thomas, D. Piazza, A. Galli, M. Jutzi, S. Barabash, M. Wieser, W. Magnes, H. Lammer,",
+      "bbox": [
+        108.0,
+        647.8714599609375,
+        551.1937255859375,
+        658.7684936523438
+      ],
+      "left_indent": 108.0,
+      "width": 443.1937255859375,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        90.0,
+        649.740478515625,
+        94.52601623535156,
+        659.5805053710938
+      ],
+      "left_indent": 90.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "U. Auster, L. Gurvits, and W. Hajdas , An Impacting Descent Probe for Europa and the other Galilean Moons of",
+      "bbox": [
+        108.0,
+        658.9114379882812,
+        560.2554321289062,
+        669.8084716796875
+      ],
+      "left_indent": 108.0,
+      "width": 452.25543212890625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Jupiter, Earth, Moon, and Planets (2017) submitted .",
+      "bbox": [
+        108.0,
+        669.951416015625,
+        316.26080322265625,
+        680.8484497070312
+      ],
+      "left_indent": 108.0,
+      "width": 208.26080322265625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "C. Gatti, D. Lasi , Source function description of metal-metal bonding in d-block organometallic compounds ;",
+      "bbox": [
+        108.0,
+        680.991455078125,
+        546.2407836914062,
+        691.8884887695312
+      ],
+      "left_indent": 108.0,
+      "width": 438.24078369140625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "•",
+      "bbox": [
+        90.0,
+        682.8604736328125,
+        94.52601623535156,
+        692.7005004882812
+      ],
+      "left_indent": 90.0,
+      "width": 4.5260162353515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Faraday Discussions; 135:55-78; discussion 125-49, 503-6 (2007).",
+      "bbox": [
+        108.0,
+        691.7914428710938,
+        377.1054992675781,
+        702.6884765625
+      ],
+      "left_indent": 108.0,
+      "width": 269.1054992675781,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "SPORTS & HOBBIES",
+      "bbox": [
+        72.0,
+        713.8713989257812,
+        171.7110137939453,
+        724.7684326171875
+      ],
+      "left_indent": 72.0,
+      "width": 99.71101379394531,
+      "is_bold": true,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Sailing regattas, surfing, windsurfing, scuba diving, ski, 4x4 road trips, chess, contemporary photography, playing piano.",
+      "bbox": [
+        72.0,
+        724.9114379882812,
+        561.0518188476562,
+        735.8084716796875
+      ],
+      "left_indent": 72.0,
+      "width": 489.05181884765625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Cambridge, MA",
+      "bbox": [
+        492.4530944824219,
+        108.8314208984375,
+        560.4600219726562,
+        119.72845458984375
+      ],
+      "left_indent": 492.4530944824219,
+      "width": 68.00692749023438,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "08/2016 - present",
+      "bbox": [
+        488.01458740234375,
+        119.8714599609375,
+        560.4600219726562,
+        130.76849365234375
+      ],
+      "left_indent": 488.01458740234375,
+      "width": 72.4454345703125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Milano, Italy",
+      "bbox": [
+        505.7880859375,
+        163.79144287109375,
+        557.9026489257812,
+        174.6884765625
+      ],
+      "left_indent": 505.7880859375,
+      "width": 52.11456298828125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "09/2004 - 07/2006",
+      "bbox": [
+        484.1133117675781,
+        174.8314208984375,
+        560.4600219726562,
+        185.72845458984375
+      ],
+      "left_indent": 484.1133117675781,
+      "width": 76.34671020507812,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "09/2001 - 10/2004",
+      "bbox": [
+        484.1133117675781,
+        207.951416015625,
+        560.4600219726562,
+        218.84844970703125
+      ],
+      "left_indent": 484.1133117675781,
+      "width": 76.34671020507812,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Bern, Switzerland",
+      "bbox": [
+        485.79791259765625,
+        251.8714599609375,
+        560.4600219726562,
+        262.76849365234375
+      ],
+      "left_indent": 485.79791259765625,
+      "width": 74.662109375,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "05/2011 - present",
+      "bbox": [
+        488.01458740234375,
+        273.9514465332031,
+        560.4600219726562,
+        284.8484802246094
+      ],
+      "left_indent": 488.01458740234375,
+      "width": 72.4454345703125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Lugano, Switzerland",
+      "bbox": [
+        474.68939208984375,
+        372.8314514160156,
+        560.4600219726562,
+        383.7284851074219
+      ],
+      "left_indent": 474.68939208984375,
+      "width": 85.7706298828125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "05/2008 - 04/2011",
+      "bbox": [
+        484.1133117675781,
+        394.91143798828125,
+        560.4600219726562,
+        405.8084716796875
+      ],
+      "left_indent": 484.1133117675781,
+      "width": 76.34671020507812,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Milano, Italy",
+      "bbox": [
+        505.7880859375,
+        460.91143798828125,
+        560.4600219726562,
+        471.8084716796875
+      ],
+      "left_indent": 505.7880859375,
+      "width": 54.67193603515625,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "04/2007 - 04/2008",
+      "bbox": [
+        484.1133117675781,
+        482.991455078125,
+        560.4600219726562,
+        493.88848876953125
+      ],
+      "left_indent": 484.1133117675781,
+      "width": 76.34671020507812,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "London, United Kingdom",
+      "bbox": [
+        454.3965148925781,
+        526.9114379882812,
+        560.4600219726562,
+        537.8084716796875
+      ],
+      "left_indent": 454.3965148925781,
+      "width": 106.06350708007812,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "03/2015",
+      "bbox": [
+        525.2216186523438,
+        537.951416015625,
+        560.4600219726562,
+        548.8484497070312
+      ],
+      "left_indent": 525.2216186523438,
+      "width": 35.2384033203125,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "Stanford, CA",
+      "bbox": [
+        504.6650085449219,
+        559.7914428710938,
+        560.4600219726562,
+        570.6884765625
+      ],
+      "left_indent": 504.6650085449219,
+      "width": 55.795013427734375,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    },
+    {
+      "page": 1,
+      "text": "03/2013 - 09/2013",
+      "bbox": [
+        481.6133117675781,
+        570.8314208984375,
+        560.4600219726562,
+        581.7284545898438
+      ],
+      "left_indent": 481.6133117675781,
+      "width": 78.84671020507812,
+      "is_bold": false,
+      "font_size": 9.84000015258789
+    }
+  ],
+  "text_per_page": [
+    "DAVIDE LASI\ndavide.lasi@sdm.mit.edu\nEDUCATION\nMassachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nM.S., System Design and Management\nUniversity of Milano\nDepartment of Chemistry\nM.Sc., Physical-Chemistry, graduated with honors\nThesis: developed new methods in the field of the Quantum Theory of Atoms in Molecules.\n•\nB.Sc., Chemistry, graduated with honors\nThesis: built and tested a Mössbauer Spectrometer at the National Institute of Nuclear Physics.\n•\nEXPERIENCE\nUniversity of Bern, Space Research & Planetary Sciences (Physics Institute)\nProvider of scientific instrumentation for space exploration missions of ESA, NASA, and Roscosmos.\nProject Manager\nLead two teams of 8 and 9 engineers (mechanics, electronics, and software), thermal and structural modelers,\n•\nand scientists for the design and development of three leading-edge mass spectrometers for space missions.\nNegotiate and supervise industry contracts for the development of software and hardware.\n•\nChair meetings and design reviews with contractors. Draft and implement new agile-contract models.\n•\nRepresent the projects at the European Space Agency (ESTEC Headquarters) and at the Space Research\n•\nInstitute of the Russian Academy of Sciences (IKI) on occasion of major design reviews and project meetings.\nPlan and execute radiation tests of detectors and materials at electron and proton irradiation facilities.\n•\nCerbios-Pharma SA\nPharmaceutical company manufacturing both chemical and biological APIs and HPAIs.\nMaterial Manager (50%) & Project Manager (50%)\nProcured advanced pharmaceutical intermediates from China and India; drafted new model of supply\n•\nagreement; negotiated supply contracts and attended trade fairs and suppliers’ site visits in Europe and China.\nCollected and analyzed requirements to define optimizations of the company ERP (Oracle E-Business Suite) for\n•\nthe optimal and GMP compliant handling of materials and their specifications through their complete lifecycle.\nDipharma Francis Srl\nGeneric active pharmaceutical ingredients manufacturer with a strong portfolio of more than 150 patents.\nAssistant to the Head of Intellectual Property\nDrafted, filed, and prosecuted patent applications in Europe, USA, Japan, India, China, Israel, and Canada.\n•\nPROFESSIONAL DEVELOPMENT\nScrum Alliance®\nCertified Scrum Product Owner (with Mike Cohn), employer sponsored.\nStanford Centre for Professional Development\nStanford Advanced Project Management Certificate, employer sponsored.\nSELECTED PUBLICATIONS\nD. Lasi , M. Tulej, S. Meyer, M. Lüthi, A. Galli, D. Piazza, P. Wurz, D. Reggiani, H. Xiao, R. Marcinkowski,\n•\nW. Hajdas, A. Cervelli, S. Karlsson, T. Knight, M. Grande, and S. Barabash, Shielding an MCP detector for a\nspace-borne mass spectrometer against the harsh radiation environment in Jupiter's Magnetosphere , IEEE\nTrans. Nucl. Sc. 99 (2016).\nP. Wurz, D. Lasi , N. Thomas, D. Piazza, A. Galli, M. Jutzi, S. Barabash, M. Wieser, W. Magnes, H. Lammer,\n•\nU. Auster, L. Gurvits, and W. Hajdas , An Impacting Descent Probe for Europa and the other Galilean Moons of\nJupiter, Earth, Moon, and Planets (2017) submitted .\nC. Gatti, D. Lasi , Source function description of metal-metal bonding in d-block organometallic compounds ;\n•\nFaraday Discussions; 135:55-78; discussion 125-49, 503-6 (2007).\nSPORTS & HOBBIES\nSailing regattas, surfing, windsurfing, scuba diving, ski, 4x4 road trips, chess, contemporary photography, playing piano.\nCambridge, MA\n08/2016 - present\nMilano, Italy\n09/2004 - 07/2006\n09/2001 - 10/2004\nBern, Switzerland\n05/2011 - present\nLugano, Switzerland\n05/2008 - 04/2011\nMilano, Italy\n04/2007 - 04/2008\nLondon, United Kingdom\n03/2015\nStanford, CA\n03/2013 - 09/2013"
+  ],
+  "text_all": "DAVIDE LASI\ndavide.lasi@sdm.mit.edu\nEDUCATION\nMassachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nM.S., System Design and Management\nUniversity of Milano\nDepartment of Chemistry\nM.Sc., Physical-Chemistry, graduated with honors\nThesis: developed new methods in the field of the Quantum Theory of Atoms in Molecules.\n•\nB.Sc., Chemistry, graduated with honors\nThesis: built and tested a Mössbauer Spectrometer at the National Institute of Nuclear Physics.\n•\nEXPERIENCE\nUniversity of Bern, Space Research & Planetary Sciences (Physics Institute)\nProvider of scientific instrumentation for space exploration missions of ESA, NASA, and Roscosmos.\nProject Manager\nLead two teams of 8 and 9 engineers (mechanics, electronics, and software), thermal and structural modelers,\n•\nand scientists for the design and development of three leading-edge mass spectrometers for space missions.\nNegotiate and supervise industry contracts for the development of software and hardware.\n•\nChair meetings and design reviews with contractors. Draft and implement new agile-contract models.\n•\nRepresent the projects at the European Space Agency (ESTEC Headquarters) and at the Space Research\n•\nInstitute of the Russian Academy of Sciences (IKI) on occasion of major design reviews and project meetings.\nPlan and execute radiation tests of detectors and materials at electron and proton irradiation facilities.\n•\nCerbios-Pharma SA\nPharmaceutical company manufacturing both chemical and biological APIs and HPAIs.\nMaterial Manager (50%) & Project Manager (50%)\nProcured advanced pharmaceutical intermediates from China and India; drafted new model of supply\n•\nagreement; negotiated supply contracts and attended trade fairs and suppliers’ site visits in Europe and China.\nCollected and analyzed requirements to define optimizations of the company ERP (Oracle E-Business Suite) for\n•\nthe optimal and GMP compliant handling of materials and their specifications through their complete lifecycle.\nDipharma Francis Srl\nGeneric active pharmaceutical ingredients manufacturer with a strong portfolio of more than 150 patents.\nAssistant to the Head of Intellectual Property\nDrafted, filed, and prosecuted patent applications in Europe, USA, Japan, India, China, Israel, and Canada.\n•\nPROFESSIONAL DEVELOPMENT\nScrum Alliance®\nCertified Scrum Product Owner (with Mike Cohn), employer sponsored.\nStanford Centre for Professional Development\nStanford Advanced Project Management Certificate, employer sponsored.\nSELECTED PUBLICATIONS\nD. Lasi , M. Tulej, S. Meyer, M. Lüthi, A. Galli, D. Piazza, P. Wurz, D. Reggiani, H. Xiao, R. Marcinkowski,\n•\nW. Hajdas, A. Cervelli, S. Karlsson, T. Knight, M. Grande, and S. Barabash, Shielding an MCP detector for a\nspace-borne mass spectrometer against the harsh radiation environment in Jupiter's Magnetosphere , IEEE\nTrans. Nucl. Sc. 99 (2016).\nP. Wurz, D. Lasi , N. Thomas, D. Piazza, A. Galli, M. Jutzi, S. Barabash, M. Wieser, W. Magnes, H. Lammer,\n•\nU. Auster, L. Gurvits, and W. Hajdas , An Impacting Descent Probe for Europa and the other Galilean Moons of\nJupiter, Earth, Moon, and Planets (2017) submitted .\nC. Gatti, D. Lasi , Source function description of metal-metal bonding in d-block organometallic compounds ;\n•\nFaraday Discussions; 135:55-78; discussion 125-49, 503-6 (2007).\nSPORTS & HOBBIES\nSailing regattas, surfing, windsurfing, scuba diving, ski, 4x4 road trips, chess, contemporary photography, playing piano.\nCambridge, MA\n08/2016 - present\nMilano, Italy\n09/2004 - 07/2006\n09/2001 - 10/2004\nBern, Switzerland\n05/2011 - present\nLugano, Switzerland\n05/2008 - 04/2011\nMilano, Italy\n04/2007 - 04/2008\nLondon, United Kingdom\n03/2015\nStanford, CA\n03/2013 - 09/2013"
+}

@@ -1,0 +1,191 @@
+{
+  "candidate": {
+    "full_name": "Amlan Das",
+    "emails": [
+      "amlandas@mit.edu"
+    ],
+    "phones": [
+      "+16174174839"
+    ],
+    "location": {
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null
+    },
+    "resume_text_hash": "sha256:46b9044ac8055437a0dd470123724357804beb62deead5f5000b7b59572b3cf0",
+    "source_file_id": "2017-Resume-Book-for-Web-SDM-6.pdf",
+    "parsed_at": "2025-08-18T08:37:00Z",
+    "parser_version": "v0.3.0"
+  },
+  "experience": [],
+  "education": [
+    {
+      "degree_raw": "B.Tech/B.E.",
+      "degree_level": "bachelors",
+      "field_raw": null,
+      "institution_raw": "Massachusetts Institute of Technology School of Engineering & Sloan School of Management",
+      "start_date": null,
+      "end_date": null,
+      "gpa": null,
+      "extraction_confidence": 0.6,
+      "source_page": null
+    }
+  ],
+  "skills": [
+    {
+      "name": "c",
+      "category": null
+    },
+    {
+      "name": "c",
+      "category": null
+    },
+    {
+      "name": "java",
+      "category": null
+    },
+    {
+      "name": "javascript",
+      "category": null
+    },
+    {
+      "name": "linux",
+      "category": null
+    },
+    {
+      "name": "mysql",
+      "category": null
+    },
+    {
+      "name": "sql",
+      "category": null
+    }
+  ],
+  "projects": [
+    {
+      "name": "programs, defined half-yearly common goals and a plan of action to achieve them. Also handled conflict",
+      "summary": "management, worked to enable greater synergy between cross-functional teams, and mentored team members.  Built an asset management software with features like – monitor complete asset lifecycle, auto discovery of endpoints, CMDB functionality like viewing configuration items and their relationships, license management, remote control of devices, and granular reporting of the environment.  Devised centralized voice and contact center management portal. It provided the business stakeholders a lever to their business variables giving them more fine-grained control, automation and efficient utilization of work force.  Designed a solution to integrate Salesforce and internal client management system.",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "TECH MAHINDRA",
+      "summary": null,
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Technical Associate",
+      "summary": " Worked on product enhancements as a member of offshore development team. Developed and supported Computer Telephony Integration (CTI) solutions.",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "HEWLETT PACKARD",
+      "summary": null,
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    },
+    {
+      "name": "Technology Consultant",
+      "summary": " Worked on operational support engineer for Cisco Unified Communication and HP products e.g. – Cisco UCCE,",
+      "role": null,
+      "tech_stack": [
+        "c"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    }
+  ],
+  "certifications": [],
+  "publications": [],
+  "achievements": [
+    "Cisco UCM, Cisco CVP, HP Service Manager. Was responsible for incident management and change management."
+  ],
+  "languages": [],
+  "sectioned_text": [
+    {
+      "section_type": "other",
+      "text": "AMLAN DAS\nApt. #9B, 60 Wadsworth Street,\nCambridge, MA 02142, United States\nEmail: amlandas@mit.edu | Cell: +1 (617) 417 4839",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "Massachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nM.S., System Design and Management\nVisva Bharati University\nDept. of Computer Science\nBachelor of Technology (B.Tech), Information Technology\nEXPERIENCE\nGOLDMAN SACHS\nAssociate\n\nLed software development modules for cloud platforms team; designed and developed features such as software rate\nlimiter, state transition workflow engine, data reconciliation framework.\n\nBuilt a product and services provisioning system having salient characteristics like - policy-based inventory, security\nhardening of the systems, workflow and lifecycle automation, and capacity management. Took proactive leadership\nto define the proposed road map to adopt the new system, which leads to cost savings for the firm up to $1.5M.\nAT&T",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "skills",
+      "text": "Technical Specialist\n\nDefined design strategy, reviewed and rated engineers working in my team.\nTHOMSON REUTERS\nLead Engineer\nSenior Engineer\nEngineer\n\nLed a global (US & India) development team of five engineers. Established software development standards and\npractices, engaged in requirement and feature discussions with clients, and authored the high-level design document.\n\nWorked closely with business stakeholders to evaluate the data in the internal systems and suggest improvements.\n\nReviewed and rated engineers working in the team, identified skill matrix for the team and recommend training",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "programs, defined half-yearly common goals and a plan of action to achieve them. Also handled conflict\nmanagement, worked to enable greater synergy between cross-functional teams, and mentored team members.\n\nBuilt an asset management software with features like – monitor complete asset lifecycle, auto discovery of\nendpoints, CMDB functionality like viewing configuration items and their relationships, license management,\nremote control of devices, and granular reporting of the environment.\n\nDevised centralized voice and contact center management portal. It provided the business stakeholders a lever to\ntheir business variables giving them more fine-grained control, automation and efficient utilization of work force.\n\nDesigned a solution to integrate Salesforce and internal client management system.\nTECH MAHINDRA\nTechnical Associate\n\nWorked on product enhancements as a member of offshore development team. Developed and supported Computer\nTelephony Integration (CTI) solutions.\nHEWLETT PACKARD\nTechnology Consultant\n\nWorked on operational support engineer for Cisco Unified Communication and HP products e.g. – Cisco UCCE,",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "responsibility",
+      "text": "Cisco UCM, Cisco CVP, HP Service Manager. Was responsible for incident management and change management.",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "skills",
+      "text": "\nProgramming/Scripting Languages: JavaScript (node.js), Java, J2EE, SQL\n\nDatabases/Data Sets: RDF, OWL, Graph DB, Microsoft SQL Server, Oracle, MySQL, NoSQL, XML, JSON\n\nConcepts: Data Structures & Algorithms, Ontology, Semantic Web, Design Patterns, UML, REST web services\n\nOthers: Node.js, JBOSS Application Server, Apache Tomcat, Glassfish AS, Subversion (SVN), JIRA, Eclipse IDE,\nIntellij IDEA, VMWare VCloud, Linux Red-Hat, Windows Server, ITIL\nCambridge, MA\nSep 2016 - Present\nKolkata, India\nJul 2003 – Jun 2007\nBangalore, India\nJun 2015 – July 2016\nBangalore, India\nFeb 2015 – May 2015\nBangalore, India\nOct 2013 – Jan 2015\nJul 2012 – Oct 2013\nSep 2010 – Jun 2012\nBangalore, India\nFeb 2010 – Sep 2010\nBangalore, India\nAug 2007 – Jan 2010",
+      "page_range": [
+        1,
+        1
+      ]
+    }
+  ]
+}

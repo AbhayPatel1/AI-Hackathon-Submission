@@ -1,0 +1,101 @@
+Kolkata, India
+(+91) 8017417238
+Suranjan Daw
+suranjandaw@gmail.com
+cs21mtech12008@iith.ac.in
+Coursework & Technical Skills
+Languages: C, C++ Python, Java
+Areas of Interest: Computer Networks, Networked Wireless Systems, Machine Learning.
+Education
+Indian Institute of Technology, Hyderabad
+Computer Science and Engineering, M. Tech.
+●
+Heritage Institute of Technology, Kolkata
+Computer Science and Engineering, B. Tech.:
+●
+CGPA:9.32
+Orient Day School, Kolkata (CISCE)
+Indian School Certificate. Percentage: 95.25%
+●
+Indian Certificate of Secondary Education. Percentage: 93.4%
+●
+Certifications
+Udacity – Google India Challenge Scholarship: Android
+Hewlett Packard (HP) Summer Training – PHP with WordPress
+AppliedAiCourse - Machine Learning
+Coursera – Google Cloud Platform Big Data and Machine Learning
+Fundamentals
+Coursera – Google Cloud Platform Fundamentals: Core Infrastructure
+Coursera – Getting started with AWS Machine Learning
+Coursera – Neural Networks and Deep Learning
+Internshala – Machine Learning
+Coursera – The Bits and Bytes of Computer Networking
+https://github.com/SuranjanDaw
+https://www.linkedin.com/in/suranjan-daw
+August 2021-Present
+August 2021
+March 2017
+March 2015
+February 2018
+June 2018
+March 2019
+March 2019
+June 2019
+May 2020
+May 2020
+June 2020
+June 2020
+
+Internships
+MinD Webs. Position: Technical Head.
+Technologies: Android, Computer vision, PHP.
+●
+Designed and developed a Ticket Collection and verification System using Android.
+●
+Designed an API using PHP.
+Project Experiences
+Face Recognition: Built face detection and recognition software by implementing transfer learning on
+●
+VGG16, InceptionV3, and MobileNetV2 using imagenet dataset weights. | Technology: Tensorflow, Keras,
+MobileNetV2, VGG16, InceptionV3, Python.
+Customer Churn Predictor: Build a Customer Churn Prediction model using Scikit-learn library. |
+●
+Technology: Machine Learning, Python, Scikit-learn.
+Handwritten Digit Recognition Software: Recognize handwritten digits built using Neural Networks |
+●
+Technology: MATLAB.
+Product Recommendation Engine: Displays similar products. Tested on real Amazon product data. |
+●
+Technology: Python, Tensorflow, Scikit learn.
+Sentiment Analyser: Built a Sentiment Analysis Application that takes sentences and tells classifies them
+●
+into positive or negative sentences. | Technology: Machine Learning, Python, Scikit Learn, NLTK.
+Canteen Management System: A system of Mobile Applications and Web applications which manages the
+●
+listing and selling of food items through coupons and is integrated with an offline payment system. | Play
+Store: https://play.google.com/store/apps/details?id=devriel.gourmetfood&hl=en
+HIT CRUNCH: An aggregator for notices, notes, and Question paper provided by college | Technology:
+●
+Android, Firebase,Node.js. Play Store:
+https://play.google.com/store/apps/details?id=dschik.noticeboard&hl=en
+Bluetooth Chat: A chat application that communicates using Bluetooth. | Technology: Android.
+●
+Honors and Activities
+●
+Secured 98.46 Percentile in GATE 2021.
+●
+Codevita Season 9 India Round 1: Secured the rank of 3245.
+●
+Winners at IEM International Space Apps Challenge 2018 : Acquired 5th Position. Organized by IEM
+●
+Teaching Assistant at Developers Student Club, HIT in the field of Android and Firebase .
+●
+Organized a technical Extravaganza: Techchtronista2k19 at MinDWebs.
+●
+Speaker at Google Cloud Study Jam, 2019 at Heritage Institute of Technology.
+●
+Cloud Facilitator at Developers Student Club, HIT
+●
+GCP Quest Leader: Received the title of GCP Quest Leader from Google Cloud Developers for completing 12+ labs on
+Qwiklabs.
+January 2019 –July 2019

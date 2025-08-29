@@ -1,0 +1,103 @@
+{
+  "candidate": {
+    "full_name": "May Riley",
+    "emails": [
+      "m.riley@live.com"
+    ],
+    "phones": [
+      "+917165550100"
+    ],
+    "location": {
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": "linkedin.com/in/m",
+      "github": null
+    },
+    "resume_text_hash": "sha256:df068e194ea81586d49dd6592d526853ae7f7f5192001bdacda675f5f4dcd8c4",
+    "source_file_id": "Industry manager resume.pdf",
+    "parsed_at": "2025-08-18T09:22:44Z",
+    "parser_version": "v0.3.0"
+  },
+  "experience": [],
+  "education": [
+    {
+      "degree_raw": null,
+      "degree_level": null,
+      "field_raw": null,
+      "institution_raw": "ILL",
+      "start_date": null,
+      "end_date": null,
+      "gpa": null,
+      "extraction_confidence": 0.6,
+      "source_page": null
+    }
+  ],
+  "skills": [
+    {
+      "name": "c",
+      "category": null
+    },
+    {
+      "name": "excel",
+      "category": null
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "publications": [],
+  "achievements": [],
+  "languages": [],
+  "sectioned_text": [
+    {
+      "section_type": "other",
+      "text": "May Riley\nProfile\nFriendly and engaging team player and leader able to inspire staff to perform their best. Detail oriented\nand experienced restaurant manager passionate about food and beverages. A multi-tasker who excels at\nstaff training and recruiting with a track record of inspiring great customer service and customer\nsatisfaction. Regularly exceed sales goals. A master in the art of upselling.\nExperience\nRESTAURANT MANAGER | CONTOSO BAR AND GRILL | SEPTEMBER 20XX – PRESENT\n· Recruit, hire, train, and coach over 30 staff members on customer service skills, food & beverage\nknowledge, sales, and health & safety standards.\n· Reduced costs by 7% through controls on overtime, operational efficiencies, and reduced waste.\n· Consistently exceed monthly sales goals by a minimum of 10% by training FOH staff on upselling\ntechniques and by creating a featured food and beverage program.\nRESTAURANT MANAGER | FOURTH COFFEE BISTRO | JUNE 20XX – AUGUST 20XX\n· Created a cross-training program ensuring FOH staff members were able to perform confidently and\neffectively in all positions.\n· Grew customer based and increased restaurant social media accounts by 19% through interactive\npromotions, engaging postings, and contests.\n· Created and implemented staff health and safety standards compliance training program, achieving a\nscore of 99% from the Board of Health.\n· Successfully redesigned existing inventory system, ordering and food storage practices, resulting in a\n6% decrease in food waste and higher net profits.",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "Education\nB.S. IN BUSINESS ADMINISTRATION | JUNE 20XX | BIGTOWN COLLEGE, CHICAGO, ILLINOIS\nA.A. IN HOSPITALITY MANAGEMENT | JUNE 20XX | BIGTOWN COLLEGE, CHICAGO, ILLINOIS",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "skills",
+      "text": "Skills & Abilities\n· Accounting & Budgeting\n· Poised under pressure\n· Proficient with POS systems\n· Experienced in most restaurant positions\n· Excellent interpersonal and communication skills",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "other",
+      "text": "· Fun and energetic",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "interests",
+      "text": "Activities and Interests",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "courses",
+      "text": "Theater, environmental conservation, art, hiking, skiing, travel",
+      "page_range": [
+        1,
+        1
+      ]
+    }
+  ]
+}

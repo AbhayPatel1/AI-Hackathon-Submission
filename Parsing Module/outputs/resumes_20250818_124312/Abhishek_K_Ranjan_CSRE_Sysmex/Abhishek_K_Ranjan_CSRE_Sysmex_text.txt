@@ -1,0 +1,149 @@
+Abhishek Kumar Ranjan
+193310005
+Geoinformatics and Natural Resources Engineering
+M.Tech.
+Indian Institute of Technology, Bombay
+Gender: Male
+DOB: 18-07-1996
+Examination
+University
+Institute
+Year
+CPI / %
+Post Graduation
+IIT Bombay
+IIT Bombay
+2021
+9.5
+Graduation
+NIT Trichy
+NIT Trichy
+2018
+8.18
+Graduation Specialization: Civil Engineering
+Intermediate
+CBSE
+K.V. NO-1 A.F.S. Tambaram
+2014
+95.40%
+Matriculation
+CBSE
+K.V. NO-1 A.F.S. Tambaram
+2012
+9.8
+AREAS OF INTEREST
+o Deep Learning
+o Machine Learning
+o Image Processing
+o Computer Vision
+o Statistical Data Analysis
+o GIS
+SCHOLASTIC ACHIEVEMENTS
+• Achieved 98.81 percentile in GATE Civil Engineering among 0.15 million+ candidates
+[2018]
+• Secured 98.9 percentile in JEE Main among 1.3 million+ candidates
+[2014]
+• Received an honorable acknowledgement for contribution in research about “the application of remote sensing in
+water security and agriculture for food security” supported by The National Science Foundation, USA [2020]
+• Honoured with appreciation letter from former MHRD minister Smriti Irani & Awardee of CSSS (Central
+Sector Scholarship Scheme) worth 50k rupees for being among top 0.1 percent in CBSE Board exam [2014]
+• Centum holder in subject MATHEMATICS in CBSE Board Examination 2014
+[2020]
+• Awarded 3k cash prize for securing AIR 28 & 3rd in Chennai region in Junior Mathematics Olympiad [2012]
+• Achieved 100% scholarship worth 1.6 Lakh rupees in ANTHE Exam conducted by AAKASH Institute [2012]
+MAJOR PROJECTS
+• M.Tech Project: Incremental learning for land use-land cover classiﬁcation
+[July’20-Present]
+Guide: Prof. Biplab Banerjee
+o Performed semantic segmentation on UCMerced and AID datasets using U-net Architecture
+o Developing an improved model using attention U-net for End to End Incremental learning to add new classes
+o Implementing GAN based Generative Feature Replay with Feature distillation to avoid Catastrophic forgetting
+• Real-Time Hand Gesture Tracking Using Deep Learning
+[April’20-June’20]
+Summer of Science 2020
+o Designed a model using OpenCV to detect hand gestures using basic mathematical and geometrical concepts
+o Developed a CNN model with TensorFlow using leapGestRecog dataset and achieved an accuracy of 95%
+o Fine-tuned VGG-16 model using Transfer Learning concept to achieve 99% detection accuracy
+• Show, Attend and Tell for Image to speech
+[Aug’20-Present]
+Guide: Prof. Biplab Banerjee
+o Implemented Show, Attend and tell approach using InceptionV3 + Encoder-Decoder architecture
+o Output the generated caption in speech form to give the context of the scene using Google text to speech engine
+o Developing a Visual question answering System using the input image for Attention-based querying
+• M.Tech Seminar: Context-aware CNN for Object Detection
+[Feb’20-June’20]
+Guide: Guide- Prof. B. K. Mohan
+o Performed extensive literature study on diﬀerent Object detection algorithms for satellite images
+o Achieved improved performance in Context-aware CNN over RCNN, Fast-RCNN and Faster-RCNN
+o Utilized Context ROI Mining Layer over Faster R-CNN Architecture to achieve enhanced detection accuracy
+• B.Tech Project: Accessibility Analysis of Primary Schools Using Geo-spatial Techniques
+Guide: Prof. Nisha Radhakrishnan
+[Jan’18-May’18]
+o Conducted an extensive ﬁeld survey from students of 144 government primary schools across Trichy district
+o Calculated Spatial Accessibility Index using ArcGIS & Three-step ﬂoating catchment area model
+o Generated SPAI Thematic map of schools to identify the areas deprived of primary educational facilities
+
+COURSE PROJECTS
+• One-shot learning for Human face mask detection for COVID-19
+o Simpliﬁed the problem statement as a Binary Classiﬁcation problem and identiﬁed anchor pairs
+o Reduced training time signiﬁcantly by deploying Siamese Network & achieved accuracy of 77% with triplet loss
+• Gold Prospectivity using fuzzy logic and Artiﬁcial Neural network
+o Generated prospectively maps of gold reserve of Arunta region from its geochemical properties in ArcMap
+o Predicted optimum location of gold deposits with an accuracy of 75% using Artiﬁcial Neural Network
+o Generated gold prospectivity map using Fuzzy Inference System in ArcGIS & obtained accuracy of 80%
+• DNA sequence classiﬁer using machine learning
+o Developed Multinomial Naive Bayes classiﬁer from scratch using Bag-of-words language model
+o Achieved genome accuracy of 98.4% on human, 99.35% on chimpanzee and 92.56% on dog datasets
+• Flight Delay Prediction on Bureau of Transportation Statistics Data using Julia
+o Analyzed underlying trends in Flight delay based on visualization & EDA (Exploratory Data Analysis)
+o Increased overall accuracy by 2.16 % by performing feature engineering to 90.68 % using Logistic Regression
+• Statistical analysis of CWC streamﬂow Time series data over Ganga Basin
+o Preprocessed and formatted Time series data of over 45+ years and 20+ gauge stations in desired structure
+o Utilized MATLAB & Numpy, Pandas, Matplotlib libraries of python for analysis, visualization of data
+• House pricing prediction using Linear/Non-linear and Regularized Regression
+o Implemented Linear , Polynomial , Ridge and LASSO Regression model and compared their performance
+o Achieved maximum R-square score of 0.5392 and minimum RMSE with LASSO regression in Julia
+• Detection of Line features in images using Hough Transform
+o Implemented feature extraction technique of Hough Transform from scratch using Matlab over Sobel detected edge
+o Achieved comparable result with inbuilt function and developed a Graphics User Interface for this operation
+• Edge Detection package for Satellite images
+o Implemented Canny Edge Detector from scratch in MATLAB and achieved similar result as inbuilt function
+o Registered improvement over Sobel operator using NMS, Double threshold, Edge Tracking by Hysteresis
+• Deploying Solar Panel in IIT Bombay using GIS techniques
+o Interpolated Irradiance surface using IDW of IITB campus using Solar DATA from PVGIS Database
+o Conducted cost-beneﬁt analysis of solar data in diﬀerent PV Systems to achieve optimum PV system
+o Developed 3-D model in AUTOCAD of IITB campus, simulating the deployment of SOLAR grid
+POSITIONS OF RESPONSIBILITY
+• Teaching Assistant-CSRE, IIT Bombay
+o Assisting in instructing a niche group of 113+ students by holding tutorials and helping with project realization
+• Department Coordinator CSRE ISCP 2020-21
+o Worked in a team of 177 people and coordinated the e-orientation at the department level for 30 new entrants
+o Interviewed candidates to select a team of SCs & leading them to mentor 31 students throughout the year
+o Compiled & Developed department’s Handbook with SCs that serves as informative manual to PG freshmen
+o Mentoring 8 students throughout the year helping them on academic as well as non-academic fronts
+• Volunteer for helping students from TEQIP-III institutions prepare for GATE Exam [Aug’20-Present]
+o To help the UG students from TEQIP-III Institutions in Bihar, learn fundamental concepts & prepare for GATE
+o To encourage students to appear for GATE and make them aware of diﬀerent opportunities after GATE qualiﬁcation
+KEY RELEVANT COURSES
+• Machine Learning for Remote Sensing II (Transfer learning,R-CNN family,YOLO ) *
+• Machine Learning for Remote Sensing I (Linear Regression,Decision Trees,KNN,SVM )
+• Advanced Methods in Satellite Image Processing (Image classiﬁcation, change detection, ﬁlters)
+• Principles of Geographic Information System (GIS applications,Spatial data ,Interpolation)
+• Geo-spatial Predictive Modelling ( Neuro-fuzzy inference system,SVM,Neural Nets, CNN,SVM) *
+TECHNICAL SKILLS
+• Programming Languages : Python, R, SQL, MATLAB, C++, C, Julia
+• Libraries/Frameworks : Keras, Scikit-Learn, PyTorch, TensorFlow,
+• Software : ESRI ArcGIS Desktop, QGIS, ERDAS Imagine, ENVI, LATEX, Git
+Scholastic achievements and extracurricular activities are not verified by the Placement Cell
+[July’20-Aug’20]
+[Feb’20-May’20]
+[Feb’20-May’20]
+[Mar’20-Apr’20]
+[July’19-Apr’20]
+[Jan’20–Feb’20]
+[Aug’19-Nov’19]
+[Feb’20-May’20]
+[Aug’19-Nov’19]
+[July’20-Present]
+[May’20-Present]
+*audit

@@ -1,0 +1,162 @@
+{
+  "candidate": {
+    "full_name": "Erdem Yilmaz",
+    "emails": [
+      "eyilmaz@mit.edu"
+    ],
+    "phones": [],
+    "location": {
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null
+    },
+    "resume_text_hash": "sha256:d464c69af9477f505692358304b98cabecdda63f127ea85f1a919c88337c5db2",
+    "source_file_id": "2017-Resume-Book-for-Web-SDM-27.pdf",
+    "parsed_at": "2025-08-18T08:24:38Z",
+    "parser_version": "v0.3.0"
+  },
+  "experience": [
+    {
+      "company_raw": "MIT",
+      "company_norm": "MIT",
+      "title_raw": "engineering students from MIT for internships",
+      "title_norm": null,
+      "seniority": null,
+      "employment_type": "internship",
+      "location": null,
+      "start_date": null,
+      "end_date": null,
+      "is_current": false,
+      "extraction_confidence": 0.8,
+      "source_page": null,
+      "bullets": [
+        {
+          "bullet_text": "Smiths Interconnect, Hudson, MA An aerospace vendor providing embedded computer equipment Lead Engineer Senior Engineer Interact with existing / new customers, understand their needs, create specifications, and utilize cross-function teams to deliver products that exceed the requirements. Work with Smiths Interconnect offices in Italy, UK, Germany and USA to deliver products on time. Technical lead of development of new value added product portfolio (KVPX, SATA for aerospace) with sales over $5M for first year Orbital Sciences (now Orbital ATK), Dulles, VA Medium size communication satellite and launch vehicle vendor Sub-system Lead Engineer and Cost Account Manager Senior Engineer Engineer",
+          "metrics": {},
+          "skills_mentioned": [],
+          "source_page": null
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree_raw": null,
+      "degree_level": null,
+      "field_raw": null,
+      "institution_raw": "Massachusetts Institute of Technology School of Engineering & Sloan School of Management",
+      "start_date": null,
+      "end_date": null,
+      "gpa": null,
+      "extraction_confidence": 0.6,
+      "source_page": null
+    }
+  ],
+  "skills": [],
+  "projects": [
+    {
+      "name": "from idea phase to prototype and product phase.",
+      "summary": null,
+      "role": null,
+      "tech_stack": [],
+      "start_date": null,
+      "end_date": null,
+      "repo_url": null,
+      "impact_metrics": {},
+      "source_page": null
+    }
+  ],
+  "certifications": [],
+  "publications": [],
+  "achievements": [
+    "Technical lead for new products, reporting to CTO and CEO. Wide range of responsibilities to develop products",
+    "Responsible of performance, budget and schedule of a communication sub-system. Lead a team of four engineers to"
+  ],
+  "languages": [],
+  "sectioned_text": [
+    {
+      "section_type": "other",
+      "text": "ERDEM YILMAZ\neyilmaz@mit.edu\nNewton, MA",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "education",
+      "text": "Massachusetts Institute of Technology\nSchool of Engineering & Sloan School of Management\nMaster of Science in Engineering and Management\nFocus on technology strategy, artificial intelligence and data mining systems\nCross registered to Harvard Business School to take classes on digital transformation and technology strategy\nUniversity of Massachusetts, Dartmouth\nMaster of Science in Electrical and Computer Engineering\nThesis on wireless system design\nAwarded fully scholarship\nTechnical University of Yildiz\nBachelor of Science in Electronics and Communication Engineering\nThesis on numerical analysis\nEXPERIENCE\nCheryish Technology LLC, Cambridge\nCo-founder\nCheryish provides technology consulting on AI powered unified communication services along with a portfolio of\nsoftware products to improve customer engagement for enterprises. My focus is product and technology strategy.\nMassachusetts Institute of Technology, Sloan School of Business\nGraduate Fellow / Research Assistant",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "interests",
+      "text": "Areas of interest are entrepreneurship, technology strategy and innovation management.\nResearch assistant to Prof. James Utterback (Sloan) – Prof. Calie Pistorious (University of Hull, UK)\nEvolv Technology, Waltham, MA\nA high-tech startup that raised $19M to date, developing AI systems for public safety\nLead Engineer / (Consultant since 9/2016)",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "responsibility",
+      "text": "Technical lead for new products, reporting to CTO and CEO. Wide range of responsibilities to develop products",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "projects",
+      "text": "from idea phase to prototype and product phase.",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "other",
+      "text": "Managed contract engineers, technicians and designers in person or via crowdsourcing. Recruited undergrad",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "internships",
+      "text": "engineering students from MIT for internships\nSmiths Interconnect, Hudson, MA\nAn aerospace vendor providing embedded computer equipment\nLead Engineer\nSenior Engineer\nInteract with existing / new customers, understand their needs, create specifications, and utilize cross-function teams\nto deliver products that exceed the requirements. Work with Smiths Interconnect offices in Italy, UK, Germany and\nUSA to deliver products on time.\nTechnical lead of development of new value added product portfolio (KVPX, SATA for aerospace) with sales over\n$5M for first year\nOrbital Sciences (now Orbital ATK), Dulles, VA\nMedium size communication satellite and launch vehicle vendor\nSub-system Lead Engineer and Cost Account Manager\nSenior Engineer\nEngineer",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "responsibility",
+      "text": "Responsible of performance, budget and schedule of a communication sub-system. Lead a team of four engineers to",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "other",
+      "text": "successfully deliver the sub-system on time managing $1.2M subsystem budget",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_type": "interests",
+      "text": "Unified communication, digital transformation, business applications of artificial intelligence and data mining to\nimprove services, technology consulting, technology research.\nCambridge, MA\nExpected Graduation June 2017\nDartmouth, MA\n2007\nIstanbul, Turkey\n2005\nCambridge, MA\nNovember 2016-Present\nCambridge, MA\nSeptember 2015-Present\nWaltham, MA\n2014-September 2016\nHudson, MA\n2013-2014\n2011-2013\nDulles, VA\n2010-2011\n2009-2010\n2007-2009",
+      "page_range": [
+        1,
+        1
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+langchain 
+langchain-community 
+langchain-openai 
+pypdf 
+tiktoken 
+python-dotenv
+streamlit
+chromadb
+langchain-chroma
+pyngrok
+pdfplumber
+doc2text
+unstructured
+docx
+symspellpy

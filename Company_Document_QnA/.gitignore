@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+
+# VS Code settings
+.vscode/
+
+# Chroma vectorstore (if not bundling it)
+# Remove this line if you're pushing chroma/ to GitHub
+# chroma/
+
+# macOS
+.DS_Store
+
+# Streamlit logs and cache
+.streamlit/
+logs/
+*.log
+
+# Python egg metadata
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
